@@ -17,6 +17,7 @@
   "groups": {},
   "sources": {
     "arxiv-cs-lg": false,
-    "arxiv-cs-ai": false
+    "arxiv-cs-ai": false,
+    "meta-ai": false
   }
 }
