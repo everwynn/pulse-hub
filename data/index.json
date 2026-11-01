@@ -1,6 +1,6 @@
 {
   "timeZone": "Asia/Shanghai",
-  "updatedAt": "2026-11-01T14:34:40.294Z",
+  "updatedAt": "2026-11-01T15:05:58.690Z",
   "dates": [
     {
       "date": "2026-11-02",
@@ -11,19 +11,20 @@
     },
     {
       "date": "2026-11-01",
-      "count": 84,
+      "count": 93,
       "channels": {
-        "finance": 55,
-        "tech": 29
+        "finance": 58,
+        "tech": 30,
+        "ai": 5
       }
     },
     {
       "date": "2026-10-31",
-      "count": 31,
+      "count": 33,
       "channels": {
         "finance": 5,
-        "tech": 22,
-        "ai": 4
+        "tech": 23,
+        "ai": 5
       }
     },
     {

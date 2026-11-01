@@ -1,5 +1,90 @@
 [
   {
+    "id": "32f63915ce247516",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+    "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how n…",
+    "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-01T15:00:00.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "applesnewearningserabeginsatacriticaltimeforbigtech"
+  },
+  {
+    "id": "a590893a8cfca3b3",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Wall Street scrambles for protection as AI investment risks mount",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661878-wall-street-scrambles-for-protection-as-ai-investment-risks-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661878-wall-street-scrambles-for-protection-as-ai-investment-risks-mount?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:59:42.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "xlk",
+      "comp:ind",
+      "sp500",
+      "dji",
+      "crwv",
+      "amzn"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "wallstreetscramblesforprotectionasaiinvestmentrisksmount"
+  },
+  {
+    "id": "e7a410ff5e0c4447",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "OPEC+ producers hold December oil output steady amid market uncertainty",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661882-opec-producers-hold-december-oil-output-steady-amid-market-uncertainty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661882-opec-producers-hold-december-oil-output-steady-amid-market-uncertainty?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:41:11.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "cl1:com",
+      "co1:com",
+      "uso",
+      "xle"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "opecproducersholddecemberoiloutputsteadyamidmarketuncertainty"
+  },
+  {
+    "id": "e56248ca9b51b984",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "summary": "",
+    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "canonicalUrl": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just",
+    "publishedAt": "2026-11-01T14:34:43.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "lenovosencryptedfingerprintusbisjustanunencryptedsdcardinacase"
+  },
+  {
     "id": "e997e7c29bddbc7a",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -227,8 +312,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 8,
-      "comments": 0
+      "points": 19,
+      "comments": 1
     },
     "lang": "en",
     "weight": 92,
@@ -358,6 +443,26 @@
     "titleKey": "据俄罗斯媒体11月1日报道俄总统助理乌沙科夫在接受俄电视节目主持人扎鲁宾采访时表示俄总统普京从未拒绝与乌克兰总统泽连"
   },
   {
+    "id": "cee4c156dc5c6c80",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+    "summary": "西湖世界模型研究中心成立",
+    "url": "https://www.qbitai.com/2026/11/507076.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507076.html",
+    "publishedAt": "2026-11-01T13:28:10.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "世界模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "三年前布局今年爆火丨西湖大学成立新中心"
+  },
+  {
     "id": "367a725dceaecb04",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -372,8 +477,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 24,
-      "comments": 3
+      "points": 29,
+      "comments": 4
     },
     "lang": "en",
     "weight": 92,
@@ -420,6 +525,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "伊朗外长阿拉格齐与调解方的磋商正在进行中能否取得成果取决于美国的答复"
+  },
+  {
+    "id": "7d7db0e449b746b5",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/507038.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507038.html",
+    "publishedAt": "2026-11-01T13:09:55.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "Anthropic",
+      "Claude Code"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "claude紧急叫停暗改harness禁止逆向游戏"
   },
   {
     "id": "930c9ea962cd901d",
@@ -540,8 +666,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 487,
-      "comments": 252
+      "points": 555,
+      "comments": 300
     },
     "lang": "en",
     "weight": 92,
@@ -691,6 +817,46 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "2026上海开源软件应用创新大赛获奖名单"
+  },
+  {
+    "id": "14842ac5d84dace0",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+    "summary": "让AI像牛顿一样思考",
+    "url": "https://www.qbitai.com/2026/11/507031.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507031.html",
+    "publishedAt": "2026-11-01T08:02:37.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "世界模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "清华姚期智团队新作代数世界模型让ai像牛顿一样思考"
+  },
+  {
+    "id": "36304369a5576594",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "summary": "这事还是想得太简单了",
+    "url": "https://www.qbitai.com/2026/11/506990.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/506990.html",
+    "publishedAt": "2026-11-01T07:50:57.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "机器人"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "老牌便利店机器人售货折戟实验室锤炼上万次货架前还是摔瓶子"
   },
   {
     "id": "a0d4810b58acc959",
@@ -924,6 +1090,26 @@
     "titleKey": "2026年10月蔚来公司交付新车34246台其中蔚来品牌交付新车18125台乐道品牌交付新车8383台f"
   },
   {
+    "id": "0d8dcdac17160551",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Jev新成果，再次引爆开源",
+    "summary": "再次“性价比屠夫”",
+    "url": "https://www.qbitai.com/2026/11/506922.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/506922.html",
+    "publishedAt": "2026-11-01T04:18:37.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "Jev"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "jev新成果再次引爆开源"
+  },
+  {
     "id": "6dddc24dd87b861e",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -938,7 +1124,7 @@
       "OpenAI"
     ],
     "signals": {
-      "replies": 31
+      "replies": 32
     },
     "lang": "zh",
     "weight": 55,
@@ -959,7 +1145,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 62
+      "replies": 63
     },
     "lang": "zh",
     "weight": 55,
@@ -1016,7 +1202,7 @@
       "创业组队"
     ],
     "signals": {
-      "replies": 31
+      "replies": 32
     },
     "lang": "zh",
     "weight": 55,
@@ -1109,7 +1295,7 @@
       "Claude"
     ],
     "signals": {
-      "replies": 27
+      "replies": 28
     },
     "lang": "zh",
     "weight": 55,
@@ -1130,8 +1316,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 195,
-      "comments": 96
+      "points": 206,
+      "comments": 101
     },
     "lang": "en",
     "weight": 92,
@@ -1174,7 +1360,7 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 96
+      "replies": 99
     },
     "lang": "zh",
     "weight": 55,
@@ -1283,8 +1469,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 323,
-      "comments": 150
+      "points": 329,
+      "comments": 160
     },
     "lang": "en",
     "weight": 92,
@@ -1305,8 +1491,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 570,
-      "comments": 170
+      "points": 582,
+      "comments": 173
     },
     "lang": "en",
     "weight": 92,
@@ -1385,8 +1571,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1600,
-      "comments": 422
+      "points": 1624,
+      "comments": 428
     },
     "lang": "en",
     "weight": 92,
@@ -1424,8 +1610,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 575,
-      "comments": 274
+      "points": 581,
+      "comments": 281
     },
     "lang": "en",
     "weight": 92,

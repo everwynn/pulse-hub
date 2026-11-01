@@ -51,6 +51,26 @@
     "titleKey": "当ai从会想走向会干腾讯云与英特尔共筑agenticai执行新底座"
   },
   {
+    "id": "bcb9ba5980149b28",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+    "summary": "AI已经自己找到Bug并提交PR",
+    "url": "https://www.qbitai.com/2026/10/506904.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/506904.html",
+    "publishedAt": "2026-10-31T13:49:44.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "Deepseek"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "刚刚deepseek重磅开源agent底座架构"
+  },
+  {
     "id": "07987ac644ffcf2d",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -226,8 +246,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 19,
-      "comments": 3
+      "points": 26,
+      "comments": 6
     },
     "lang": "en",
     "weight": 92,
@@ -251,12 +271,34 @@
     "titleKey": "githubactionsrunnercontroller0150致力于实现大规模场景下的可靠性"
   },
   {
+    "id": "38195349dd13f277",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+    "summary": "",
+    "url": "https://kevs3d.co.uk/phoria2/",
+    "canonicalUrl": "https://kevs3d.co.uk/phoria2",
+    "publishedAt": "2026-10-31T09:49:42.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 12,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnirebuiltmyoldcanvas3dlibraryasasmallwebgl2libraryphoria2"
+  },
+  {
     "id": "afb400ed7b58a121",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 5860",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 5997",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -265,8 +307,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 5860,
-      "forks": 557
+      "stars": 5997,
+      "forks": 571
     },
     "lang": "en",
     "weight": 90,

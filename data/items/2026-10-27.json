@@ -223,7 +223,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "anhao/ai-pose-gallery-zh",
-    "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 · TypeScript · ★ 5044",
+    "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 · TypeScript · ★ 5059",
     "url": "https://github.com/anhao/ai-pose-gallery-zh",
     "canonicalUrl": "https://github.com/anhao/ai-pose-gallery-zh",
     "publishedAt": "2026-10-27T12:24:37.000Z",
@@ -237,8 +237,8 @@
       "i18n"
     ],
     "signals": {
-      "stars": 5044,
-      "forks": 1285
+      "stars": 5059,
+      "forks": 1289
     },
     "lang": "en",
     "weight": 90,
