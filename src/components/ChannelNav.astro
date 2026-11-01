@@ -1,5 +1,5 @@
 ---
-import { CHANNELS } from '../lib/channels';
+import { visibleChannels } from '../lib/channels';
 import { href } from '../lib/url';
 
 interface Props {
@@ -8,12 +8,23 @@ interface Props {
 }
 
 const { counts = {}, active = '' } = Astro.props;
+// 0 条的频道不占位：policy 的源默认关闭，长期空着会让导航看起来像坏了
+const list = visibleChannels(counts);
+// Tailwind 只识别源码里的完整类名，所以按条数分支写字面量，不拼字符串
+const layout =
+  list.length >= 4
+    ? 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-4'
+    : list.length === 3
+      ? 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3'
+      : list.length === 2
+        ? 'grid-cols-1 sm:grid-cols-2'
+        : 'grid-cols-1';
 ---
 
 <!-- 手机上单列：两列时每张卡片只有 160px 宽，四行描述会挤成 8-10 字一行 -->
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+<div class:list={['grid gap-3', layout]}>
   {
-    CHANNELS.map((channel) => (
+    list.map((channel) => (
       <a
         href={href(`channel/${channel.id}`)}
         class:list={[

@@ -1,15 +1,20 @@
 ---
 import ThemeToggle from './ThemeToggle.astro';
+import { visibleChannels } from '../lib/channels';
+import { getChannelCounts } from '../lib/items';
 import { href } from '../lib/url';
 
 const currentPath = Astro.url.pathname;
 
+// 频道链接数量跟着数据走，和 ChannelNav 保持同一口径（0 条的频道不出现）
+const channelLinks = visibleChannels(getChannelCounts()).map((channel) => ({
+  href: href(`channel/${channel.id}`),
+  label: channel.short,
+}));
+
 const navLinks = [
   { href: href('/'), label: '首页' },
-  { href: href('channel/ai'), label: 'AI' },
-  { href: href('channel/tech'), label: '技术' },
-  { href: href('channel/finance'), label: '财经' },
-  { href: href('channel/policy'), label: '政策' },
+  ...channelLinks,
   { href: href('daily'), label: '日报' },
   { href: href('sources'), label: '来源' },
 ];

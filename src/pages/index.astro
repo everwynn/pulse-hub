@@ -39,8 +39,6 @@ const headlineSections = CHANNELS.map((channel) => {
 const zhSections = headlineSections.filter((section) => section.zh.length > 0);
 const enSections = headlineSections.filter((section) => section.en.length > 0);
 const hasHeadlines = zhSections.length > 0 || enSections.length > 0;
-
-const emptyChannels = CHANNELS.filter((channel) => (counts[channel.id] ?? 0) === 0);
 ---
 
 <BaseLayout title="Pulse Hub">
@@ -201,19 +199,6 @@ const emptyChannels = CHANNELS.filter((channel) => (counts[channel.id] ?? 0) ===
             )}
           </div>
         </div>
-      </section>
-    )
-  }
-
-  {
-    emptyChannels.length > 0 && (
-      <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-8">
-        <p class="text-xs text-gray-500 dark:text-slate-500 leading-relaxed">
-          暂无论文/政策数据的频道：
-          {emptyChannels.map((channel) => channel.label).join('、')}
-          。政策类来源需自建 RSSHub 实例后开启（见「来源」页说明），财经来源需在仓库 Secrets
-          配置 API Key。
-        </p>
       </section>
     )
   }

@@ -1,6 +1,6 @@
 import type { APIContext } from 'astro';
-import { CHANNELS } from '../lib/channels';
-import { getDateEntries } from '../lib/items';
+import { visibleChannels } from '../lib/channels';
+import { getChannelCounts, getDateEntries } from '../lib/items';
 
 const SITE_FALLBACK = 'https://username.github.io';
 
@@ -17,7 +17,7 @@ export async function GET(context: APIContext) {
     'sources',
     'about',
     'search',
-    ...CHANNELS.map((channel) => `channel/${channel.id}`),
+    ...visibleChannels(getChannelCounts()).map((channel) => `channel/${channel.id}`),
     ...getDateEntries().map((entry) => `daily/${entry.date}`),
   ];
 

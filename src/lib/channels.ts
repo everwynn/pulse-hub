@@ -54,6 +54,17 @@ export const CHANNEL_MAP: Record<ChannelId, ChannelMeta> = CHANNELS.reduce(
   {} as Record<ChannelId, ChannelMeta>,
 );
 
+/**
+ * 只露出真正抓到过条目的频道。
+ *
+ * policy 的两个源默认关闭（政府站点无原生 RSS，需自建 RSSHub），长期 0 条时
+ * 在导航里挂一个空壳比不挂更难看。判定跟着数据走，所以将来某个源接通、
+ * `npm run fetch` 抓到第一条之后，导航、频道页、sitemap 会一起自动回来。
+ */
+export function visibleChannels(counts: Record<string, number>): ChannelMeta[] {
+  return CHANNELS.filter((channel) => (counts[channel.id] ?? 0) > 0);
+}
+
 export function isChannelId(value: string): value is ChannelId {
   return value in CHANNEL_MAP;
 }

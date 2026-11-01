@@ -1,6 +1,6 @@
 # Pulse Hub · 行业头条聚合站
 
-每天定时抓取 AI 前沿、技术社区、财经与政策四个频道的官方信息源，自动归一化、去重、按天归档，构建成纯静态站点并部署到 GitHub Pages。
+每天定时抓取 AI 前沿、技术社区、财经三个频道的官方信息源，自动归一化、去重、按天归档，构建成纯静态站点并部署到 GitHub Pages。
 
 **只保存标题 + ≤80 字一句话摘要 + 原文链接 + 来源 + 发布时间**，不存正文、不做镜像；
 feed 描述就是正文或完整摘要的源，只存标题（见 `scripts/sources.mjs` 的 `summary: false`）。
@@ -113,7 +113,7 @@ node scripts/fetch.mjs --concurrency 2           # 降并发
 | AI 前沿 | 量子位(中)、OpenAI News、Google DeepMind、Google Research、Hugging Face Blog、Meta AI、Microsoft Research、arXiv `cs.AI`/`cs.LG`、Hacker News（Algolia 关键词搜索） |
 | 技术社区 | Solidot 奇客(中)、InfoQ 中文(中)、开源中国(中)、Hacker News 首页、GitHub Search API（按 stars+日期模拟 Trending）、DEV Community、V2EX 热门 |
 | 财经 | 钛媒体(中)、华尔街见闻 7×24 快讯(中)、CNBC Earnings、MarketWatch 头条、Seeking Alpha 快讯、Alpha Vantage NEWS_SENTIMENT、Finnhub 市场要闻 + 财报新闻（最后两个**需在 Secrets 配 Key**）；华尔街见闻资讯、36氪快讯、财新最新 **默认 `enabled: false`**，需自建 RSSHub 后开启 |
-| 政策 | 中国政府网、工信部（**默认 `enabled: false`**，需自建 RSSHub 后开启） |
+
 
 标 `(中)` 的是官网原生中文 RSS，均已实测可解析（响应体为真 XML、条目时间可提取）。
 地址的逐个探测结果与不可用清单见本地 `docs/信息源实测清单.md`（`docs/` 不随仓库提交）。
@@ -205,7 +205,7 @@ node scripts/fetch.mjs --concurrency 2           # 降并发
 | --- | --- | --- |
 | `DATA_PUSH_TOKEN` | fine-grained PAT，用于推送数据提交；避免 public 仓库 60 天无活动导致 scheduled workflow 被禁用 | 强烈建议 |
 | `ALPHAVANTAGE_KEY` / `FINNHUB_KEY` | 财经频道 API Key，缺省该源记为 skipped；`FINNHUB_KEY` 同时用于财报日程，缺省则不渲染该模块 | 财经需 |
-| `RSSHUB_BASE` | 自建 RSSHub 实例地址（如 `https://rsshub.example.com`），缺省政策源 skipped | 政策需 |
+
 
 `GITHUB_TOKEN` 由 Actions 自动注入，抓取端用它提高 GitHub Search API 额度。
 
