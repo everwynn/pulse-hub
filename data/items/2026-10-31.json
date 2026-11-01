@@ -212,6 +212,28 @@
     "titleKey": "kogui族人谈ai"
   },
   {
+    "id": "2fbf9f0e67a3c70f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "One-minute frequency disturbances from synchronization in power systems",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41560-026-02144-0",
+    "canonicalUrl": "https://www.nature.com/articles/s41560-026-02144-0",
+    "publishedAt": "2026-10-31T10:14:08.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 3
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "oneminutefrequencydisturbancesfromsynchronizationinpowersystems"
+  },
+  {
     "id": "79b84b8470d30e9c",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -234,7 +256,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 4082",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 5860",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -243,8 +265,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 4082,
-      "forks": 379
+      "stars": 5860,
+      "forks": 557
     },
     "lang": "en",
     "weight": 90,

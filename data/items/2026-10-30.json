@@ -48,8 +48,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 18,
-      "comments": 1
+      "points": 158,
+      "comments": 40
     },
     "lang": "en",
     "weight": 92,
@@ -90,6 +90,28 @@
     "lang": "en",
     "weight": 78,
     "titleKey": "fromsyntheticenterprisedataevaluationstorealmicrosoftcopilotaiconfidence"
+  },
+  {
+    "id": "9760ce08f6d914d7",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "What was your win this week?",
+    "summary": "👋👋👋👋 Looking back on your week -- what was something you're proud of?",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
+    "canonicalUrl": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
+    "publishedAt": "2026-10-30T13:00:00.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "weeklyretro"
+    ],
+    "signals": {
+      "reactions": 25,
+      "comments": 25
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whatwasyourwinthisweek"
   },
   {
     "id": "a9c928fbd67025d6",
@@ -382,8 +404,8 @@
       "gamedev"
     ],
     "signals": {
-      "stars": 1749,
-      "forks": 224
+      "stars": 2187,
+      "forks": 283
     },
     "lang": "en",
     "weight": 90,
@@ -528,8 +550,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 120,
-      "comments": 82
+      "reactions": 121,
+      "comments": 84
     },
     "lang": "en",
     "weight": 60,
