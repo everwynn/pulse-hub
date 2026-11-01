@@ -15,5 +15,7 @@
     "  分组关掉后单独放行一个源  -> \"groups\": { \"tier.media\": false }, \"sources\": { \"36kr\": true }"
   ],
   "groups": {},
-  "sources": {}
+  "sources": {
+    "arxiv-cs-lg": false
+  }
 }
