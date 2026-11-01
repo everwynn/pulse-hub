@@ -176,6 +176,26 @@
     "titleKey": "igottiredofcomingintomylabtocheckthepressureofmycryocoolersoibuiltatooltodoitforme"
   },
   {
+    "id": "93e672f15e29b245",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+    "summary": "Health & Bioscience",
+    "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+    "canonicalUrl": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+    "publishedAt": "2026-10-21T16:23:53.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "Health & Bioscience",
+      "Machine Perception"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "empoweringfrontlinematernalcarewithaiassistedultrasound"
+  },
+  {
     "id": "2f91221432cb7154",
     "sourceId": "microsoft-research",
     "sourceName": "Microsoft Research",

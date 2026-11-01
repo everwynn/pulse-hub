@@ -1,0 +1,65 @@
+[
+  {
+    "id": "999cc5f2175621e8",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+    "summary": "Earth AI",
+    "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+    "canonicalUrl": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges",
+    "publishedAt": "2026-10-14T16:14:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "Earth AI",
+      "General Science",
+      "Machine Intelligence"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "puttingearthaitoworkgeospatialagentsforourplanetsbiggestchallenges"
+  },
+  {
+    "id": "98faa8c09faa1107",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Analyzing technical documents with Deep Review",
+    "summary": "General Science",
+    "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "canonicalUrl": "https://research.google/blog/analyzing-technical-documents-with-deep-review",
+    "publishedAt": "2026-10-14T16:14:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "General Science",
+      "Machine Intelligence",
+      "Natural Language Process"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "analyzingtechnicaldocumentswithdeepreview"
+  },
+  {
+    "id": "72f37689ad1199b7",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+    "summary": "General Science",
+    "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+    "canonicalUrl": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity",
+    "publishedAt": "2026-10-14T16:14:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "General Science",
+      "Generative AI",
+      "Health & Bioscience"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "research202610wayswereamplifyinghumaningenuity"
+  }
+]

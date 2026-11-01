@@ -111,6 +111,23 @@
     "titleKey": "openaiandpolandsnaskpartnertoadvanceaisafetyandsecurity"
   },
   {
+    "id": "01b63854fcbaea7b",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "summary": "",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "canonicalUrl": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "doesyourmodelrunonawstrainiumlookitup"
+  },
+  {
     "id": "76acef4b03d14060",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",

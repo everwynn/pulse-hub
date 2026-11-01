@@ -1,5 +1,27 @@
 [
   {
+    "id": "728b163cacf23687",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "lexifina/global-law",
+    "summary": "Git for Global Law: the law of every country as one git history, each country's …",
+    "url": "https://github.com/lexifina/global-law",
+    "canonicalUrl": "https://github.com/lexifina/global-law",
+    "publishedAt": "2026-10-28T13:34:16.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "HTML"
+    ],
+    "signals": {
+      "stars": 1451,
+      "forks": 120
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "lexifinagloballaw"
+  },
+  {
     "id": "af1457fe0e356b06",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -119,6 +141,26 @@
     "titleKey": "威卡用数据集链接具身智能和工程机械"
   },
   {
+    "id": "188411b234f29da6",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "aschmelyun/print-my-profile-pic",
+    "summary": "Say cheese! Star this repo and your profile picture gets printed out on a receip…",
+    "url": "https://github.com/aschmelyun/print-my-profile-pic",
+    "canonicalUrl": "https://github.com/aschmelyun/print-my-profile-pic",
+    "publishedAt": "2026-10-27T20:40:05.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {
+      "stars": 1660,
+      "forks": 4
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "aschmelyunprintmyprofilepic"
+  },
+  {
     "id": "3994ef163961477f",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +176,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "亿万工程师同饮五粮春五粮春携手gtlc为构建者举杯"
+  },
+  {
+    "id": "09b6770341cf6211",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "summary": "Education Innovation",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "canonicalUrl": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+    "publishedAt": "2026-10-27T17:35:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "Education Innovation",
+      "General Science",
+      "Machine Intelligence",
+      "Natural Language Process"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "thesleepframeworkanewwayforllmstoretainknowledgeincontinuallearning"
   },
   {
     "id": "725b96f9145f993f",
@@ -175,6 +239,23 @@
     "titleKey": "azurecontainerappsexpress在新的通用沙箱层上正式发布"
   },
   {
+    "id": "92a1628f166acaca",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Build specialized multimodal models with LFM3",
+    "summary": "",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "canonicalUrl": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "publishedAt": "2026-10-27T17:16:52.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "buildspecializedmultimodalmodelswithlfm3"
+  },
+  {
     "id": "7cb2cf70f74c3b8c",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -214,8 +295,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 108,
-      "comments": 54
+      "reactions": 114,
+      "comments": 84
     },
     "lang": "en",
     "weight": 60,
@@ -239,8 +320,8 @@
       "design"
     ],
     "signals": {
-      "reactions": 110,
-      "comments": 23
+      "reactions": 158,
+      "comments": 35
     },
     "lang": "en",
     "weight": 60,
@@ -311,6 +392,23 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "php2shelllitellmgitlabfindwhatyouneedtopatch"
+  },
+  {
+    "id": "f5f77aa4ef822e85",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "canonicalUrl": "https://huggingface.co/blog/allenai/novelty-bench",
+    "publishedAt": "2026-10-27T16:12:42.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "canwetrustllmstojudgewhetheraresearchideaisnovel"
   },
   {
     "id": "ef56961ae8568d85",
