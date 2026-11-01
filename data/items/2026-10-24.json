@@ -93,6 +93,26 @@
     "titleKey": "justaresearchergpuunlockada"
   },
   {
+    "id": "4c256d8d542f2496",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Bringing foundational models to the front lines of TB screening",
+    "summary": "Generative AI",
+    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "canonicalUrl": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
+    "publishedAt": "2026-10-23T18:51:33.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "Generative AI",
+      "Health & Bioscience"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "bringingfoundationalmodelstothefrontlinesoftbscreening"
+  },
+  {
     "id": "f833c89b0f1dbf7d",
     "sourceId": "devto",
     "sourceName": "DEV Community",

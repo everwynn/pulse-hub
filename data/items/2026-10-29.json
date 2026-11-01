@@ -78,21 +78,26 @@
     "titleKey": "graceblackwellneedsanewscheduler27moreusablegpusfromthesameracks"
   },
   {
-    "id": "f185a02ea4d61957",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-    "summary": "“I’m 68, she’s 74, and we’re both in good health.",
-    "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-29T15:45:00.000Z",
-    "fetchedAt": "2026-10-29T17:32:33.447Z",
-    "tags": [],
-    "signals": {},
+    "id": "378b0c877a4542e5",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "heydamir/unslop",
+    "summary": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface · J…",
+    "url": "https://github.com/heydamir/unslop",
+    "canonicalUrl": "https://github.com/heydamir/unslop",
+    "publishedAt": "2026-10-29T15:41:21.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "signals": {
+      "stars": 3827,
+      "forks": 191
+    },
     "lang": "en",
-    "weight": 68,
-    "titleKey": "fancycarsholdnoappealwehavea99chanceofoutlivingourlifesavingswhynotspendspendspend"
+    "weight": 90,
+    "titleKey": "heydamirunslop"
   },
   {
     "id": "9ee552292ede21b9",
@@ -246,6 +251,55 @@
     "titleKey": "restaurantbrandsreportsmixedresultsasburgerkingsusturnaroundshowssignsofsuccess"
   },
   {
+    "id": "f73863a55be31bb0",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "wangzan101/Mika",
+    "summary": "An on-device AI agent for Android that operates apps and the web to get things d…",
+    "url": "https://github.com/wangzan101/Mika",
+    "canonicalUrl": "https://github.com/wangzan101/Mika",
+    "publishedAt": "2026-10-29T14:34:07.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "Kotlin",
+      "accessibility",
+      "ai-agent",
+      "android",
+      "automation",
+      "jetpack-compose"
+    ],
+    "signals": {
+      "stars": 3049,
+      "forks": 494
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "wangzan101mika"
+  },
+  {
+    "id": "b97f34fd35538ba5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+    "summary": "",
+    "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+    "canonicalUrl": "https://dl.acm.org/doi/10.1145/857076.857077",
+    "publishedAt": "2026-10-29T14:30:25.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "abriefhistoryofjustintimefortyyearsofjitworkfrom19602000"
+  },
+  {
     "id": "c6d02e7efc25403f",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -266,6 +320,23 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "werereleasingtheweightsofmistrallarge4"
+  },
+  {
+    "id": "1a96c158148c7818",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "canonicalUrl": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "publishedAt": "2026-10-29T13:37:07.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "graniteswitch411updatemodelslikeyouupdatesoftware"
   },
   {
     "id": "de310d522fa020c4",
@@ -330,6 +401,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "doordashtoacquireinstacart"
+  },
+  {
+    "id": "12143fab1c067cb6",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "valentderah/totk-pc-recomp",
+    "summary": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind…",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "canonicalUrl": "https://github.com/valentderah/totk-pc-recomp",
+    "publishedAt": "2026-10-29T12:32:46.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "C"
+    ],
+    "signals": {
+      "stars": 2759,
+      "forks": 221
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "valentderahtotkpcrecomp"
   },
   {
     "id": "87d6e7eb3cdb8a19",
@@ -518,6 +611,31 @@
     "titleKey": "openai隔离的aiagent通过cpu缓存互相通信"
   },
   {
+    "id": "bfe0655939546c3c",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "No Human Will Ever Write Code Better Than LLMs? Better at What?",
+    "summary": "A tweet went around saying: \"No human will ever write code better than LLMs.",
+    "url": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
+    "canonicalUrl": "https://dev.to/dannwaneri/no-human-will-ever-write-code-better-than-llms-better-at-what-1dme",
+    "publishedAt": "2026-10-29T09:34:19.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "ai",
+      "programming",
+      "softwareengineering",
+      "career"
+    ],
+    "signals": {
+      "reactions": 52,
+      "comments": 50
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "nohumanwilleverwritecodebetterthanllmsbetteratwhat"
+  },
+  {
     "id": "282203f0015da861",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -681,6 +799,48 @@
     "titleKey": "ftc批准亚马逊以115亿美元收购globalstar"
   },
   {
+    "id": "61efec6f3f27728f",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
+    "summary": "This week's Hacktoberfest theme is Ghost in the Machine.",
+    "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
+    "canonicalUrl": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
+    "publishedAt": "2026-10-29T07:02:39.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "ai",
+      "security",
+      "halloween",
+      "promptengineering"
+    ],
+    "signals": {
+      "reactions": 89,
+      "comments": 82
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "ghostintheshellcanalogfilehijackanai"
+  },
+  {
+    "id": "34c82fec96a10cda",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI.",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "canonicalUrl": "https://openai.com/index/ropes-gray-ai-diligence",
+    "publishedAt": "2026-10-29T07:00:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howropesgrayisdevelopingaifortransactionaldiligence"
+  },
+  {
     "id": "02428cf4280cff80",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -713,6 +873,28 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "samsungelectronicssharessliddespiterecordprofitinthethirdquarter"
+  },
+  {
+    "id": "ff782e3159055936",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "paipiange/nvzhuang",
+    "summary": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、…",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "canonicalUrl": "https://github.com/paipiange/nvzhuang",
+    "publishedAt": "2026-10-29T06:08:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "Go"
+    ],
+    "signals": {
+      "stars": 1793,
+      "forks": 477
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "paipiangenvzhuang"
   },
   {
     "id": "c5caacaf13ecbccf",
@@ -1104,6 +1286,74 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "刚刚gemini4carbon全面超越opus55首发token半价"
+  },
+  {
+    "id": "72cbe3140ecaeb10",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI.",
+    "url": "https://openai.com/index/credit-saison",
+    "canonicalUrl": "https://openai.com/index/credit-saison",
+    "publishedAt": "2026-10-29T00:00:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "creditsaisonachieves954roiinachatgptenterprisepilot"
+  },
+  {
+    "id": "ea1026a860c8dc73",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "summary": "",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "canonicalUrl": "https://huggingface.co/blog/announcing-project-protostar",
+    "publishedAt": "2026-10-29T00:00:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "announcingprojectprotostarmakingpubliclyfundedscienceaiready"
+  },
+  {
+    "id": "7c28d97985f20fc8",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "summary": "",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "canonicalUrl": "https://huggingface.co/blog/mistral-large4",
+    "publishedAt": "2026-10-29T00:00:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "welcomelechonkmistrallarge4onhuggingface"
+  },
+  {
+    "id": "25aec245eb9d1d2b",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "summary": "",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "canonicalUrl": "https://huggingface.co/blog/anydecisionmodel",
+    "publishedAt": "2026-10-29T00:00:00.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "introducinganyspeechrecognizerandanydecisionmodelopenmodelsforspeechanddecisionsonappleplatforms"
   },
   {
     "id": "9caa982344aceed0",

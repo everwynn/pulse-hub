@@ -1,0 +1,23 @@
+[
+  {
+    "id": "62db21d5a1a6a3e1",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+    "summary": "General Science",
+    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+    "canonicalUrl": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
+    "publishedAt": "2026-10-16T18:11:34.000Z",
+    "fetchedAt": "2026-11-01T07:12:47.828Z",
+    "tags": [
+      "General Science",
+      "Health & Bioscience",
+      "Robotics"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "groundingaiagentsinbiologicalrealitybuildingblocksforautonomouswetlabs"
+  }
+]
