@@ -18,6 +18,7 @@
   "sources": {
     "arxiv-cs-lg": false,
     "arxiv-cs-ai": false,
-    "meta-ai": false
+    "meta-ai": false,
+    "gov-cn-policy": false
   }
 }
