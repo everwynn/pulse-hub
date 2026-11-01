@@ -28,6 +28,7 @@ desktop.ini
 # jetbrains setting folder
 .idea/
 
+# 本地文档：不随仓库提交，仅本机保留
 docs/
 
 # test coverage & TS incremental build

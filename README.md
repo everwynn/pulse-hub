@@ -6,7 +6,7 @@
 feed 描述就是正文或完整摘要的源，只存标题（见 `scripts/sources.mjs` 的 `summary: false`）。
 
 - 线上地址：`https://<用户名>.github.io/pulse-hub/`
-- 技术栈：Astro 4（静态输出）+ Tailwind CSS 3 + Vue 3（仅主题切换一个 island）+ Pagefind（构建期静态搜索）
+- 技术栈：Astro 4（静态输出）+ Tailwind CSS 3 + Pagefind（构建期静态搜索）；零框架运行时，主题切换、标签筛选、排序全部是组件 + 内联脚本
 - 抓取端：独立 Node 脚本 + GitHub Actions 定时任务，无服务器、无数据库
 
 ---
@@ -49,7 +49,8 @@ pulse-hub/
 │  ├─ pages/                     index / channel/[channel] / daily / sources / search / about / rss.xml / sitemap.xml / robots.txt
 │  └─ components/                ItemCard / ChannelNav / TagFilter / Header / Footer / ThemeToggle
 ├─ tests/                        normalize / dedupe / rss 解析的离线单测
-├─ docs/                         信息源探测记录、部署平台对比与迁移路径
+├─ docs/                         信息源探测记录、部署平台对比（本地保留，不随仓库提交）
+├─ public/                       图标资源：favicon.svg + ICO/PNG 回退 + apple-touch-icon
 └─ astro.config.mjs              site + base（CI 下自动启用 /pulse-hub/）
 ```
 
@@ -102,7 +103,7 @@ node scripts/fetch.mjs --concurrency 2           # 降并发
 
 - `id = sha1(sourceId + externalId)` 取前 16 位；`externalId` 取 RSS guid / HN id / arXiv id / GitHub full_name
 - 排序信号只用源站现成指标（HN points、GitHub stars），不自造热度分
-- 失败隔离：单源 10s 超时 + `Promise.allSettled`，失败只写 `health.json`，历史数据保留
+- 失败隔离：单源 15s 超时，单源异常全部收敛为 health 状态（`runSource` 内部 catch），失败只写 `health.json`，历史数据保留
 - 归档口径固定为 `Asia/Shanghai`
 
 ## 5. 信息源
@@ -115,7 +116,7 @@ node scripts/fetch.mjs --concurrency 2           # 降并发
 | 政策 | 中国政府网、工信部（**默认 `enabled: false`**，需自建 RSSHub 后开启） |
 
 标 `(中)` 的是官网原生中文 RSS，均已实测可解析（响应体为真 XML、条目时间可提取）。
-地址的逐个探测结果与不可用清单见 [docs/信息源实测清单.md](docs/信息源实测清单.md)。
+地址的逐个探测结果与不可用清单见本地 `docs/信息源实测清单.md`（`docs/` 不随仓库提交）。
 
 **财报新闻的接入情况**（2026-10 实测）：
 
@@ -208,6 +209,10 @@ node scripts/fetch.mjs --concurrency 2           # 降并发
 
 `GITHUB_TOKEN` 由 Actions 自动注入，抓取端用它提高 GitHub Search API 额度。
 
+`DATA_PUSH_TOKEN` 的创建步骤（fine-grained PAT、仅授权本仓库、Contents + Actions 读写）见本地
+`docs/GitHub-Fine-grained-PAT-生成指南.md`（`docs/` 不随仓库提交）；同一个令牌也可以填进
+`/sources` 页的「抓取控制台」，用来在页面上开关信息源、手动触发一轮抓取。
+
 ## 6. 部署到 GitHub Pages
 
 1. 仓库名设为 `pulse-hub`（`base` 与仓库名绑定；换名需同步改 `astro.config.mjs` 里的 `base` 与 `site`）
@@ -219,10 +224,10 @@ node scripts/fetch.mjs --concurrency 2           # 降并发
 `base` 由 `process.env.CI === 'true'` 控制：本地开发是 `/`，Actions 里是 `/pulse-hub/`。
 
 上面五步是概览。**逐步骤的具体操作**（Secrets 创建、首次触发后九个步骤的逐项验收、故障排查、
-日常换源与维护、完整检查清单）见 [docs/GitHub-Pages-部署指南.md](docs/GitHub-Pages-部署指南.md)。
+日常换源与维护、完整检查清单）见本地 `docs/GitHub-Pages-部署指南.md`（`docs/` 不随仓库提交）。
 
 国内平台（Gitee Pages / EdgeOne / ESA / Cloudflare Pages）的现状对比、为什么抓取端不应该搬到国内、
-以及三阶段迁移路径，见 [docs/国内部署平台对比与迁移路径.md](docs/国内部署平台对比与迁移路径.md)。
+以及三阶段迁移路径，见本地 `docs/国内部署平台对比与迁移路径.md`（`docs/` 不随仓库提交）。
 
 ## 7. 合规与版权
 
