@@ -1,0 +1,19 @@
+{
+  "$comment": [
+    "抓取开关。改完文件 git 提交，下一轮 Actions 抓取时生效（页面上的开关只影响你自己的浏览器，见 /sources）。",
+    "优先级：sources.<id>  >  groups.<分组键>  >  源自身的 enabled 字段。",
+    "分组之间是「与」关系：任一分组被关掉，该源就不抓。",
+    "可用分组键：",
+    "  tier.official | tier.media | tier.community",
+    "  channel.ai | channel.tech | channel.finance | channel.policy",
+    "  lang.zh | lang.en",
+    "  type.rss | type.hn | type.github | type.api",
+    "示例：",
+    "  一次停掉所有社区源        -> \"tier.community\": false",
+    "  停掉整个财经频道          -> \"channel.finance\": false",
+    "  只停一个源（优先级最高）  -> \"sources\": { \"solidot\": false }",
+    "  分组关掉后单独放行一个源  -> \"groups\": { \"tier.media\": false }, \"sources\": { \"36kr\": true }"
+  ],
+  "groups": {},
+  "sources": {}
+}

@@ -1,0 +1,147 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { CHANNELS } from '../lib/channels';
+import { health, sourceSnapshot, totalCount } from '../lib/items';
+import { href } from '../lib/url';
+
+const enabled = sourceSnapshot.filter((source) => source.enabled);
+const disabled = sourceSnapshot.filter((source) => !source.enabled);
+---
+
+<BaseLayout
+  title="关于与数据来源声明"
+  description="Pulse Hub 的数据来源、抓取规则、版权与合规声明，以及本站的技术实现。"
+>
+  <section class="border-b border-gray-200 dark:border-slate-800 bg-white dark:bg-slate-900/30">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 py-10">
+      <nav class="text-xs text-gray-500 dark:text-slate-500">
+        <a href={href('/')} class="hover:text-accent">首页</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-700 dark:text-slate-300">关于</span>
+      </nav>
+      <h1 class="mt-3 text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">关于本站</h1>
+      <p class="mt-3 text-sm leading-relaxed text-gray-600 dark:text-slate-400">
+        Pulse Hub 是一个个人使用的行业信息聚合站：每天由定时任务从各机构<strong
+          class="text-gray-800 dark:text-slate-200">官方 RSS / 开放 API</strong
+        >拉取标题与摘要，自动归一化、去重、按天归档，再以纯静态页面的形式发布。
+        当前已收录 {totalCount()} 条、{enabled.length} 个启用信息源。
+      </p>
+    </div>
+  </section>
+
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 py-8 space-y-8 text-sm leading-relaxed text-gray-600 dark:text-slate-400">
+    <section>
+      <h2 class="text-base font-semibold text-gray-900 dark:text-slate-100">本站保存了什么</h2>
+      <ul class="mt-2 list-disc pl-5 space-y-1">
+        <li>标题</li>
+        <li>
+          不超过 80 字的一句话摘要（取源站 feed 描述的第一句；<strong
+            class="text-gray-800 dark:text-slate-200">feed 描述即正文或完整摘要的源只保留标题</strong
+          >，见 <code class="font-mono">scripts/sources.mjs</code> 的 <code class="font-mono">summary</code> 开关）
+        </li>
+        <li>原文链接、来源名称、发布时间</li>
+        <li>源站自带的客观指标（Hacker News points、GitHub stars 等），不作为站内热度分</li>
+      </ul>
+      <p class="mt-2">
+        <strong class="text-gray-800 dark:text-slate-200">不保存正文</strong>，不做全文转载，不缓存源站页面，
+        不提供镜像与离线阅读。所有内容版权归原作者与发布机构所有，请点击标题跳转原文阅读。
+        摘要仅用于在列表里帮助判断是否值得打开，页面已标记 <code class="font-mono">data-nosnippet</code>，
+        搜索引擎不将其作为片段展示。
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-base font-semibold text-gray-900 dark:text-slate-100">抓取规则</h2>
+      <ul class="mt-2 list-disc pl-5 space-y-1">
+        <li>只访问各站公开的 RSS/Atom 与官方开放 API，不解析目标站 HTML</li>
+        <li>请求携带可识别的 User-Agent，单源串行、单源超时 10 秒，失败指数退避重试</li>
+        <li>每个源独立隔离失败：单个源异常只记录到<a
+            href={href('sources')}
+            class="text-accent-dark dark:text-accent">「来源」页</a
+          >，不中断其它源，也不清空历史数据</li>
+        <li>不抓取微信公众号、付费墙、需要登录的内容；不使用明确禁止生产环境的免费新闻 API</li>
+        <li>每天最多抓取 1~2 次，单次控制在数分钟内，避免对源站造成压力</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2 class="text-base font-semibold text-gray-900 dark:text-slate-100">四个频道与来源</h2>
+      <ul class="mt-2 space-y-3">
+        {
+          CHANNELS.map((channel) => {
+            const list = sourceSnapshot.filter((source) => source.channel === channel.id);
+            return (
+              <li>
+                <span class:list={['badge', channel.badge]}>{channel.short}</span>
+                <span class="ml-2 font-medium text-gray-800 dark:text-slate-200">{channel.label}</span>
+                <p class="mt-1 text-xs">{channel.description}</p>
+                <p class="mt-1 text-xs text-gray-500 dark:text-slate-500">
+                  {list.length > 0
+                    ? list.map((source) => `${source.name}${source.enabled ? '' : '（未启用）'}`).join('、')
+                    : '暂无已配置的来源'}
+                </p>
+              </li>
+            );
+          })
+        }
+      </ul>
+      <p class="mt-3 text-xs">
+        完整的源地址、通道类型与最近抓取状态见
+        <a href={href('sources')} class="text-accent-dark dark:text-accent font-medium">来源页</a>；
+        源注册表在仓库 <code class="font-mono">scripts/sources.mjs</code>，可自行增删。
+      </p>
+      {
+        disabled.length > 0 && (
+          <p class="mt-2 text-xs text-gray-500 dark:text-slate-500">
+            未启用：{disabled.map((source) => source.name).join('、')}。政策类站点没有官方 RSS，
+            需要自建 RSSHub 实例后开启；财经类需要免费 API Key。
+          </p>
+        )
+      }
+    </section>
+
+    <section>
+      <h2 class="text-base font-semibold text-gray-900 dark:text-slate-100">技术实现</h2>
+      <ul class="mt-2 list-disc pl-5 space-y-1">
+        <li>Astro 4 静态输出 + Tailwind CSS，全站零框架运行时，仅主题切换使用一个 Vue island</li>
+        <li>抓取脚本为独立 Node 脚本（<code class="font-mono">scripts/fetch.mjs</code>），由 GitHub Actions 定时触发</li>
+        <li>数据以 JSON 按天归档在仓库 <code class="font-mono">data/items/YYYY-MM-DD.json</code>，滚动保留 90 天</li>
+        <li>搜索索引由 Pagefind 在构建阶段静态生成，浏览器端检索，无后端请求</li>
+        <li>抓取时间与归档口径统一为北京时间（<code class="font-mono">Asia/Shanghai</code>）</li>
+      </ul>
+      {
+        health.updatedAt && (
+          <p class="mt-3 text-xs text-gray-500 dark:text-slate-500">
+            最近一轮抓取：{health.updatedAt}（UTC），成功 {health.summary.ok} / {health.summary.total} 个源。
+          </p>
+        )
+      }
+    </section>
+
+    <section>
+      <h2 class="text-base font-semibold text-gray-900 dark:text-slate-100">版权与删除承诺</h2>
+      <p class="mt-2">
+        本站不主张对所聚合内容的任何权利，全部版权归原作者与发布机构所有。引用范围限于标题、
+        一句话摘要与原文链接，用于信息导航；不同意收录的，可随时提出，不需要说明理由。
+      </p>
+      <ul class="mt-2 list-disc pl-5 space-y-1">
+        <li>收到通知后 <strong class="text-gray-800 dark:text-slate-200">48 小时内</strong>删除对应条目；必要时可整源下线</li>
+        <li>优先删条目、其次删源、最后可全站关闭，不做拖延与交涉</li>
+        <li>不抓取付费墙、需登录内容，不绕过反爬限制，不提供原文镜像</li>
+      </ul>
+      <p class="mt-2">
+        若你是内容权利人，认为某条摘要的使用超出合理引用范围，请在仓库
+        <a
+          href="https://github.com/username/pulse-hub/issues"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-accent-dark dark:text-accent">提交 issue</a
+        >（也接受邮件或任何能触达的方式），附上条目链接即可，无需正式格式。
+      </p>
+      <p class="mt-2">
+        订阅：<a href={href('rss.xml')} class="text-accent-dark dark:text-accent font-medium">RSS</a>
+        · 日报归档：<a href={href('daily')} class="text-accent-dark dark:text-accent font-medium">/daily</a>
+      </p>
+    </section>
+  </article>
+</BaseLayout>

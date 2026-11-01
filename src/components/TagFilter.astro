@@ -1,0 +1,65 @@
+---
+interface Props {
+  tags: { tag: string; count: number }[];
+}
+
+const { tags } = Astro.props;
+---
+
+{
+  tags.length > 0 && (
+    <div
+      class="flex flex-wrap items-center gap-2"
+      data-tag-filter
+      data-pagefind-ignore
+    >
+      <button
+        type="button"
+        data-tag=""
+        class="tag-btn rounded-full border border-accent bg-accent/10 px-3 py-1.5 text-xs font-medium text-accent-dark dark:text-accent"
+      >
+        全部
+      </button>
+      {tags.map(({ tag, count }) => (
+        <button
+          type="button"
+          data-tag={tag}
+          class="tag-btn rounded-full border border-gray-200 bg-white px-3 py-1.5 text-xs font-medium text-gray-600 hover:border-accent/60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300"
+        >
+          {tag}
+          <span class="ml-1 text-gray-400 dark:text-slate-500">{count}</span>
+        </button>
+      ))}
+    </div>
+  )
+}
+
+<script is:inline>
+  (function () {
+    var root = document.querySelector('[data-tag-filter]');
+    if (!root) return;
+    var buttons = Array.prototype.slice.call(root.querySelectorAll('button[data-tag]'));
+    var items = Array.prototype.slice.call(document.querySelectorAll('[data-tag-item]'));
+
+    function activate(selected) {
+      buttons.forEach(function (button) {
+        var isActive = (button.getAttribute('data-tag') || '') === selected;
+        button.classList.toggle('border-accent', isActive);
+        button.classList.toggle('bg-accent/10', isActive);
+        button.classList.toggle('text-accent-dark', isActive);
+        button.classList.toggle('dark:text-accent', isActive);
+      });
+      items.forEach(function (item) {
+        var tags = (item.getAttribute('data-tags') || '').split('|').filter(Boolean);
+        var visible = !selected || tags.indexOf(selected) !== -1;
+        item.style.display = visible ? '' : 'none';
+      });
+    }
+
+    root.addEventListener('click', function (event) {
+      var button = event.target.closest('button[data-tag]');
+      if (!button) return;
+      activate(button.getAttribute('data-tag') || '');
+    });
+  })();
+</script>

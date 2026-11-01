@@ -1,0 +1,107 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ItemCard from '../../components/ItemCard.astro';
+import { CHANNELS } from '../../lib/channels';
+import { dateIndex, getDateEntries, getItemsByDate } from '../../lib/items';
+import { href } from '../../lib/url';
+
+export function getStaticPaths() {
+  return getDateEntries().map((entry) => ({
+    params: { date: entry.date },
+    props: { entry },
+  }));
+}
+
+interface Props {
+  entry: { date: string; count: number };
+}
+
+const { entry } = Astro.props;
+const items = getItemsByDate(entry.date);
+
+const byChannel = CHANNELS.map((channel) => ({
+  channel,
+  items: items.filter((item) => item.channel === channel.id),
+})).filter((group) => group.items.length > 0);
+
+const index = getDateEntries().findIndex((item) => item.date === entry.date);
+const newer = index > 0 ? getDateEntries()[index - 1] : null;
+const older = index >= 0 && index < getDateEntries().length - 1 ? getDateEntries()[index + 1] : null;
+---
+
+<BaseLayout
+  title={`${entry.date} 日报`}
+  description={`${entry.date} 行业头条日报：共 ${items.length} 条，覆盖 ${byChannel.length} 个频道。`}
+>
+  <section class="border-b border-gray-200 dark:border-slate-800 bg-white dark:bg-slate-900/30">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 py-10">
+      <nav class="text-xs text-gray-500 dark:text-slate-500">
+        <a href={href('/')} class="hover:text-accent">首页</a>
+        <span class="mx-2">/</span>
+        <a href={href('daily')} class="hover:text-accent">日报归档</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-700 dark:text-slate-300">{entry.date}</span>
+      </nav>
+      <h1 class="mt-3 text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">
+        {entry.date} 行业头条日报
+      </h1>
+      <p class="mt-3 text-sm text-gray-600 dark:text-slate-400">
+        共 {items.length} 条 · 按频道分组 · 数据更新于 {dateIndex.updatedAt
+          ? dateIndex.updatedAt.slice(0, 16).replace('T', ' ')
+          : '未知'}
+        （UTC）
+      </p>
+    </div>
+  </section>
+
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 py-8 space-y-10" data-pagefind-body>
+    {
+      byChannel.map(({ channel, items: channelItems }) => (
+        <section>
+          <h2 class="flex items-center gap-2 text-base font-semibold text-gray-900 dark:text-slate-100">
+            <span class:list={['w-2 h-2 rounded-full', channel.dot]} />
+            {channel.label}
+            <span class="font-mono text-xs text-gray-400 dark:text-slate-500">
+              {channelItems.length}
+            </span>
+          </h2>
+          <ul class="mt-2 divide-y divide-gray-100 dark:divide-slate-800">
+            {channelItems.map((item) => (
+              <ItemCard item={item} showChannel={false} />
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+    {
+      items.length === 0 && (
+        <p class="text-sm text-gray-500 dark:text-slate-500">该日期没有记录。</p>
+      )
+    }
+  </article>
+
+  <nav class="max-w-4xl mx-auto px-4 sm:px-6 pb-16 flex items-center justify-between text-sm">
+    <span>
+      {
+        older ? (
+          <a href={href(`daily/${older.date}`)} class="text-accent-dark dark:text-accent">
+            ← {older.date}（{older.count} 条）
+          </a>
+        ) : (
+          <span class="text-gray-400 dark:text-slate-600">已是最早一天</span>
+        )
+      }
+    </span>
+    <span>
+      {
+        newer ? (
+          <a href={href(`daily/${newer.date}`)} class="text-accent-dark dark:text-accent">
+            {newer.date}（{newer.count} 条）→
+          </a>
+        ) : (
+          <span class="text-gray-400 dark:text-slate-600">已是最新一天</span>
+        )
+      }
+    </span>
+  </nav>
+</BaseLayout>

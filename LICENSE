@@ -1,0 +1,37 @@
+MIT License
+
+Copyright (c) 2026 Pulse Hub
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 适用范围（Scope）
+
+上面的 MIT 许可只覆盖本仓库的**源代码**（Astro 组件、脚本、样式、配置、文档）。
+
+**不包括**以下内容，它们不随本许可授权：
+
+1. `data/` 目录下的抓取结果——标题、摘要、来源名称、链接的著作权归**原发布媒体**所有。
+   本站只做导航性引用（标题 + 一句话摘要 + 原文链接），不主张任何权利。
+2. `public/` 目录下的第三方图标与素材，各自保留原有许可。
+3. 被引用文章的正文。本站不抓取、不存储、不镜像正文。
+
+如果你要复用本项目的代码，请保留上面的版权声明；如果你要复用抓取到的新闻内容，
+请直接联系原媒体取得授权。

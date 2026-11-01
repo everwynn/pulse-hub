@@ -1,0 +1,139 @@
+[
+  {
+    "id": "fa69f09e64331e15",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "rddmwmddr/android-ad-cleaner",
+    "summary": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "canonicalUrl": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "publishedAt": "2026-10-24T05:35:47.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Python",
+      "adb",
+      "ai-agent",
+      "android",
+      "coloros",
+      "debloat"
+    ],
+    "signals": {
+      "stars": 4689,
+      "forks": 423
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "rddmwmddrandroidadcleaner"
+  },
+  {
+    "id": "5033ef0177b60d50",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "t3dotgg/tstack",
+    "summary": "The agent skills I use every day.",
+    "url": "https://github.com/t3dotgg/tstack",
+    "canonicalUrl": "https://github.com/t3dotgg/tstack",
+    "publishedAt": "2026-10-24T05:00:20.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 2358,
+      "forks": 146
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "t3dotggtstack"
+  },
+  {
+    "id": "98f0c25026eecd03",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Birdwatching rewires the brain and slows cognitive decline",
+    "summary": "",
+    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+    "canonicalUrl": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+    "publishedAt": "2026-10-23T22:04:55.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 398,
+      "comments": 166
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "birdwatchingrewiresthebrainandslowscognitivedecline"
+  },
+  {
+    "id": "6f6677fdb7cfec6f",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "JustAResearcher/gpu-unlock-ada",
+    "summary": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa…",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "canonicalUrl": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "publishedAt": "2026-10-23T21:00:53.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "C"
+    ],
+    "signals": {
+      "stars": 4487,
+      "forks": 575
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "justaresearchergpuunlockada"
+  },
+  {
+    "id": "f833c89b0f1dbf7d",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
+    "summary": "TL;DR Welcome back to Dev Opportunity Radar!",
+    "url": "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
+    "canonicalUrl": "https://dev.to/devengers/dev-opportunity-radar-22-50k-basis-fellowship-perplexity-ai-research-fellowship-and-fc-4806",
+    "publishedAt": "2026-10-23T18:29:07.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+    ],
+    "signals": {
+      "reactions": 92,
+      "comments": 21
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "devopportunityradar2250kbasisfellowshipperplexityairesearchfellowshipandfcbarcelonaanalyticshackathon"
+  },
+  {
+    "id": "c2d09de97428132f",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and…",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "canonicalUrl": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "publishedAt": "2026-10-23T17:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Engineering"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "rapidlyscalingonlinestoragetoserveover1billionchatgptuserspartii"
+  }
+]

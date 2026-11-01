@@ -1,0 +1,21 @@
+[
+  {
+    "id": "59b218a80a2c3a71",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Simulating student learning for better AI tutoring",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
+    "publishedAt": "2026-10-12T16:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Research Blog"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "simulatingstudentlearningforbetteraitutoring"
+  }
+]

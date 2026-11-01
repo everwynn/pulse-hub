@@ -1,0 +1,127 @@
+---
+/**
+ * 排序切换条。
+ *
+ * 服务端已按「语言优先 → 源权重 → 时间倒序」排好（见 lib/items.ts 的 rankItems），
+ * 这里的脚本只负责在浏览器里按另一种口径重排 DOM：
+ *   语言优先  中文在前，再按源权重、时间
+ *   最新      纯按发布时间倒序，中英混排
+ *   源权威    纯按源权重倒序
+ *
+ * 排序作用于「同一天」内部：页面骨架是按天归档，跨天重排会让日期分组标题失去意义。
+ */
+
+const options = [
+  { id: 'lang', label: '语言优先', hint: '中文在前' },
+  { id: 'time', label: '最新', hint: '中英混排' },
+  { id: 'weight', label: '源权威', hint: '按源权重' },
+] as const;
+---
+
+<div class="flex flex-wrap items-center gap-2" data-sort-bar data-pagefind-ignore>
+  <span class="text-xs text-gray-500 dark:text-slate-500">排序</span>
+  {
+    options.map((option, index) => (
+      <button
+        type="button"
+        data-sort={option.id}
+        title={option.hint}
+        class:list={[
+          'sort-btn rounded-full border px-3 py-1.5 text-xs font-medium transition-colors',
+          index === 0
+            ? 'border-accent bg-accent/10 text-accent-dark dark:text-accent'
+            : 'border-gray-200 bg-white text-gray-600 hover:border-accent/60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300',
+        ]}
+      >
+        {option.label}
+      </button>
+    ))
+  }
+  <span class="text-[11px] text-gray-400 dark:text-slate-600">同一天内重排</span>
+</div>
+
+<script is:inline>
+  (function () {
+    var bar = document.querySelector('[data-sort-bar]');
+    if (!bar) return;
+
+    var buttons = Array.prototype.slice.call(bar.querySelectorAll('button[data-sort]'));
+    var ACTIVE = ['border-accent', 'bg-accent/10', 'text-accent-dark', 'dark:text-accent'];
+    var IDLE = ['border-gray-200', 'bg-white', 'text-gray-600', 'dark:border-slate-700', 'dark:bg-slate-900', 'dark:text-slate-300'];
+    var STORAGE_KEY = 'pulse-sort';
+
+    function langRank(value) {
+      if (value === 'zh') return 0;
+      if (value === 'en') return 1;
+      return 2;
+    }
+
+    function toNumber(value) {
+      var n = Number(value);
+      return isNaN(n) ? 0 : n;
+    }
+
+    function compare(mode) {
+      return function (a, b) {
+        var langA = a.getAttribute('data-lang');
+        var langB = b.getAttribute('data-lang');
+
+        if (mode === 'lang') {
+          var langDiff = langRank(langA) - langRank(langB);
+          if (langDiff !== 0) return langDiff;
+        }
+
+        if (mode === 'lang' || mode === 'weight') {
+          var weightDiff = toNumber(b.getAttribute('data-weight')) - toNumber(a.getAttribute('data-weight'));
+          if (weightDiff !== 0) return weightDiff;
+        }
+
+        return toNumber(b.getAttribute('data-ts')) - toNumber(a.getAttribute('data-ts'));
+      };
+    }
+
+    function apply(mode) {
+      var groups = document.querySelectorAll('[data-sort-group]');
+      Array.prototype.forEach.call(groups, function (group) {
+        var list = group.querySelector('ul');
+        if (!list) return;
+        var items = Array.prototype.slice.call(list.children);
+        items.sort(compare(mode));
+        items.forEach(function (item) {
+          list.appendChild(item);
+        });
+      });
+
+      buttons.forEach(function (button) {
+        var isActive = button.getAttribute('data-sort') === mode;
+        ACTIVE.forEach(function (name) {
+          button.classList.toggle(name, isActive);
+        });
+        IDLE.forEach(function (name) {
+          button.classList.toggle(name, !isActive);
+        });
+        button.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+      });
+    }
+
+    bar.addEventListener('click', function (event) {
+      var button = event.target.closest('button[data-sort]');
+      if (!button) return;
+      var mode = button.getAttribute('data-sort') || 'lang';
+      apply(mode);
+      try {
+        window.localStorage.setItem(STORAGE_KEY, mode);
+      } catch (err) {
+        /* 隐私模式下 localStorage 不可写，忽略即可 */
+      }
+    });
+
+    var saved = 'lang';
+    try {
+      saved = window.localStorage.getItem(STORAGE_KEY) || 'lang';
+    } catch (err) {
+      saved = 'lang';
+    }
+    if (saved !== 'lang') apply(saved);
+  })();
+</script>

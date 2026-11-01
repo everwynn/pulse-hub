@@ -1,0 +1,85 @@
+name: pulse
+
+# 定时抓取 + 构建 + 部署必须在同一个 job 内顺序完成：
+# 因为 GITHUB_TOKEN 推送的提交不会触发 `on: push` 的下游 workflow。
+on:
+  schedule:
+    # UTC 时间；对应北京时间 08:17 与 16:17，避开整点排队
+    - cron: '17 0,8 * * *'
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 手动触发原因（仅记录用）
+        required: false
+        default: manual
+
+# 同一时间只允许一条流水线，避免两次抓取同时写 data/ 造成提交冲突
+concurrency:
+  group: pulse-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      # 抓取端只认这些环境变量名，Key 与 RSSHub 实例全部来自 Secrets
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+      FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+      RSSHUB_BASE: ${{ secrets.RSSHUB_BASE }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # 优先用 fine-grained PAT：可避免 public 仓库 60 天无活动导致 scheduled workflow 被禁用
+          token: ${{ secrets.DATA_PUSH_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run unit tests
+        run: npm test
+
+      - name: Fetch sources
+        run: npm run fetch
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "数据无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore(data): refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Build site
+        # CI=true 时 astro.config.mjs 会启用 base: /pulse-hub/
+        env:
+          CI: 'true'
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

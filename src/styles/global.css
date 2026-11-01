@@ -1,0 +1,172 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  /* 让原生控件（滚动条、输入框光标、自动填充、下拉框）跟随主题 */
+  color-scheme: light;
+  /* 与 theme-color 一致：View Transition 揭示时底层不能是白底 */
+  background-color: #f9fafb;
+}
+
+html.dark {
+  color-scheme: dark;
+  background-color: #020617;
+}
+
+/* ============ Light Theme (default) ============ */
+body {
+  @apply bg-gray-50 text-gray-800 font-sans;
+}
+
+/* ============ Dark Theme (深色信号风) ============ */
+.dark body {
+  @apply bg-slate-950 text-slate-200;
+}
+
+/* ============ Links ============ */
+a {
+  @apply transition-colors;
+}
+
+/* ============ 主题切换：从按钮位置向外扩散的圆形揭示 ============
+   一次快照合成、单一动画，所以不会出现“几百个元素同时渐变”的浑浊中间态。
+   起点 --theme-x / --theme-y 由 ThemeToggle.astro 在点击时写入。
+   时长 由 720ms 降到 420ms，这里放慢约 70%，扩散更从容。
+   ============================================================ */
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation: none;
+  mix-blend-mode: normal;
+}
+
+::view-transition-new(root) {
+  animation: theme-reveal 720ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes theme-reveal {
+  from {
+    clip-path: circle(0% at var(--theme-x, 50%) var(--theme-y, 50%));
+  }
+  to {
+    clip-path: circle(150% at var(--theme-x, 50%) var(--theme-y, 50%));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-new(root) {
+    animation: none;
+  }
+}
+
+/* ============ 主题按钮：三态图标交错 ============ */
+.theme-icon {
+  position: absolute;
+  width: 1.1rem;
+  height: 1.1rem;
+  opacity: 0;
+  transform: scale(0.6) rotate(-45deg);
+  transition:
+    opacity 160ms ease,
+    transform 240ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+html[data-theme-mode='light'] .theme-icon-sun,
+html[data-theme-mode='dark'] .theme-icon-moon,
+html[data-theme-mode='system'] .theme-icon-system,
+html:not([data-theme-mode]) .theme-icon-system {
+  opacity: 1;
+  transform: none;
+}
+
+/* ============ 自定义滚动条 ============ */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-gray-100 dark:bg-slate-900;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-slate-700 rounded;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-accent-dark dark:bg-accent;
+}
+
+/* ============ 毛玻璃 ============ */
+.glass {
+  @apply bg-white/80 dark:bg-slate-900/80 backdrop-blur-md;
+}
+
+/* ============ 卡片悬停 ============ */
+.card-hover {
+  @apply transition-all duration-300;
+}
+
+/* 触摸设备上 :hover 会“粘”在最后点过的卡片上（手指抬起后仍保持高亮），
+   只在真有悬停指针的设备上启用 */
+@media (hover: hover) and (pointer: fine) {
+  .card-hover:hover {
+    @apply shadow-lg shadow-accent/10 border-accent/40;
+  }
+}
+
+/* ============ 隐藏 ============
+   Tailwind 的 preflight 把 [hidden] 编译成 `[hidden]:where(:not([hidden=until-found]))`，
+   :where() 特异性为 0，所以它实际只有 (0,1,0)，和 .flex / .block 这些工具类平级；
+   工具类在后面加载，会把 hidden 属性盖掉（实测 `class="flex" hidden` 的 display 仍是 flex）。
+   这里统一加重，避免 JS 设 el.hidden = true 却什么都没隐藏。 */
+[hidden] {
+  display: none !important;
+}
+
+/* ============ 标签徽章 ============ */
+.badge {
+  @apply inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium rounded-full border;
+}
+
+/* ============ 抓取开关（小胶囊）============
+   状态只靠 data-on 属性驱动，脚本不需要拼 class。 */
+.switch {
+  @apply relative inline-flex h-5 w-9 shrink-0 items-center rounded-full border transition-colors;
+}
+
+.switch[data-on='false'] {
+  @apply border-gray-300 bg-gray-200 dark:border-slate-600 dark:bg-slate-700;
+}
+
+.switch[data-on='true'] {
+  @apply border-accent bg-accent;
+}
+
+.switch > span {
+  @apply inline-block h-3.5 w-3.5 rounded-full bg-white shadow transition-transform;
+}
+
+.switch[data-on='false'] > span {
+  transform: translateX(2px);
+}
+
+.switch[data-on='true'] > span {
+  transform: translateX(18px);
+}
+
+.switch:disabled {
+  @apply cursor-not-allowed opacity-40;
+}
+
+.switch[data-busy='true'] {
+  @apply animate-pulse;
+}
+
+/* ============ 正文排版（关于页等静态内容） ============ */
+.doc-prose {
+  @apply prose prose-gray dark:prose-invert max-w-none;
+  --tw-prose-links: #0284c7;
+}
+
+.dark .doc-prose {
+  --tw-prose-links: #38bdf8;
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "d5f20e84815040d4",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "summary": "",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "canonicalUrl": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+    "publishedAt": "2026-10-06T19:57:04.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "embeddinggemma2anopenlightweightmultimodalembeddingmodel"
+  }
+]

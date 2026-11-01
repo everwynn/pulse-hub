@@ -1,0 +1,251 @@
+---
+import { CHANNEL_MAP } from '../lib/channels';
+import { formatDateTime } from '../lib/items';
+import type { SourceHealth, SourceSnapshot } from '../types';
+
+interface Props {
+  rows: { source: SourceSnapshot; state?: SourceHealth }[];
+}
+
+const { rows } = Astro.props;
+
+/**
+ * 一个源会命中的全部分组键，顺序与 scripts/sources.mjs 的 resolveEnabled 一致。
+ * 页面开关靠这串键判断「没有单源覆盖时，它跟哪个分组走」。
+ */
+function groupKeysOf(source: SourceSnapshot) {
+  return [
+    `tier.${source.tier ?? 'media'}`,
+    `channel.${source.channel}`,
+    `lang.${source.lang ?? 'en'}`,
+    `type.${source.type}`,
+  ].join('|');
+}
+
+const statusMeta = {
+  ok: {
+    label: '正常',
+    cls: 'bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-950/60 dark:text-emerald-300 dark:border-emerald-900',
+  },
+  error: {
+    label: '抓取失败',
+    cls: 'bg-rose-50 text-rose-700 border-rose-200 dark:bg-rose-950/60 dark:text-rose-300 dark:border-rose-900',
+  },
+  // 配置层关闭（config/sources.json 或源内 enabled），本轮根本不会去请求
+  disabled: {
+    label: '配置关闭',
+    cls: 'bg-gray-100 text-gray-600 border-gray-200 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700',
+  },
+  // 配置开着但跑不起来：缺 API Key、缺 RSSHUB_BASE 等，具体原因在行内展示
+  blocked: {
+    label: '缺条件',
+    cls: 'bg-amber-50 text-amber-700 border-amber-200 dark:bg-amber-950/60 dark:text-amber-300 dark:border-amber-900',
+  },
+  // 配置开着但无健康度记录（仅限从未跑过的新源）
+  pending: {
+    label: '未运行',
+    cls: 'bg-gray-100 text-gray-600 border-gray-200 dark:bg-slate-800 dark:text-slate-400 dark:border-slate-700',
+  },
+} as const;
+
+/**
+ * 「启用」和「正常」是两件事：
+ * 配置关闭的源不参与抓取，而缺 Key 的源是配置开着却跑不起来。
+ * 分开报，否则表头写着「启用 7」、组内却有两行「未启用」，读者会以为数据错了。
+ */
+function statusOf(source: SourceSnapshot, state?: SourceHealth) {
+  if (!source.enabled) return statusMeta.disabled;
+  if (state?.status === 'ok') return statusMeta.ok;
+  if (state?.status === 'error') return statusMeta.error;
+  if (state?.status === 'skipped') return statusMeta.blocked;
+  return statusMeta.pending;
+}
+---
+
+<!-- 6 列表格在手机上只能横向拖动，体验很差：小屏改卡片，sm 以上保持表格
+     （endpoint 的 max-w-[22rem] 就比 375px 屏的可用宽度还宽） -->
+<div class="hidden sm:block overflow-x-auto">
+  <table class="w-full text-sm">
+    <thead>
+      <tr
+        class="text-left text-xs uppercase tracking-wide text-gray-500 dark:text-slate-500 border-b border-gray-200 dark:border-slate-800"
+      >
+        <th class="py-2 pr-4 font-medium">来源</th>
+        <th class="py-2 pr-4 font-medium">抓取</th>
+        <th class="py-2 pr-4 font-medium">频道</th>
+        <th class="py-2 pr-4 font-medium">通道</th>
+        <th class="py-2 pr-4 font-medium">状态</th>
+        <th class="py-2 pr-4 font-medium text-right">本轮条目</th>
+        <th class="py-2 font-medium text-right">耗时</th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-100 dark:divide-slate-800">
+      {
+        rows.map(({ source, state }) => {
+          const meta = statusOf(source, state);
+          const channel = CHANNEL_MAP[source.channel];
+          return (
+            <tr class="align-top" data-source-row={source.id}>
+              <td class="py-3 pr-4">
+                <div class="flex items-start justify-between gap-2">
+                  <div class="min-w-0">
+                    <span class="font-medium text-gray-900 dark:text-slate-100">{source.name}</span>
+                    <span class="ml-2 font-mono text-[10px] text-gray-400 dark:text-slate-600">
+                      {source.lang === 'zh' ? '中文' : 'EN'}
+                    </span>
+                    <a
+                      href={source.endpoint}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="mt-1 block truncate max-w-[22rem] font-mono text-[11px] text-gray-400 dark:text-slate-500 hover:text-accent"
+                    >
+                      {source.endpoint}
+                    </a>
+                    {state?.reason && (
+                      <span class="mt-1 block text-[11px] text-rose-600 dark:text-rose-400">{state.reason}</span>
+                    )}
+                  </div>
+                  <button
+                    type="button"
+                    data-source-hide={source.id}
+                    aria-pressed="false"
+                    class="shrink-0 rounded p-1 text-gray-300 hover:text-gray-600 dark:text-slate-600 dark:hover:text-slate-300"
+                    title="仅在本机隐藏该源，不影响抓取"
+                    aria-label={`在本机隐藏 ${source.name}`}
+                  >
+                    <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858-5.908a10.05 10.05 0 013.122-.485c4.478 0 8.268 2.943 9.543 7a9.98 9.98 0 01-4.292 4.85m-4.243-4.243a3 3 0 11-4.243-4.243"></path>
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3l18 18"></path>
+                    </svg>
+                  </button>
+                </div>
+              </td>
+              <td class="py-3 pr-4">
+                <button
+                  type="button"
+                  role="switch"
+                  aria-checked="false"
+                  aria-label={`抓取 ${source.name}`}
+                  data-on="false"
+                  data-server-on={source.enabled ? 'true' : 'false'}
+                  data-source-switch={source.id}
+                  data-source-keys={groupKeysOf(source)}
+                  class="switch"
+                  disabled
+                >
+                  <span></span>
+                </button>
+              </td>
+              <td class="py-3 pr-4">
+                <span class:list={['badge', channel.badge]}>{channel.short}</span>
+              </td>
+              <td class="py-3 pr-4 font-mono text-xs text-gray-600 dark:text-slate-400">
+                {source.type}
+                {source.api && <span class="ml-1 text-gray-400 dark:text-slate-600">/{source.api}</span>}
+              </td>
+              <td class="py-3 pr-4">
+                <span class:list={['badge', meta.cls]}>{meta.label}</span>
+                {state?.lastSuccessAt && state.status !== 'ok' && (
+                  <span class="mt-1 block text-[11px] text-gray-400 dark:text-slate-500">
+                    上次成功 {formatDateTime(state.lastSuccessAt)}
+                  </span>
+                )}
+              </td>
+              <td class="py-3 pr-4 text-right font-mono text-xs text-gray-700 dark:text-slate-300">
+                {state?.count ?? 0}
+              </td>
+              <td class="py-3 text-right font-mono text-xs text-gray-500 dark:text-slate-500">
+                {state ? `${state.durationMs}ms` : '—'}
+              </td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+</div>
+
+<ul class="sm:hidden divide-y divide-gray-100 dark:divide-slate-800">
+  {
+    rows.map(({ source, state }) => {
+      const meta = statusOf(source, state);
+      const channel = CHANNEL_MAP[source.channel];
+      return (
+        <li class="py-3" data-source-row={source.id}>
+          <div class="flex items-start justify-between gap-2">
+            <div class="min-w-0">
+              <span class="text-sm font-medium text-gray-900 dark:text-slate-100">{source.name}</span>
+              <span class="ml-1.5 font-mono text-[10px] text-gray-400 dark:text-slate-600">
+                {source.lang === 'zh' ? '中文' : 'EN'}
+              </span>
+            </div>
+            <div class="flex shrink-0 items-center gap-1.5">
+              <button
+                type="button"
+                role="switch"
+                aria-checked="false"
+                aria-label={`抓取 ${source.name}`}
+                data-on="false"
+                data-server-on={source.enabled ? 'true' : 'false'}
+                data-source-switch={source.id}
+                data-source-keys={groupKeysOf(source)}
+                class="switch"
+                disabled
+              >
+                <span></span>
+              </button>
+              <span class:list={['badge', meta.cls]}>{meta.label}</span>
+              <button
+                type="button"
+                data-source-hide={source.id}
+                aria-pressed="false"
+                class="rounded p-1 text-gray-300 hover:text-gray-600 dark:text-slate-600 dark:hover:text-slate-300"
+                title="仅在本机隐藏该源，不影响抓取"
+                aria-label={`在本机隐藏 ${source.name}`}
+              >
+                <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.268-2.943-9.543-7a9.97 9.97 0 011.563-3.029m5.858-5.908a10.05 10.05 0 013.122-.485c4.478 0 8.268 2.943 9.543 7a9.98 9.98 0 01-4.292 4.85m-4.243-4.243a3 3 0 11-4.243-4.243"></path>
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3l18 18"></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px] text-gray-500 dark:text-slate-500">
+            <span class:list={['badge', channel.badge]}>{channel.short}</span>
+            <span class="font-mono">
+              {source.type}
+              {source.api && `/${source.api}`}
+            </span>
+            <span class="font-mono tabular-nums">
+              {state?.count ?? 0} 条 · {state ? `${state.durationMs}ms` : '—'}
+            </span>
+          </div>
+          <a
+            href={source.endpoint}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="mt-1 block truncate font-mono text-[11px] text-gray-400 dark:text-slate-500 hover:text-accent"
+          >
+            {source.endpoint}
+          </a>
+          {state?.reason && (
+            <span class="mt-1 block text-[11px] text-rose-600 dark:text-rose-400">{state.reason}</span>
+          )}
+          {state?.lastSuccessAt && state.status !== 'ok' && (
+            <span class="mt-1 block text-[11px] text-gray-400 dark:text-slate-500">
+              上次成功 {formatDateTime(state.lastSuccessAt)}
+            </span>
+          )}
+        </li>
+      );
+    })
+  }
+</ul>

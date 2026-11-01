@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2be4a2851ab7d4b9",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Jakeschincariol/day-trader-skill",
+    "summary": "11 Claude skills for day trading: scan thousands of charts, track breaking news,…",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "canonicalUrl": "https://github.com/Jakeschincariol/day-trader-skill",
+    "publishedAt": "2026-10-20T14:17:54.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Python",
+      "backtesting",
+      "claude",
+      "claude-skills",
+      "day-trading",
+      "stock-market"
+    ],
+    "signals": {
+      "stars": 1979,
+      "forks": 413
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "jakeschincarioldaytraderskill"
+  },
+  {
+    "id": "6f50751bd7065c3d",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "pengchujin/aerial-tv",
+    "summary": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "canonicalUrl": "https://github.com/pengchujin/aerial-tv",
+    "publishedAt": "2026-10-20T09:13:06.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Kotlin"
+    ],
+    "signals": {
+      "stars": 6003,
+      "forks": 504
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "pengchujinaerialtv"
+  }
+]

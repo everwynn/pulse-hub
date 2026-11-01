@@ -1,0 +1,173 @@
+[
+  {
+    "id": "05ec5ec832cccc42",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Diamond Transistor",
+    "summary": "",
+    "url": "https://www.df.com/diamond-transistor",
+    "canonicalUrl": "https://www.df.com/diamond-transistor",
+    "publishedAt": "2026-10-23T14:20:15.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 46,
+      "comments": 27
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "diamondtransistor"
+  },
+  {
+    "id": "85200f92513af161",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "enesozturk/dimensional-drawing",
+    "summary": "Create Apple style dimensional drawings of UI components.",
+    "url": "https://github.com/enesozturk/dimensional-drawing",
+    "canonicalUrl": "https://github.com/enesozturk/dimensional-drawing",
+    "publishedAt": "2026-10-23T12:20:16.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "HTML",
+      "skills",
+      "ui"
+    ],
+    "signals": {
+      "stars": 1537,
+      "forks": 101
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "enesozturkdimensionaldrawing"
+  },
+  {
+    "id": "3a434fef28c21f63",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Securing our frontier model training environment",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and …",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "canonicalUrl": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "publishedAt": "2026-10-23T10:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Security"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "securingourfrontiermodeltrainingenvironment"
+  },
+  {
+    "id": "142044a8a1a80e8d",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "morganlinton/BeautifulRust",
+    "summary": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust,…",
+    "url": "https://github.com/morganlinton/BeautifulRust",
+    "canonicalUrl": "https://github.com/morganlinton/BeautifulRust",
+    "publishedAt": "2026-10-23T03:01:11.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "Python",
+      "agent-skills",
+      "claude-code",
+      "claude-plugin",
+      "claude-skills",
+      "clippy"
+    ],
+    "signals": {
+      "stars": 1403,
+      "forks": 66
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "morganlintonbeautifulrust"
+  },
+  {
+    "id": "3acbad74f2a06fc2",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical re…",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "canonicalUrl": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "openaiandpolandsnaskpartnertoadvanceaisafetyandsecurity"
+  },
+  {
+    "id": "76acef4b03d14060",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Blaise Pascal invented fixed route public transport (2024)",
+    "summary": "",
+    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "canonicalUrl": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "publishedAt": "2026-10-22T19:52:50.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 206,
+      "comments": 97
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "blaisepascalinventedfixedroutepublictransport2024"
+  },
+  {
+    "id": "e2d8a412456e749d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Build more responsive apps with the Decisions API",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "url": "https://openai.com/index/decisions-api",
+    "canonicalUrl": "https://openai.com/index/decisions-api",
+    "publishedAt": "2026-10-22T19:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "buildmoreresponsiveappswiththedecisionsapi"
+  },
+  {
+    "id": "b0ec3e72f46d1c70",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Flint-interactive: A language for creating interactive data visualizations",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+    "publishedAt": "2026-10-22T16:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Research Blog"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "flintinteractivealanguageforcreatinginteractivedatavisualizations"
+  }
+]

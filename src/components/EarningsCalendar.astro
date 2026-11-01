@@ -1,0 +1,104 @@
+---
+import {
+  companyNameOf,
+  epsSurprise,
+  formatEps,
+  formatHour,
+  getUpcomingEarnings,
+} from '../lib/earnings';
+
+/**
+ * 财报日程。
+ * 只渲染「未来事件」，不参与 ItemCard 的日期分组与排序——
+ * 财报日历混进新闻流会让未来条目排到列表最前面，也会在 data/index.json 里
+ * 凭空多出未来日期的桶。调用方负责判断 hasEarnings()。
+ */
+const days = getUpcomingEarnings();
+const total = days.reduce((sum, day) => sum + day.events.length, 0);
+---
+
+<section class="overflow-hidden rounded-xl border border-gray-200 dark:border-slate-800">
+  <div class="flex items-center justify-between gap-2 border-b border-gray-100 px-4 py-3 dark:border-slate-800">
+    <div class="flex min-w-0 items-center gap-2">
+      <h2 class="shrink-0 text-sm font-semibold text-gray-900 dark:text-slate-100">财报日程</h2>
+      <span class="shrink-0 rounded-full border border-gray-200 px-2 py-0.5 font-mono text-[11px] text-gray-500 dark:border-slate-700 dark:text-slate-400">
+        未来两周 · {total} 家
+      </span>
+    </div>
+    <span class="shrink-0 font-mono text-[11px] text-gray-500 dark:text-slate-400">美东日期</span>
+  </div>
+
+  <div class="divide-y divide-gray-100 dark:divide-slate-800">
+    {
+      days.map((day) => (
+        <div class="px-4 py-3">
+          <div class="flex items-center gap-2">
+            <span class="font-mono text-xs font-medium text-gray-600 dark:text-slate-300">{day.label}</span>
+            {day.isToday && (
+              <span class="rounded bg-accent/10 px-1.5 py-0.5 text-[10px] font-medium text-accent-dark dark:text-accent">
+                今天
+              </span>
+            )}
+            <span class="h-px flex-1 bg-gray-100 dark:bg-slate-800" />
+            <span class="font-mono text-[11px] text-gray-400 dark:text-slate-500">{day.events.length}</span>
+          </div>
+
+          <ul class="mt-2 space-y-1.5">
+            {day.events.map((event) => {
+              const surprise = epsSurprise(event);
+              const eps = formatEps(event);
+              return (
+                <li class="flex flex-wrap items-baseline gap-x-2 gap-y-1 text-sm">
+                  <span class="w-14 shrink-0 font-mono text-xs text-gray-500 dark:text-slate-400">
+                    {event.symbol}
+                  </span>
+                  <span class="font-medium text-gray-900 dark:text-slate-100">
+                    {companyNameOf(event.symbol)}
+                  </span>
+                  <span class="text-[11px] text-gray-500 dark:text-slate-400">{formatHour(event.hour)}</span>
+                  {event.quarter != null && (
+                    <span class="font-mono text-[11px] text-gray-500 dark:text-slate-400">Q{event.quarter}</span>
+                  )}
+                  {/*
+                    EPS 和涨跌幅必须作为一个整体换行。
+                    之前是两个独立 span + flex-1 撑开，窄屏下百分比会单独掉到第二行最左边，
+                    看着像“跑丢了”；包成 ml-auto 的 nowrap 组后，要么留在一行右侧，要么整组换行后仍然靠右。
+                  */}
+                  {
+                    (eps || surprise != null) && (
+                      <span class="ml-auto inline-flex items-baseline gap-2 whitespace-nowrap">
+                        {eps && (
+                          <span class="font-mono text-[11px] tabular-nums text-gray-500 dark:text-slate-400">
+                            {eps}
+                          </span>
+                        )}
+                        {surprise != null && (
+                          <span
+                            class:list={[
+                              'font-mono text-[11px] tabular-nums',
+                              surprise >= 0
+                                ? 'text-emerald-700 dark:text-emerald-400'
+                                : 'text-rose-700 dark:text-rose-400',
+                            ]}
+                          >
+                            {/* 拼成一个字串渲染：分开写 Astro 会把换行缩进当成文本，输出成「+ 3.7%」多一个空格 */}
+                            {`${surprise >= 0 ? '+' : ''}${surprise.toFixed(1)}%`}
+                          </span>
+                        )}
+                      </span>
+                    )
+                  }
+                </li>
+              );
+            })}
+          </ul>
+        </div>
+      ))
+    }
+  </div>
+
+  <p class="border-t border-gray-100 px-4 py-2 text-[11px] leading-relaxed text-gray-500 dark:border-slate-800 dark:text-slate-400">
+    数据来自 Finnhub 财报日历，只展示关注列表内的公司（AI / 半导体 / 大科技 / 中概）；
+    日程与预期值由数据商提供，仅供参考，以公司正式公告为准。
+  </p>
+</section>

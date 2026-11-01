@@ -1,0 +1,92 @@
+---
+import type { Item } from '../types';
+import { CHANNEL_MAP } from '../lib/channels';
+import { formatRelative } from '../lib/items';
+
+interface Props {
+  item: Item;
+  showChannel?: boolean;
+  showSummary?: boolean;
+}
+
+const { item, showChannel = false, showSummary = true } = Astro.props;
+const channel = CHANNEL_MAP[item.channel] ?? CHANNEL_MAP.tech;
+const isZh = item.lang === 'zh';
+
+const signals: string[] = [];
+if (item.signals?.points) signals.push(`${item.signals.points} points`);
+if (item.signals?.stars) signals.push(`★ ${item.signals.stars}`);
+if (item.signals?.replies) signals.push(`${item.signals.replies} 回复`);
+if (item.signals?.reactions) signals.push(`${item.signals.reactions} 赞`);
+---
+
+<li
+  class="py-3"
+  data-tag-item
+  data-tags={item.tags.join('|')}
+  data-lang={item.lang}
+  data-weight={item.weight}
+  data-ts={new Date(item.publishedAt).getTime()}
+  data-pagefind-item
+>
+  <div class="flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-gray-500 dark:text-slate-500">
+    {
+      showChannel && (
+        <span class:list={['badge', channel.badge]}>
+          <span class:list={['w-1.5 h-1.5 rounded-full', channel.dot]} />
+          {channel.short}
+        </span>
+      )
+    }
+    <span
+      class:list={[
+        'rounded px-1 py-px text-[10px] font-medium leading-normal',
+        isZh
+          ? 'bg-accent/10 text-accent-dark dark:text-accent'
+          : 'bg-gray-100 text-gray-500 dark:bg-slate-800 dark:text-slate-400',
+      ]}
+      title={isZh ? '中文原文' : '英文原文'}>{isZh ? '中文' : 'EN'}</span
+    >
+    <span class="font-medium text-gray-700 dark:text-slate-300">{item.sourceName}</span>
+    <span aria-hidden="true">·</span>
+    <time datetime={item.publishedAt}>{formatRelative(item.publishedAt)}</time>
+    {signals.map((signal) => <span class="text-gray-400 dark:text-slate-600">{signal}</span>)}
+  </div>
+
+  <h3 class="mt-1 text-base font-semibold leading-snug">
+    <a
+      href={item.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="text-gray-900 dark:text-slate-100 hover:text-accent-dark dark:hover:text-accent"
+    >
+      {item.title}
+    </a>
+  </h3>
+
+  {
+    showSummary && item.summary && (
+      <p
+        data-nosnippet
+        class:list={[
+          'mt-1 text-sm text-gray-600 dark:text-slate-400 line-clamp-2',
+          isZh ? 'leading-[1.75] tracking-[0.01em]' : 'leading-relaxed',
+        ]}
+      >
+        {item.summary}
+      </p>
+    )
+  }
+
+  {
+    item.tags.length > 0 && (
+      <div class="mt-1.5 flex flex-wrap gap-1.5">
+        {item.tags.slice(0, 4).map((tag) => (
+          <span class="text-[11px] px-1.5 py-0.5 rounded bg-gray-100 text-gray-600 dark:bg-slate-800 dark:text-slate-400">
+            {tag}
+          </span>
+        ))}
+      </div>
+    )
+  }
+</li>

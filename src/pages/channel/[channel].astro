@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ItemCard from '../../components/ItemCard.astro';
+import TagFilter from '../../components/TagFilter.astro';
+import SortBar from '../../components/SortBar.astro';
+import ChannelNav from '../../components/ChannelNav.astro';
+import EarningsCalendar from '../../components/EarningsCalendar.astro';
+import { CHANNELS, type ChannelMeta } from '../../lib/channels';
+import { hasEarnings } from '../../lib/earnings';
+import { getChannelCounts, getChannelItems, getTags, groupByDate } from '../../lib/items';
+import { href } from '../../lib/url';
+
+export function getStaticPaths() {
+  return CHANNELS.map((channel) => ({
+    params: { channel: channel.id },
+    props: { channel },
+  }));
+}
+
+interface Props {
+  channel: ChannelMeta;
+}
+
+const { channel } = Astro.props;
+const counts = getChannelCounts();
+const items = getChannelItems(channel.id);
+const groups = groupByDate(items);
+const tags = getTags(items);
+// 财报日程只挂在财经频道，且只有真的抓到数据才渲染（未配置 FINNHUB_KEY 时不出现任何占位）
+const showEarnings = channel.id === 'finance' && hasEarnings();
+---
+
+<BaseLayout title={channel.label} description={`${channel.label}：${channel.description}`}>
+  <section class="border-b border-gray-200 dark:border-slate-800 bg-white dark:bg-slate-900/30">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+      <nav class="text-xs text-gray-500 dark:text-slate-500">
+        <a href={href('/')} class="hover:text-accent">首页</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-700 dark:text-slate-300">{channel.label}</span>
+      </nav>
+      <div class="mt-3 flex items-center gap-3">
+        <span class:list={['w-2.5 h-2.5 rounded-full', channel.dot]} />
+        <h1 class="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">{channel.label}</h1>
+        <span class="text-sm font-mono text-gray-500 dark:text-slate-500">{items.length} 条</span>
+      </div>
+      <p class="mt-3 max-w-2xl text-sm leading-relaxed text-gray-600 dark:text-slate-400">
+        {channel.description}
+      </p>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+    <ChannelNav counts={counts} active={channel.id} />
+  </section>
+
+  {
+    showEarnings && (
+      <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-8">
+        <EarningsCalendar />
+      </section>
+    )
+  }
+
+  {
+    items.length === 0 ? (
+      <section class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
+        <div class="rounded-xl border border-dashed border-gray-300 dark:border-slate-700 p-6 sm:p-10 text-center">
+          <p class="text-gray-700 dark:text-slate-300 font-medium">该频道暂无数据</p>
+          <p class="mt-2 text-sm text-gray-500 dark:text-slate-500">
+            {channel.id === 'policy'
+              ? '政策来源为政府官网，需自建 RSSHub 实例并在 Secrets 配置 RSSHUB_BASE 后启用，详见「来源」页。'
+              : channel.id === 'finance'
+                ? '财经来源需要在仓库 Secrets 配置 ALPHAVANTAGE_KEY 或 FINNHUB_KEY 后才会抓取。'
+                : '可能是上游临时不可用，可稍后重试或在「来源」页查看抓取状态。'}
+          </p>
+          <a
+            href={href('sources')}
+            class="mt-4 inline-block text-sm font-medium text-accent-dark dark:text-accent"
+          >
+            查看来源与抓取状态
+          </a>
+        </div>
+      </section>
+    ) : (
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
+        <TagFilter tags={tags} />
+        <div class="mt-3">
+          <SortBar />
+        </div>
+        <div class="mt-6 space-y-10" data-pagefind-body>
+          {groups.map((group) => (
+            <section data-sort-group>
+              <h2 class="flex items-center gap-3 text-sm font-semibold text-gray-500 dark:text-slate-400">
+                <span class="font-mono">{group.date}</span>
+                <span class="h-px flex-1 bg-gray-200 dark:bg-slate-800" />
+                <span class="font-mono text-xs">{group.items.length}</span>
+              </h2>
+              <ul class="mt-2 divide-y divide-gray-100 dark:divide-slate-800">
+                {group.items.map((item) => (
+                  <ItemCard item={item} />
+                ))}
+              </ul>
+            </section>
+          ))}
+        </div>
+      </div>
+    )
+  }
+</BaseLayout>

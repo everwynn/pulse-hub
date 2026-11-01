@@ -1,0 +1,1115 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SourceTable from '../components/SourceTable.astro';
+import { CHANNELS } from '../lib/channels';
+import { formatDateTime, health, sourceSnapshot } from '../lib/items';
+import { href } from '../lib/url';
+import type { SourceTier } from '../types';
+
+/** 三段式看板：按可信度由高到低排列，官方机构永远排第一 */
+const TIERS: { id: SourceTier; label: string; desc: string }[] = [
+  {
+    id: 'official',
+    label: '官方第一信源',
+    desc: '发布机构自己发布的一手信息：企业官方博客、学术预印本平台、政府与监管部门。信息最权威，但更新频率通常偏低。',
+  },
+  {
+    id: 'media',
+    label: '专业媒体',
+    desc: '行业媒体的编辑内容，时效快、覆盖面广。属于二手转述，重要信息建议回溯到官方信源核对。',
+  },
+  {
+    id: 'community',
+    label: '社区与平台',
+    desc: '讨论区与开放平台上的热门信号，反映从业者当下关注什么，适合当线索，不作为事实依据。',
+  },
+];
+
+const rows = sourceSnapshot
+  .map((source) => ({ source, state: health.sources[source.id] }))
+  .sort((a, b) => {
+    const channelDiff =
+      CHANNELS.findIndex((c) => c.id === a.source.channel) -
+      CHANNELS.findIndex((c) => c.id === b.source.channel);
+    if (channelDiff !== 0) return channelDiff;
+    return b.source.weight - a.source.weight;
+  });
+
+const tierSections = TIERS.map((tier) => {
+  const tierRows = rows.filter((row) => (row.source.tier ?? 'media') === tier.id);
+  return {
+    ...tier,
+    rows: tierRows,
+    okCount: tierRows.filter((row) => row.state?.status === 'ok').length,
+    zhCount: tierRows.filter((row) => row.source.lang === 'zh').length,
+    enabledCount: tierRows.filter((row) => row.source.enabled).length,
+  };
+});
+
+const summary = health.summary;
+const updatedLabel = health.updatedAt ? formatDateTime(health.updatedAt) : '尚未抓取';
+const failureRows = rows.filter((row) => row.state?.status === 'error');
+// 配置层关闭的源不会进抓取目标，health 里也没有它们，需要单独从快照里数
+const disabledSources = sourceSnapshot.filter((source) => !source.enabled);
+---
+
+<BaseLayout title="来源与抓取健康度" description="Pulse Hub 的全部信息源清单、通道类型、最近一次抓取状态与可用性说明。">
+  <div data-source-page>
+  <section class="border-b border-gray-200 dark:border-slate-800 bg-white dark:bg-slate-900/30">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 py-10">
+      <nav class="text-xs text-gray-500 dark:text-slate-500">
+        <a href={href('/')} class="hover:text-accent">首页</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-700 dark:text-slate-300">来源</span>
+      </nav>
+      <h1 class="mt-3 text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">来源与抓取健康度</h1>
+      <p class="mt-3 max-w-3xl text-sm leading-relaxed text-gray-600 dark:text-slate-400">
+        全部数据来自各站点<strong class="text-gray-800 dark:text-slate-200">官方 RSS/Atom 或公开 API</strong>，
+        不使用页面解析、不抓取公众号与付费墙内容。每次定时任务独立超时、独立失败，
+        单个源失效只会体现在本页状态里，不会影响其它源与站点构建。
+      </p>
+
+      <div class="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-4 text-sm">
+        <div class="rounded-lg border border-gray-200 dark:border-slate-800 px-4 py-3">
+          <span class="block font-mono text-xl font-bold text-gray-900 dark:text-white">{summary.ok}/{summary.total}</span>
+          <span class="text-xs text-gray-500 dark:text-slate-500">最近一轮成功源</span>
+        </div>
+        <div class="rounded-lg border border-gray-200 dark:border-slate-800 px-4 py-3">
+          <span class="block font-mono text-xl font-bold text-gray-900 dark:text-white">{summary.fetched}</span>
+          <span class="text-xs text-gray-500 dark:text-slate-500">本轮抓取条目</span>
+        </div>
+        <div class="rounded-lg border border-gray-200 dark:border-slate-800 px-4 py-3">
+          <span class="block font-mono text-xl font-bold text-gray-900 dark:text-white">{summary.duplicates}</span>
+          <span class="text-xs text-gray-500 dark:text-slate-500">去重丢弃</span>
+        </div>
+        <div class="rounded-lg border border-gray-200 dark:border-slate-800 px-4 py-3">
+          <span class="block font-mono text-xl font-bold text-gray-900 dark:text-white">{summary.todayCount}</span>
+          <span class="text-xs text-gray-500 dark:text-slate-500">今日新增</span>
+        </div>
+      </div>
+
+      <p class="mt-4 text-xs text-gray-500 dark:text-slate-500">
+        最近一轮抓取时间 {updatedLabel}（北京时间）· 失败 {summary.failed} 个 · 缺条件 {summary.skipped} 个 ·
+        配置关闭 {disabledSources.length} 个
+      </p>
+
+      <div
+        data-hidden-hint
+        class="mt-3 hidden rounded-lg border border-gray-200 bg-gray-50 px-3 py-2 text-xs leading-relaxed text-gray-600 dark:border-slate-700 dark:bg-slate-900/60 dark:text-slate-400"
+      >
+        已在本机隐藏 <span data-hidden-count class="font-mono font-semibold">0</span> 个源，
+        仅影响你自己的浏览器，不影响抓取。
+        <button
+          type="button"
+          data-hidden-reset
+          class="ml-1 font-medium text-accent-dark underline underline-offset-2 dark:text-accent"
+        >
+          恢复全部
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 抓取控制台：连接仓库后，页面上的开关直接改写 config/sources.json -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pt-8" data-console>
+    <details
+      data-console-panel
+      class="group overflow-hidden rounded-xl border border-gray-200 dark:border-slate-800"
+    >
+      <!-- 默认收起：控制台是低频操作，展开后会把下面的源表挤到屏外 -->
+      <summary
+        class="flex cursor-pointer list-none items-center justify-between gap-2 px-4 py-3 hover:bg-gray-50/70 dark:hover:bg-slate-900/60 [&::-webkit-details-marker]:hidden"
+      >
+        <div class="flex min-w-0 items-center gap-2">
+          <h2 class="shrink-0 text-sm font-semibold text-gray-900 dark:text-slate-100">抓取控制台</h2>
+          <span
+            data-conn-badge
+            class="badge shrink-0 border-gray-300 bg-white text-gray-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-400"
+          >
+            未连接
+          </span>
+          <span
+            data-conn-repo
+            class="hidden truncate font-mono text-[11px] text-gray-400 dark:text-slate-500"
+          ></span>
+        </div>
+        <svg
+          class="h-4 w-4 shrink-0 text-gray-400 transition-transform group-open:rotate-180"
+          viewBox="0 0 20 20"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          aria-hidden="true"
+        >
+          <path d="M5 8l5 5 5-5" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+      </summary>
+
+      <div
+        data-connected-only
+        hidden
+        class="flex flex-wrap items-center gap-2 border-t border-gray-200 px-4 py-2 dark:border-slate-800"
+      >
+        <a
+          data-repo-link
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="min-w-0 truncate font-mono text-[11px] text-gray-500 underline underline-offset-2 hover:text-accent dark:text-slate-400"
+        ></a>
+        <a
+          data-last-dispatch
+          href="#"
+          target="_blank"
+          rel="noopener noreferrer"
+          hidden
+          class="shrink-0 text-[11px] text-gray-400 underline underline-offset-2 hover:text-accent dark:text-slate-500"
+        ></a>
+        <span class="flex-1"></span>
+        <button
+          type="button"
+          data-sync
+          class="rounded-lg border border-gray-300 bg-white px-2.5 py-1 text-[11px] font-medium text-gray-600 hover:border-accent/60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300"
+        >
+          刷新
+        </button>
+        <button
+          type="button"
+          data-dispatch
+          class="rounded-lg border border-gray-300 bg-white px-2.5 py-1 text-[11px] font-medium text-gray-600 hover:border-accent/60 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300"
+        >
+          立即抓一次
+        </button>
+        <button
+          type="button"
+          data-disconnect
+          class="rounded-lg border border-gray-300 bg-white px-2.5 py-1 text-[11px] font-medium text-rose-600 hover:border-rose-300 dark:border-slate-700 dark:bg-slate-900 dark:text-rose-400"
+        >
+          断开
+        </button>
+      </div>
+
+      <form data-connect-form class="space-y-3 p-4">
+        <p class="text-xs leading-relaxed text-gray-600 dark:text-slate-400">
+          连接你的 GitHub 仓库后，下面每个源、每个分组的开关会直接改写仓库里的
+          <code class="font-mono">config/sources.json</code>，下一次抓取即生效。
+          令牌只存在你这台设备的浏览器里，只会发往 <code class="font-mono">api.github.com</code>。
+        </p>
+        <div class="grid gap-3 sm:grid-cols-2">
+          <label class="block">
+            <span class="text-[11px] font-medium text-gray-600 dark:text-slate-400">仓库地址</span>
+            <input
+              data-repo-input
+              type="text"
+              inputmode="url"
+              autocomplete="off"
+              spellcheck="false"
+              placeholder="https://github.com/你的用户名/pulse-hub"
+              class="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 font-mono text-xs text-gray-800 placeholder:text-gray-400 focus:border-accent focus:outline-none dark:border-slate-700 dark:bg-slate-950 dark:text-slate-200"
+            />
+          </label>
+          <label class="block">
+            <span class="text-[11px] font-medium text-gray-600 dark:text-slate-400">分支</span>
+            <input
+              data-branch-input
+              type="text"
+              value="main"
+              autocomplete="off"
+              spellcheck="false"
+              class="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 font-mono text-xs text-gray-800 focus:border-accent focus:outline-none dark:border-slate-700 dark:bg-slate-950 dark:text-slate-200"
+            />
+          </label>
+        </div>
+        <label class="block">
+          <span class="text-[11px] font-medium text-gray-600 dark:text-slate-400">
+            访问令牌（fine-grained PAT）
+          </span>
+          <input
+            data-token-input
+            type="password"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="github_pat_..."
+            class="mt-1 w-full rounded-lg border border-gray-300 bg-white px-3 py-2 font-mono text-xs text-gray-800 placeholder:text-gray-400 focus:border-accent focus:outline-none dark:border-slate-700 dark:bg-slate-950 dark:text-slate-200"
+          />
+        </label>
+        <div class="flex flex-wrap items-start gap-4">
+          <button
+            type="submit"
+            class="rounded-lg bg-accent px-3 py-2 text-xs font-semibold text-white hover:bg-accent-dark"
+          >
+            连接仓库
+          </button>
+          <details class="min-w-0 flex-1 text-xs text-gray-500 dark:text-slate-500">
+            <summary class="cursor-pointer select-none font-medium text-gray-600 dark:text-slate-400">
+              怎么生成令牌？
+            </summary>
+            <ol class="mt-2 list-decimal space-y-1 pl-5 leading-relaxed">
+              <li>
+                打开
+                <a
+                  href="https://github.com/settings/tokens?type=beta"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="text-accent-dark underline underline-offset-2 dark:text-accent"
+                >
+                  github.com/settings/tokens?type=beta
+                </a>
+                ，点 <strong>Generate new token</strong>。
+              </li>
+              <li>Repository access 选 <strong>Only select repositories</strong>，只勾选这个仓库。</li>
+              <li>
+                Permissions → Repository permissions → <strong>Contents</strong> 设为
+                <strong>Read and write</strong>（还想要「立即抓一次」就再把 <strong>Actions</strong>
+                设为 Read and write）。
+              </li>
+              <li>生成后复制 <code class="font-mono">github_pat_...</code>，粘到上面的输入框。</li>
+            </ol>
+            <p class="mt-2 leading-relaxed">
+              令牌只存在本机 localStorage，随时可在这里点「断开」或去 GitHub 撤销；
+              它只有这一个仓库的写权限，泄露也影响不到别的仓库。不要在公共电脑上连接。
+            </p>
+          </details>
+        </div>
+      </form>
+
+      <div data-connected-only hidden class="space-y-2 px-4 pt-4">
+        <p data-conn-summary class="text-xs leading-relaxed text-gray-600 dark:text-slate-400"></p>
+        <p class="text-[11px] leading-relaxed text-gray-400 dark:text-slate-500">
+          开关改动会以一次 commit 提交到仓库（提交信息
+          <code class="font-mono">chore(config): 更新抓取开关</code>）。提交本身不会自动跑抓取，
+          需要点「立即抓一次」，或等每天 08:17 / 16:17 的定时任务。
+        </p>
+      </div>
+
+      <!--
+        状态条：进行中 / 成功 / 失败三态。
+        之前是一行小字贴在面板最底部，按钮在顶部，视线根本不会移下去；
+        改成带底色和图标的条，成功时可附「查看进度」直达 Actions。
+      -->
+      <div data-conn-status-wrap hidden class="px-4 pb-4 pt-2">
+        <div
+          data-conn-status-bar
+          class="flex items-start gap-2 rounded-lg border border-gray-200 bg-gray-50 px-3 py-2 text-xs text-gray-600 dark:border-slate-800 dark:bg-slate-900/60 dark:text-slate-300"
+        >
+          <span
+            data-conn-status-icon
+            aria-hidden="true"
+            class="mt-px shrink-0 select-none font-semibold"
+          ></span>
+          <span
+            data-conn-status
+            role="status"
+            aria-live="polite"
+            class="min-w-0 flex-1 leading-relaxed"
+          ></span>
+          <a
+            data-conn-runs-link
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+            hidden
+            class="shrink-0 font-medium underline underline-offset-2"
+          >
+            查看进度 ↗
+          </a>
+          <button
+            type="button"
+            data-conn-dismiss
+            aria-label="关闭提示"
+            class="-my-0.5 shrink-0 rounded px-1 text-base leading-none opacity-50 hover:opacity-100"
+          >
+            ×
+          </button>
+        </div>
+      </div>
+    </details>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 py-8 space-y-10">
+    {
+      tierSections.map((tier) => (
+        <div data-source-section={tier.id}>
+          <div class="flex flex-wrap items-baseline justify-between gap-2">
+            <h2 class="text-base font-semibold text-gray-900 dark:text-slate-100">
+              {tier.label}
+              <span class="ml-2 font-mono text-xs font-normal text-gray-400 dark:text-slate-600">
+                {tier.rows.length} 个源 · 中文 {tier.zhCount}
+              </span>
+            </h2>
+            <div class="flex items-center gap-3">
+              <span class="font-mono text-xs text-gray-500 dark:text-slate-500">
+                正常 {tier.okCount} · 配置启用 {tier.enabledCount}/{tier.rows.length}
+              </span>
+              <button
+                type="button"
+                role="switch"
+                aria-checked="true"
+                aria-label={`抓取整组：${tier.label}`}
+                data-on="true"
+                data-server-on={tier.enabledCount > 0 ? 'true' : 'false'}
+                data-group-switch={`tier.${tier.id}`}
+                class="switch"
+                disabled
+              >
+                <span></span>
+              </button>
+              <button
+                type="button"
+                data-source-group={tier.id}
+                aria-pressed="false"
+                title="仅在本机隐藏本组，不影响抓取"
+                class="rounded-full border border-gray-200 px-2.5 py-1 text-[11px] text-gray-500 hover:border-accent/60 hover:text-accent-dark dark:border-slate-700 dark:text-slate-400 dark:hover:text-accent"
+              >
+                隐藏本组
+              </button>
+            </div>
+          </div>
+          <p class="mt-1 max-w-3xl text-xs leading-relaxed text-gray-500 dark:text-slate-500">{tier.desc}</p>
+          {tier.rows.length > 0 ? (
+            <div class="mt-3">
+              <SourceTable rows={tier.rows} />
+            </div>
+          ) : (
+            <p class="mt-3 text-xs text-gray-400 dark:text-slate-600">该分层暂无来源。</p>
+          )}
+        </div>
+      ))
+    }
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pb-16 space-y-4">
+    {
+      failureRows.length > 0 && (
+        <div class="rounded-xl border border-amber-200 bg-amber-50/70 p-5 dark:border-amber-900/60 dark:bg-amber-950/30">
+          <h2 class="text-sm font-semibold text-amber-800 dark:text-amber-300">本轮失败但已隔离的来源</h2>
+          <ul class="mt-2 space-y-1 text-xs text-amber-800 dark:text-amber-300/90">
+            {failureRows.map(({ source, state }) => (
+              <li>
+                <span class="font-medium">{source.name}</span>
+                ：{state?.reason ?? '未知原因'}（此前数据仍保留在归档中）
+              </li>
+            ))}
+          </ul>
+          <p class="mt-2 text-xs text-amber-700/80 dark:text-amber-400/70">
+            多数失败是本机或运行环境的网络波动，下一轮会自动重试；连续失败请检查源地址是否变更。
+          </p>
+        </div>
+      )
+    }
+
+    <div class="rounded-xl border border-gray-200 dark:border-slate-800 p-5 text-sm leading-relaxed text-gray-600 dark:text-slate-400">
+      <h2 class="text-sm font-semibold text-gray-900 dark:text-slate-100">启用条件说明</h2>
+      <ul class="mt-2 space-y-1.5 text-xs">
+        <li>
+          <strong class="text-gray-800 dark:text-slate-200">财经频道</strong>：需要在仓库 Secrets 配置
+          <code class="font-mono">ALPHAVANTAGE_KEY</code> / <code class="font-mono">FINNHUB_KEY</code>，
+          未配置时该源标记为「缺条件」，不消耗额度。
+        </li>
+        <li>
+          <strong class="text-gray-800 dark:text-slate-200">政策频道</strong>：政府站点无官方 RSS，
+          需先自建 RSSHub 实例并把 <code class="font-mono">RSSHUB_BASE</code> 写入 Secrets，
+          再在 <code class="font-mono">config/sources.json</code> 的 <code class="font-mono">sources</code>
+          里打开对应源。
+        </li>
+        <li>
+          <strong class="text-gray-800 dark:text-slate-200">arXiv</strong>：走官方 Atom 接口，
+          按提交日期拉取最新论文，无需 Key。
+        </li>
+        <li>
+          <strong class="text-gray-800 dark:text-slate-200">徽章口径</strong>：
+          「配置关闭」= <code class="font-mono">config/sources.json</code> 或源内 <code class="font-mono">enabled</code>
+          关掉了，本轮不会去请求；「缺条件」= 配置开着但缺 API Key / RSSHUB_BASE，不消耗额度；
+          两者都不算失败，历史数据仍然保留。
+        </li>
+        <li>
+          <strong class="text-gray-800 dark:text-slate-200">抓取开关</strong>：要真正停抓某个源或整组，
+          改 <code class="font-mono">config/sources.json</code>：<code class="font-mono">groups</code> 按分组批量
+          （如 <code class="font-mono">tier.community</code>、<code class="font-mono">channel.finance</code>），
+          <code class="font-mono">sources</code> 按单源覆盖且优先级最高，提交后下一轮 Actions 生效。
+          本页每行右侧的眼睛按钮只在本机隐藏，方便你自己筛掉不关心的源，不会减少抓取量。
+        </li>
+      </ul>
+      <p class="mt-3 text-xs">
+        订阅方式：<a href={href('rss.xml')} class="text-accent-dark dark:text-accent font-medium">RSS</a>
+        ；合规与抓取规则见 <a href={href('about')} class="text-accent-dark dark:text-accent font-medium">关于</a>。
+      </p>
+    </div>
+  </section>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  /**
+   * 来源开关的「本机隐藏」。
+   *
+   * 静态站没有写权限，不能让访客真的改抓取配置（把写 token 放到前端等于公开）。
+   * 所以这里的按钮只做本机隐藏：状态存 localStorage，刷新后仍生效，清空即恢复。
+   * 真正的抓取开关在 config/sources.json，需要提交到仓库才生效。
+   */
+  (function () {
+    var KEY = 'pulse-hidden-sources';
+    var page = document.querySelector('[data-source-page]');
+    if (!page) return;
+
+    var LABEL_HIDE = '隐藏本组';
+    var LABEL_SHOW = '显示本组';
+
+    function read() {
+      try {
+        var raw = JSON.parse(window.localStorage.getItem(KEY) || '[]');
+        return Array.isArray(raw) ? raw.filter(function (id) { return typeof id === 'string'; }) : [];
+      } catch (err) {
+        return [];
+      }
+    }
+
+    var hidden = read();
+
+    function save() {
+      try {
+        window.localStorage.setItem(KEY, JSON.stringify(hidden));
+      } catch (err) {
+        /* 隐私模式下写不进去，只在本页生效 */
+      }
+    }
+
+    function rowsIn(scope) {
+      return Array.prototype.slice.call(scope.querySelectorAll('[data-source-row]'));
+    }
+
+    function idOf(row) {
+      return row.getAttribute('data-source-row') || '';
+    }
+
+    function render() {
+      // 一个源在表格和移动卡片里各有一行，两边都要同步
+      rowsIn(page).forEach(function (row) {
+        var isHidden = hidden.indexOf(idOf(row)) !== -1;
+        row.style.display = isHidden ? 'none' : '';
+        var button = row.querySelector('[data-source-hide]');
+        if (button) button.setAttribute('aria-pressed', isHidden ? 'true' : 'false');
+      });
+
+      Array.prototype.forEach.call(page.querySelectorAll('[data-source-group]'), function (button) {
+        var section = button.closest('[data-source-section]');
+        if (!section) return;
+        var ids = rowsIn(section).map(idOf);
+        var allHidden = ids.length > 0 && ids.every(function (id) { return hidden.indexOf(id) !== -1; });
+        button.textContent = allHidden ? LABEL_SHOW : LABEL_HIDE;
+        button.setAttribute('aria-pressed', allHidden ? 'true' : 'false');
+      });
+
+      var hint = page.querySelector('[data-hidden-hint]');
+      var count = page.querySelector('[data-hidden-count]');
+      if (hint && count) {
+        count.textContent = String(hidden.length);
+        hint.classList.toggle('hidden', hidden.length === 0);
+      }
+    }
+
+    function toggleOne(id) {
+      if (!id) return;
+      var index = hidden.indexOf(id);
+      if (index === -1) hidden.push(id);
+      else hidden.splice(index, 1);
+      save();
+      render();
+    }
+
+    page.addEventListener('click', function (event) {
+      var single = event.target.closest('[data-source-hide]');
+      if (single) {
+        toggleOne(single.getAttribute('data-source-hide'));
+        return;
+      }
+
+      var group = event.target.closest('[data-source-group]');
+      if (group) {
+        var section = group.closest('[data-source-section]');
+        if (!section) return;
+        var ids = rowsIn(section).map(idOf);
+        var allHidden = ids.every(function (id) { return hidden.indexOf(id) !== -1; });
+        if (allHidden) {
+          hidden = hidden.filter(function (id) { return ids.indexOf(id) === -1; });
+        } else {
+          ids.forEach(function (id) {
+            if (id && hidden.indexOf(id) === -1) hidden.push(id);
+          });
+        }
+        save();
+        render();
+        return;
+      }
+
+      if (event.target.closest('[data-hidden-reset]')) {
+        hidden = [];
+        save();
+        render();
+      }
+    });
+
+    render();
+  })();
+</script>
+
+<script is:inline>
+  /**
+   * 抓取控制台。
+   *
+   * 静态站自己没写权限，但使用者可以把自己的 fine-grained PAT 填进来：
+   * 令牌只存本机 localStorage、只发往 api.github.com，页面开关就是一次
+   * GitHub Contents API 提交，改的是仓库里的 config/sources.json。
+   *
+   * 没连接时开关只读，显示 data-server-on（上次抓取快照里的 enabled），
+   * 不让读者误以为“全部关掉了”。
+   */
+  (function () {
+    var LS_KEY = 'pulse-github-conn';
+    var LAST_KEY = 'pulse-last-dispatch';
+    var FILE = 'config/sources.json';
+    var WORKFLOW = 'pulse.yml';
+    var API = 'https://api.github.com';
+    var COMMIT_MESSAGE = 'chore(config): 更新抓取开关';
+
+    var root = document.querySelector('[data-console]');
+    if (!root) return;
+
+    var form = root.querySelector('[data-connect-form]');
+    var repoInput = root.querySelector('[data-repo-input]');
+    var branchInput = root.querySelector('[data-branch-input]');
+    var tokenInput = root.querySelector('[data-token-input]');
+    var badge = root.querySelector('[data-conn-badge]');
+    var summaryEl = root.querySelector('[data-conn-summary]');
+    var statusEl = root.querySelector('[data-conn-status]');
+    var statusWrap = root.querySelector('[data-conn-status-wrap]');
+    var statusBar = root.querySelector('[data-conn-status-bar]');
+    var statusIcon = root.querySelector('[data-conn-status-icon]');
+    var runsLink = root.querySelector('[data-conn-runs-link]');
+    var lastDispatchEl = root.querySelector('[data-last-dispatch]');
+    var repoLink = root.querySelector('[data-repo-link]');
+    var repoLabel = root.querySelector('[data-conn-repo]');
+    var syncButton = root.querySelector('[data-sync]');
+    var dispatchButton = root.querySelector('[data-dispatch]');
+    var submitButton = form ? form.querySelector('button[type="submit"]') : null;
+    /** 控制台默认收起，出错时必须自动展开，否则提示藏在里面等于没有 */
+    var panel = root.querySelector('[data-console-panel]');
+
+    var conn = readConn();
+    /** 远端文件的最新内容与 sha；sha 用来做并发保护 */
+    var remote = null;
+    var busy = false;
+
+    /* ---------- 本机存储 ---------- */
+
+    function readConn() {
+      try {
+        var raw = JSON.parse(window.localStorage.getItem(LS_KEY) || 'null');
+        if (!raw || typeof raw.token !== 'string' || typeof raw.repo !== 'string') return null;
+        return {
+          repo: raw.repo,
+          branch: typeof raw.branch === 'string' && raw.branch ? raw.branch : 'main',
+          token: raw.token,
+        };
+      } catch (err) {
+        return null;
+      }
+    }
+
+    function saveConn() {
+      try {
+        if (conn) window.localStorage.setItem(LS_KEY, JSON.stringify(conn));
+        else window.localStorage.removeItem(LS_KEY);
+      } catch (err) {
+        /* 隐私模式下写不进去，本次会话仍可用 */
+      }
+    }
+
+    /* ---------- base64（必须按 UTF-8 处理，config 里有中文注释）---------- */
+
+    function b64encode(text) {
+      var bytes = new TextEncoder().encode(text);
+      var binary = '';
+      for (var i = 0; i < bytes.length; i += 1) binary += String.fromCharCode(bytes[i]);
+      return btoa(binary);
+    }
+
+    function b64decode(value) {
+      var binary = atob(String(value || '').replace(/\s+/g, ''));
+      var bytes = new Uint8Array(binary.length);
+      for (var i = 0; i < binary.length; i += 1) bytes[i] = binary.charCodeAt(i);
+      return new TextDecoder().decode(bytes);
+    }
+
+    /* ---------- GitHub Contents API ---------- */
+
+    function api(path, options) {
+      var init = options || {};
+      var headers = {
+        Accept: 'application/vnd.github+json',
+        Authorization: 'Bearer ' + conn.token,
+        'X-GitHub-Api-Version': '2022-11-28',
+      };
+      if (init.body) headers['Content-Type'] = 'application/json';
+      return fetch(API + path, { method: init.method || 'GET', headers: headers, body: init.body });
+    }
+
+    function explain(res) {
+      if (res.status === 401) return '令牌无效或已过期，重新生成一个再填';
+      if (res.status === 403) return '令牌权限不足：Contents 需要 Read and write';
+      if (res.status === 404) return '找不到仓库或文件，检查仓库地址、分支、令牌授权范围';
+      if (res.status === 409 || res.status === 422) return '仓库里的文件已被改动，已重新加载，请再点一次';
+      return '请求失败（HTTP ' + res.status + '）';
+    }
+
+    function parseConfig(text) {
+      var parsed = JSON.parse(text || '{}');
+      if (!parsed.groups || typeof parsed.groups !== 'object') parsed.groups = {};
+      if (!parsed.sources || typeof parsed.sources !== 'object') parsed.sources = {};
+      return parsed;
+    }
+
+    function loadConfig() {
+      return api('/repos/' + conn.repo + '/contents/' + FILE + '?ref=' + encodeURIComponent(conn.branch))
+        .then(function (res) {
+          if (!res.ok) throw new Error(explain(res));
+          return res.json();
+        })
+        .then(function (data) {
+          remote = { sha: data.sha, data: parseConfig(b64decode(data.content)) };
+        });
+    }
+
+    function saveConfig(next) {
+      return api('/repos/' + conn.repo + '/contents/' + FILE, {
+        method: 'PUT',
+        body: JSON.stringify({
+          message: COMMIT_MESSAGE,
+          content: b64encode(JSON.stringify(next, null, 2) + '\n'),
+          sha: remote.sha,
+          branch: conn.branch,
+        }),
+      }).then(function (res) {
+        if (res.status === 409 || res.status === 422) {
+          return loadConfig().then(function () {
+            throw new Error(explain(res));
+          });
+        }
+        if (!res.ok) throw new Error(explain(res));
+        return res.json().then(function (data) {
+          remote = { sha: data.content.sha, data: next };
+        });
+      });
+    }
+
+    /* ---------- 开关状态：与 scripts/sources.mjs 的 resolveEnabled 一致 ---------- */
+
+    function isSourceOn(button) {
+      if (!remote) return button.getAttribute('data-server-on') === 'true';
+      var id = button.getAttribute('data-source-switch');
+      var bySource = remote.data.sources[id];
+      if (typeof bySource === 'boolean') return bySource;
+      var keys = (button.getAttribute('data-source-keys') || '').split('|');
+      for (var i = 0; i < keys.length; i += 1) {
+        if (remote.data.groups[keys[i]] === false) return false;
+      }
+      return true;
+    }
+
+    function isGroupOn(button) {
+      if (!remote) return button.getAttribute('data-server-on') === 'true';
+      return remote.data.groups[button.getAttribute('data-group-switch')] !== false;
+    }
+
+    function setSwitch(button, on) {
+      button.setAttribute('data-on', on ? 'true' : 'false');
+      button.setAttribute('aria-checked', on ? 'true' : 'false');
+    }
+
+    /* ---------- 渲染 ---------- */
+
+    function render() {
+      var connected = !!remote;
+      Array.prototype.forEach.call(root.querySelectorAll('[data-connected-only]'), function (block) {
+        block.hidden = !connected;
+      });
+      if (form) form.hidden = connected;
+
+      if (badge) {
+        badge.textContent = connected ? '已连接' : '未连接';
+        badge.className = connected
+          ? 'badge border-emerald-300 bg-emerald-50 text-emerald-700 dark:border-emerald-800 dark:bg-emerald-950/50 dark:text-emerald-300'
+          : 'badge border-gray-300 bg-white text-gray-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-400';
+      }
+
+      if (repoLink) {
+        repoLink.textContent = connected ? conn.repo : '';
+        repoLink.href = connected
+          ? 'https://github.com/' + conn.repo + '/blob/' + conn.branch + '/' + FILE
+          : '#';
+      }
+
+      // 收起状态下也能一眼看出连的是哪个仓库
+      if (repoLabel) {
+        repoLabel.textContent = connected ? conn.repo : '';
+        repoLabel.classList.toggle('hidden', !connected);
+      }
+
+      Array.prototype.forEach.call(document.querySelectorAll('[data-source-switch]'), function (button) {
+        button.disabled = !connected;
+        setSwitch(button, isSourceOn(button));
+      });
+      Array.prototype.forEach.call(document.querySelectorAll('[data-group-switch]'), function (button) {
+        button.disabled = !connected;
+        setSwitch(button, isGroupOn(button));
+      });
+
+      if (connected) {
+        renderSummary();
+      }
+      renderLastDispatch();
+    }
+
+    function renderSummary() {
+      if (!summaryEl) return;
+      var groups = remote.data.groups;
+      var sources = remote.data.sources;
+      var offGroups = Object.keys(groups).filter(function (key) {
+        return groups[key] === false;
+      });
+      var overrides = Object.keys(sources).filter(function (id) {
+        return typeof sources[id] === 'boolean';
+      });
+      summaryEl.textContent =
+        '仓库 config/sources.json：' +
+        (offGroups.length ? '已关闭分组 ' + offGroups.join('、') : '分组全部打开') +
+        ' · ' +
+        (overrides.length ? '单源覆盖 ' + overrides.length + ' 条' : '无单源覆盖') +
+        '。页面开关只改 tier.* 分组和单源覆盖，channel / lang / type 分组请直接改文件。';
+    }
+
+    var STATUS_PALETTE = {
+      busy: 'border-gray-200 bg-gray-50 text-gray-600 dark:border-slate-800 dark:bg-slate-900/60 dark:text-slate-300',
+      ok: 'border-emerald-200 bg-emerald-50 text-emerald-800 dark:border-emerald-900/60 dark:bg-emerald-950/40 dark:text-emerald-300',
+      error:
+        'border-rose-200 bg-rose-50 text-rose-800 dark:border-rose-900/60 dark:bg-rose-950/40 dark:text-rose-300',
+    };
+    var STATUS_ICON = { busy: '…', ok: '✓', error: '!' };
+
+    /**
+     * @param {string} text 传空字符串则整条隐藏
+     * @param {'busy'|'ok'|'error'} tone
+     * @param {{ link?: string }} [options] 给出时在右侧显示「查看进度」
+     */
+    function setStatus(text, tone, options) {
+      if (!statusWrap || !statusEl) return;
+      if (!text) {
+        statusWrap.hidden = true;
+        return;
+      }
+      statusWrap.hidden = false;
+      statusEl.textContent = text;
+      if (statusIcon) statusIcon.textContent = STATUS_ICON[tone] || STATUS_ICON.busy;
+      if (statusBar) {
+        statusBar.className =
+          'flex items-start gap-2 rounded-lg border px-3 py-2 text-xs ' +
+          (STATUS_PALETTE[tone] || STATUS_PALETTE.busy);
+      }
+      if (runsLink) {
+        var link = options && options.link;
+        runsLink.hidden = !link;
+        if (link) runsLink.href = link;
+      }
+      // 面板默认收起，错误提示藏在里面就等于没提示
+      if (tone === 'error' && panel && !panel.open) panel.open = true;
+    }
+
+    /**
+     * 按钮临时换文案反馈进度：进行中 → 结果 → 复原。
+     * 颜色用内联样式，避免和按钮原有的 text-rose-600 这类类名打架。
+     */
+    function flash(button, text, tone, hold) {
+      if (!button) return;
+      if (!button.getAttribute('data-label')) {
+        button.setAttribute('data-label', button.textContent.trim());
+      }
+      button.textContent = text;
+      button.disabled = true;
+      button.style.color = tone === 'error' ? '#e11d48' : tone === 'ok' ? '#059669' : '';
+      clearTimeout(button.__flashTimer);
+      button.__flashTimer = setTimeout(function () {
+        button.textContent = button.getAttribute('data-label');
+        button.disabled = false;
+        button.style.color = '';
+      }, hold || 1600);
+    }
+
+    /* ---------- 上次触发时间 ---------- */
+
+    function saveLastDispatch(iso) {
+      try {
+        window.localStorage.setItem(LAST_KEY, iso);
+      } catch (err) {
+        /* 隐私模式写不进去，不影响本次提示 */
+      }
+    }
+
+    function formatStamp(iso) {
+      var date = new Date(iso);
+      if (isNaN(date.getTime())) return '';
+      function pad(value) {
+        return value < 10 ? '0' + value : String(value);
+      }
+      return (
+        pad(date.getMonth() + 1) +
+        '-' +
+        pad(date.getDate()) +
+        ' ' +
+        pad(date.getHours()) +
+        ':' +
+        pad(date.getMinutes())
+      );
+    }
+
+    function runsUrl() {
+      return 'https://github.com/' + conn.repo + '/actions/workflows/' + WORKFLOW;
+    }
+
+    /** 触发过一次后，收起的面板里也能看到“上次什么时候跑的”，点一下直接去 Actions */
+    function renderLastDispatch() {
+      if (!lastDispatchEl) return;
+      var iso = '';
+      try {
+        iso = window.localStorage.getItem(LAST_KEY) || '';
+      } catch (err) {
+        iso = '';
+      }
+      var label = iso ? formatStamp(iso) : '';
+      if (!label || !conn) {
+        lastDispatchEl.hidden = true;
+        return;
+      }
+      lastDispatchEl.textContent = '上次触发 ' + label + ' ↗';
+      lastDispatchEl.href = runsUrl();
+      lastDispatchEl.hidden = false;
+    }
+
+    /* ---------- 写入 ---------- */
+
+    function commit(next, button) {
+      if (!remote || busy) return;
+      busy = true;
+      if (button) button.setAttribute('data-busy', 'true');
+      setStatus('正在提交…', 'busy');
+      saveConfig(next)
+        .then(function () {
+          setStatus('已提交，下一次抓取按新配置执行。', 'ok');
+        })
+        .catch(function (error) {
+          setStatus(error.message, 'error');
+        })
+        .then(function () {
+          busy = false;
+          if (button) button.removeAttribute('data-busy');
+          render();
+        });
+    }
+
+    function toggleSource(button) {
+      if (!remote || busy) return;
+      var id = button.getAttribute('data-source-switch');
+      var next = JSON.parse(JSON.stringify(remote.data));
+      next.sources[id] = !isSourceOn(button);
+      commit(next, button);
+    }
+
+    function toggleGroup(button) {
+      if (!remote || busy) return;
+      var key = button.getAttribute('data-group-switch');
+      var on = !isGroupOn(button);
+      var next = JSON.parse(JSON.stringify(remote.data));
+      next.groups[key] = on;
+      // 整组开关要“批量”生效：清掉组内单源覆盖，否则之前点过的源不会跟着变
+      var section = button.closest('[data-source-section]');
+      if (section) {
+        Array.prototype.forEach.call(section.querySelectorAll('[data-source-switch]'), function (el) {
+          delete next.sources[el.getAttribute('data-source-switch')];
+        });
+      }
+      commit(next, button);
+    }
+
+    /* ---------- 连接 / 刷新 / 触发 / 断开 ---------- */
+
+    function parseRepo(value) {
+      var text = String(value || '').trim().replace(/\.git$/i, '').replace(/\/+$/, '');
+      var url = text.match(/github\.com[:/]+([^/]+)\/([^/?#]+)/i);
+      if (url) return url[1] + '/' + url[2];
+      var plain = text.match(/^([\w.-]+)\/([\w.-]+)$/);
+      if (plain) return plain[1] + '/' + plain[2];
+      return null;
+    }
+
+    function connect(repo, branch, token) {
+      conn = { repo: repo, branch: branch, token: token };
+      tokenInput.value = '';
+      setStatus('正在读取仓库里的 config/sources.json…', 'busy');
+      flash(submitButton, '连接中…');
+      loadConfig()
+        .then(function () {
+          saveConn();
+          render();
+          setStatus('已连接 ' + repo + '，开关现在会直接提交到仓库。', 'ok');
+          flash(submitButton, '已连接 ✓', 'ok', 2000);
+        })
+        .catch(function (error) {
+          conn = null;
+          render();
+          setStatus(error.message, 'error');
+          flash(submitButton, '连接失败', 'error', 2400);
+        });
+    }
+
+    function sync() {
+      if (!conn) {
+        setStatus('还没连接仓库。先在上面填仓库地址和访问令牌，再点「连接仓库」。', 'error');
+        return;
+      }
+      if (busy) return;
+      busy = true;
+      setStatus('正在重新读取仓库里的 config/sources.json…', 'busy');
+      flash(syncButton, '刷新中…');
+      loadConfig()
+        .then(function () {
+          setStatus('已同步到仓库最新内容，开关状态就是仓库里现在的配置。', 'ok');
+          flash(syncButton, '已刷新 ✓', 'ok');
+        })
+        .catch(function (error) {
+          setStatus(error.message, 'error');
+          flash(syncButton, '刷新失败', 'error', 2400);
+        })
+        .then(function () {
+          busy = false;
+          render();
+        });
+    }
+
+    function dispatchRun() {
+      if (!conn) {
+        setStatus('还没连接仓库，触发不了。先在上面填仓库地址和访问令牌。', 'error');
+        return;
+      }
+      if (busy) return;
+      busy = true;
+      setStatus('正在通知 GitHub 开始抓取…', 'busy');
+      flash(dispatchButton, '触发中…');
+      api('/repos/' + conn.repo + '/actions/workflows/' + WORKFLOW + '/dispatches', {
+        method: 'POST',
+        body: JSON.stringify({ ref: conn.branch }),
+      })
+        .then(function (res) {
+          if (res.status === 204) {
+            saveLastDispatch(new Date().toISOString());
+            renderLastDispatch();
+            setStatus('已触发。抓取 + 构建 + 部署通常要 2-4 分钟，可以点右侧看进度。', 'ok', {
+              link: runsUrl(),
+            });
+            flash(dispatchButton, '已触发 ✓', 'ok', 2400);
+          } else if (res.status === 403 || res.status === 404) {
+            setStatus(
+              '令牌缺少 Actions 写入权限，或该 workflow 不存在。也可以去 Actions 页面点 Run workflow 手动触发。',
+              'error',
+              { link: runsUrl() },
+            );
+            flash(dispatchButton, '触发失败', 'error', 2400);
+          } else {
+            setStatus(explain(res), 'error');
+            flash(dispatchButton, '触发失败', 'error', 2400);
+          }
+        })
+        .catch(function () {
+          setStatus('触发失败，检查网络或跨域限制。', 'error');
+          flash(dispatchButton, '触发失败', 'error', 2400);
+        })
+        .then(function () {
+          busy = false;
+          render();
+        });
+    }
+
+    function disconnect() {
+      conn = null;
+      remote = null;
+      saveConn();
+      if (tokenInput) tokenInput.value = '';
+      render();
+      setStatus('已断开，令牌已从本机清除，开关恢复只读。', 'ok');
+    }
+
+    /* ---------- 事件 ---------- */
+
+    if (form) {
+      form.addEventListener('submit', function (event) {
+        event.preventDefault();
+        var repo = parseRepo(repoInput.value);
+        var branch = String(branchInput.value || '').trim() || 'main';
+        var token = String(tokenInput.value || '').trim();
+        if (!repo) {
+          setStatus('仓库地址要形如 https://github.com/用户名/仓库名', 'error');
+          return;
+        }
+        if (!token) {
+          setStatus('请填入访问令牌（github_pat_...）', 'error');
+          return;
+        }
+        branchInput.value = branch;
+        connect(repo, branch, token);
+      });
+    }
+
+    document.addEventListener('click', function (event) {
+      var target = event.target;
+      if (!target || !target.closest) return;
+      var sourceSwitch = target.closest('[data-source-switch]');
+      if (sourceSwitch) {
+        toggleSource(sourceSwitch);
+        return;
+      }
+      var groupSwitch = target.closest('[data-group-switch]');
+      if (groupSwitch) {
+        toggleGroup(groupSwitch);
+        return;
+      }
+      if (target.closest('[data-conn-dismiss]')) {
+        setStatus('');
+        return;
+      }
+      if (target.closest('[data-sync]')) return sync();
+      if (target.closest('[data-dispatch]')) return dispatchRun();
+      if (target.closest('[data-disconnect]')) return disconnect();
+    });
+
+    /* ---------- 启动 ---------- */
+
+    if (conn) {
+      repoInput.value = 'https://github.com/' + conn.repo;
+      branchInput.value = conn.branch;
+    }
+
+    render();
+    setStatus('');
+
+    if (conn) {
+      loadConfig()
+        .then(function () {
+          render();
+          setStatus('已连接 ' + conn.repo + '。', 'ok');
+        })
+        .catch(function (error) {
+          remote = null;
+          render();
+          setStatus(error.message, 'error');
+        });
+    }
+  })();
+</script>

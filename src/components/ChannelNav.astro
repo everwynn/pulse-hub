@@ -1,0 +1,41 @@
+---
+import { CHANNELS } from '../lib/channels';
+import { href } from '../lib/url';
+
+interface Props {
+  counts?: Record<string, number>;
+  active?: string;
+}
+
+const { counts = {}, active = '' } = Astro.props;
+---
+
+<!-- 手机上单列：两列时每张卡片只有 160px 宽，四行描述会挤成 8-10 字一行 -->
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+  {
+    CHANNELS.map((channel) => (
+      <a
+        href={href(`channel/${channel.id}`)}
+        class:list={[
+          'group rounded-xl border p-4 card-hover',
+          active === channel.id
+            ? 'border-accent/60 bg-accent/5'
+            : 'border-gray-200 bg-white dark:border-slate-800 dark:bg-slate-900/50',
+        ]}
+      >
+        <div class="flex items-center justify-between">
+          <span class="flex items-center gap-2 text-sm font-semibold text-gray-900 dark:text-slate-100">
+            <span class:list={['w-2 h-2 rounded-full', channel.dot]} />
+            {channel.label}
+          </span>
+          <span class="text-xs font-mono text-gray-500 dark:text-slate-500">
+            {counts[channel.id] ?? 0}
+          </span>
+        </div>
+        <p class="mt-2 text-xs leading-relaxed text-gray-500 dark:text-slate-400">
+          {channel.description}
+        </p>
+      </a>
+    ))
+  }
+</div>

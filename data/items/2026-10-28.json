@@ -1,0 +1,337 @@
+[
+  {
+    "id": "af1457fe0e356b06",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents…",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "canonicalUrl": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "publishedAt": "2026-10-28T13:15:00.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "openaiandservicenowexpandpartnershipacrossenterpriseworkflows"
+  },
+  {
+    "id": "820b7093e339939a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+    "summary": "让基建作为常驻buff",
+    "url": "https://www.qbitai.com/2026/10/506194.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/506194.html",
+    "publishedAt": "2026-10-28T11:09:10.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "具身底座工程",
+      "逐际动力"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "图片中转测试未发布工程能力一键复用专心卷新能力轮子造一次就够了详解fluxvlaengine技术报告"
+  },
+  {
+    "id": "09c020a0aa81ea7f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+    "summary": "让基建作为常驻buff",
+    "url": "https://www.qbitai.com/2026/10/506098.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/506098.html",
+    "publishedAt": "2026-10-28T10:32:39.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "具身底座工程",
+      "逐际动力"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "工程能力一键复用专心卷新能力轮子造一次就够了详解fluxvlaengine技术报告"
+  },
+  {
+    "id": "bd1b77889fb7e5c6",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "The future of the firm",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "canonicalUrl": "https://openai.com/index/the-future-of-the-firm",
+    "publishedAt": "2026-10-28T10:00:00.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "Intelligence Age"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "thefutureofthefirm"
+  },
+  {
+    "id": "1a3387a29340e094",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Legora is building the agentic operating system for legal work",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl…",
+    "url": "https://openai.com/index/legora",
+    "canonicalUrl": "https://openai.com/index/legora",
+    "publishedAt": "2026-10-28T09:30:00.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "legoraisbuildingtheagenticoperatingsystemforlegalwork"
+  },
+  {
+    "id": "66f9cab7cde71651",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "威卡：用数据集链接具身智能和工程机械",
+    "summary": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+    "url": "https://www.qbitai.com/2026/10/506063.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/506063.html",
+    "publishedAt": "2026-10-28T09:01:27.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "资讯",
+      "威卡"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "威卡用数据集链接具身智能和工程机械"
+  },
+  {
+    "id": "3994ef163961477f",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7",
+    "publishedAt": "2026-10-27T18:39:03.000Z",
+    "fetchedAt": "2026-10-27T14:13:24.445Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "亿万工程师同饮五粮春五粮春携手gtlc为构建者举杯"
+  },
+  {
+    "id": "725b96f9145f993f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Mossad Has Devices Like the Exploding Pagers in \"Every Country You Can Imagine\" (2025)",
+    "summary": "",
+    "url": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
+    "canonicalUrl": "https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html",
+    "publishedAt": "2026-10-27T17:31:20.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 28,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "mossadhasdevicesliketheexplodingpagersineverycountryyoucanimagine2025"
+  },
+  {
+    "id": "29d51e94e0bd3b33",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ",
+    "publishedAt": "2026-10-27T17:17:00.000Z",
+    "fetchedAt": "2026-10-27T14:13:24.445Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "azurecontainerappsexpress在新的通用沙箱层上正式发布"
+  },
+  {
+    "id": "7cb2cf70f74c3b8c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ghostty 1.4.0",
+    "summary": "",
+    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "canonicalUrl": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "publishedAt": "2026-10-27T16:51:22.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 93,
+      "comments": 35
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ghostty140"
+  },
+  {
+    "id": "c590fc8d7deb5301",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+    "summary": "Make empty what is already empty.",
+    "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+    "canonicalUrl": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+    "publishedAt": "2026-10-27T16:46:17.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "ai",
+      "discuss",
+      "programming",
+      "career"
+    ],
+    "signals": {
+      "reactions": 108,
+      "comments": 54
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "stratagems32theailoggedawithdrawalptookitasproof"
+  },
+  {
+    "id": "9ffe3f5ea44e2804",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Your DEV posts have a beautiful new share card ✨",
+    "summary": "The image that shows up when you share a DEV post just got a brand-new look!",
+    "url": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+    "canonicalUrl": "https://dev.to/devteam/your-dev-posts-have-a-beautiful-new-share-card-4be8",
+    "publishedAt": "2026-10-27T16:44:29.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "devto",
+      "showdev",
+      "opensource",
+      "design"
+    ],
+    "signals": {
+      "reactions": 110,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "yourdevpostshaveabeautifulnewsharecard"
+  },
+  {
+    "id": "cbc07cedd1dc9b25",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+    "summary": "",
+    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "canonicalUrl": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+    "publishedAt": "2026-10-27T16:40:15.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 90,
+      "comments": 24
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "policeareusingaitopulloverdriversforsuspiciousbehavior"
+  },
+  {
+    "id": "be1cccf1e5ca3ffb",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Classification of Finite Simple Groups Formalized in Lean",
+    "summary": "",
+    "url": "https://cfsg.axiommath.ai/",
+    "canonicalUrl": "https://cfsg.axiommath.ai/",
+    "publishedAt": "2026-10-27T16:29:02.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 41,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "classificationoffinitesimplegroupsformalizedinlean"
+  },
+  {
+    "id": "df125949f558c02e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "summary": "",
+    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+    "canonicalUrl": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run",
+    "publishedAt": "2026-10-27T16:25:12.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 15,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "php2shelllitellmgitlabfindwhatyouneedtopatch"
+  },
+  {
+    "id": "ef56961ae8568d85",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Genie 4",
+    "summary": "",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "canonicalUrl": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+    "publishedAt": "2026-10-27T16:06:01.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 261,
+      "comments": 143
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "genie4"
+  }
+]

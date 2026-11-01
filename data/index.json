@@ -1,0 +1,136 @@
+{
+  "timeZone": "Asia/Shanghai",
+  "updatedAt": "2026-10-29T17:32:33.447Z",
+  "dates": [
+    {
+      "date": "2026-10-30",
+      "count": 38,
+      "channels": {
+        "tech": 10,
+        "finance": 28
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "count": 59,
+      "channels": {
+        "finance": 12,
+        "tech": 30,
+        "ai": 17
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "count": 16,
+      "channels": {
+        "ai": 6,
+        "tech": 10
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "count": 65,
+      "channels": {
+        "tech": 35,
+        "ai": 24,
+        "finance": 6
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "count": 26,
+      "channels": {
+        "tech": 14,
+        "ai": 12
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "count": 5,
+      "channels": {
+        "tech": 5
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "count": 6,
+      "channels": {
+        "tech": 5,
+        "ai": 1
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "count": 8,
+      "channels": {
+        "tech": 4,
+        "ai": 4
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "count": 9,
+      "channels": {
+        "ai": 4,
+        "tech": 5
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "count": 6,
+      "channels": {
+        "tech": 5,
+        "ai": 1
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "count": 2,
+      "channels": {
+        "tech": 2
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "count": 2,
+      "channels": {
+        "ai": 2
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "count": 4,
+      "channels": {
+        "ai": 4
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "count": 1,
+      "channels": {
+        "ai": 1
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "count": 1,
+      "channels": {
+        "ai": 1
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "count": 1,
+      "channels": {
+        "ai": 1
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "count": 1,
+      "channels": {
+        "ai": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "id": "326c8a8e53c4f356",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
+    "summary": "Hoi hoi! YAY! is-kit just reached 100 GitHub stars⭐ 🎉🎉🎉 When it reached 50 stars…",
+    "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
+    "canonicalUrl": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
+    "publishedAt": "2026-10-21T15:08:25.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "typescript",
+      "opensource",
+      "webdev",
+      "frontend"
+    ],
+    "signals": {
+      "reactions": 120,
+      "comments": 34
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "iskitreached100starshereswhatchangedsince50"
+  },
+  {
+    "id": "3fcd6e5f220a7f8f",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "9bie/php2shell-bypass-aslr-exp",
+    "summary": "A php2shell exploit that requires no modifications to the official version, and …",
+    "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+    "canonicalUrl": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+    "publishedAt": "2026-10-21T11:11:57.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1497,
+      "forks": 434
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "9biephp2shellbypassaslrexp"
+  },
+  {
+    "id": "34cc96f25329f7d9",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "How to Become a Tech Conference Speaker (And Why You Might Regret It)",
+    "summary": "So you want to be a conference speaker?",
+    "url": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink",
+    "canonicalUrl": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink",
+    "publishedAt": "2026-10-21T08:05:30.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "career",
+      "speaking",
+      "techtalks"
+    ],
+    "signals": {
+      "reactions": 222,
+      "comments": 117
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "howtobecomeatechconferencespeakerandwhyyoumightregretit"
+  },
+  {
+    "id": "22ca078621bf792a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "ikow/php2shell-poc",
+    "summary": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec…",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "canonicalUrl": "https://github.com/ikow/php2shell-poc",
+    "publishedAt": "2026-10-21T07:55:16.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Python",
+      "cve-2026-109618",
+      "cve-2026-109619",
+      "detection-rules",
+      "exploit",
+      "php-exploit"
+    ],
+    "signals": {
+      "stars": 1864,
+      "forks": 635
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "ikowphp2shellpoc"
+  },
+  {
+    "id": "1a0238463de0130b",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Stuck in the same dev.to topics? An open model fixed it.",
+    "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow…",
+    "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+    "canonicalUrl": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+    "publishedAt": "2026-10-21T02:13:00.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "ai",
+      "javascript"
+    ],
+    "signals": {
+      "reactions": 74,
+      "comments": 40
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "stuckinthesamedevtotopicsanopenmodelfixedit"
+  },
+  {
+    "id": "445f605147f09bc5",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Called to serve: Tech, research, and positive impact",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
+    "publishedAt": "2026-10-20T16:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Microsoft Research Podca"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "calledtoservetechresearchandpositiveimpact"
+  }
+]

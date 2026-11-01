@@ -1,0 +1,121 @@
+[
+  {
+    "id": "2e342b59d9ae7ca1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Microsoft and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+    "summary": "",
+    "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+    "canonicalUrl": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+    "publishedAt": "2026-10-25T15:28:40.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 23,
+      "comments": 7
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "microsoftandotherstellcryptoplatformnottotokenizetheirstocks"
+  },
+  {
+    "id": "ac1d8508710f1f2c",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "interplains/Zero-Breach-Toolkit",
+    "summary": "Free, open-source, offline checks for traces of known mercenary spyware.",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "canonicalUrl": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "publishedAt": "2026-10-25T14:41:34.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 3381,
+      "forks": 370
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "interplainszerobreachtoolkit"
+  },
+  {
+    "id": "d9b4bc3e6a3e9cf5",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "designfuchen/word-atlas",
+    "summary": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and…",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "canonicalUrl": "https://github.com/designfuchen/word-atlas",
+    "publishedAt": "2026-10-25T08:27:22.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "TypeScript",
+      "chinese",
+      "dataset",
+      "english-learning",
+      "flashcards",
+      "fsrs"
+    ],
+    "signals": {
+      "stars": 3217,
+      "forks": 705
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "designfuchenwordatlas"
+  },
+  {
+    "id": "9028c679f04b6040",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "I Earned a Seat at GitHub Universe. It'll Stay Empty, and That's Not Fair",
+    "summary": "Why Am I Writing This?",
+    "url": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
+    "canonicalUrl": "https://dev.to/georgekobaidze/i-earned-a-seat-at-github-universe-itll-stay-empty-and-thats-not-fair-3d7k",
+    "publishedAt": "2026-10-25T06:44:20.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "conference",
+      "github"
+    ],
+    "signals": {
+      "reactions": 131,
+      "comments": 89
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "iearnedaseatatgithubuniverseitllstayemptyandthatsnotfair"
+  },
+  {
+    "id": "c1ff2b06e42e2ca9",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. (And My First Test Was Wrong.)",
+    "summary": "I’m not on the DEV team.",
+    "url": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
+    "canonicalUrl": "https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo",
+    "publishedAt": "2026-10-24T18:12:54.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "opensource",
+      "ruby",
+      "rails",
+      "testing"
+    ],
+    "signals": {
+      "reactions": 133,
+      "comments": 56
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "imnotonthedevteamistilldebuggedtheirmissingbadgesfrompubliccodeandmyfirsttestwaswrong"
+  }
+]

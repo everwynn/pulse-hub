@@ -1,0 +1,541 @@
+[
+  {
+    "id": "bbedd45000bbc06a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "CSS-Tricks has a new owner",
+    "summary": "",
+    "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+    "canonicalUrl": "https://css-tricks.com/css-tricks-has-a-new-owner",
+    "publishedAt": "2026-10-26T15:51:23.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 178,
+      "comments": 43
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "csstrickshasanewowner"
+  },
+  {
+    "id": "96d276f5224bb457",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "summary": "",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "canonicalUrl": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "publishedAt": "2026-10-26T15:11:59.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 311,
+      "comments": 43
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "sebastianraschkasfromscratchvideocourseonbuildingreasoningmodels"
+  },
+  {
+    "id": "5dccccadfb5034ce",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+    "summary": "",
+    "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+    "canonicalUrl": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+    "publishedAt": "2026-10-26T15:05:04.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 79,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whymicronissuddenlyditching4f²dramasrivalsdoubledown"
+  },
+  {
+    "id": "1c12eebfee82f12d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "母蝙蝠听到自己幼崽的叫声心跳会加速",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85716",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85716",
+    "publishedAt": "2026-10-26T14:48:44.000Z",
+    "fetchedAt": "2026-10-27T14:13:23.245Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "母蝙蝠听到自己幼崽的叫声心跳会加速"
+  },
+  {
+    "id": "52f2d14a7279485d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "亚马逊计划年底推出互联网宽带服务",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85715",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85715",
+    "publishedAt": "2026-10-26T14:38:02.000Z",
+    "fetchedAt": "2026-10-27T14:13:23.245Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "亚马逊计划年底推出互联网宽带服务"
+  },
+  {
+    "id": "96441a76e11cbfb6",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Working with academic communities to build scientific understanding",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesi…",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "canonicalUrl": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "publishedAt": "2026-10-26T14:30:00.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "workingwithacademiccommunitiestobuildscientificunderstanding"
+  },
+  {
+    "id": "f54c4cbbe839d23b",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebas…",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "canonicalUrl": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "publishedAt": "2026-10-26T13:45:00.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "Security"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "gpt61solhelpscoderabbitstrengthensecurityacrosscomplexcodebases"
+  },
+  {
+    "id": "83442d587203b078",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Anthropic S-1",
+    "summary": "",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "canonicalUrl": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "publishedAt": "2026-10-26T13:04:50.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1113,
+      "comments": 1025
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "anthropics1"
+  },
+  {
+    "id": "6538e6ca2310422b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Fixing Tool-Call Accuracy in vLLM",
+    "summary": "",
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "canonicalUrl": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "publishedAt": "2026-10-26T12:59:48.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 121,
+      "comments": 62
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "fixingtoolcallaccuracyinvllm"
+  },
+  {
+    "id": "500f28cd01b3bcdd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Pharo 14",
+    "summary": "",
+    "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "canonicalUrl": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+    "publishedAt": "2026-10-26T11:15:50.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 171,
+      "comments": 38
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "pharo14"
+  },
+  {
+    "id": "eef76e6950623cae",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "ChatGPT’s expanding world of work",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, …",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "canonicalUrl": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "publishedAt": "2026-10-26T10:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "chatgptsexpandingworldofwork"
+  },
+  {
+    "id": "6f32942d738ef5c4",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+    "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+    "url": "https://www.qbitai.com/2026/10/505539.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/505539.html",
+    "publishedAt": "2026-10-26T09:46:13.000Z",
+    "fetchedAt": "2026-10-27T14:13:14.451Z",
+    "tags": [
+      "资讯",
+      "天禧AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "ai时代一个人能有多大能量天禧ai观猹大会现场实测个人ai跨端协同新体验"
+  },
+  {
+    "id": "3ceb9812e75c8b00",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "OpenAI开始断网训练最强模型：“安全起见”",
+    "summary": "模型开始利用GPU缓存聊天？",
+    "url": "https://www.qbitai.com/2026/10/505529.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/505529.html",
+    "publishedAt": "2026-10-26T09:37:57.000Z",
+    "fetchedAt": "2026-10-27T14:13:14.451Z",
+    "tags": [
+      "资讯",
+      "OpenAI",
+      "断网"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "openai开始断网训练最强模型安全起见"
+  },
+  {
+    "id": "0a67ad85206de154",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "A社联创演讲：AI奇点已来",
+    "summary": "所谓奇点，或许是AI跃过人类的那个点。",
+    "url": "https://www.qbitai.com/2026/10/505521.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/505521.html",
+    "publishedAt": "2026-10-26T09:35:14.000Z",
+    "fetchedAt": "2026-10-27T14:13:14.451Z",
+    "tags": [
+      "资讯",
+      "AI奇点"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a社联创演讲ai奇点已来"
+  },
+  {
+    "id": "453e0dffd9aa3320",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "NeoLab第一个商业模式：转售GPU",
+    "summary": "从冲刺AGI到转售GPU。",
+    "url": "https://www.qbitai.com/2026/10/505478.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/505478.html",
+    "publishedAt": "2026-10-26T09:31:47.000Z",
+    "fetchedAt": "2026-10-27T14:13:14.451Z",
+    "tags": [
+      "资讯",
+      "AI Lab",
+      "算力"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "neolab第一个商业模式转售gpu"
+  },
+  {
+    "id": "74a845ca7b2afe27",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "中国近50%的新云生意，竟被这家公司包揽！",
+    "summary": "有点意外，但也不意外",
+    "url": "https://www.qbitai.com/2026/10/505454.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/505454.html",
+    "publishedAt": "2026-10-26T09:02:44.000Z",
+    "fetchedAt": "2026-10-27T14:13:14.451Z",
+    "tags": [
+      "资讯",
+      "Neocloud",
+      "Token工厂",
+      "商汤科技",
+      "新云"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国近50的新云生意竟被这家公司包揽"
+  },
+  {
+    "id": "29174a48135aeb0b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Switzerland. Block by block. At 1:1 scale",
+    "summary": "",
+    "url": "https://blocks.manifold3d.ch/",
+    "canonicalUrl": "https://blocks.manifold3d.ch/",
+    "publishedAt": "2026-10-26T08:46:09.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 404,
+      "comments": 196
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "switzerlandblockbyblockat11scale"
+  },
+  {
+    "id": "c31f1072cb63f9f1",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "从“言传身教”到“触类旁通”：AI既需要“名师指引”，也需要“自我修行”",
+    "summary": "人工智能正在从人机“言传身教”走向自学“触类旁通”。",
+    "url": "https://www.qbitai.com/2026/10/505443.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/10/505443.html",
+    "publishedAt": "2026-10-26T08:38:49.000Z",
+    "fetchedAt": "2026-10-27T14:13:14.451Z",
+    "tags": [
+      "资讯",
+      "MiniMax"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从言传身教到触类旁通ai既需要名师指引也需要自我修行"
+  },
+  {
+    "id": "822bb7f050972ee4",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the …",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "canonicalUrl": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "publishedAt": "2026-10-26T07:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howfanaticsandopenaistreamlinethefanexperience"
+  },
+  {
+    "id": "8e3465a930908ada",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes…",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "canonicalUrl": "https://openai.com/index/openai-cut-incident-investigation",
+    "publishedAt": "2026-10-26T07:00:00.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "OpenAI on OpenAI"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howultrafastcutincidentinvestigationfromhourstominutesatopenai"
+  },
+  {
+    "id": "0a5ada20fe372012",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "When Recovering From Burnout, Writing Became My Therapy. And This Week My First Coding Book Turns 1 Year Old. Ask Me Anything!",
+    "summary": "Hi, I'm Cesar, a Senior Software Engineer with 10+ years of experience.",
+    "url": "https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e",
+    "canonicalUrl": "https://dev.to/canro91/to-recover-from-burnout-writing-became-my-therapy-and-this-week-my-first-coding-book-turns-1-year-388e",
+    "publishedAt": "2026-10-26T05:00:00.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "discuss",
+      "watercooler",
+      "ama",
+      "coding"
+    ],
+    "signals": {
+      "reactions": 31,
+      "comments": 32
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whenrecoveringfromburnoutwritingbecamemytherapyandthisweekmyfirstcodingbookturns1yearoldaskmeanything"
+  },
+  {
+    "id": "c86e8c40b32077f7",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "andyhuo520/digital-human-koubo",
+    "summary": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 …",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "canonicalUrl": "https://github.com/andyhuo520/digital-human-koubo",
+    "publishedAt": "2026-10-26T04:34:09.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "TypeScript"
+    ],
+    "signals": {
+      "stars": 1449,
+      "forks": 331
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "andyhuo520digitalhumankoubo"
+  },
+  {
+    "id": "e1504bf39cfe9843",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing GPT-6.1 Terra",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "canonicalUrl": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducinggpt61terra"
+  },
+  {
+    "id": "0bbd99f9934a0548",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+    "summary": "",
+    "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+    "canonicalUrl": "https://shraiwi.com/blog/simd-fast-esp32s3",
+    "publishedAt": "2026-10-25T22:29:47.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 89,
+      "comments": 24
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "simdacceleratedcomputervisionona2microcontroller"
+  },
+  {
+    "id": "3f8434faea9dbb0c",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "🐾 DEV Pet Corner #3: Show Us Your Pets!",
+    "summary": "TL;DR DEV Pet Corner is back for another Sunday!",
+    "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n",
+    "canonicalUrl": "https://dev.to/hemapriya_kanagala/dev-pet-corner-3-show-us-your-pets-35n",
+    "publishedAt": "2026-10-25T18:28:32.000Z",
+    "fetchedAt": "2026-10-29T17:32:33.447Z",
+    "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "pets"
+    ],
+    "signals": {
+      "reactions": 75,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "devpetcorner3showusyourpets"
+  },
+  {
+    "id": "7fbf9c433a3f0ac0",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "unclebob/ub-mode",
+    "summary": "★ 4473",
+    "url": "https://github.com/unclebob/ub-mode",
+    "canonicalUrl": "https://github.com/unclebob/ub-mode",
+    "publishedAt": "2026-10-25T16:04:09.000Z",
+    "fetchedAt": "2026-10-27T17:47:39.968Z",
+    "tags": [],
+    "signals": {
+      "stars": 4473,
+      "forks": 247
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "unclebobubmode"
+  }
+]

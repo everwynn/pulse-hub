@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="8" fill="#0b1220"/>
+  <!-- 深色标签栏下底色会融进背景，加一圈极淡内描边勾出轮廓 -->
+  <rect x="0.4" y="0.4" width="31.2" height="31.2" rx="7.6" fill="none" stroke="#e2e8f0" stroke-opacity="0.18" stroke-width="0.8"/>
+  <path d="M4 17h5l3-7 4 14 3-9 2 4h7" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

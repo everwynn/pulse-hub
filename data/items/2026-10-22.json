@@ -1,0 +1,197 @@
+[
+  {
+    "id": "8405823ba9037fd0",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct fo…",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "canonicalUrl": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+    "publishedAt": "2026-10-22T14:30:24.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "beyondtreecovermappingtheworldsforesttypes"
+  },
+  {
+    "id": "566e57007a6f7c2c",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "oosexgang/hackios-xnu-kernel",
+    "summary": "C · ★ 1797",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "canonicalUrl": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "publishedAt": "2026-10-22T06:20:11.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "C"
+    ],
+    "signals": {
+      "stars": 1797,
+      "forks": 316
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "oosexganghackiosxnukernel"
+  },
+  {
+    "id": "9416d51c854a75a0",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "What FDE means at OpenAI",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "canonicalUrl": "https://openai.com/index/forward-deployed-engineering-means",
+    "publishedAt": "2026-10-22T06:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "AI Adoption"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "whatfdemeansatopenai"
+  },
+  {
+    "id": "80e0ea14147859a3",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Don't Be a Proxy Between Me and Your AI",
+    "summary": "I've had this conversation more times than I'd like to admit.",
+    "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+    "canonicalUrl": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+    "publishedAt": "2026-10-22T04:31:09.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "ai",
+      "discuss",
+      "career",
+      "programming"
+    ],
+    "signals": {
+      "reactions": 140,
+      "comments": 112
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "dontbeaproxybetweenmeandyourai"
+  },
+  {
+    "id": "5ca0690c2f5e1196",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams re…",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "canonicalUrl": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "uberbringschatgptworktoallemployeeswithopenai"
+  },
+  {
+    "id": "f4e0d8b7eb047d79",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "wesbos/3d-model-anything",
+    "summary": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor…",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "canonicalUrl": "https://github.com/wesbos/3d-model-anything",
+    "publishedAt": "2026-10-21T19:38:50.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Swift"
+    ],
+    "signals": {
+      "stars": 2182,
+      "forks": 321
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "wesbos3dmodelanything"
+  },
+  {
+    "id": "5fcd437d542d30df",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "xevrion/hatchzip",
+    "summary": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t…",
+    "url": "https://github.com/xevrion/hatchzip",
+    "canonicalUrl": "https://github.com/xevrion/hatchzip",
+    "publishedAt": "2026-10-21T17:29:28.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Rust",
+      "7z",
+      "7zip",
+      "archive",
+      "archive-extractor",
+      "cli"
+    ],
+    "signals": {
+      "stars": 2140,
+      "forks": 64
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "xevrionhatchzip"
+  },
+  {
+    "id": "b5bd595a3d3e8654",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "I Got Tired of Coming Into My Lab To Check the Pressure of My Cryocooler so I Built a Tool To Do It for Me",
+    "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow…",
+    "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+    "canonicalUrl": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+    "publishedAt": "2026-10-21T16:59:00.000Z",
+    "fetchedAt": "2026-10-26T18:19:56.020Z",
+    "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "tigerdata",
+      "githubcopilot"
+    ],
+    "signals": {
+      "reactions": 61,
+      "comments": 25
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "igottiredofcomingintomylabtocheckthepressureofmycryocoolersoibuiltatooltodoitforme"
+  },
+  {
+    "id": "2f91221432cb7154",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+    "publishedAt": "2026-10-21T16:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Research Blog"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "solvinga31yearoldgrandchallengeinmathematicstheklsconjecture"
+  }
+]

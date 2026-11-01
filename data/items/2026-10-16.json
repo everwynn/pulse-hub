@@ -1,0 +1,38 @@
+[
+  {
+    "id": "066f5a7939361f0d",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravit…",
+    "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "canonicalUrl": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+    "publishedAt": "2026-10-15T16:08:03.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "acceleratingthesearchforantimicrobialpeptideswithgoogleantigravity"
+  },
+  {
+    "id": "b5ca7c6f604c3653",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Proof-based general-purpose computing with Magnetar",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+    "publishedAt": "2026-10-15T16:00:00.000Z",
+    "fetchedAt": "2026-10-26T18:10:07.783Z",
+    "tags": [
+      "Research Blog"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "proofbasedgeneralpurposecomputingwithmagnetar"
+  }
+]

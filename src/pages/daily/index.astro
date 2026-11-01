@@ -1,0 +1,57 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getDateEntries } from '../../lib/items';
+import { CHANNELS } from '../../lib/channels';
+import { href } from '../../lib/url';
+
+const dates = getDateEntries();
+const total = dates.reduce((sum, entry) => sum + entry.count, 0);
+---
+
+<BaseLayout title="日报归档" description="按天归档的行业头条，每天一页，便于回溯与检索。">
+  <section class="border-b border-gray-200 dark:border-slate-800 bg-white dark:bg-slate-900/30">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-10">
+      <nav class="text-xs text-gray-500 dark:text-slate-500">
+        <a href={href('/')} class="hover:text-accent">首页</a>
+        <span class="mx-2">/</span>
+        <span class="text-gray-700 dark:text-slate-300">日报归档</span>
+      </nav>
+      <h1 class="mt-3 text-2xl md:text-3xl font-bold text-gray-900 dark:text-white">日报归档</h1>
+      <p class="mt-3 text-sm text-gray-600 dark:text-slate-400">
+        共 {dates.length} 天、{total} 条记录，按北京时间自然日划归；归档仅保留最近 90 天。
+      </p>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+    {
+      dates.length === 0 ? (
+        <p class="text-sm text-gray-500 dark:text-slate-500">还没有任何归档数据。</p>
+      ) : (
+        <ul class="divide-y divide-gray-100 dark:divide-slate-800">
+          {dates.map((entry) => (
+            <li>
+              <a
+                href={href(`daily/${entry.date}`)}
+                class="flex flex-wrap items-center gap-3 py-4 hover:bg-gray-50 dark:hover:bg-slate-900/40 px-2 -mx-2 rounded-lg"
+              >
+                <span class="font-mono text-sm font-semibold text-gray-900 dark:text-slate-100">
+                  {entry.date}
+                </span>
+                <span class="text-xs text-gray-500 dark:text-slate-500">{entry.count} 条</span>
+                <span class="flex flex-wrap gap-1.5">
+                  {CHANNELS.filter((channel) => entry.channels?.[channel.id]).map((channel) => (
+                    <span class:list={['badge', channel.badge]}>
+                      {channel.short}
+                      <span class="font-mono">{entry.channels[channel.id]}</span>
+                    </span>
+                  ))}
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </section>
+</BaseLayout>
