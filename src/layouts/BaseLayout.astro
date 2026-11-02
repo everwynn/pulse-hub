@@ -97,6 +97,153 @@ const updatedAt = health.updatedAt ? formatDateTime(health.updatedAt) : '';
         });
       })();
     </script>
+
+    <!-- 滚动位置记忆：手机端返回时不再回到顶部。
+         桌面浏览器大多命中 bfcache，页面一直留在内存里，滚动位置由浏览器自己保住；
+         手机上内存紧张时后台标签页会被丢弃，或在「新标签打开文章 → 切回原标签」时被重新加载，
+         浏览器自己的 scrollRestoration 这时给不出位置，就回到了顶部。
+         这里按 URL 把位置存进 sessionStorage，在三种进入方式下回填：
+           back_forward（后退/前进）、reload（刷新）、
+           navigate 但记录较新且不是从站内点链接过来的（标签页被丢弃后重新加载）。 -->
+    <script is:inline>
+      (function () {
+        var KEY = 'pulse-scroll';
+        var INTENT = 'pulse-nav-intent';
+        var RECENT = 10 * 60 * 1000;
+        var url = location.pathname + location.search;
+        var root = document.documentElement;
+
+        if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+
+        function readMap() {
+          try {
+            var map = JSON.parse(sessionStorage.getItem(KEY) || '{}');
+            return map && typeof map === 'object' ? map : {};
+          } catch (err) {
+            return {};
+          }
+        }
+
+        function readEntry(map) {
+          // 兼容早期写成纯数字的格式
+          var raw = map[url];
+          if (typeof raw === 'number') return { y: raw, t: 0 };
+          if (raw && typeof raw === 'object') return { y: raw.y || 0, t: raw.t || 0 };
+          return null;
+        }
+
+        function save() {
+          var map = readMap();
+          map[url] = { y: window.scrollY || window.pageYOffset || 0, t: Date.now() };
+          // 只留最近 30 个地址，防止 sessionStorage 越积越多
+          var keys = Object.keys(map);
+          if (keys.length > 30) {
+            keys.sort(function (a, b) {
+              return (map[a].t || 0) - (map[b].t || 0);
+            });
+            delete map[keys[0]];
+          }
+          try {
+            sessionStorage.setItem(KEY, JSON.stringify(map));
+          } catch (err) {
+            /* 隐私模式写不进去，退化成浏览器默认行为 */
+          }
+        }
+
+        /** 站内链接点击会写一个标记，用来区分「自己点进来」和「标签页被重新加载」 */
+        function markIntent(event) {
+          if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+          var el = event.target;
+          while (el && el.tagName !== 'A') el = el.parentElement;
+          if (!el) return;
+          // 新标签打开不影响本页位置；锚点跳转也不算换页
+          if (el.target && el.target !== '_self') return;
+          var raw = el.getAttribute('href') || '';
+          if (!raw || raw.charAt(0) === '#') return;
+          try {
+            var next = new URL(raw, location.href);
+            if (next.origin !== location.origin) return;
+            if (next.pathname === location.pathname && next.search === location.search) return;
+          } catch (err) {
+            return;
+          }
+          try {
+            sessionStorage.setItem(INTENT, '1');
+          } catch (err) {
+            /* 写不进去就退化成不恢复，不会比现在更差 */
+          }
+        }
+
+        function restore(y) {
+          if (location.hash || !y || y < 1) return;
+          // 恢复期间临时关掉平滑滚动，否则会从顶部动画过去
+          var prev = root.style.scrollBehavior;
+          root.style.scrollBehavior = 'auto';
+          var tries = 0;
+          (function tick() {
+            window.scrollTo(0, y);
+            // 字体/Pagefind 等会改变页高，一次 scrollTo 可能被截断，多试几帧直到到位
+            if (++tries < 8 && Math.abs(window.scrollY - y) > 1) {
+              requestAnimationFrame(tick);
+            } else {
+              root.style.scrollBehavior = prev;
+            }
+          })();
+        }
+
+        function navType() {
+          try {
+            var entry = performance.getEntriesByType('navigation')[0];
+            return entry ? entry.type : '';
+          } catch (err) {
+            return '';
+          }
+        }
+
+        var done = false;
+        function boot() {
+          var intent = '';
+          try {
+            intent = sessionStorage.getItem(INTENT) || '';
+            sessionStorage.removeItem(INTENT);
+          } catch (err) {
+            /* 忽略 */
+          }
+          if (done) return;
+          var entry = readEntry(readMap());
+          if (!entry) return;
+          var type = navType();
+          var recent = Date.now() - entry.t < RECENT;
+          // 点站内链接进来时，期望的是从顶部开始，不回填；
+          // 手机标签页被丢弃后重新加载报的是 navigate，只能靠「记录较新 + 没有点击意图」识别
+          if (type === 'back_forward' || type === 'reload' || (type === 'navigate' && recent && !intent)) {
+            done = true;
+            restore(entry.y);
+          }
+        }
+
+        window.addEventListener('pageshow', function (event) {
+          // bfcache 命中时浏览器已还原过，这里再校准一次（页高可能已变）
+          if (!event.persisted) return;
+          var entry = readEntry(readMap());
+          if (!entry) return;
+          done = true;
+          restore(entry.y);
+        });
+        window.addEventListener('pagehide', save);
+        document.addEventListener('visibilitychange', function () {
+          if (document.visibilityState === 'hidden') save();
+        });
+        // 点击/触摸发生在导航之前，先记一次：移动端 pagehide 未必来得及
+        document.addEventListener('pointerdown', function (event) {
+          save();
+          markIntent(event);
+        }, { passive: true });
+
+        if (document.readyState === 'complete') boot();
+        else window.addEventListener('load', boot, { once: true });
+      })();
+    </script>
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />

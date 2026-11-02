@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 html {
-  scroll-behavior: smooth;
+  /* 这里曾经有 scroll-behavior: smooth。它会让浏览器在后退/前进恢复滚动位置时
+     从 0 平滑动画过去，页面高度在动画期间一变（字体、Pagefind 注入、图片）
+     就会停在半路，表现成「返回后置顶」。平滑滚动交给需要的地方各自声明。 */
   /* 让原生控件（滚动条、输入框光标、自动填充、下拉框）跟随主题 */
   color-scheme: light;
   /* 与 theme-color 一致：View Transition 揭示时底层不能是白底 */
