@@ -223,7 +223,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "anhao/ai-pose-gallery-zh",
-    "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 · TypeScript · ★ 4871",
+    "summary": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 · TypeScript · ★ 5258",
     "url": "https://github.com/anhao/ai-pose-gallery-zh",
     "canonicalUrl": "https://github.com/anhao/ai-pose-gallery-zh",
     "publishedAt": "2026-10-27T12:24:37.000Z",
@@ -237,12 +237,39 @@
       "i18n"
     ],
     "signals": {
-      "stars": 4871,
-      "forks": 1241
+      "stars": 5258,
+      "forks": 1342
     },
     "lang": "en",
     "weight": 90,
     "titleKey": "anhaoaiposegalleryzh"
+  },
+  {
+    "id": "c19ea3091caa36e7",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "haydenschmitty/floorplan",
+    "summary": "See how your app actually fits together.",
+    "url": "https://github.com/haydenschmitty/floorplan",
+    "canonicalUrl": "https://github.com/haydenschmitty/floorplan",
+    "publishedAt": "2026-10-27T12:03:01.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "JavaScript",
+      "ai-coding",
+      "architecture-diagram",
+      "claude",
+      "claude-code",
+      "claude-code-plugin"
+    ],
+    "signals": {
+      "stars": 1896,
+      "forks": 138
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "haydenschmittyfloorplan"
   },
   {
     "id": "5b68b234619a13a5",
@@ -1212,7 +1239,7 @@
       "devengers"
     ],
     "signals": {
-      "reactions": 150,
+      "reactions": 153,
       "comments": 94
     },
     "lang": "en",

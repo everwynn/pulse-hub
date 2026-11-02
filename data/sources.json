@@ -66,7 +66,7 @@
     "limit": 6,
     "lang": "en",
     "tier": "official",
-    "enabled": true,
+    "enabled": false,
     "note": null
   },
   {
@@ -94,7 +94,7 @@
     "limit": 10,
     "lang": "en",
     "tier": "official",
-    "enabled": true,
+    "enabled": false,
     "note": null
   },
   {
@@ -108,7 +108,7 @@
     "limit": 8,
     "lang": "en",
     "tier": "official",
-    "enabled": true,
+    "enabled": false,
     "note": null
   },
   {

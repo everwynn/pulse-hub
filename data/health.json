@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-01T07:12:47.828Z",
+  "updatedAt": "2026-11-02T05:58:44.327Z",
   "timeZone": "Asia/Shanghai",
   "summary": {
-    "total": 25,
+    "total": 22,
     "ok": 19,
-    "failed": 3,
+    "failed": 0,
     "skipped": 3,
     "fetched": 154,
-    "stored": 382,
-    "duplicates": 22,
-    "todayCount": 47
+    "stored": 501,
+    "duplicates": 89,
+    "todayCount": 57
   },
   "sources": {
     "openai-news": {
@@ -17,180 +17,150 @@
       "channel": "ai",
       "status": "ok",
       "count": 8,
-      "durationMs": 223,
+      "durationMs": 358,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "deepmind-blog": {
       "name": "Google DeepMind",
       "channel": "ai",
       "status": "ok",
       "count": 8,
-      "durationMs": 265,
+      "durationMs": 158,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "google-research": {
       "name": "Google Research",
       "channel": "ai",
       "status": "ok",
       "count": 8,
-      "durationMs": 220,
+      "durationMs": 354,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "huggingface-blog": {
       "name": "Hugging Face Blog",
       "channel": "ai",
       "status": "ok",
       "count": 8,
-      "durationMs": 208,
+      "durationMs": 226,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
-    },
-    "meta-ai": {
-      "name": "Meta AI Blog",
-      "channel": "ai",
-      "status": "error",
-      "count": 0,
-      "durationMs": 812,
-      "reason": "HTTP 404 Not Found",
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": null
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "microsoft-research": {
       "name": "Microsoft Research",
       "channel": "ai",
       "status": "ok",
       "count": 6,
-      "durationMs": 481,
+      "durationMs": 823,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
-    },
-    "arxiv-cs-ai": {
-      "name": "arXiv cs.AI",
-      "channel": "ai",
-      "status": "error",
-      "count": 0,
-      "durationMs": 1590,
-      "reason": "未解析到任何条目（feed 结构可能已变更）",
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-10-29T17:32:33.447Z"
-    },
-    "arxiv-cs-lg": {
-      "name": "arXiv cs.LG",
-      "channel": "ai",
-      "status": "error",
-      "count": 0,
-      "durationMs": 1549,
-      "reason": "未解析到任何条目（feed 结构可能已变更）",
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-10-27T17:47:39.968Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "qbitai": {
       "name": "量子位",
       "channel": "ai",
       "status": "ok",
       "count": 8,
-      "durationMs": 1489,
+      "durationMs": 1426,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "hn-ai": {
       "name": "Hacker News · AI 讨论",
       "channel": "ai",
       "status": "ok",
       "count": 2,
-      "durationMs": 261,
+      "durationMs": 360,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "solidot": {
       "name": "Solidot 奇客",
       "channel": "tech",
       "status": "ok",
       "count": 10,
-      "durationMs": 2589,
+      "durationMs": 1250,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "infoq-cn": {
       "name": "InfoQ 中文",
       "channel": "tech",
       "status": "ok",
       "count": 8,
-      "durationMs": 1354,
+      "durationMs": 1774,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "oschina": {
       "name": "开源中国",
       "channel": "tech",
       "status": "ok",
       "count": 10,
-      "durationMs": 2787,
+      "durationMs": 2578,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "hn-front": {
       "name": "Hacker News",
       "channel": "tech",
       "status": "ok",
       "count": 12,
-      "durationMs": 369,
+      "durationMs": 391,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "github-trending": {
       "name": "GitHub 新晋热门",
       "channel": "tech",
       "status": "ok",
       "count": 10,
-      "durationMs": 418,
+      "durationMs": 482,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "devto": {
       "name": "DEV Community",
       "channel": "tech",
       "status": "ok",
       "count": 8,
-      "durationMs": 73,
+      "durationMs": 88,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "v2ex-hot": {
       "name": "V2EX 热门",
       "channel": "tech",
       "status": "ok",
       "count": 8,
-      "durationMs": 76,
+      "durationMs": 277,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "tmtpost": {
       "name": "钛媒体",
       "channel": "finance",
       "status": "ok",
       "count": 6,
-      "durationMs": 2651,
+      "durationMs": 2612,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "alphavantage-news": {
       "name": "Alpha Vantage · 科技财报新闻",
@@ -199,7 +169,7 @@
       "count": 0,
       "durationMs": 0,
       "reason": "未配置 ALPHAVANTAGE_KEY",
-      "checkedAt": "2026-11-01T07:12:47.828Z",
+      "checkedAt": "2026-11-02T05:58:44.327Z",
       "lastSuccessAt": null
     },
     "finnhub-news": {
@@ -209,7 +179,7 @@
       "count": 0,
       "durationMs": 0,
       "reason": "未配置 FINNHUB_KEY",
-      "checkedAt": "2026-11-01T07:12:47.828Z",
+      "checkedAt": "2026-11-02T05:58:44.327Z",
       "lastSuccessAt": null
     },
     "finnhub-earnings": {
@@ -219,7 +189,7 @@
       "count": 0,
       "durationMs": 0,
       "reason": "未配置 FINNHUB_KEY",
-      "checkedAt": "2026-11-01T07:12:47.828Z",
+      "checkedAt": "2026-11-02T05:58:44.327Z",
       "lastSuccessAt": null
     },
     "cnbc-earnings": {
@@ -227,40 +197,40 @@
       "channel": "finance",
       "status": "ok",
       "count": 10,
-      "durationMs": 97,
+      "durationMs": 209,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "marketwatch-top": {
       "name": "MarketWatch · 头条",
       "channel": "finance",
       "status": "ok",
       "count": 8,
-      "durationMs": 118,
+      "durationMs": 82,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "seekingalpha-news": {
       "name": "Seeking Alpha · 快讯",
       "channel": "finance",
       "status": "ok",
       "count": 6,
-      "durationMs": 59,
+      "durationMs": 63,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     },
     "wallstreetcn-live": {
       "name": "华尔街见闻 · 7×24 快讯",
       "channel": "finance",
       "status": "ok",
       "count": 10,
-      "durationMs": 983,
+      "durationMs": 819,
       "reason": null,
-      "checkedAt": "2026-11-01T07:12:47.828Z",
-      "lastSuccessAt": "2026-11-01T07:12:47.828Z"
+      "checkedAt": "2026-11-02T05:58:44.327Z",
+      "lastSuccessAt": "2026-11-02T05:58:44.327Z"
     }
   }
 }

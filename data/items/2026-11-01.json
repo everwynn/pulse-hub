@@ -1,5 +1,272 @@
 [
   {
+    "id": "6b45ac51e8176cc2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "summary": "",
+    "url": "https://hackerbooks.org",
+    "canonicalUrl": "https://hackerbooks.org/",
+    "publishedAt": "2026-11-01T15:58:28.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1162,
+      "comments": 208
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnhackerbookshackertubebutforbooksmentionedonhn"
+  },
+  {
+    "id": "2654bd461381552a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "JimuBI v2.5.6 发布，修复 7 项安全漏洞",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503332",
+    "canonicalUrl": "https://www.oschina.net/news/503332",
+    "publishedAt": "2026-11-01T15:08:10.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jimubiv256发布修复7项安全漏洞"
+  },
+  {
+    "id": "a590893a8cfca3b3",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Wall Street scrambles for protection as AI investment risks mount",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661878-wall-street-scrambles-for-protection-as-ai-investment-risks-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661878-wall-street-scrambles-for-protection-as-ai-investment-risks-mount?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:59:42.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "xlk",
+      "comp:ind",
+      "sp500",
+      "dji",
+      "crwv",
+      "amzn"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "wallstreetscramblesforprotectionasaiinvestmentrisksmount"
+  },
+  {
+    "id": "e7a410ff5e0c4447",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "OPEC+ producers hold December oil output steady amid market uncertainty",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661882-opec-producers-hold-december-oil-output-steady-amid-market-uncertainty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661882-opec-producers-hold-december-oil-output-steady-amid-market-uncertainty?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:41:11.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "cl1:com",
+      "co1:com",
+      "uso",
+      "xle"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "opecproducersholddecemberoiloutputsteadyamidmarketuncertainty"
+  },
+  {
+    "id": "e56248ca9b51b984",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+    "summary": "",
+    "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+    "canonicalUrl": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just",
+    "publishedAt": "2026-11-01T14:34:43.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "lenovosencryptedfingerprintusbisjustanunencryptedsdcardinacase"
+  },
+  {
+    "id": "64058850c737f936",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "XXL-AI v1.4.0 发布｜AI 应用开发平台",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503331",
+    "canonicalUrl": "https://www.oschina.net/news/503331",
+    "publishedAt": "2026-11-01T14:30:58.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "xxlaiv140发布ai应用开发平台"
+  },
+  {
+    "id": "e997e7c29bddbc7a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Macau casino revenue slumps 10% in October against a tough comparable",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661881-macau-casino-revenue-slumps-10-in-october-against-a-tough-comparable?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661881-macau-casino-revenue-slumps-10-in-october-against-a-tough-comparable?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:30:01.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "mlco",
+      "lvs",
+      "gxyef",
+      "wynn",
+      "schyy",
+      "mchvf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "macaucasinorevenueslumps10inoctoberagainstatoughcomparable"
+  },
+  {
+    "id": "b982662354cb95c2",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Binance to resume crypto withdrawals after $6.3B hack",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661880-binance-to-resume-crypto-withdrawals-after-6_3b-hack?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661880-binance-to-resume-crypto-withdrawals-after-6_3b-hack?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:14:16.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "btc-usd",
+      "eth-usd",
+      "xrp-usd",
+      "sol-usd",
+      "bnb-usd",
+      "zec-usd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "binancetoresumecryptowithdrawalsafter63bhack"
+  },
+  {
+    "id": "1485a420778a141f",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Notable healthcare headlines for the week: Eli Lilly, Merck, and AstraZeneca in focus",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661747-notable-healthcare-headlines-for-the-week-eli-lilly-merck-and-astrazeneca-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661747-notable-healthcare-headlines-for-the-week-eli-lilly-merck-and-astrazeneca-in-focus?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:05:34.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "xlv",
+      "gild",
+      "lly",
+      "ilmn",
+      "bsx",
+      "bax"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "notablehealthcareheadlinesfortheweekelilillymerckandastrazenecainfocus"
+  },
+  {
+    "id": "f214ab89a406aef0",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Top global stories this week: Shell, HSBC, SK Hynix among notable names",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661872-top-global-stories-this-week-shell-hsbc-sk-hynix-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661872-top-global-stories-this-week-shell-hsbc-sk-hynix-among-notable-names?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:05:13.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "gf",
+      "fxi",
+      "dxj",
+      "fxy",
+      "ewg",
+      "fxb"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "topglobalstoriesthisweekshellhsbcskhynixamongnotablenames"
+  },
+  {
+    "id": "404977c567e1166d",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Energy sector rallies in October as geopolitical risks lift crude prices",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661560-energy-sector-rallies-in-october-as-geopolitical-risks-lift-crude-prices?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661560-energy-sector-rallies-in-october-as-geopolitical-risks-lift-crude-prices?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:05:04.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "xle",
+      "vlo",
+      "apa",
+      "cop",
+      "hal",
+      "bkr"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "energysectorralliesinoctoberasgeopoliticalrisksliftcrudeprices"
+  },
+  {
+    "id": "7baba1f735123c45",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Affle to acquire Perion for $420M in all-cash deal",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4661879-affle-to-acquire-perion-for-420m-in-all-cash-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4661879-affle-to-acquire-perion-for-420m-in-all-cash-deal?feed_item_type=news",
+    "publishedAt": "2026-11-01T14:04:37.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "peri"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "affletoacquireperionfor420minallcashdeal"
+  },
+  {
     "id": "5b31cdc40b55240b",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +284,466 @@
     "titleKey": "移动身份系统的密码学基础isoiec180135企业架构蓝图"
   },
   {
+    "id": "0246ae27f32e890d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "从西安中科西光航天科技集团有限公司获悉，该公司近日与西安电子科技大学空天地一体化综合业务网全国重点实验室正式签约，双方将…",
+    "summary": "从西安中科西光航天科技集团有限公司获悉，该公司近日与西安电子科技大学空天地一体化综合业务网全国重点实验室正式签约，双方将围绕“西电二号、三号”卫星开展整星研制与…",
+    "url": "https://wallstreetcn.com/livenews/3192090",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192090",
+    "publishedAt": "2026-11-01T13:59:46.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从西安中科西光航天科技集团有限公司获悉该公司近日与西安电子科技大学空天地一体化综合业务网全国重点实验室正式签约双方将"
+  },
+  {
+    "id": "4ff7903608e20434",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "前三季度，沪市新增资产重组546家次，其中重大资产重组46家次，交易金额超过5000亿元。同期，沪市新增回购计划250余…",
+    "summary": "前三季度，沪市新增资产重组546家次，其中重大资产重组46家次，交易金额超过5000亿元。",
+    "url": "https://wallstreetcn.com/livenews/3192088",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192088",
+    "publishedAt": "2026-11-01T13:56:51.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "前三季度沪市新增资产重组546家次其中重大资产重组46家次交易金额超过5000亿元同期沪市新增回购计划250余"
+  },
+  {
+    "id": "d3ddacec81313395",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Novellas with Groff",
+    "summary": "",
+    "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "canonicalUrl": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+    "publishedAt": "2026-11-01T13:51:41.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "novellaswithgroff"
+  },
+  {
+    "id": "67ad187caa52851e",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "磐耀资产发布公告称，近期资本市场波动加大，基于对中国资本市场长期健康稳定发展的信心，以及对公司投研与风控体系的信任，公司…",
+    "summary": "磐耀资产发布公告称，近期资本市场波动加大，基于对中国资本市场长期健康稳定发展的信心，以及对公司投研与风控体系的信任，公司研究决定，自本公告发布之日起合理期限内，…",
+    "url": "https://wallstreetcn.com/livenews/3192087",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192087",
+    "publishedAt": "2026-11-01T13:50:19.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "磐耀资产发布公告称近期资本市场波动加大基于对中国资本市场长期健康稳定发展的信心以及对公司投研与风控体系的信任公司"
+  },
+  {
+    "id": "e4903ab68c31f683",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "公募基金派发“大红包”。今年前10月，超2700只基金产品宣布分红，累计分红超1400亿元。从类型看，债券型基金仍是分红…",
+    "summary": "公募基金派发“大红包”。",
+    "url": "https://wallstreetcn.com/livenews/3192086",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192086",
+    "publishedAt": "2026-11-01T13:49:50.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "financing-channel",
+      "a-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "公募基金派发大红包今年前10月超2700只基金产品宣布分红累计分红超1400亿元从类型看债券型基金仍是分红"
+  },
+  {
+    "id": "0e60e412efebd20e",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "10月31日晚间，南京市住房保障和房产局、市建委、市规划资源局、国家金融监督管理总局江苏监管局、国家税务总局南京市税务局…",
+    "summary": "10月31日晚间，南京市住房保障和房产局、市建委、市规划资源局、国家金融监督管理总局江苏监管局、国家税务总局南京市税务局五部门联合印发《关于贯彻落实〈关于完善商…",
+    "url": "https://wallstreetcn.com/livenews/3192084",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192084",
+    "publishedAt": "2026-11-01T13:42:58.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "bond-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "10月31日晚间南京市住房保障和房产局市建委市规划资源局国家金融监督管理总局江苏监管局国家税务总局南京市税务局"
+  },
+  {
+    "id": "491e5973ed8f9202",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192083",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192083",
+    "publishedAt": "2026-11-01T13:39:07.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "白宫国家经济委员会主任哈塞特即使民主党掌控国会政府仍能做很多事希望特朗普政府能与掌控国会的任何一方合作"
+  },
+  {
+    "id": "45df5ebd0b7a5f9c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间1日，在谈及伊朗代表团访问卡塔尔事宜时，伊朗外长阿拉格齐表示，此次访问由副外长率领，目的是继续与卡塔尔调解方进行…",
+    "summary": "当地时间1日，在谈及伊朗代表团访问卡塔尔事宜时，伊朗外长阿拉格齐表示，此次访问由副外长率领，目的是继续与卡塔尔调解方进行磋商。",
+    "url": "https://wallstreetcn.com/livenews/3192082",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192082",
+    "publishedAt": "2026-11-01T13:36:40.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间1日在谈及伊朗代表团访问卡塔尔事宜时伊朗外长阿拉格齐表示此次访问由副外长率领目的是继续与卡塔尔调解方进行"
+  },
+  {
+    "id": "674e67ead0d2f5a6",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据俄罗斯媒体11月1日报道，俄总统助理乌沙科夫在接受俄电视节目主持人扎鲁宾采访时表示，俄总统普京从未拒绝与乌克兰总统泽连…",
+    "summary": "据俄罗斯媒体11月1日报道，俄总统助理乌沙科夫在接受俄电视节目主持人扎鲁宾采访时表示，俄总统普京从未拒绝与乌克兰总统泽连斯基对话。",
+    "url": "https://wallstreetcn.com/livenews/3192081",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192081",
+    "publishedAt": "2026-11-01T13:34:55.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据俄罗斯媒体11月1日报道俄总统助理乌沙科夫在接受俄电视节目主持人扎鲁宾采访时表示俄总统普京从未拒绝与乌克兰总统泽连"
+  },
+  {
+    "id": "cee4c156dc5c6c80",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+    "summary": "西湖世界模型研究中心成立",
+    "url": "https://www.qbitai.com/2026/11/507076.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507076.html",
+    "publishedAt": "2026-11-01T13:28:10.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "世界模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "三年前布局今年爆火丨西湖大学成立新中心"
+  },
+  {
+    "id": "367a725dceaecb04",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+    "summary": "",
+    "url": "https://arxiv.org/abs/2610.39302",
+    "canonicalUrl": "https://arxiv.org/abs/2610.39302",
+    "publishedAt": "2026-11-01T13:24:49.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 29,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "provingandimprovingtheplatonicrepresentationhypothesiswithjepas"
+  },
+  {
+    "id": "f9d9ff6fca191277",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "奥精医疗公告，公司于2026年11月1日收到中国证监会对公司下发的《立案告知书》。因公司涉嫌定期报告等财务数据虚假记载，…",
+    "summary": "奥精医疗公告，公司于2026年11月1日收到中国证监会对公司下发的《立案告知书》。",
+    "url": "https://wallstreetcn.com/livenews/3192080",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192080",
+    "publishedAt": "2026-11-01T13:14:47.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "bond-channel",
+      "a-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "奥精医疗公告公司于2026年11月1日收到中国证监会对公司下发的立案告知书因公司涉嫌定期报告等财务数据虚假记载"
+  },
+  {
+    "id": "548b1bec15c6f4d3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗外长阿拉格齐：与调解方的磋商正在进行中。 能否取得成果取决于美国的答复。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192079",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192079",
+    "publishedAt": "2026-11-01T13:12:49.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗外长阿拉格齐与调解方的磋商正在进行中能否取得成果取决于美国的答复"
+  },
+  {
+    "id": "7d7db0e449b746b5",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/507038.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507038.html",
+    "publishedAt": "2026-11-01T13:09:55.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "Anthropic",
+      "Claude Code"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "claude紧急叫停暗改harness禁止逆向游戏"
+  },
+  {
+    "id": "95f3f6ba3453b153",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "summary": "",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "canonicalUrl": "https://github.com/ivankovic/omnidiff",
+    "publishedAt": "2026-11-01T13:02:30.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 197,
+      "comments": 46
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnomnidiffopensourcesuperfastcontentawaregitdifftoolinrust"
+  },
+  {
+    "id": "930c9ea962cd901d",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "America is doing better than you think. Your algorithm is just hiding it.",
+    "summary": "The bottom half of Americans has more than doubled its net worth since 2019.",
+    "url": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-01T13:00:00.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "americaisdoingbetterthanyouthinkyouralgorithmisjusthidingit"
+  },
+  {
+    "id": "9f5b8c3ab12fc97a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
+    "summary": "In other words, not the people Republicans likely intended.",
+    "url": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-01T13:00:00.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "whoreallywinsundertrumpseconomycoastalliberaleliteswhohatehim"
+  },
+  {
+    "id": "fc35058c7d5181f3",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "赫拉利深度访谈：真正的 AI 危机来了！",
+    "summary": "《人类简史》作者尤瓦尔・赫拉利在最新访谈中告诉我们，真正的危机，根本不是电影里那一套，它正在现实世界中上演。",
+    "url": "https://www.tmtpost.com/8189151.html",
+    "canonicalUrl": "https://www.tmtpost.com/8189151.html",
+    "publishedAt": "2026-11-01T12:04:54.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "赫拉利深度访谈真正的ai危机来了"
+  },
+  {
+    "id": "b56056eb831ee632",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "数据中心抵消了过去 15 年美国的减排努力",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85766",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85766",
+    "publishedAt": "2026-11-01T11:45:13.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "数据中心抵消了过去15年美国的减排努力"
+  },
+  {
+    "id": "34d26ebd4f9f27c6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "NASA 征询拯救哈勃望远镜的方案",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85765",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85765",
+    "publishedAt": "2026-11-01T11:32:53.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "nasa征询拯救哈勃望远镜的方案"
+  },
+  {
+    "id": "2e26f368a113ab0a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503329",
+    "canonicalUrl": "https://www.oschina.net/news/503329",
+    "publishedAt": "2026-11-01T11:17:10.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "拾趣magpiev0119发布ai更智能内容识别更精准"
+  },
+  {
+    "id": "e405e9b4c9ac94cb",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Norway makes shithouses great again",
+    "summary": "",
+    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+    "canonicalUrl": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets",
+    "publishedAt": "2026-11-01T10:47:58.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 555,
+      "comments": 300
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "norwaymakesshithousesgreatagain"
+  },
+  {
+    "id": "77a3f18180795196",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "summary": "",
+    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+    "canonicalUrl": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+    "publishedAt": "2026-11-01T10:44:20.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 29,
+      "comments": 24
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "domainhackswithunusualunicodecharacters2018"
+  },
+  {
     "id": "b93b6b28551b07f5",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +759,194 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "如果ai幻觉也有预算超支之后该怎么办"
+  },
+  {
+    "id": "de415c9a528e73d8",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Agent改写算力账本，CPU不再是AI服务器的配角？",
+    "summary": "AI算力的投入逻辑正在从只采购加速卡，转向搭配一整套均衡的算力机柜",
+    "url": "https://www.tmtpost.com/8189082.html",
+    "canonicalUrl": "https://www.tmtpost.com/8189082.html",
+    "publishedAt": "2026-11-01T09:13:10.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "agent改写算力账本cpu不再是ai服务器的配角"
+  },
+  {
+    "id": "cd3dfbf63721bb1c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "从车工到巴西总统，卢拉为何看重中国车企？",
+    "summary": "七十年前，汽车工业改变了巴西，也制造出了卢拉。",
+    "url": "https://www.tmtpost.com/8189118.html",
+    "canonicalUrl": "https://www.tmtpost.com/8189118.html",
+    "publishedAt": "2026-11-01T09:13:08.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "从车工到巴西总统卢拉为何看重中国车企"
+  },
+  {
+    "id": "6c381b9435deddc7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "从卖电芯到卖“并网承诺”，宁德时代在澳洲抬高了什么门槛？",
+    "summary": "宁德时代在澳展推储能新品，输出长期资产化方案。",
+    "url": "https://www.tmtpost.com/8189078.html",
+    "canonicalUrl": "https://www.tmtpost.com/8189078.html",
+    "publishedAt": "2026-11-01T09:13:06.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "从卖电芯到卖并网承诺宁德时代在澳洲抬高了什么门槛"
+  },
+  {
+    "id": "1ec692286f92d472",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "南十字星下的中国能源军团：All-Energy Australia 2026 背后的光储棋局",
+    "summary": "不是内卷外溢，也不是简单出海。",
+    "url": "https://www.tmtpost.com/8189075.html",
+    "canonicalUrl": "https://www.tmtpost.com/8189075.html",
+    "publishedAt": "2026-11-01T09:13:05.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "南十字星下的中国能源军团allenergyaustralia2026背后的光储棋局"
+  },
+  {
+    "id": "38e1cec763e0a22a",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "补贴到账了，消费者为何却未必省下更多？",
+    "summary": "拿到补贴的人，不一定是最终受益者",
+    "url": "https://www.tmtpost.com/8189112.html",
+    "canonicalUrl": "https://www.tmtpost.com/8189112.html",
+    "publishedAt": "2026-11-01T09:13:03.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "补贴到账了消费者为何却未必省下更多"
+  },
+  {
+    "id": "a0c60f85fd78c316",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "2026 上海开源软件应用创新大赛获奖名单",
+    "summary": "",
+    "url": "https://www.oschina.net/os2026/winners",
+    "canonicalUrl": "https://www.oschina.net/os2026/winners",
+    "publishedAt": "2026-11-01T08:43:11.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "2026上海开源软件应用创新大赛获奖名单"
+  },
+  {
+    "id": "fb542e938e3b3ff9",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "当没 token 额度了 你会手改 AI 生成的代码吗 😂",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1253543",
+    "canonicalUrl": "https://www.v2ex.com/t/1253543",
+    "publishedAt": "2026-11-01T08:41:51.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 42
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "当没token额度了你会手改ai生成的代码吗"
+  },
+  {
+    "id": "6c87e21cd61852b5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "用 AI 逆向了搜狗输入法， 让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本",
+    "summary": "让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本 放 github 了： https://github.com/SillyShalo…",
+    "url": "https://www.v2ex.com/t/1253540",
+    "canonicalUrl": "https://www.v2ex.com/t/1253540",
+    "publishedAt": "2026-11-01T08:24:20.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 47
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "用ai逆向了搜狗输入法让搜狗输入法v1610完全断网禁止更新禁止广告的一键脚本"
+  },
+  {
+    "id": "14842ac5d84dace0",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+    "summary": "让AI像牛顿一样思考",
+    "url": "https://www.qbitai.com/2026/11/507031.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507031.html",
+    "publishedAt": "2026-11-01T08:02:37.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "世界模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "清华姚期智团队新作代数世界模型让ai像牛顿一样思考"
+  },
+  {
+    "id": "36304369a5576594",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+    "summary": "这事还是想得太简单了",
+    "url": "https://www.qbitai.com/2026/11/506990.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/506990.html",
+    "publishedAt": "2026-11-01T07:50:57.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "机器人"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "老牌便利店机器人售货折戟实验室锤炼上万次货架前还是摔瓶子"
   },
   {
     "id": "a0d4810b58acc959",
@@ -160,6 +1075,27 @@
     "titleKey": "据统计险资合计出现在630多只股票三季报前十大流通股东榜新进重仓150只股票从最新重仓股来看险资三季度新进宁德时"
   },
   {
+    "id": "1707edee26751a77",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我做了一个赛博乞讨网站",
+    "summary": "简介： 赛博乞讨，一人给我一元钱，我将是亿万富翁啦，哈哈哈，欢迎投喂（使用微信赞赏码收款） 网站地址： http://47.107.180.19:8080/",
+    "url": "https://www.v2ex.com/t/1253521",
+    "canonicalUrl": "https://www.v2ex.com/t/1253521",
+    "publishedAt": "2026-11-01T05:10:14.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 27
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我做了一个赛博乞讨网站"
+  },
+  {
     "id": "71b740439fe338ce",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -244,6 +1180,26 @@
     "titleKey": "2026年10月蔚来公司交付新车34246台其中蔚来品牌交付新车18125台乐道品牌交付新车8383台f"
   },
   {
+    "id": "0d8dcdac17160551",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Jev新成果，再次引爆开源",
+    "summary": "再次“性价比屠夫”",
+    "url": "https://www.qbitai.com/2026/11/506922.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/506922.html",
+    "publishedAt": "2026-11-01T04:18:37.000Z",
+    "fetchedAt": "2026-11-01T15:05:58.690Z",
+    "tags": [
+      "资讯",
+      "Jev"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "jev新成果再次引爆开源"
+  },
+  {
     "id": "6dddc24dd87b861e",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -258,11 +1214,32 @@
       "OpenAI"
     ],
     "signals": {
-      "replies": 23
+      "replies": 32
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "恶心了chatgpt要跟codex共用额度了"
+  },
+  {
+    "id": "e88046bd3232831a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "大家坐飞机的时候，怎么打发时间？",
+    "summary": "前两天刚下飞机，随手带了一本没看过的书，结果很无语，书很垃圾 但是手机也没有网 航旅纵横上面的无网掼蛋我也不喜欢，纯粹不喜欢打牌",
+    "url": "https://www.v2ex.com/t/1253504",
+    "canonicalUrl": "https://www.v2ex.com/t/1253504",
+    "publishedAt": "2026-11-01T03:42:04.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 63
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "大家坐飞机的时候怎么打发时间"
   },
   {
     "id": "51d169aac2faec2b",
@@ -299,6 +1276,27 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "数智周报张一鸣以6700亿元登顶中国首富刷新中国首富财富纪录阿里巴巴与apple达成合作将千问集成至apple智能anthropic提交ipo注册文件拟以ant为代码在纳斯达克上市"
+  },
+  {
+    "id": "fa60f44827457f18",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "也也也失业了，写点接下来的路",
+    "summary": "最近看了很多失业的帖子，没想到的是，自己也被毕业了。",
+    "url": "https://www.v2ex.com/t/1253501",
+    "canonicalUrl": "https://www.v2ex.com/t/1253501",
+    "publishedAt": "2026-11-01T03:12:07.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "创业组队"
+    ],
+    "signals": {
+      "replies": 32
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "也也也失业了写点接下来的路"
   },
   {
     "id": "6c71725e94cba9f8",
@@ -373,6 +1371,27 @@
     "titleKey": "具身智能的钱流向机器人的皮肤"
   },
   {
+    "id": "df6ea78612ada9b5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "注册 claude 就弹 kyc",
+    "summary": "注册一个 claude 就弹 kyc ，这个节点是不是就不推荐了",
+    "url": "https://www.v2ex.com/t/1253499",
+    "canonicalUrl": "https://www.v2ex.com/t/1253499",
+    "publishedAt": "2026-11-01T02:50:17.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 28
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "注册claude就弹kyc"
+  },
+  {
     "id": "baf4d1240af0a9e2",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -387,8 +1406,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 85,
-      "comments": 32
+      "points": 206,
+      "comments": 101
     },
     "lang": "en",
     "weight": 92,
@@ -431,7 +1450,7 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 50
+      "replies": 99
     },
     "lang": "zh",
     "weight": 55,
@@ -452,7 +1471,7 @@
       "Apple"
     ],
     "signals": {
-      "replies": 29
+      "replies": 39
     },
     "lang": "zh",
     "weight": 55,
@@ -473,7 +1492,7 @@
       "Apple"
     ],
     "signals": {
-      "replies": 22
+      "replies": 36
     },
     "lang": "zh",
     "weight": 55,
@@ -540,8 +1559,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 184,
-      "comments": 94
+      "points": 329,
+      "comments": 160
     },
     "lang": "en",
     "weight": 92,
@@ -562,8 +1581,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 318,
-      "comments": 92
+      "points": 582,
+      "comments": 173
     },
     "lang": "en",
     "weight": 92,
@@ -642,29 +1661,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1091,
-      "comments": 332
+      "points": 2422,
+      "comments": 553
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "hackertubeyoutubebuiltfromvideosrecommendedbyhn"
-  },
-  {
-    "id": "f185a02ea4d61957",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-    "summary": "“I’m 68, she’s 74, and we’re both in good health.",
-    "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-31T19:30:00.000Z",
-    "fetchedAt": "2026-10-29T17:32:33.447Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "showyjewelryandfancycarsholdnoappealwehavea99chanceofoutlivingourlifesavingswhynotspenditall"
   },
   {
     "id": "795586d6103758f6",
@@ -681,8 +1683,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 463,
-      "comments": 211
+      "points": 581,
+      "comments": 281
     },
     "lang": "en",
     "weight": 92,
@@ -793,23 +1795,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "wereinour70sshouldwepayoffour25mortgageorputthemoneyinahighyieldsavingsaccount"
-  },
-  {
-    "id": "d7a1a4b2e92d40af",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old …",
-    "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-31T18:50:00.000Z",
-    "fetchedAt": "2026-11-01T07:12:47.828Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hewasheartbrokenmyhusbandskidsabandonedhimwhenhewasdyingwasherighttoleaveeverythingtome"
   },
   {
     "id": "b59b94cd4a3e6399",

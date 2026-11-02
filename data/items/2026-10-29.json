@@ -92,8 +92,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 3827,
-      "forks": 191
+      "stars": 5114,
+      "forks": 255
     },
     "lang": "en",
     "weight": 90,
@@ -270,8 +270,8 @@
       "jetpack-compose"
     ],
     "signals": {
-      "stars": 3049,
-      "forks": 494
+      "stars": 4326,
+      "forks": 827
     },
     "lang": "en",
     "weight": 90,
@@ -417,8 +417,8 @@
       "C"
     ],
     "signals": {
-      "stars": 2759,
-      "forks": 221
+      "stars": 3353,
+      "forks": 270
     },
     "lang": "en",
     "weight": 90,
@@ -628,8 +628,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 52,
-      "comments": 50
+      "reactions": 53,
+      "comments": 51
     },
     "lang": "en",
     "weight": 60,
@@ -816,8 +816,8 @@
       "promptengineering"
     ],
     "signals": {
-      "reactions": 89,
-      "comments": 82
+      "reactions": 112,
+      "comments": 100
     },
     "lang": "en",
     "weight": 60,
@@ -889,8 +889,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 1793,
-      "forks": 477
+      "stars": 1939,
+      "forks": 502
     },
     "lang": "en",
     "weight": 90,
@@ -1268,6 +1268,28 @@
     "titleKey": "24万开卖理想重造i6李想目标全球畅销"
   },
   {
+    "id": "c103e072526531bc",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Djihads80/Eglantine",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 2100",
+    "url": "https://github.com/Djihads80/Eglantine",
+    "canonicalUrl": "https://github.com/Djihads80/Eglantine",
+    "publishedAt": "2026-10-29T00:25:18.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "C++"
+    ],
+    "signals": {
+      "stars": 2100,
+      "forks": 253
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "djihads80eglantine"
+  },
+  {
     "id": "be6b393ed307b2e2",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -1354,6 +1376,28 @@
     "lang": "en",
     "weight": 85,
     "titleKey": "introducinganyspeechrecognizerandanydecisionmodelopenmodelsforspeechanddecisionsonappleplatforms"
+  },
+  {
+    "id": "7aadeb92ed46c9e2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Radiation Map of the World",
+    "summary": "",
+    "url": "https://radiaverse.com/",
+    "canonicalUrl": "https://radiaverse.com/",
+    "publishedAt": "2026-10-28T20:06:27.000Z",
+    "fetchedAt": "2026-11-01T14:34:40.294Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 40,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "radiationmapoftheworld"
   },
   {
     "id": "9caa982344aceed0",
