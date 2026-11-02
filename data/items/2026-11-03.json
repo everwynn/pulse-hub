@@ -1,5 +1,39 @@
 [
   {
+    "id": "b22dfb636ea7ffb0",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc",
+    "publishedAt": "2026-11-02T22:48:56.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "从英伟达到pika硅谷巨头为何反向借力这个国产模型"
+  },
+  {
+    "id": "da5ee651f48e0f68",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6",
+    "publishedAt": "2026-11-02T21:46:33.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "微软推出dotnetup多版本管理更省心安装方式却让开发者皱眉"
+  },
+  {
     "id": "61e27f13addd8011",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -68,6 +102,124 @@
     "titleKey": "ai科研agent加速科研论文写得快了成果更难评了西湖大学工学院博导王欢分享"
   },
   {
+    "id": "6a381ded4896cea4",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "周一（11月2日），美联储隔夜逆回购协议（RRP）使用规模为50.87亿美元（交易对手6家），上个交易日报43.75亿美…",
+    "summary": "周一（11月2日），美联储隔夜逆回购协议（RRP）使用规模为50.87亿美元（交易对手6家），上个交易日报43.75亿美元。",
+    "url": "https://wallstreetcn.com/livenews/3192787",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192787",
+    "publishedAt": "2026-11-02T18:16:28.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "周一11月2日美联储隔夜逆回购协议rrp使用规模为5087亿美元交易对手6家上个交易日报4375亿美"
+  },
+  {
+    "id": "f6c17adac074b88f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
+    "summary": "It’s crucial to distinguish economic from political uncertainty, because only on…",
+    "url": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T18:16:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itmaytakeweekstotallythemidtermelectionresultshereswhywallstreetisntworried"
+  },
+  {
+    "id": "8b3c12ea3938bd8d",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Most and least shorted communications services stocks with up to $2B market cap as of end-October",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4662251-most-and-least-shorted-communications-services-stocks-with-up-to-2b-market-cap-as-of-end?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4662251-most-and-least-shorted-communications-services-stocks-with-up-to-2b-market-cap-as-of-end?feed_item_type=news",
+    "publishedAt": "2026-11-02T18:15:50.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "trip",
+      "cabo",
+      "aehl",
+      "fubo",
+      "ever",
+      "dhx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "mostandleastshortedcommunicationsservicesstockswithupto2bmarketcapasofendoctober"
+  },
+  {
+    "id": "bb65fe595880e288",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Lockheed Martin to invest $420M in Arkansas missile production expansion",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4662764-lockheed-martin-to-invest-420m-in-arkansas-missile-production-expansion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4662764-lockheed-martin-to-invest-420m-in-arkansas-missile-production-expansion?feed_item_type=news",
+    "publishedAt": "2026-11-02T18:13:16.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "lmt",
+      "sp500"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "lockheedmartintoinvest420minarkansasmissileproductionexpansion"
+  },
+  {
+    "id": "81286caebf6dd0de",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
+    "summary": "The U.S. economy expanded at its fastest clip in over five years during the thir…",
+    "url": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T18:13:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thebondmarketrallyisdefyingthetypicalinvestingplaybookhereswhy"
+  },
+  {
+    "id": "77f9a55d0f31e3c6",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中东能源与OPEC+洞察负责人Bakr：外交消息人士向Al-Jadeed透露，在卡塔尔斡旋成功克服程序性障碍后，美伊谈判…",
+    "summary": "中东能源与OPEC+洞察负责人Bakr：外交消息人士向Al-Jadeed透露，在卡塔尔斡旋成功克服程序性障碍后，美伊谈判取得突破。",
+    "url": "https://wallstreetcn.com/livenews/3192786",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192786",
+    "publishedAt": "2026-11-02T18:09:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中东能源与opec洞察负责人bakr外交消息人士向aljadeed透露在卡塔尔斡旋成功克服程序性障碍后美伊谈判"
+  },
+  {
     "id": "bd887342942a31d4",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -83,6 +235,272 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai办公agent都有工位了云电脑既让它接手业务也管住权限阿里云智能集团研发副总裁张献涛分享"
+  },
+  {
+    "id": "a173244f07f25c3a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Liberty All-Star Growth Fund Inc declares $0.11 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4662763-liberty-all-star-growth-fund-inc-declares-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4662763-liberty-all-star-growth-fund-inc-declares-0_11-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-02T18:08:14.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "asg"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "libertyallstargrowthfundincdeclares011dividend"
+  },
+  {
+    "id": "053362f9e2a0283c",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Novo Nordisk set to report Q3 results as investors watch GLP-1 sales and outlook",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4662395-novo-nordisk-set-to-report-q3-results-as-investors-watch-glp-1-sales-and-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4662395-novo-nordisk-set-to-report-q3-results-as-investors-watch-glp-1-sales-and-outlook?feed_item_type=news",
+    "publishedAt": "2026-11-02T18:07:20.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "nvo",
+      "nonof",
+      "lly"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "novonordisksettoreportq3resultsasinvestorswatchglp1salesandoutlook"
+  },
+  {
+    "id": "28fb8dc254e780d2",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "Anthropic PBC将通过RetailBoo平台向英国散户启动IPO。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192785",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192785",
+    "publishedAt": "2026-11-02T18:06:40.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "anthropicpbc将通过retailboo平台向英国散户启动ipo"
+  },
+  {
+    "id": "a823a6baa8065410",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Liberty All-Star Equity Fund declares $0.17 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4662762-liberty-all-star-equity-fund-declares-0_17-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4662762-liberty-all-star-equity-fund-declares-0_17-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-02T18:05:22.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "usa"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "libertyallstarequityfunddeclares017dividend"
+  },
+  {
+    "id": "84fdb6842ddba46c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "根据美国旧金山联储发表的研究，可能在未来几个月导致海洋温度创纪录上升的厄尔尼诺气候模式，带来了2027年美国通胀上升的“…",
+    "summary": "根据美国旧金山联储发表的研究，可能在未来几个月导致海洋温度创纪录上升的厄尔尼诺气候模式，带来了2027年美国通胀上升的“实质性风险”，尽管它也可能增加就业。",
+    "url": "https://wallstreetcn.com/livenews/3192784",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192784",
+    "publishedAt": "2026-11-02T18:04:23.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "根据美国旧金山联储发表的研究可能在未来几个月导致海洋温度创纪录上升的厄尔尼诺气候模式带来了2027年美国通胀上升的"
+  },
+  {
+    "id": "6d1a4a86135d5a0c",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Airline stocks on the rise as Middle East diplomatic efforts drive down oil",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4662686-airline-stocks-on-the-rise-as-middle-east-diplomatic-efforts-drives-down-oil?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4662686-airline-stocks-on-the-rise-as-middle-east-diplomatic-efforts-drives-down-oil?feed_item_type=news",
+    "publishedAt": "2026-11-02T18:02:50.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "ual",
+      "jblu",
+      "luv",
+      "algt",
+      "dal",
+      "aal"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "airlinestocksontheriseasmiddleeastdiplomaticeffortsdrivedownoil"
+  },
+  {
+    "id": "b420bf462abdfaf3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
+    "summary": "“About two months after his funeral, my stepmother called and said she wanted th…",
+    "url": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T18:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shesatypeapersonalitymystepmotherwantsmetorepaymylatefathers40000weddinggiftshouldioblige"
+  },
+  {
+    "id": "d8a57bbedea347ef",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国30年期国债收益率跌至9月9日以来最低水平，下跌6.57个基点，至5.243%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192783",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192783",
+    "publishedAt": "2026-11-02T17:59:47.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国30年期国债收益率跌至9月9日以来最低水平下跌657个基点至5243"
+  },
+  {
+    "id": "829378c89fbbad1d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "布伦特原油期货跌超9美元/桶，WTI原油期货跌8美元，投资者关注为结束伊朗战争而达成协议的前景。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192782",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192782",
+    "publishedAt": "2026-11-02T17:57:31.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "布伦特原油期货跌超9美元桶wti原油期货跌8美元投资者关注为结束伊朗战争而达成协议的前景"
+  },
+  {
+    "id": "92c1c2a2760f01f0",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "法国央行行长：市场可能对财政情况反应过度，预算案大概率能通过。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192781",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192781",
+    "publishedAt": "2026-11-02T17:53:21.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "法国央行行长市场可能对财政情况反应过度预算案大概率能通过"
+  },
+  {
+    "id": "0ff8ca5c396afe63",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "LME期铜收涨190美元，报14345美元/吨。 LME期铝收涨25美元，报3094美元/吨。 LME期锌收涨50美元，…",
+    "summary": "LME期铜收涨190美元，报14345美元/吨。",
+    "url": "https://wallstreetcn.com/livenews/3192779",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192779",
+    "publishedAt": "2026-11-02T17:52:08.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "lme期铜收涨190美元报14345美元吨lme期铝收涨25美元报3094美元吨lme期锌收涨50美元"
+  },
+  {
+    "id": "4149e82908cab992",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "布伦特原油日内跌幅达8.0%，报104.33美元/桶；WTI原油日内跌幅超过7.5%，报95.89美元/桶。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3192778",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192778",
+    "publishedAt": "2026-11-02T17:51:31.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "financing-channel",
+      "a-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "布伦特原油日内跌幅达80报10433美元桶wti原油日内跌幅超过75报9589美元桶"
+  },
+  {
+    "id": "c2cc946931b7e8f9",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "纳斯达克100指数转跌，回吐此前1.3％的涨幅。标普500指数涨幅收窄至不足0.2%，纳指涨幅收窄至0.1%。 费城半导…",
+    "summary": "纳斯达克100指数转跌，回吐此前1.3％的涨幅。",
+    "url": "https://wallstreetcn.com/livenews/3192777",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3192777",
+    "publishedAt": "2026-11-02T17:47:27.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "纳斯达克100指数转跌回吐此前13的涨幅标普500指数涨幅收窄至不足02纳指涨幅收窄至01费城半导"
   },
   {
     "id": "c1b67065792514c9",
@@ -102,6 +520,84 @@
     "titleKey": "infoqai侦察团现场手记工具之外企业ai落地还要跨过哪些关"
   },
   {
+    "id": "ca8d86e961e1ba14",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
+    "summary": "Newly announced $115 billion deal for Lumentum will be financed entirely through…",
+    "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T17:32:00.000Z",
+    "fetchedAt": "2026-11-02T13:38:40.112Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "marvellsdealforlumentumisgivingflashbackstothedotcombubble"
+  },
+  {
+    "id": "baef49d1e68f92bf",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
+    "summary": "Oracle debt has been trading like a “junk bond” as the company borrows money and…",
+    "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T17:31:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "oraclewants20billiontofunditsaifutureanditsstockispayingtheprice"
+  },
+  {
+    "id": "f1b71010fdfd350b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Subvocal – Talk to your computer without making noise",
+    "summary": "",
+    "url": "https://subvocal.company/",
+    "canonicalUrl": "https://subvocal.company/",
+    "publishedAt": "2026-11-02T17:16:17.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 130,
+      "comments": 98
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnsubvocaltalktoyourcomputerwithoutmakingnoise"
+  },
+  {
+    "id": "86dcc5e7dcca946e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "summary": "",
+    "url": "https://momentic.ai/",
+    "canonicalUrl": "https://momentic.ai/",
+    "publishedAt": "2026-11-02T17:05:25.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 49,
+      "comments": 29
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "launchhnmomenticycw24agentsthatcatchbugsbyusingyourapp"
+  },
+  {
     "id": "6b579b5c373d2642",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -119,6 +615,62 @@
     "titleKey": "aifde合格的fde要亲手跟老师傅做业务再把经验解法做成skill深空之序联合创始人兼coo芦宇峰分享"
   },
   {
+    "id": "b5b9f69a399bdf11",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
+    "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social…",
+    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T17:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itseemsbizarrewereinour80swith950000intraditionaliraswhyisouradviserpushingustodorothconversions"
+  },
+  {
+    "id": "b8f3eb0d0514053c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "My Favourite Laptop",
+    "summary": "",
+    "url": "https://blog.jsbarretto.com/post/laptop",
+    "canonicalUrl": "https://blog.jsbarretto.com/post/laptop",
+    "publishedAt": "2026-11-02T16:59:57.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 52,
+      "comments": 34
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "myfavouritelaptop"
+  },
+  {
+    "id": "b25471d8fd05964b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
+    "summary": "Novartis, Mitsubishi and Canadian Natural are examples of companies in developed…",
+    "url": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T16:56:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "6dividendstocksforinvestorswhowanttocuttheirexposuretothesp500"
+  },
+  {
     "id": "cf1872eb051c5ee5",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,5 +686,132 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "别再迷信agent的自主性了"
+  },
+  {
+    "id": "3206c406953b76f5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
+    "summary": "One analyst notes “a meaningful gap between price and fundamentals” in some corn…",
+    "url": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-02T16:50:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thesetechstocksgotunfairlysweptupinlastweeksselloffanalystssay"
+  },
+  {
+    "id": "3ccabeaebca6fc53",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+    "summary": "",
+    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "canonicalUrl": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+    "publishedAt": "2026-11-02T16:40:29.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 109,
+      "comments": 73
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "anthropicsinternalaiuseatretailpricesnowexceedsitsemployeepay"
+  },
+  {
+    "id": "42f03f1d25203728",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "US boy names that became girl names and vice versa",
+    "summary": "",
+    "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+    "canonicalUrl": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+    "publishedAt": "2026-11-02T16:34:36.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 66,
+      "comments": 32
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "usboynamesthatbecamegirlnamesandviceversa"
+  },
+  {
+    "id": "41ff0ce0cccfc28d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
+    "summary": "",
+    "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+    "canonicalUrl": "https://p.migdal.pl/warsaw-vibe-voxel",
+    "publishedAt": "2026-11-02T16:25:26.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 81,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnwarsawinvoxelsaninteractive3dmapofthecitycentre"
+  },
+  {
+    "id": "1f470cf839c20666",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Moving our warehouse off DuckDB",
+    "summary": "",
+    "url": "https://posthog.com/blog/moving-off-duckdb",
+    "canonicalUrl": "https://posthog.com/blog/moving-off-duckdb",
+    "publishedAt": "2026-11-02T16:02:26.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 95,
+      "comments": 49
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "movingourwarehouseoffduckdb"
+  },
+  {
+    "id": "6e0fe295fe92b607",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ask HN: Who is hiring? (November 2026)",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50338728",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50338728",
+    "publishedAt": "2026-11-02T16:01:37.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 93,
+      "comments": 67
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "askhnwhoishiringnovember2026"
   }
 ]

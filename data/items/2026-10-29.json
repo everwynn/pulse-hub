@@ -92,8 +92,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 5563,
-      "forks": 280
+      "stars": 5943,
+      "forks": 308
     },
     "lang": "en",
     "weight": 90,
@@ -270,8 +270,8 @@
       "jetpack-compose"
     ],
     "signals": {
-      "stars": 4945,
-      "forks": 947
+      "stars": 5183,
+      "forks": 997
     },
     "lang": "en",
     "weight": 90,
@@ -414,11 +414,16 @@
     "publishedAt": "2026-10-29T12:32:46.000Z",
     "fetchedAt": "2026-11-01T07:12:47.828Z",
     "tags": [
-      "C"
+      "C",
+      "game",
+      "linux",
+      "port",
+      "recompilation",
+      "windows"
     ],
     "signals": {
-      "stars": 3641,
-      "forks": 296
+      "stars": 3849,
+      "forks": 309
     },
     "lang": "en",
     "weight": 90,
@@ -628,8 +633,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 54,
-      "comments": 52
+      "reactions": 57,
+      "comments": 53
     },
     "lang": "en",
     "weight": 60,
@@ -816,7 +821,7 @@
       "promptengineering"
     ],
     "signals": {
-      "reactions": 117,
+      "reactions": 122,
       "comments": 107
     },
     "lang": "en",
@@ -889,8 +894,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 2028,
-      "forks": 520
+      "stars": 2041,
+      "forks": 522
     },
     "lang": "en",
     "weight": 90,
@@ -1273,7 +1278,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Djihads80/Eglantine",
-    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 2251",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 2346",
     "url": "https://github.com/Djihads80/Eglantine",
     "canonicalUrl": "https://github.com/Djihads80/Eglantine",
     "publishedAt": "2026-10-29T00:25:18.000Z",
@@ -1282,8 +1287,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2251,
-      "forks": 266
+      "stars": 2346,
+      "forks": 276
     },
     "lang": "en",
     "weight": 90,

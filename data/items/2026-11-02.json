@@ -1,5 +1,164 @@
 [
   {
+    "id": "ccd5054c700d19d3",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "鳄鱼为何免受毁灭恐龙的小行星的影响？",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85777",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85777",
+    "publishedAt": "2026-11-02T15:41:22.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "鳄鱼为何免受毁灭恐龙的小行星的影响"
+  },
+  {
+    "id": "74475879fd57e9e2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "小鼠研究显示阉割有助于长寿",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85776",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85776",
+    "publishedAt": "2026-11-02T15:31:53.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "小鼠研究显示阉割有助于长寿"
+  },
+  {
+    "id": "0b2deea62c0f4cb8",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing the Grid Protectors Program",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute…",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "canonicalUrl": "https://openai.com/index/grid-protectors-program",
+    "publishedAt": "2026-11-02T15:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingthegridprotectorsprogram"
+  },
+  {
+    "id": "3a1ea223493715a5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "WTF Ubuntu?",
+    "summary": "",
+    "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+    "canonicalUrl": "https://chalmovsky.com/posts/wtf-ubuntu",
+    "publishedAt": "2026-11-02T14:52:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 789,
+      "comments": 401
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "wtfubuntu"
+  },
+  {
+    "id": "58418f92e0e00d12",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "We halved DNS build delay and cut memory use by 85%",
+    "summary": "",
+    "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+    "canonicalUrl": "https://blog.cloudflare.com/dns-targeted-zone-builds",
+    "publishedAt": "2026-11-02T14:47:28.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 61,
+      "comments": 22
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "wehalveddnsbuilddelayandcutmemoryuseby85"
+  },
+  {
+    "id": "0337aaeee537e3b1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "GPT-Rosalind-6 System Card Addendum",
+    "summary": "",
+    "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+    "canonicalUrl": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+    "publishedAt": "2026-11-02T14:44:02.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 40,
+      "comments": 35
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "gptrosalind6systemcardaddendum"
+  },
+  {
+    "id": "eb23485507ef06e4",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Ryanair CEO warns fares could rise by up to 20% next year",
+    "summary": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"signifi…",
+    "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+    "publishedAt": "2026-11-02T14:14:18.000Z",
+    "fetchedAt": "2026-11-02T13:38:40.112Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "ryanairceowarnsfarescouldrisebyupto20nextyear"
+  },
+  {
+    "id": "23faa793c6163f35",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+    "summary": "商汤SenseNova 6.8 Flash",
+    "url": "https://www.qbitai.com/2026/11/507277.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507277.html",
+    "publishedAt": "2026-11-02T13:36:41.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "SenseNova 6.8 Flash",
+      "商汤日日新",
+      "商汤科技"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "顶级ai翻车的活儿被这个新出的免费国产ai接住了"
+  },
+  {
     "id": "10be11600d31c802",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -180,6 +339,28 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "syntecopticssecures25increaseinspaceorderssharesrise"
+  },
+  {
+    "id": "d07a5fa3066b694c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "If you love a website, back it up",
+    "summary": "",
+    "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+    "canonicalUrl": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up",
+    "publishedAt": "2026-11-02T13:25:35.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 175,
+      "comments": 42
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ifyouloveawebsitebackitup"
   },
   {
     "id": "9edd24ce50af45b9",
@@ -376,23 +557,6 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "长安汽车三季报海外销量大涨利润却快没了"
-  },
-  {
-    "id": "ca8d86e961e1ba14",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Marvell and Lumentum officially plan to combine. Here’s what to know.",
-    "summary": "A newly proposed deal would be financed in stock and target the hot optical-netw…",
-    "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-02T12:26:00.000Z",
-    "fetchedAt": "2026-11-02T13:38:40.112Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "marvellandlumentumofficiallyplantocombinehereswhattoknow"
   },
   {
     "id": "5ee9cb2cb0ab85d3",
@@ -705,23 +869,6 @@
     "titleKey": "showhniveupdatedmylinuxsystemcallwebsiteandapi"
   },
   {
-    "id": "eb23485507ef06e4",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-    "summary": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"signifi…",
-    "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
-    "publishedAt": "2026-11-02T09:27:47.000Z",
-    "fetchedAt": "2026-11-02T13:38:40.112Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "ryanairceowarnsfarescouldrisebyupto20in2027asfuelbilljumpsby22billion"
-  },
-  {
     "id": "8f805de8406dd2dd",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -788,6 +935,25 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "steam用户中使用linux比例占395"
+  },
+  {
+    "id": "cdc70312005c1318",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "LifeVal",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete eve…",
+    "url": "https://openai.com/index/lifeval",
+    "canonicalUrl": "https://openai.com/index/lifeval",
+    "publishedAt": "2026-11-02T09:00:00.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "lifeval"
   },
   {
     "id": "726a634d57d0ea6f",
@@ -881,7 +1047,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 143
+      "replies": 163
     },
     "lang": "zh",
     "weight": 55,
@@ -1026,7 +1192,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 115
+      "replies": 120
     },
     "lang": "zh",
     "weight": 55,
@@ -1642,7 +1808,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 130
+      "replies": 135
     },
     "lang": "zh",
     "weight": 55,
@@ -1682,7 +1848,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 112
+      "replies": 118
     },
     "lang": "zh",
     "weight": 55,
@@ -1722,7 +1888,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 163
+      "replies": 167
     },
     "lang": "zh",
     "weight": 55,
@@ -1743,7 +1909,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 100
+      "replies": 105
     },
     "lang": "zh",
     "weight": 55,
@@ -1786,7 +1952,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 119
+      "replies": 122
     },
     "lang": "zh",
     "weight": 55,
@@ -1910,7 +2076,7 @@
       "游戏"
     ],
     "signals": {
-      "replies": 163
+      "replies": 167
     },
     "lang": "zh",
     "weight": 55,
@@ -2039,6 +2205,31 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "写好的skill如何让整个团队复用snowflakecoco打通共享与治理流程技术实践"
+  },
+  {
+    "id": "46b1181472dbfe5a",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "🐾 DEV Pet Corner #4: Show Us Your Pets!",
+    "summary": "TL;DR DEV Pet Corner is back for another Sunday!",
+    "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-4-show-us-your-pets-55jh",
+    "canonicalUrl": "https://dev.to/hemapriya_kanagala/dev-pet-corner-4-show-us-your-pets-55jh",
+    "publishedAt": "2026-11-01T17:53:50.000Z",
+    "fetchedAt": "2026-11-02T18:20:20.610Z",
+    "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "pets"
+    ],
+    "signals": {
+      "reactions": 82,
+      "comments": 18
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "devpetcorner4showusyourpets"
   },
   {
     "id": "4e08cafa2e7322b2",
