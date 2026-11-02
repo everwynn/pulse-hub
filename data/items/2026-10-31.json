@@ -34,6 +34,28 @@
     "titleKey": "一边拥抱jdk27一边保留jdk21helidon开启双轨发布"
   },
   {
+    "id": "d770c84892f685a6",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "storytold/craft-anything",
+    "summary": "Craft Anything: understand how any software works, and craft your own.",
+    "url": "https://github.com/storytold/craft-anything",
+    "canonicalUrl": "https://github.com/storytold/craft-anything",
+    "publishedAt": "2026-10-31T14:50:00.000Z",
+    "fetchedAt": "2026-11-02T13:38:40.112Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 2563,
+      "forks": 415
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "storytoldcraftanything"
+  },
+  {
     "id": "b942dc0872e6140d",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -212,8 +234,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 68,
-      "comments": 22
+      "points": 175,
+      "comments": 75
     },
     "lang": "en",
     "weight": 92,
@@ -320,7 +342,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 9415",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 11586",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -329,8 +351,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 9415,
-      "forks": 955
+      "stars": 11586,
+      "forks": 1195
     },
     "lang": "en",
     "weight": 90,
@@ -529,8 +551,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 229,
-      "comments": 139
+      "points": 599,
+      "comments": 365
     },
     "lang": "en",
     "weight": 92,

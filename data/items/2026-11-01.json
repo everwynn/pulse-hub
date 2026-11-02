@@ -14,8 +14,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1162,
-      "comments": 208
+      "points": 1584,
+      "comments": 259
     },
     "lang": "en",
     "weight": 92,
@@ -594,23 +594,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "showhnomnidiffopensourcesuperfastcontentawaregitdifftoolinrust"
-  },
-  {
-    "id": "930c9ea962cd901d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "America is doing better than you think. Your algorithm is just hiding it.",
-    "summary": "The bottom half of Americans has more than doubled its net worth since 2019.",
-    "url": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-01T13:00:00.000Z",
-    "fetchedAt": "2026-11-01T14:34:40.294Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "americaisdoingbetterthanyouthinkyouralgorithmisjusthidingit"
   },
   {
     "id": "9f5b8c3ab12fc97a",
@@ -1661,8 +1644,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 2422,
-      "comments": 553
+      "points": 2677,
+      "comments": 597
     },
     "lang": "en",
     "weight": 92,

@@ -34,6 +34,23 @@
     "titleKey": "英特尔股价暴跌29"
   },
   {
+    "id": "afbc629fab805c5d",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "Speeding up planning decisions with AI",
+    "summary": "Google DeepMind and UK government work together to reduce planning assessment ti…",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+    "canonicalUrl": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+    "publishedAt": "2026-10-30T14:18:30.000Z",
+    "fetchedAt": "2026-11-02T13:38:40.112Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "speedingupplanningdecisionswithai"
+  },
+  {
     "id": "7574d2e1db2061be",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -106,8 +123,8 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 28,
-      "comments": 27
+      "reactions": 29,
+      "comments": 29
     },
     "lang": "en",
     "weight": 60,
@@ -426,8 +443,8 @@
       "gamedev"
     ],
     "signals": {
-      "stars": 2887,
-      "forks": 376
+      "stars": 3236,
+      "forks": 433
     },
     "lang": "en",
     "weight": 90,
@@ -594,8 +611,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 132,
-      "comments": 100
+      "reactions": 145,
+      "comments": 114
     },
     "lang": "en",
     "weight": 60,
