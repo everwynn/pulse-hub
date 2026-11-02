@@ -106,8 +106,8 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 26,
-      "comments": 26
+      "reactions": 28,
+      "comments": 27
     },
     "lang": "en",
     "weight": 60,
@@ -135,6 +135,28 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "榜一拿来吧你智元这波双模型杀穿多榜榜单"
+  },
+  {
+    "id": "ab3f088c28fdadce",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Keeping Up Appearances – The women taking over the funeral industry",
+    "summary": "",
+    "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+    "canonicalUrl": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly",
+    "publishedAt": "2026-10-30T12:40:08.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 38,
+      "comments": 20
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "keepingupappearancesthewomentakingoverthefuneralindustry"
   },
   {
     "id": "20a00cfd42a1e785",
@@ -404,12 +426,34 @@
       "gamedev"
     ],
     "signals": {
-      "stars": 2245,
-      "forks": 289
+      "stars": 2887,
+      "forks": 376
     },
     "lang": "en",
     "weight": 90,
     "titleKey": "patchggpixelfx"
+  },
+  {
+    "id": "e5156bb641068bc0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nibnib: Image compression with extreme decompression speed",
+    "summary": "",
+    "url": "https://github.com/raphlinus/nibnib",
+    "canonicalUrl": "https://github.com/raphlinus/nibnib",
+    "publishedAt": "2026-10-30T04:17:06.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 123,
+      "comments": 20
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nibnibimagecompressionwithextremedecompressionspeed"
   },
   {
     "id": "04628cc624f4f497",
@@ -550,8 +594,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 121,
-      "comments": 84
+      "reactions": 132,
+      "comments": 100
     },
     "lang": "en",
     "weight": 60,

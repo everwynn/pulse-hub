@@ -1,20 +1,44 @@
 [
   {
-    "id": "32f63915ce247516",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-    "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how n…",
-    "url": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-01T15:00:00.000Z",
-    "fetchedAt": "2026-11-01T15:05:58.690Z",
-    "tags": [],
-    "signals": {},
+    "id": "6b45ac51e8176cc2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "summary": "",
+    "url": "https://hackerbooks.org",
+    "canonicalUrl": "https://hackerbooks.org/",
+    "publishedAt": "2026-11-01T15:58:28.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1162,
+      "comments": 208
+    },
     "lang": "en",
-    "weight": 68,
-    "titleKey": "applesnewearningserabeginsatacriticaltimeforbigtech"
+    "weight": 92,
+    "titleKey": "showhnhackerbookshackertubebutforbooksmentionedonhn"
+  },
+  {
+    "id": "2654bd461381552a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "JimuBI v2.5.6 发布，修复 7 项安全漏洞",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503332",
+    "canonicalUrl": "https://www.oschina.net/news/503332",
+    "publishedAt": "2026-11-01T15:08:10.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jimubiv256发布修复7项安全漏洞"
   },
   {
     "id": "a590893a8cfca3b3",
@@ -83,6 +107,25 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "lenovosencryptedfingerprintusbisjustanunencryptedsdcardinacase"
+  },
+  {
+    "id": "64058850c737f936",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "XXL-AI v1.4.0 发布｜AI 应用开发平台",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503331",
+    "canonicalUrl": "https://www.oschina.net/news/503331",
+    "publishedAt": "2026-11-01T14:30:58.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "xxlaiv140发布ai应用开发平台"
   },
   {
     "id": "e997e7c29bddbc7a",
@@ -239,23 +282,6 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "移动身份系统的密码学基础isoiec180135企业架构蓝图"
-  },
-  {
-    "id": "5ee9cb2cb0ab85d3",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "This is the biggest threat to the AI-powered bull market",
-    "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026.",
-    "url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-01T14:00:00.000Z",
-    "fetchedAt": "2026-11-01T14:34:40.294Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thisisthebiggestthreattotheaipoweredbullmarket"
   },
   {
     "id": "0246ae27f32e890d",
@@ -548,6 +574,28 @@
     "titleKey": "claude紧急叫停暗改harness禁止逆向游戏"
   },
   {
+    "id": "95f3f6ba3453b153",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "summary": "",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "canonicalUrl": "https://github.com/ivankovic/omnidiff",
+    "publishedAt": "2026-11-01T13:02:30.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 197,
+      "comments": 46
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnomnidiffopensourcesuperfastcontentawaregitdifftoolinrust"
+  },
+  {
     "id": "930c9ea962cd901d",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -817,6 +865,48 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "2026上海开源软件应用创新大赛获奖名单"
+  },
+  {
+    "id": "fb542e938e3b3ff9",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "当没 token 额度了 你会手改 AI 生成的代码吗 😂",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1253543",
+    "canonicalUrl": "https://www.v2ex.com/t/1253543",
+    "publishedAt": "2026-11-01T08:41:51.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 42
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "当没token额度了你会手改ai生成的代码吗"
+  },
+  {
+    "id": "6c87e21cd61852b5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "用 AI 逆向了搜狗输入法， 让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本",
+    "summary": "让搜狗输入法(v16.10)完全断网 / 禁止更新 / 禁止广告 的一键脚本 放 github 了： https://github.com/SillyShalo…",
+    "url": "https://www.v2ex.com/t/1253540",
+    "canonicalUrl": "https://www.v2ex.com/t/1253540",
+    "publishedAt": "2026-11-01T08:24:20.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 47
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "用ai逆向了搜狗输入法让搜狗输入法v1610完全断网禁止更新禁止广告的一键脚本"
   },
   {
     "id": "14842ac5d84dace0",
@@ -1571,29 +1661,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1624,
-      "comments": 428
+      "points": 2422,
+      "comments": 553
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "hackertubeyoutubebuiltfromvideosrecommendedbyhn"
-  },
-  {
-    "id": "f185a02ea4d61957",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-    "summary": "“I’m 68, she’s 74, and we’re both in good health.",
-    "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-31T19:30:00.000Z",
-    "fetchedAt": "2026-10-29T17:32:33.447Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "showyjewelryandfancycarsholdnoappealwehavea99chanceofoutlivingourlifesavingswhynotspenditall"
   },
   {
     "id": "795586d6103758f6",
@@ -1722,23 +1795,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "wereinour70sshouldwepayoffour25mortgageorputthemoneyinahighyieldsavingsaccount"
-  },
-  {
-    "id": "d7a1a4b2e92d40af",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old …",
-    "url": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-31T18:50:00.000Z",
-    "fetchedAt": "2026-11-01T07:12:47.828Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hewasheartbrokenmyhusbandskidsabandonedhimwhenhewasdyingwasherighttoleaveeverythingtome"
   },
   {
     "id": "b59b94cd4a3e6399",

@@ -198,6 +198,28 @@
     "titleKey": "黑客仅用20分钟就从币安盗取了63亿美元加密货币"
   },
   {
+    "id": "52135c28b6357714",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+    "summary": "",
+    "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+    "canonicalUrl": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+    "publishedAt": "2026-10-31T11:53:47.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 68,
+      "comments": 22
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "mysteryof60secondfluctuationsinpowergridssolved"
+  },
+  {
     "id": "1e920adf324cb3dc",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -298,7 +320,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 5997",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 9415",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -307,8 +329,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 5997,
-      "forks": 571
+      "stars": 9415,
+      "forks": 955
     },
     "lang": "en",
     "weight": 90,
@@ -493,6 +515,28 @@
     "titleKey": "datay轻量数据平台v105版本更新"
   },
   {
+    "id": "503e5c4ba1369d15",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Postgres 19 is late because so many more bugs are being found now",
+    "summary": "",
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "canonicalUrl": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "publishedAt": "2026-10-31T01:38:56.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 229,
+      "comments": 139
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "postgres19islatebecausesomanymorebugsarebeingfoundnow"
+  },
+  {
     "id": "de7219acd2fd3445",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -588,6 +632,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "pilotwavehydrodynamicsquantumphenomenainmacroscopichydrodynamicsystems"
+  },
+  {
+    "id": "14dffc07dc34abb8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Copper – A minimal low-level programming language with OOP and generics",
+    "summary": "",
+    "url": "https://tibleiz.net/copper/",
+    "canonicalUrl": "https://tibleiz.net/copper",
+    "publishedAt": "2026-10-30T19:09:33.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 154,
+      "comments": 82
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "copperaminimallowlevelprogramminglanguagewithoopandgenerics"
   },
   {
     "id": "afade4776f5967d8",

@@ -1,5 +1,30 @@
 [
   {
+    "id": "429b81b04eb8d694",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "I Compared 6 TypeScript Validation Libraries. Here's What Surprised Me 🤔",
+    "summary": "Hoi hoi! 👋 I'm nyaomaru, a frontend engineer and OSS developer working mostly wi…",
+    "url": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
+    "canonicalUrl": "https://dev.to/nyaomaru/i-compared-6-typescript-validation-libraries-heres-what-surprised-me-325g",
+    "publishedAt": "2026-10-28T15:37:53.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "typescript",
+      "opensource",
+      "webdev",
+      "frontend"
+    ],
+    "signals": {
+      "reactions": 116,
+      "comments": 50
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "icompared6typescriptvalidationlibrarieshereswhatsurprisedme"
+  },
+  {
     "id": "728b163cacf23687",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
@@ -104,6 +129,28 @@
     "titleKey": "thefutureofthefirm"
   },
   {
+    "id": "7ab08e1f444c33d7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tips for more effective fuzz testing with AFL++",
+    "summary": "",
+    "url": "https://nullprogram.com/blog/2025/02/05/",
+    "canonicalUrl": "https://nullprogram.com/blog/2025/02/05",
+    "publishedAt": "2026-10-28T09:46:12.000Z",
+    "fetchedAt": "2026-11-02T05:58:44.327Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 100,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "tipsformoreeffectivefuzztestingwithafl"
+  },
+  {
     "id": "1a3387a29340e094",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -153,7 +200,7 @@
     "fetchedAt": "2026-11-01T07:12:47.828Z",
     "tags": [],
     "signals": {
-      "stars": 1683,
+      "stars": 1707,
       "forks": 6
     },
     "lang": "en",
@@ -320,8 +367,8 @@
       "design"
     ],
     "signals": {
-      "reactions": 161,
-      "comments": 35
+      "reactions": 166,
+      "comments": 36
     },
     "lang": "en",
     "weight": 60,

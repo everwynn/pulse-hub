@@ -92,8 +92,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 4348,
-      "forks": 219
+      "stars": 5114,
+      "forks": 255
     },
     "lang": "en",
     "weight": 90,
@@ -270,8 +270,8 @@
       "jetpack-compose"
     ],
     "signals": {
-      "stars": 3504,
-      "forks": 616
+      "stars": 4326,
+      "forks": 827
     },
     "lang": "en",
     "weight": 90,
@@ -417,8 +417,8 @@
       "C"
     ],
     "signals": {
-      "stars": 2952,
-      "forks": 240
+      "stars": 3353,
+      "forks": 270
     },
     "lang": "en",
     "weight": 90,
@@ -629,7 +629,7 @@
     ],
     "signals": {
       "reactions": 53,
-      "comments": 50
+      "comments": 51
     },
     "lang": "en",
     "weight": 60,
@@ -816,8 +816,8 @@
       "promptengineering"
     ],
     "signals": {
-      "reactions": 97,
-      "comments": 90
+      "reactions": 112,
+      "comments": 100
     },
     "lang": "en",
     "weight": 60,
@@ -889,8 +889,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 1844,
-      "forks": 484
+      "stars": 1939,
+      "forks": 502
     },
     "lang": "en",
     "weight": 90,
@@ -1273,7 +1273,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Djihads80/Eglantine",
-    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 1679",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 2100",
     "url": "https://github.com/Djihads80/Eglantine",
     "canonicalUrl": "https://github.com/Djihads80/Eglantine",
     "publishedAt": "2026-10-29T00:25:18.000Z",
@@ -1282,8 +1282,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 1679,
-      "forks": 203
+      "stars": 2100,
+      "forks": 253
     },
     "lang": "en",
     "weight": 90,
