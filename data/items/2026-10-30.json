@@ -123,8 +123,8 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 29,
-      "comments": 30
+      "reactions": 30,
+      "comments": 32
     },
     "lang": "en",
     "weight": 60,
@@ -443,8 +443,8 @@
       "gamedev"
     ],
     "signals": {
-      "stars": 3393,
-      "forks": 458
+      "stars": 3674,
+      "forks": 500
     },
     "lang": "en",
     "weight": 90,
@@ -611,7 +611,7 @@
       "programming"
     ],
     "signals": {
-      "reactions": 150,
+      "reactions": 156,
       "comments": 120
     },
     "lang": "en",

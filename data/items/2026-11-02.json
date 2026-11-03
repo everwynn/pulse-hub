@@ -34,6 +34,25 @@
     "titleKey": "小鼠研究显示阉割有助于长寿"
   },
   {
+    "id": "d0fddeb40c0bee84",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Scaling Git at OpenAI",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of devel…",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "canonicalUrl": "https://openai.com/index/scaling-git-at-openai",
+    "publishedAt": "2026-11-02T15:30:00.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "Engineering"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "scalinggitatopenai"
+  },
+  {
     "id": "0b2deea62c0f4cb8",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -355,8 +374,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 175,
-      "comments": 42
+      "points": 485,
+      "comments": 108
     },
     "lang": "en",
     "weight": 92,
@@ -520,6 +539,25 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "myfatherhasalzheimersandhiscaregiverisusinghisdebitcardfordoordashdoiintervene"
+  },
+  {
+    "id": "29533d4948932cbf",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Cordonix 0.0.5 发布：新增原生手机工具与 Windows 进程查询",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503354",
+    "canonicalUrl": "https://www.oschina.net/news/503354",
+    "publishedAt": "2026-11-02T12:47:49.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "cordonix005发布新增原生手机工具与windows进程查询"
   },
   {
     "id": "d0aaddd5817fc3a5",
@@ -869,6 +907,27 @@
     "titleKey": "showhniveupdatedmylinuxsystemcallwebsiteandapi"
   },
   {
+    "id": "4a3cc2716f9fcd5a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "市场行情啥时候能好点？",
+    "summary": "记得 21 年前，房价年年涨，工资也年年涨，感觉这就是常态，然后突然行情就调转直下了。",
+    "url": "https://www.v2ex.com/t/1253887",
+    "canonicalUrl": "https://www.v2ex.com/t/1253887",
+    "publishedAt": "2026-11-02T09:21:03.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 60
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "市场行情啥时候能好点"
+  },
+  {
     "id": "8f805de8406dd2dd",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -954,6 +1013,28 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "lifeval"
+  },
+  {
+    "id": "6ef2824b620b35b0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "European RISC-V Industrial Computing Initiative",
+    "summary": "",
+    "url": "https://erici.eu",
+    "canonicalUrl": "https://erici.eu/",
+    "publishedAt": "2026-11-02T08:58:33.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 39,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "europeanriscvindustrialcomputinginitiative"
   },
   {
     "id": "726a634d57d0ea6f",
@@ -1047,7 +1128,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 163
+      "replies": 217
     },
     "lang": "zh",
     "weight": 55,
@@ -1758,23 +1839,6 @@
     "titleKey": "excelize开源基础库发布2111版本更新"
   },
   {
-    "id": "968e1b9a819ff1b8",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-    "summary": "How to manage “giving while living” without endangering your own retirement.",
-    "url": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-02T03:23:00.000Z",
-    "fetchedAt": "2026-11-02T05:58:44.327Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "wanttohelpyouradultkidsandgrandkidsgivethemmoneywhileyourestillalive"
-  },
-  {
     "id": "a1505dbb7ff9fd5d",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -2098,6 +2162,44 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "applesnewearningserabeginsatacriticaltimeforbigtech"
+  },
+  {
+    "id": "4c9d02e4e4d636df",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developer…",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "canonicalUrl": "https://openai.com/index/qodo-codex-plugin",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "qodobuildscontextintoaicodereviewwithcodex"
+  },
+  {
+    "id": "5e25df232bf0c41b",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security m…",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "canonicalUrl": "https://openai.com/index/dan-driscoll-joins-openai",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "openaiappointsdandriscollasseniorcounselorfornationalsecuritymodernization"
   },
   {
     "id": "48edffe66b5ba928",

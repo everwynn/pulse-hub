@@ -995,6 +995,28 @@
     "titleKey": "据广汽埃安消息2026年10月昊铂埃安bu销量42357辆同比增长5679环比增长1933"
   },
   {
+    "id": "fe3d37636a0114cd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Resisting Cognitive Surrender",
+    "summary": "",
+    "url": "https://knlb.dev/essays/surrender",
+    "canonicalUrl": "https://knlb.dev/essays/surrender",
+    "publishedAt": "2026-11-01T06:13:30.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 82,
+      "comments": 30
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "resistingcognitivesurrender"
+  },
+  {
     "id": "c57bc1e61d6b952a",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
