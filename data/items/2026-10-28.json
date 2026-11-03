@@ -17,7 +17,7 @@
       "frontend"
     ],
     "signals": {
-      "reactions": 127,
+      "reactions": 128,
       "comments": 54
     },
     "lang": "en",
@@ -36,11 +36,16 @@
     "publishedAt": "2026-10-28T13:34:16.000Z",
     "fetchedAt": "2026-11-01T07:12:47.828Z",
     "tags": [
-      "HTML"
+      "HTML",
+      "git",
+      "law",
+      "legal-tech",
+      "legislation",
+      "mcp"
     ],
     "signals": {
-      "stars": 1715,
-      "forks": 156
+      "stars": 1732,
+      "forks": 158
     },
     "lang": "en",
     "weight": 90,
@@ -367,7 +372,7 @@
       "design"
     ],
     "signals": {
-      "reactions": 167,
+      "reactions": 172,
       "comments": 36
     },
     "lang": "en",

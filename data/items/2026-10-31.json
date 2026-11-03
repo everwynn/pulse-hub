@@ -48,8 +48,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 5194,
-      "forks": 870
+      "stars": 7114,
+      "forks": 1202
     },
     "lang": "en",
     "weight": 90,
@@ -342,7 +342,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 14457",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 16101",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -351,8 +351,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 14457,
-      "forks": 1546
+      "stars": 16101,
+      "forks": 1737
     },
     "lang": "en",
     "weight": 90,

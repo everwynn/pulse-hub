@@ -155,6 +155,28 @@
     "titleKey": "ryanairceowarnsfarescouldrisebyupto20nextyear"
   },
   {
+    "id": "79a1465eb752cc88",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "summary": "",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "canonicalUrl": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+    "publishedAt": "2026-11-02T14:02:42.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 110,
+      "comments": 43
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "fujifilmtoboosttapeproduction5xasaifuelsarchivingdemand"
+  },
+  {
     "id": "23faa793c6163f35",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -2164,25 +2186,6 @@
     "titleKey": "applesnewearningserabeginsatacriticaltimeforbigtech"
   },
   {
-    "id": "4c9d02e4e4d636df",
-    "sourceId": "openai-news",
-    "sourceName": "OpenAI News",
-    "channel": "ai",
-    "title": "Qodo builds context into AI code review with Codex",
-    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developer…",
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "canonicalUrl": "https://openai.com/index/qodo-codex-plugin",
-    "publishedAt": "2026-11-02T00:00:00.000Z",
-    "fetchedAt": "2026-11-03T06:44:05.557Z",
-    "tags": [
-      "Startup"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 95,
-    "titleKey": "qodobuildscontextintoaicodereviewwithcodex"
-  },
-  {
     "id": "5e25df232bf0c41b",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -2200,6 +2203,25 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "openaiappointsdandriscollasseniorcounselorfornationalsecuritymodernization"
+  },
+  {
+    "id": "4c9d02e4e4d636df",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Qodo builds context into AI code review with Codex",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developer…",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "canonicalUrl": "https://openai.com/index/qodo-codex-plugin",
+    "publishedAt": "2026-11-02T00:00:00.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "qodobuildscontextintoaicodereviewwithcodex"
   },
   {
     "id": "48edffe66b5ba928",

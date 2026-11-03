@@ -124,7 +124,7 @@
     ],
     "signals": {
       "reactions": 30,
-      "comments": 32
+      "comments": 34
     },
     "lang": "en",
     "weight": 60,
@@ -443,8 +443,8 @@
       "gamedev"
     ],
     "signals": {
-      "stars": 3674,
-      "forks": 500
+      "stars": 3984,
+      "forks": 545
     },
     "lang": "en",
     "weight": 90,
@@ -611,8 +611,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 156,
-      "comments": 120
+      "reactions": 165,
+      "comments": 123
     },
     "lang": "en",
     "weight": 60,
