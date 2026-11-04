@@ -169,8 +169,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 110,
-      "comments": 43
+      "points": 432,
+      "comments": 181
     },
     "lang": "en",
     "weight": 92,
@@ -1819,6 +1819,28 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "游戏行业新版本前瞻二游退潮以后下一场社交抢人大战将会很疯狂"
+  },
+  {
+    "id": "c758260a6a2fc0ee",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+    "summary": "",
+    "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+    "canonicalUrl": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026",
+    "publishedAt": "2026-11-02T04:31:20.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 159,
+      "comments": 26
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "japansjimimundanehalloweencostumesof2026"
   },
   {
     "id": "99f76700a01b958e",

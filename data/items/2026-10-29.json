@@ -92,8 +92,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 7155,
-      "forks": 360
+      "stars": 7719,
+      "forks": 386
     },
     "lang": "en",
     "weight": 90,
@@ -270,8 +270,8 @@
       "jetpack-compose"
     ],
     "signals": {
-      "stars": 5977,
-      "forks": 1160
+      "stars": 6195,
+      "forks": 1202
     },
     "lang": "en",
     "weight": 90,
@@ -422,8 +422,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 4382,
-      "forks": 351
+      "stars": 4594,
+      "forks": 370
     },
     "lang": "en",
     "weight": 90,
@@ -512,7 +512,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "BryceYuuu/RUN",
-    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） · Python · ★ 2855",
+    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） · Python · ★ 3274",
     "url": "https://github.com/BryceYuuu/RUN",
     "canonicalUrl": "https://github.com/BryceYuuu/RUN",
     "publishedAt": "2026-10-29T11:28:43.000Z",
@@ -521,8 +521,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2855,
-      "forks": 205
+      "stars": 3274,
+      "forks": 241
     },
     "lang": "en",
     "weight": 90,
@@ -655,8 +655,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 58,
-      "comments": 54
+      "reactions": 65,
+      "comments": 55
     },
     "lang": "en",
     "weight": 60,
@@ -843,7 +843,7 @@
       "promptengineering"
     ],
     "signals": {
-      "reactions": 126,
+      "reactions": 128,
       "comments": 115
     },
     "lang": "en",
@@ -916,8 +916,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 2113,
-      "forks": 542
+      "stars": 2148,
+      "forks": 550
     },
     "lang": "en",
     "weight": 90,
@@ -1300,7 +1300,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Djihads80/Eglantine",
-    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 2868",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 3153",
     "url": "https://github.com/Djihads80/Eglantine",
     "canonicalUrl": "https://github.com/Djihads80/Eglantine",
     "publishedAt": "2026-10-29T00:25:18.000Z",
@@ -1309,8 +1309,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2868,
-      "forks": 326
+      "stars": 3153,
+      "forks": 364
     },
     "lang": "en",
     "weight": 90,

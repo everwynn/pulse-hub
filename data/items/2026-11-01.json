@@ -1594,6 +1594,33 @@
     "titleKey": "anitalianfarmerfoundsomeunknownseedsinhisatticandplantedthem"
   },
   {
+    "id": "8683e0801e1cc661",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Verlintas/NOIR",
+    "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。",
+    "url": "https://github.com/Verlintas/NOIR",
+    "canonicalUrl": "https://github.com/Verlintas/NOIR",
+    "publishedAt": "2026-10-31T21:34:39.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "Kotlin",
+      "adb",
+      "android",
+      "android-privacy",
+      "android-security",
+      "android-tools"
+    ],
+    "signals": {
+      "stars": 1830,
+      "forks": 140
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "verlintasnoir"
+  },
+  {
     "id": "00a01aed828fe205",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1856,6 +1883,31 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "caregiversarenowspendingmorethan11000ayearoutofpocketup60infiveyears"
+  },
+  {
+    "id": "085a3e32f65a09f5",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮",
+    "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghos…",
+    "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+    "canonicalUrl": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+    "publishedAt": "2026-10-31T17:57:27.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "opensource",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 94,
+      "comments": 52
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "everycodebasehasadonottouchfileibuiltanainecromancertosummontheghostofthedeveloperwhowroteit"
   },
   {
     "id": "bdc4d34dc8ae1210",

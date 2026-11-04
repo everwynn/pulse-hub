@@ -1,22 +1,5 @@
 [
   {
-    "id": "47e8c359343ba1f7",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
-    "summary": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchand…",
-    "url": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-    "publishedAt": "2026-11-03T15:58:54.000Z",
-    "fetchedAt": "2026-11-03T16:13:42.107Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "shopifyfalls7afterq3revenueandmerchandisevolumemissestimates"
-  },
-  {
     "id": "ba2894107ce5afac",
     "sourceId": "huggingface-blog",
     "sourceName": "Hugging Face Blog",
@@ -371,23 +354,6 @@
     "titleKey": "learningfromloveisblindmoneydrama"
   },
   {
-    "id": "d873e0725888635f",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-    "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjuste…",
-    "url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-    "publishedAt": "2026-11-03T14:43:43.000Z",
-    "fetchedAt": "2026-11-03T16:13:42.107Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "ferrariraises2026guidanceafterq3earningsbeat"
-  },
-  {
     "id": "289ed422fa3de1e5",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -405,21 +371,23 @@
     "titleKey": "从模型调用到任务交付maas如何走进agent生产"
   },
   {
-    "id": "61eafc02fdfc20a9",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
-    "summary": "Pfizer announced that Cecile Guegan, who has held various leadership roles at th…",
-    "url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-    "publishedAt": "2026-11-03T14:18:27.000Z",
-    "fetchedAt": "2026-11-03T16:13:42.107Z",
-    "tags": [],
+    "id": "7d6354ca2b46ee4a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Nginx 配置没人敢动？这台服务器的 SSL 证书续期，我终于不用手动了",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503375",
+    "canonicalUrl": "https://www.oschina.net/news/503375",
+    "publishedAt": "2026-11-03T14:30:28.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "综合新闻"
+    ],
     "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "pfizerhikesfullyearoutlookasnewerproductsgrowtapscompanyveteranasnewcfo"
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "nginx配置没人敢动这台服务器的ssl证书续期我终于不用手动了"
   },
   {
     "id": "ad0faa0a2ae5b785",
@@ -543,23 +511,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "itsfinallyelectiondayandpredictionmarketsmayshowtoomuchconfidenceinagoodnightfordemocrats"
-  },
-  {
-    "id": "232ece577931ac7e",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-    "summary": "The company missed revenue expectations, a tough outcome in today’s less-forgivi…",
-    "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-03T13:26:00.000Z",
-    "fetchedAt": "2026-11-03T16:13:42.107Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shopifysstockslidesafterearningsthisiswhatsworryingwallstreet"
   },
   {
     "id": "0168d98b68e0d27b",
@@ -745,6 +696,25 @@
     "titleKey": "theastracanreadandwriteweightstoimproveqwenpostismisleading"
   },
   {
+    "id": "20f89fa0a9ecc137",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Accelerating engineering for the physical world",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design,…",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "canonicalUrl": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "publishedAt": "2026-11-03T12:00:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "acceleratingengineeringforthephysicalworld"
+  },
+  {
     "id": "385335971e39fcb1",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -801,6 +771,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "模型谁都买得到拉开差距的是ai生产力系统"
+  },
+  {
+    "id": "b8ca4949d1b4a7b0",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我的 APP 创作出的壁纸在小红书有 100w 浏览量了！送终身码",
+    "summary": "## 关于 我的 APP 叫做 [MakePaper]( https://makepaper.app)，半年多前我在小红书建了一个话题 #MakePaper ，…",
+    "url": "https://www.v2ex.com/t/1254229",
+    "canonicalUrl": "https://www.v2ex.com/t/1254229",
+    "publishedAt": "2026-11-03T11:06:17.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 103
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我的app创作出的壁纸在小红书有100w浏览量了送终身码"
   },
   {
     "id": "e2fa5560882e7456",
@@ -911,6 +902,27 @@
     "titleKey": "科学家发现115亿年前的恐龙红细胞"
   },
   {
+    "id": "47ea55f0b93a9dfa",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "亲戚聚餐，被当众问工资，怎么回答",
+    "summary": "有个亲戚，大嘴巴，总喜欢打听挣多少钱，怎么回答合适？",
+    "url": "https://www.v2ex.com/t/1254205",
+    "canonicalUrl": "https://www.v2ex.com/t/1254205",
+    "publishedAt": "2026-11-03T09:35:35.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 95
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "亲戚聚餐被当众问工资怎么回答"
+  },
+  {
     "id": "62d506dfa9b8f03c",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -926,6 +938,23 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "enlightenment0280释出初步支持bsd"
+  },
+  {
+    "id": "ac042d61065fde46",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise …",
+    "url": "https://openai.com/index/cisco-cyber",
+    "canonicalUrl": "https://openai.com/index/cisco-cyber",
+    "publishedAt": "2026-11-03T08:00:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howciscodefendsatmachinespeedwithopenai"
   },
   {
     "id": "bd3ec197e42d33ce",
@@ -1266,6 +1295,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "世界黄金协会11月3日发布2026年三季度全球黄金需求趋势报告显示全球实物黄金etf三季度重回净流入态势与二季度"
+  },
+  {
+    "id": "24829cbc1f5842d3",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "退休后还打算回农村老家养老吗",
+    "summary": "经常梦到小时候村里的场景，那个小山村已经融入了我的灵魂 梦想退休后，回到小时候长大的村里，渡过余生 但，又有不少现实问题，令人望而却步 焦虑的灵魂无处安放",
+    "url": "https://www.v2ex.com/t/1254125",
+    "canonicalUrl": "https://www.v2ex.com/t/1254125",
+    "publishedAt": "2026-11-03T06:26:37.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 56
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "退休后还打算回农村老家养老吗"
   },
   {
     "id": "68d48c9972be205e",
@@ -1948,6 +1998,28 @@
     "titleKey": "discimagestudioburnvisibleartworkontocdsdvdsandbluraydiscs"
   },
   {
+    "id": "cbcaa2b47706cc58",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "summary": "",
+    "url": "https://hackertv.org",
+    "canonicalUrl": "https://hackertv.org/",
+    "publishedAt": "2026-11-03T01:18:09.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 262,
+      "comments": 54
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnhackertvhnsmostrecommendedyoutubevideosas247tvchannels"
+  },
+  {
     "id": "544a5caa6493caa8",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -2056,6 +2128,42 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "nasdaq100tumblesintoitsthirdcorrectionthisyearasaiworriesmount"
+  },
+  {
+    "id": "74ad3ec9dabd93e9",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the…",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "canonicalUrl": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "openaiappointsjillhazelbakeraschiefcorporateaffairsofficer"
+  },
+  {
+    "id": "41b66ed4556e86dd",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "summary": "",
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "canonicalUrl": "https://huggingface.co/blog/cwe-bench",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "cwebenchv2morecoveragequalityandtransparency"
   },
   {
     "id": "4be4bd713b83a446",
@@ -3048,8 +3156,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 32,
-      "comments": 3
+      "points": 713,
+      "comments": 295
     },
     "lang": "en",
     "weight": 92,
@@ -3095,8 +3203,8 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 78,
-      "comments": 36
+      "reactions": 87,
+      "comments": 57
     },
     "lang": "en",
     "weight": 60,
