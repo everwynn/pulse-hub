@@ -193,8 +193,8 @@
       "gemini"
     ],
     "signals": {
-      "reactions": 83,
-      "comments": 30
+      "reactions": 93,
+      "comments": 37
     },
     "lang": "en",
     "weight": 60,
@@ -468,8 +468,8 @@
       "gamedev"
     ],
     "signals": {
-      "stars": 4269,
-      "forks": 575
+      "stars": 4586,
+      "forks": 613
     },
     "lang": "en",
     "weight": 90,
@@ -636,8 +636,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 168,
-      "comments": 124
+      "reactions": 170,
+      "comments": 126
     },
     "lang": "en",
     "weight": 60,

@@ -92,8 +92,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 7719,
-      "forks": 386
+      "stars": 8297,
+      "forks": 412
     },
     "lang": "en",
     "weight": 90,
@@ -270,8 +270,8 @@
       "jetpack-compose"
     ],
     "signals": {
-      "stars": 6195,
-      "forks": 1202
+      "stars": 6544,
+      "forks": 1396
     },
     "lang": "en",
     "weight": 90,
@@ -422,8 +422,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 4594,
-      "forks": 370
+      "stars": 4741,
+      "forks": 382
     },
     "lang": "en",
     "weight": 90,
@@ -512,7 +512,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "BryceYuuu/RUN",
-    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） · Python · ★ 3274",
+    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） · Python · ★ 3582",
     "url": "https://github.com/BryceYuuu/RUN",
     "canonicalUrl": "https://github.com/BryceYuuu/RUN",
     "publishedAt": "2026-10-29T11:28:43.000Z",
@@ -521,8 +521,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 3274,
-      "forks": 241
+      "stars": 3582,
+      "forks": 257
     },
     "lang": "en",
     "weight": 90,
@@ -655,8 +655,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 65,
-      "comments": 55
+      "reactions": 66,
+      "comments": 56
     },
     "lang": "en",
     "weight": 60,
@@ -843,7 +843,7 @@
       "promptengineering"
     ],
     "signals": {
-      "reactions": 128,
+      "reactions": 129,
       "comments": 115
     },
     "lang": "en",
@@ -913,11 +913,11 @@
     "publishedAt": "2026-10-29T06:08:00.000Z",
     "fetchedAt": "2026-11-01T07:12:47.828Z",
     "tags": [
-      "Go"
+      "HTML"
     ],
     "signals": {
-      "stars": 2148,
-      "forks": 550
+      "stars": 2188,
+      "forks": 554
     },
     "lang": "en",
     "weight": 90,
@@ -1300,7 +1300,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Djihads80/Eglantine",
-    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 3153",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 3423",
     "url": "https://github.com/Djihads80/Eglantine",
     "canonicalUrl": "https://github.com/Djihads80/Eglantine",
     "publishedAt": "2026-10-29T00:25:18.000Z",
@@ -1309,8 +1309,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 3153,
-      "forks": 364
+      "stars": 3423,
+      "forks": 390
     },
     "lang": "en",
     "weight": 90,

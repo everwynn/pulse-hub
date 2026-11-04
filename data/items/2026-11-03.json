@@ -940,6 +940,33 @@
     "titleKey": "enlightenment0280释出初步支持bsd"
   },
   {
+    "id": "028d772918265576",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "KKKKhazix/agent-autoloop",
+    "summary": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "canonicalUrl": "https://github.com/KKKKhazix/agent-autoloop",
+    "publishedAt": "2026-11-03T08:02:11.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "TypeScript",
+      "ai-agents",
+      "automation",
+      "claude-code",
+      "cli",
+      "codex"
+    ],
+    "signals": {
+      "stars": 2287,
+      "forks": 464
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "kkkkhazixagentautoloop"
+  },
+  {
     "id": "ac042d61065fde46",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -3203,8 +3230,8 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 87,
-      "comments": 57
+      "reactions": 98,
+      "comments": 63
     },
     "lang": "en",
     "weight": 60,
