@@ -1,5 +1,22 @@
 [
   {
+    "id": "5e34cd2dbbb64fa7",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Firefox 测试迷你窗口功能",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85796",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85796",
+    "publishedAt": "2026-11-04T15:54:37.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "firefox测试迷你窗口功能"
+  },
+  {
     "id": "3efc31dbc50d85db",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -39,23 +56,6 @@
     "titleKey": "amdexpectstooutsellintelinq4forthefirsttimeinhistory"
   },
   {
-    "id": "20d0bd496ea4136f",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
-    "summary": "Kraft Heinz will divest its North American coffee business to private equity fir…",
-    "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-    "publishedAt": "2026-11-04T15:35:23.000Z",
-    "fetchedAt": "2026-11-04T16:29:23.660Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "kraftheinztodivestitsnorthamericancoffeebusinessin650milliondeal"
-  },
-  {
     "id": "148767fcf8100ff3",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -93,6 +93,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "lettinguserstrusttheirownmcpclientswithoutopeningaphishinghole"
+  },
+  {
+    "id": "1d70a41770255162",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "summary": "",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "canonicalUrl": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "publishedAt": "2026-11-04T15:30:30.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 470,
+      "comments": 133
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "kimik31promodelweightsareout"
   },
   {
     "id": "d1cc995d569707b8",
@@ -377,23 +399,6 @@
     "titleKey": "uber总裁跳槽openai曾掌舵谷歌snap公关brockman亲自发文欢迎"
   },
   {
-    "id": "5b4953ba14cdd226",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
-    "summary": "Uber reported better-than-expected revenue but its mobility unit faced higher fu…",
-    "url": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-    "publishedAt": "2026-11-04T13:46:24.000Z",
-    "fetchedAt": "2026-11-04T16:29:23.660Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "uberbeatsonrevenueevenasmobilityanddeliveryunitsmissestimates"
-  },
-  {
     "id": "dbfe6d12db3f8988",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -496,21 +501,46 @@
     "titleKey": "价值判断涨停板的投资机会和风险提示11月3日上市公司观察"
   },
   {
-    "id": "02c91e5c891beb6b",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-    "summary": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted it…",
-    "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-    "publishedAt": "2026-11-04T12:08:15.000Z",
-    "fetchedAt": "2026-11-04T16:29:23.660Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "wayfairsalesjump10asfurnitureretailersaysitswinningshareofsluggishmarket"
+    "id": "f0c88ac434a0f1f8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我觉得 ai 时代对于普通人是利好啊，为啥如此多的人反感/不屑呢？",
+    "summary": "最近逛论坛、看国外的一些文章，发现好多人（包括我常看的一些专栏作者）都对 ai 有不少负面情绪，或者对那种“vibe coding”挺反感的。",
+    "url": "https://www.v2ex.com/t/1254526",
+    "canonicalUrl": "https://www.v2ex.com/t/1254526",
+    "publishedAt": "2026-11-04T12:06:07.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 81
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我觉得ai时代对于普通人是利好啊为啥如此多的人反感不屑呢"
+  },
+  {
+    "id": "a5a22250bd241574",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "勤俭节约的过一辈子，会不会等老了才发现亏大发了",
+    "summary": "从小节俭生活惯了，节衣缩食的，总想着多存点为未来留后路 等老了才发现钱花不完，就没了，是不是血亏啊 马斯克还说，未来金钱将变得毫无意义 如果金钱真变废纸了，这辈…",
+    "url": "https://www.v2ex.com/t/1254524",
+    "canonicalUrl": "https://www.v2ex.com/t/1254524",
+    "publishedAt": "2026-11-04T11:54:40.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 73
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "勤俭节约的过一辈子会不会等老了才发现亏大发了"
   },
   {
     "id": "3710c1c88b7c3394",
@@ -890,10 +920,10 @@
     "publishedAt": "2026-11-04T08:13:51.000Z",
     "fetchedAt": "2026-11-04T16:29:23.660Z",
     "tags": [
-      "生活"
+      "职场话题"
     ],
     "signals": {
-      "replies": 66
+      "replies": 89
     },
     "lang": "zh",
     "weight": 55,
@@ -915,12 +945,31 @@
       "ai"
     ],
     "signals": {
-      "reactions": 70,
-      "comments": 39
+      "reactions": 110,
+      "comments": 71
     },
     "lang": "en",
     "weight": 60,
     "titleKey": "werebuildingaitoreplaceourselveswhatstheplan"
+  },
+  {
+    "id": "fbc672c4c3fb4250",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "A thousand fewer paths to root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches…",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "canonicalUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "publishedAt": "2026-11-04T08:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Security"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "athousandfewerpathstoroot"
   },
   {
     "id": "8dd68a9125bd9042",
@@ -1826,6 +1875,44 @@
     "titleKey": "c26disapproved"
   },
   {
+    "id": "8b61562f41bb4c92",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing Images 2.6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, a…",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "canonicalUrl": "https://openai.com/index/introducing-images-2-6",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingimages26"
+  },
+  {
+    "id": "b7cda7222b2cd8e1",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe…",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "canonicalUrl": "https://openai.com/index/devrev-enterprise-self-service",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "devrevdeliversautonomousselfservicewithgpt61sol"
+  },
+  {
     "id": "fd58b0029fc5ed59",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1858,6 +1945,31 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "shopifysstockslidesafterearningsthisiswhatsworryingwallstreet"
+  },
+  {
+    "id": "fd3958104ea53f9b",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+    "summary": "Hacktoberfest 2026 wrapped up on October 31st!",
+    "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+    "canonicalUrl": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+    "publishedAt": "2026-11-03T22:28:08.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "hacktoberfest",
+      "hf26challenge",
+      "opensource",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 59,
+      "comments": 13
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thatsawraponhacktoberfest2026"
   },
   {
     "id": "5d070df80577a1cd",
@@ -2398,8 +2510,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 45,
-      "comments": 8
+      "reactions": 48,
+      "comments": 10
     },
     "lang": "en",
     "weight": 60,

@@ -48,8 +48,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 10621,
-      "forks": 1759
+      "stars": 12921,
+      "forks": 2167
     },
     "lang": "en",
     "weight": 90,
@@ -342,7 +342,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 18388",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 18889",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -351,8 +351,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 18388,
-      "forks": 2035
+      "stars": 18889,
+      "forks": 2120
     },
     "lang": "en",
     "weight": 90,
@@ -654,6 +654,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "pilotwavehydrodynamicsquantumphenomenainmacroscopichydrodynamicsystems"
+  },
+  {
+    "id": "a985b9af7f029002",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Arjun-Ingole/hop",
+    "summary": "Install Linux next to Windows without a USB stick · PowerShell · ★ 1515",
+    "url": "https://github.com/Arjun-Ingole/hop",
+    "canonicalUrl": "https://github.com/Arjun-Ingole/hop",
+    "publishedAt": "2026-10-30T19:40:45.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "PowerShell"
+    ],
+    "signals": {
+      "stars": 1515,
+      "forks": 53
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "arjuningolehop"
   },
   {
     "id": "14dffc07dc34abb8",

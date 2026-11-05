@@ -959,8 +959,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 2287,
-      "forks": 464
+      "stars": 2836,
+      "forks": 547
     },
     "lang": "en",
     "weight": 90,
@@ -1698,6 +1698,33 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "商业航天大运力竞争时代空天经济重组价值体系"
+  },
+  {
+    "id": "433e189239a891a4",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "govijr/terminal-mac",
+    "summary": "Entire MacOS running in your terminal.",
+    "url": "https://github.com/govijr/terminal-mac",
+    "canonicalUrl": "https://github.com/govijr/terminal-mac",
+    "publishedAt": "2026-11-03T03:22:56.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Swift",
+      "cli",
+      "gui",
+      "macos",
+      "shell",
+      "swift"
+    ],
+    "signals": {
+      "stars": 1679,
+      "forks": 101
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "govijrterminalmac"
   },
   {
     "id": "35da54d5dd4bdfa5",
@@ -2440,6 +2467,28 @@
     "titleKey": "谷歌synthiddetector简化了水印检测流程并将支持范围扩展至其他ai提供商"
   },
   {
+    "id": "6754485e9120860e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Spreading Liquid with Three.js",
+    "summary": "",
+    "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+    "canonicalUrl": "https://mofu-dev.com/en/blog/fluid-foundation",
+    "publishedAt": "2026-11-02T18:45:54.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 40,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "spreadingliquidwiththreejs"
+  },
+  {
     "id": "fdde7cfcb6b9274b",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -3035,23 +3084,6 @@
     "titleKey": "aifde合格的fde要亲手跟老师傅做业务再把经验解法做成skill深空之序联合创始人兼coo芦宇峰分享"
   },
   {
-    "id": "b5b9f69a399bdf11",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
-    "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social…",
-    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-02T17:00:00.000Z",
-    "fetchedAt": "2026-11-02T18:20:20.610Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itseemsbizarrewereinour80swith950000intraditionaliraswhyisouradviserpushingustodorothconversions"
-  },
-  {
     "id": "b8f3eb0d0514053c",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -3230,8 +3262,8 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 98,
-      "comments": 63
+      "reactions": 107,
+      "comments": 64
     },
     "lang": "en",
     "weight": 60,

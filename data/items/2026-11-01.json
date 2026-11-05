@@ -1017,6 +1017,28 @@
     "titleKey": "resistingcognitivesurrender"
   },
   {
+    "id": "58e339e60ea1035a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "mromidev/claude-animated-shorts",
+    "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit…",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "canonicalUrl": "https://github.com/mromidev/claude-animated-shorts",
+    "publishedAt": "2026-11-01T05:50:38.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "TypeScript"
+    ],
+    "signals": {
+      "stars": 1580,
+      "forks": 354
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "mromidevclaudeanimatedshorts"
+  },
+  {
     "id": "c57bc1e61d6b952a",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -1036,6 +1058,33 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "加拿大外交部长阿南德当地时间10月31日称加方正推行中等强国外交寻求与美国以外的多方伙伴加强贸易和安全联系以减"
+  },
+  {
+    "id": "1598c0c403f9aa69",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "caru-ini/stack-diagram",
+    "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with…",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "canonicalUrl": "https://github.com/caru-ini/stack-diagram",
+    "publishedAt": "2026-11-01T05:35:12.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "TypeScript",
+      "agent-skills",
+      "architecture-diagram",
+      "claude-code",
+      "claude-skills",
+      "codex"
+    ],
+    "signals": {
+      "stars": 1786,
+      "forks": 81
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "caruinistackdiagram"
   },
   {
     "id": "aac92b3a236c0f39",
@@ -1613,8 +1662,8 @@
       "android-tools"
     ],
     "signals": {
-      "stars": 1830,
-      "forks": 140
+      "stars": 2207,
+      "forks": 189
     },
     "lang": "en",
     "weight": 90,
@@ -1902,8 +1951,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 103,
-      "comments": 56
+      "reactions": 110,
+      "comments": 59
     },
     "lang": "en",
     "weight": 60,
