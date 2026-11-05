@@ -1,5 +1,257 @@
 [
   {
+    "id": "ba34cda930940951",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "Bloom Energy股价下跌20.2%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3195241",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3195241",
+    "publishedAt": "2026-11-05T15:59:35.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "bloomenergy股价下跌202"
+  },
+  {
+    "id": "74ef2bbb5b1f7edb",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据美国媒体报道，美国艾奥瓦州一家邮局5日发生枪击事件，造成多人受伤。警方称嫌疑人已被逮捕。（新华社）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3195240",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3195240",
+    "publishedAt": "2026-11-05T15:59:12.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据美国媒体报道美国艾奥瓦州一家邮局5日发生枪击事件造成多人受伤警方称嫌疑人已被逮捕新华社"
+  },
+  {
+    "id": "1f0f76d6c72f8144",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two…",
+    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-05T15:30:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
+  },
+  {
+    "id": "3beb483d588ef89d",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
+    "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people …",
+    "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-05T15:30:00.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ihavenofinancialsafetynetim66relyonsocialsecurityandhavejust500insavingswhathopedoihave"
+  },
+  {
+    "id": "c797ebcafc28bd79",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+    "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face …",
+    "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+    "publishedAt": "2026-11-05T15:24:47.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "qualcommslides9afterearningsleadingpostelectionchipstockselloff"
+  },
+  {
+    "id": "db029e620d318f1d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN",
+    "publishedAt": "2026-11-05T15:19:00.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "mcpcsdk20默认启用http无状态模式新增多轮请求能力"
+  },
+  {
+    "id": "6d3c5203ac8748b9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust",
+    "summary": "",
+    "url": "https://nordstjernen.org/",
+    "canonicalUrl": "https://nordstjernen.org/",
+    "publishedAt": "2026-11-05T15:17:31.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 9,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nordstjernennorthstarsouthstarminimalistwebbrowsersincandrust"
+  },
+  {
+    "id": "ac4c63ecdf106c50",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Learning from ‘Love Is Blind’ money drama",
+    "summary": "Hear me out: These reality-TV couples are having really important conversations …",
+    "url": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-05T15:16:00.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "learningfromloveisblindmoneydrama"
+  },
+  {
+    "id": "570a0bd3ed06dae5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+    "summary": "",
+    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "canonicalUrl": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass",
+    "publishedAt": "2026-11-05T14:44:20.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 141,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "alpinelinuxsecurityadvisoryopensshserverpasswordauthenticationbypass"
+  },
+  {
+    "id": "0dd10e9405ac921f",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "越南对足球直播盗版者判刑最高一年",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85807",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85807",
+    "publishedAt": "2026-11-05T14:38:56.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "越南对足球直播盗版者判刑最高一年"
+  },
+  {
+    "id": "148e4c821db4344d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "September in Servo: , rounded rectangles, and more",
+    "summary": "",
+    "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+    "canonicalUrl": "https://servo.org/blog/2026/11/05/september-in-servo",
+    "publishedAt": "2026-11-05T14:34:18.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 57,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "septemberinservoroundedrectanglesandmore"
+  },
+  {
+    "id": "1c7ff798045ac608",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "MCP Explained",
+    "summary": "",
+    "url": "https://mcp-explained.com/",
+    "canonicalUrl": "https://mcp-explained.com/",
+    "publishedAt": "2026-11-05T14:08:35.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 112,
+      "comments": 53
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "mcpexplained"
+  },
+  {
+    "id": "265c0500b3a11a96",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "1亿卖“闲置”预增利5500万，康惠股份用存量资产换转型时间",
+    "summary": "这是康惠股份易主一年多来，转型路径的一次集中投射——一边通过资产处置获取一次性收益、平滑利润表，一边推动算力业务从签约阶段进入运营兑现期，同时对原有医药资产做重…",
+    "url": "https://www.tmtpost.com/8195129.html",
+    "canonicalUrl": "https://www.tmtpost.com/8195129.html",
+    "publishedAt": "2026-11-05T14:05:17.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "算力",
+      "生物医药",
+      "医疗行业",
+      "大健康"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "1亿卖闲置预增利5500万康惠股份用存量资产换转型时间"
+  },
+  {
     "id": "438bc4d2da3f3e98",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +267,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "视频生成只是开始ai如何把内容做对"
+  },
+  {
+    "id": "b8b0df19401abad6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Download your favourite YouTube videos",
+    "summary": "",
+    "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+    "canonicalUrl": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos",
+    "publishedAt": "2026-11-05T13:00:11.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 81,
+      "comments": 40
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "downloadyourfavouriteyoutubevideos"
   },
   {
     "id": "75c81c0c4d715dd7",
@@ -34,6 +308,113 @@
     "titleKey": "谷歌发布mldrift为各类gpu加速端侧ai推理"
   },
   {
+    "id": "efd9e6cb8a7918d3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Obscure audio codec is a perfect fit for the N64",
+    "summary": "",
+    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "canonicalUrl": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "publishedAt": "2026-11-05T12:51:48.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 80,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "obscureaudiocodecisaperfectfitforthen64"
+  },
+  {
+    "id": "2e4a255cef480d26",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Sshole",
+    "summary": "",
+    "url": "https://sshhole.com",
+    "canonicalUrl": "https://sshhole.com/",
+    "publishedAt": "2026-11-05T12:19:02.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1144,
+      "comments": 326
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "sshole"
+  },
+  {
+    "id": "e59d39dfe25122ef",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+    "summary": "",
+    "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+    "canonicalUrl": "https://www.openssh.org/releasenotes.html",
+    "publishedAt": "2026-11-05T11:40:30.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 131,
+      "comments": 7
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "openssh106p2criticalworkaroundforalpinewithoutpam"
+  },
+  {
+    "id": "6bfed3a893f3047e",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "百度发布最新基座模型 ERNIE 5.5 Flash Base：效率、开源、高性价比",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503429/ernie-5-5-flash-base",
+    "canonicalUrl": "https://www.oschina.net/news/503429/ernie-5-5-flash-base",
+    "publishedAt": "2026-11-05T11:39:18.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "百度发布最新基座模型ernie55flashbase效率开源高性价比"
+  },
+  {
+    "id": "f12b4ba6f9aa343e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Awesome repositories are no longer awesome",
+    "summary": "",
+    "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+    "canonicalUrl": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome",
+    "publishedAt": "2026-11-05T11:16:51.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 185,
+      "comments": 94
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "awesomerepositoriesarenolongerawesome"
+  },
+  {
     "id": "55c1b61fbc179623",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -49,6 +430,151 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "谷歌用gemini4argon一夜优化adk代码库的20万行代码"
+  },
+  {
+    "id": "1370ce50ca24132f",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "用 AI 写后端，为什么还是在造轮子？",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503428",
+    "canonicalUrl": "https://www.oschina.net/news/503428",
+    "publishedAt": "2026-11-05T10:52:19.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "用ai写后端为什么还是在造轮子"
+  },
+  {
+    "id": "03a5d837bf48b14e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "具身智能，变天了",
+    "summary": "数采爆单，具身大脑公司慌了。",
+    "url": "https://www.tmtpost.com/8194393.html",
+    "canonicalUrl": "https://www.tmtpost.com/8194393.html",
+    "publishedAt": "2026-11-05T10:31:01.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "具身智能变天了"
+  },
+  {
+    "id": "4dd8435e6d4f1e40",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "机器人，开始卷K12了",
+    "summary": "给孩子买机器人，也会像今天买学习机、平板和电话手表一样自然。",
+    "url": "https://www.tmtpost.com/8194643.html",
+    "canonicalUrl": "https://www.tmtpost.com/8194643.html",
+    "publishedAt": "2026-11-05T10:30:34.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "主编精选文章",
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "机器人开始卷k12了"
+  },
+  {
+    "id": "558b1e1862de87b0",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AI安全背后的哲学思想，有效利他主义如何影响硅谷？（上篇）",
+    "summary": "从哲学思想到AI主导权之战",
+    "url": "https://www.tmtpost.com/8194754.html",
+    "canonicalUrl": "https://www.tmtpost.com/8194754.html",
+    "publishedAt": "2026-11-05T10:30:32.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "ai安全背后的哲学思想有效利他主义如何影响硅谷上篇"
+  },
+  {
+    "id": "ca7d612acd88ec3f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "瑞幸这场仗，赢在少送几单，难在多卖一杯",
+    "summary": "钱是赚到了，但同店增长还没跑出来。",
+    "url": "https://www.tmtpost.com/8194708.html",
+    "canonicalUrl": "https://www.tmtpost.com/8194708.html",
+    "publishedAt": "2026-11-05T10:30:30.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "瑞幸这场仗赢在少送几单难在多卖一杯"
+  },
+  {
+    "id": "bb300a897ee7889c",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "白宫网络监测到住宅代理活动",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85806",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85806",
+    "publishedAt": "2026-11-05T10:22:27.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "白宫网络监测到住宅代理活动"
+  },
+  {
+    "id": "a0609cefc322fc30",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "登顶 HF 热榜、下载达 20 万：有道「子曰4 -R2T2」模型技术报告发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503427",
+    "canonicalUrl": "https://www.oschina.net/news/503427",
+    "publishedAt": "2026-11-05T10:20:04.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "登顶hf热榜下载达20万有道子曰4r2t2模型技术报告发布"
+  },
+  {
+    "id": "17057064d25dbb80",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "China’s Standalone Battery Boom Pays Equipment Makers First",
+    "summary": "Grid-side storage is filling provincial project lists and tender books.",
+    "url": "https://www.tmtpost.com/8195020.html",
+    "canonicalUrl": "https://www.tmtpost.com/8195020.html",
+    "publishedAt": "2026-11-05T10:12:05.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "chinasstandalonebatteryboompaysequipmentmakersfirst"
   },
   {
     "id": "8b981a76157e44b0",
@@ -68,6 +594,23 @@
     "titleKey": "aicoding增量风险管控skill门禁与harness落地实践aicon北京"
   },
   {
+    "id": "8ba5b304c7c46f48",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Bazzite 45 释出",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85805",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85805",
+    "publishedAt": "2026-11-05T09:56:56.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "bazzite45释出"
+  },
+  {
     "id": "10c53520af0e141f",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -85,6 +628,62 @@
     "titleKey": "混元hy4实测腾讯的产品基因模型继承了几分"
   },
   {
+    "id": "b335eb3dfd55ba7a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "summary": "",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "canonicalUrl": "https://ernie.baidu.com/release/ernie-5-5-flash-base",
+    "publishedAt": "2026-11-05T09:29:12.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 135,
+      "comments": 73
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "baidureleasedernie55flashbase"
+  },
+  {
+    "id": "8c07cc18ce6088b3",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
+    "summary": "Rheinmetall cut its 2026 outlook for the second time in three months, citing del…",
+    "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
+    "publishedAt": "2026-11-05T09:06:40.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "rheinmetallsharesplunge17afteroutlookcutasmilitarycontractsstall"
+  },
+  {
+    "id": "30cb1386a58a059f",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Google 和 OpenAI 的模型对特定口音有偏见",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85804",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85804",
+    "publishedAt": "2026-11-05T09:00:58.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "google和openai的模型对特定口音有偏见"
+  },
+  {
     "id": "ac92037b13ba04cc",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -100,6 +699,114 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "cloudflare通过优化一致性哈希节省了100tb内存"
+  },
+  {
+    "id": "57cf92d211e83f2a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "富钾盐替换普通盐有助于每年预防数百万人死亡",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85803",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85803",
+    "publishedAt": "2026-11-05T08:26:30.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "富钾盐替换普通盐有助于每年预防数百万人死亡"
+  },
+  {
+    "id": "199471204acb0fc8",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Swift 天文台从印尼上空重返大气层",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85802",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85802",
+    "publishedAt": "2026-11-05T07:37:12.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "swift天文台从印尼上空重返大气层"
+  },
+  {
+    "id": "36d4c3ee87e1445c",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+    "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after…",
+    "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+    "publishedAt": "2026-11-05T07:30:58.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "nintendoswitch2salesplunge41aspricehikesandmemorycrunchbite"
+  },
+  {
+    "id": "e253a8b3682b2fc5",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+    "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+    "url": "https://www.qbitai.com/2026/11/507787.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507787.html",
+    "publishedAt": "2026-11-05T07:15:13.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "资讯",
+      "百度"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "百度开源文心55flashbase多基准测试刷新同尺寸模型sota"
+  },
+  {
+    "id": "204b7caf358dff08",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+    "summary": "spaCy作者长文炮轰",
+    "url": "https://www.qbitai.com/2026/11/507782.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507782.html",
+    "publishedAt": "2026-11-05T07:10:56.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "资讯",
+      "MIT"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "mit神作被锤astra爆改qwen权重就吹吧"
+  },
+  {
+    "id": "6fa82bb838db37d3",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "任天堂最大 ROM 芯片供应商准备退出",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85801",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85801",
+    "publishedAt": "2026-11-05T06:53:08.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "任天堂最大rom芯片供应商准备退出"
   },
   {
     "id": "38376cc72c863739",
@@ -435,6 +1142,23 @@
     "titleKey": "记者今天11月5日了解到市场监管总局批准发布国家标准眼面防护具特殊防护性能技术规范该标准由应急管理部组织全国"
   },
   {
+    "id": "4b8b49f58755fcf2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "新型牙刷通过产生电对抗牙菌斑病原体",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85800",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85800",
+    "publishedAt": "2026-11-05T06:05:56.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "新型牙刷通过产生电对抗牙菌斑病原体"
+  },
+  {
     "id": "8d7aed45f8f7cee3",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -528,8 +1252,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 45,
-      "comments": 4
+      "points": 330,
+      "comments": 64
     },
     "lang": "en",
     "weight": 92,
@@ -663,6 +1387,27 @@
     "titleKey": "拾趣magpiev0120发布全新截图操作翻译解释总结"
   },
   {
+    "id": "cfb21db4c6a6d15f",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "AI 会不会产生自我意识",
+    "summary": "早上心血来潮和 gpt 聊了会这个话题，它认为这事大概率会发生，我拿疑犯追踪里面的那个 The machine 和它说，它解释一些，我问它如果有意识了，它最想做…",
+    "url": "https://www.v2ex.com/t/1254640",
+    "canonicalUrl": "https://www.v2ex.com/t/1254640",
+    "publishedAt": "2026-11-05T02:31:48.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 115
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "ai会不会产生自我意识"
+  },
+  {
     "id": "b81baaca7d5ce1e2",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -677,7 +1422,7 @@
       "Android"
     ],
     "signals": {
-      "replies": 86
+      "replies": 145
     },
     "lang": "zh",
     "weight": 55,
@@ -698,7 +1443,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 104
+      "replies": 151
     },
     "lang": "zh",
     "weight": 55,
@@ -758,11 +1503,30 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 282
+      "replies": 476
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "全球35万个电台随机听roamdialios版上架了安卓正在封测发帖送一波永久pro码"
+  },
+  {
+    "id": "665f885e6c6486c7",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Bluep…",
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "canonicalUrl": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "publishedAt": "2026-11-05T02:00:00.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "settinganewstandardforresponsibleaiinfrastructure"
   },
   {
     "id": "369430d2f4203c40",
@@ -843,6 +1607,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集科技之魅"
+  },
+  {
+    "id": "1d5e2127a31c62c5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "怎么判断一段文字是不是 AI 写的？",
+    "summary": "我在知乎上用 AI 回答问题，被警告了。",
+    "url": "https://www.v2ex.com/t/1254605",
+    "canonicalUrl": "https://www.v2ex.com/t/1254605",
+    "publishedAt": "2026-11-05T01:36:00.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 74
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "怎么判断一段文字是不是ai写的"
   },
   {
     "id": "51d1a6695792a0a0",
@@ -946,11 +1731,32 @@
       "问与答"
     ],
     "signals": {
-      "replies": 75
+      "replies": 90
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "可以一直压着最左侧限速跑在最左侧道吗"
+  },
+  {
+    "id": "e3464f9228d2bbd5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "在快 AI 时代，如何做一款慢产品？",
+    "summary": "![《在快 AI 时代，如何做一款慢产品？",
+    "url": "https://www.v2ex.com/t/1254590",
+    "canonicalUrl": "https://www.v2ex.com/t/1254590",
+    "publishedAt": "2026-11-05T00:46:28.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 68
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "在快ai时代如何做一款慢产品"
   },
   {
     "id": "f4c641d3dfab5cc8",
@@ -1026,11 +1832,28 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 191
+      "replies": 218
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "全新三端纯原生ssh客户端sshsftp与ai尽在一个应用里随楼依次赠送100位评论者50个v2ex"
+  },
+  {
+    "id": "ff4c22b22f2e3a31",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+    "summary": "",
+    "url": "https://huggingface.co/blog/phonon-tts",
+    "canonicalUrl": "https://huggingface.co/blog/phonon-tts",
+    "publishedAt": "2026-11-05T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "acloserlookatphononttslaunchinghighqualityondevicespeechthattopsthebenchmarks"
   },
   {
     "id": "9572c5718658c313",
@@ -1048,23 +1871,6 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "jimcramersaysthisfastfoodgianthasmoreroomtorun"
-  },
-  {
-    "id": "1f0f76d6c72f8144",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two…",
-    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-04T23:45:00.000Z",
-    "fetchedAt": "2026-11-05T06:42:32.662Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "mylifecouldbecutshortim55marriedwith43millionandhaveabraintumorshouldibuya210000customporsche"
   },
   {
     "id": "4a9fa144b8c5c9ca",

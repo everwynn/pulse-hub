@@ -337,23 +337,6 @@
     "titleKey": "macatanyscale"
   },
   {
-    "id": "ac4c63ecdf106c50",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Learning from ‘Love Is Blind’ money drama",
-    "summary": "Hear me out: These reality-TV couples are having really important conversations …",
-    "url": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-03T14:46:00.000Z",
-    "fetchedAt": "2026-11-03T16:13:42.107Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "learningfromloveisblindmoneydrama"
-  },
-  {
     "id": "289ed422fa3de1e5",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -959,8 +942,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 2836,
-      "forks": 547
+      "stars": 3150,
+      "forks": 587
     },
     "lang": "en",
     "weight": 90,
@@ -1719,8 +1702,8 @@
       "swift"
     ],
     "signals": {
-      "stars": 1679,
-      "forks": 101
+      "stars": 1866,
+      "forks": 114
     },
     "lang": "en",
     "weight": 90,
@@ -3262,8 +3245,8 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 107,
-      "comments": 64
+      "reactions": 123,
+      "comments": 71
     },
     "lang": "en",
     "weight": 60,

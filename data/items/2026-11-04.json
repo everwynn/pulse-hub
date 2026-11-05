@@ -307,6 +307,28 @@
     "titleKey": "midtermelectionsdeliverabluewavethestockmarketseesgreen"
   },
   {
+    "id": "e4a555cc1dc72525",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 1964",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "canonicalUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "publishedAt": "2026-11-04T14:54:56.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1964,
+      "forks": 860
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "worldonlyugoogleaipro2yearzerocostauto"
+  },
+  {
     "id": "01cf716467c1775d",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -945,8 +967,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 110,
-      "comments": 71
+      "reactions": 147,
+      "comments": 97
     },
     "lang": "en",
     "weight": 60,
@@ -1964,8 +1986,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 59,
-      "comments": 13
+      "reactions": 60,
+      "comments": 14
     },
     "lang": "en",
     "weight": 60,
@@ -2116,6 +2138,29 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "eatonsstrongquartershouldmarkabottomforsharesoftheaibuildoutwinner"
+  },
+  {
+    "id": "fd6593558cd88547",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Let's see where you code!",
+    "summary": "I’ve been writing a lot about AWS lately, so let’s take a breather.",
+    "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+    "canonicalUrl": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+    "publishedAt": "2026-11-03T20:18:40.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "watercooler",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 73,
+      "comments": 30
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "letsseewhereyoucode"
   },
   {
     "id": "c2f538ff66f41774",

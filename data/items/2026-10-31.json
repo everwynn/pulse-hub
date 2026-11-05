@@ -48,8 +48,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 12921,
-      "forks": 2167
+      "stars": 14310,
+      "forks": 2433
     },
     "lang": "en",
     "weight": 90,
@@ -71,6 +71,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "当ai从会想走向会干腾讯云与英特尔共筑agenticai执行新底座"
+  },
+  {
+    "id": "2810b7bcc828065a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "zortos293/Lichii",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 1700",
+    "url": "https://github.com/zortos293/Lichii",
+    "canonicalUrl": "https://github.com/zortos293/Lichii",
+    "publishedAt": "2026-10-31T14:17:26.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "C++"
+    ],
+    "signals": {
+      "stars": 1700,
+      "forks": 226
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "zortos293lichii"
   },
   {
     "id": "bcb9ba5980149b28",
@@ -342,7 +364,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/dsh-superagent-prototype",
-    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 18889",
+    "summary": "Towards a More Autonomous Agent System · TypeScript · ★ 19347",
     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "canonicalUrl": "https://github.com/deepseek-ai/dsh-superagent-prototype",
     "publishedAt": "2026-10-31T09:32:46.000Z",
@@ -351,8 +373,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 18889,
-      "forks": 2120
+      "stars": 19347,
+      "forks": 2205
     },
     "lang": "en",
     "weight": 90,
