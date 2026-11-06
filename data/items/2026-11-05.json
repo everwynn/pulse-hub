@@ -40,23 +40,6 @@
     "titleKey": "据美国媒体报道美国艾奥瓦州一家邮局5日发生枪击事件造成多人受伤警方称嫌疑人已被逮捕新华社"
   },
   {
-    "id": "3beb483d588ef89d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people …",
-    "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-05T15:30:00.000Z",
-    "fetchedAt": "2026-11-05T16:28:14.898Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ihavenofinancialsafetynetim66relyonsocialsecurityandhavejust500insavingswhathopedoihave"
-  },
-  {
     "id": "db029e620d318f1d",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -254,6 +237,27 @@
     "titleKey": "sonnetdb50正式发布增强sql与事务开放九模型mcp读写"
   },
   {
+    "id": "87a59e4b7914c2ec",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
+    "summary": "基础规划免费！",
+    "url": "https://www.qbitai.com/2026/11/507919.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507919.html",
+    "publishedAt": "2026-11-05T13:17:00.000Z",
+    "fetchedAt": "2026-11-06T15:55:07.454Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "孩子的人生大事你要怎样的ai海亮科服把ai生涯规划带给更多家庭"
+  },
+  {
     "id": "a444f91c9b82ee89",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -391,8 +395,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 2538,
-      "comments": 621
+      "points": 2849,
+      "comments": 692
     },
     "lang": "en",
     "weight": 92,
@@ -716,23 +720,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "baidureleasedernie55flashbase"
-  },
-  {
-    "id": "8c07cc18ce6088b3",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Rheinmetall shares plunge 17% after outlook cut as military contracts stall",
-    "summary": "Rheinmetall cut its 2026 outlook for the second time in three months, citing del…",
-    "url": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/05/rheinmetall-stock-outlook-sales-germany.html",
-    "publishedAt": "2026-11-05T09:06:40.000Z",
-    "fetchedAt": "2026-11-05T16:28:14.898Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "rheinmetallsharesplunge17afteroutlookcutasmilitarycontractsstall"
   },
   {
     "id": "30cb1386a58a059f",
@@ -2400,6 +2387,31 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "amd营收预计将首次超过英特尔"
+  },
+  {
+    "id": "c6368d0bf7196a74",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Scared to Publish Your First Technical Article? Don't Be. I'll Be There to Read It",
+    "summary": "⚡ In a hurry?",
+    "url": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
+    "canonicalUrl": "https://dev.to/georgekobaidze/scared-to-publish-your-first-technical-article-dont-be-ill-be-there-to-read-it-1gg2",
+    "publishedAt": "2026-11-04T17:11:22.000Z",
+    "fetchedAt": "2026-11-06T15:55:07.454Z",
+    "tags": [
+      "community",
+      "beginners",
+      "writing",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 96,
+      "comments": 54
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "scaredtopublishyourfirsttechnicalarticledontbeillbetheretoreadit"
   },
   {
     "id": "c36da310687aa228",
