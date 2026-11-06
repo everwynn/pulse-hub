@@ -1031,12 +1031,39 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 1580,
-      "forks": 354
+      "stars": 1847,
+      "forks": 401
     },
     "lang": "en",
     "weight": 90,
     "titleKey": "mromidevclaudeanimatedshorts"
+  },
+  {
+    "id": "bba4eec3cdff6058",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "wquguru/cicada",
+    "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。",
+    "url": "https://github.com/wquguru/cicada",
+    "canonicalUrl": "https://github.com/wquguru/cicada",
+    "publishedAt": "2026-11-01T05:41:23.000Z",
+    "fetchedAt": "2026-11-06T06:39:11.063Z",
+    "tags": [
+      "Swift",
+      "android",
+      "linux",
+      "live-captions",
+      "macos",
+      "meeting-notes"
+    ],
+    "signals": {
+      "stars": 1516,
+      "forks": 277
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "wqugurucicada"
   },
   {
     "id": "c57bc1e61d6b952a",
@@ -1079,7 +1106,7 @@
       "codex"
     ],
     "signals": {
-      "stars": 1846,
+      "stars": 1883,
       "forks": 87
     },
     "lang": "en",
@@ -1662,8 +1689,8 @@
       "android-tools"
     ],
     "signals": {
-      "stars": 2409,
-      "forks": 216
+      "stars": 2597,
+      "forks": 242
     },
     "lang": "en",
     "weight": 90,
@@ -1951,7 +1978,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 125,
+      "reactions": 126,
       "comments": 62
     },
     "lang": "en",

@@ -942,8 +942,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 3150,
-      "forks": 587
+      "stars": 3381,
+      "forks": 625
     },
     "lang": "en",
     "weight": 90,
@@ -1702,8 +1702,8 @@
       "swift"
     ],
     "signals": {
-      "stars": 1866,
-      "forks": 114
+      "stars": 2005,
+      "forks": 123
     },
     "lang": "en",
     "weight": 90,
@@ -3245,8 +3245,8 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 123,
-      "comments": 71
+      "reactions": 129,
+      "comments": 73
     },
     "lang": "en",
     "weight": 60,
