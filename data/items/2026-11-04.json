@@ -312,7 +312,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 2930",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 3006",
     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "canonicalUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "publishedAt": "2026-11-04T14:54:56.000Z",
@@ -321,8 +321,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2930,
-      "forks": 1142
+      "stars": 3006,
+      "forks": 1164
     },
     "lang": "en",
     "weight": 90,
@@ -967,8 +967,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 197,
-      "comments": 169
+      "reactions": 202,
+      "comments": 175
     },
     "lang": "en",
     "weight": 60,
@@ -1568,6 +1568,28 @@
     "titleKey": "新国标落地陪人看病是一门好生意吗"
   },
   {
+    "id": "f50f6de4caa3fa6a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Building the NBC News Big Board",
+    "summary": "",
+    "url": "https://ejfox.com/projects/nbc-big-board",
+    "canonicalUrl": "https://ejfox.com/projects/nbc-big-board",
+    "publishedAt": "2026-11-04T04:09:48.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "buildingthenbcnewsbigboard"
+  },
+  {
     "id": "8ad6614a8d4165b9",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1609,8 +1631,8 @@
       "pngtuber"
     ],
     "signals": {
-      "stars": 995,
-      "forks": 105
+      "stars": 1123,
+      "forks": 119
     },
     "lang": "en",
     "weight": 90,
@@ -1738,8 +1760,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 58,
-      "comments": 4
+      "points": 154,
+      "comments": 21
     },
     "lang": "en",
     "weight": 92,
@@ -2267,6 +2289,28 @@
     "titleKey": "pfizerhikesfullyearoutlookonnewproductgrowthtapscompanyveteranasnewcfo"
   },
   {
+    "id": "af0f93ed498f649b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "ToothPaste",
+    "summary": "",
+    "url": "https://brisk4t.github.io/blog/toothpaste/",
+    "canonicalUrl": "https://brisk4t.github.io/blog/toothpaste",
+    "publishedAt": "2026-11-03T18:27:27.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 33,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "toothpaste"
+  },
+  {
     "id": "1130da963d03c506",
     "sourceId": "huggingface-blog",
     "sourceName": "Hugging Face Blog",
@@ -2604,7 +2648,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 54,
+      "reactions": 55,
       "comments": 10
     },
     "lang": "en",

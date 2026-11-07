@@ -1,5 +1,479 @@
 [
   {
+    "id": "1356699d7230132d",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
+    "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+    "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T14:50:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "werelosingtocottagecheesetheproteinmaxxingcrazeishurtingcreamcheesesales"
+  },
+  {
+    "id": "7c5a04d2b35fc39f",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Koppers forecasts 2026 adjusted EBITDA of $220M-$225M as pricing resets take effect in January 2027",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668719-koppers-forecasts-2026-adjusted-ebitda-of-220m-225m-as-pricing-resets-take-effect-in-january?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668719-koppers-forecasts-2026-adjusted-ebitda-of-220m-225m-as-pricing-resets-take-effect-in-january?feed_item_type=news",
+    "publishedAt": "2026-11-07T14:45:51.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "kop"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "koppersforecasts2026adjustedebitdaof220m225maspricingresetstakeeffectinjanuary2027"
+  },
+  {
+    "id": "d4fcc11bc49fb7db",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Nutex outlines 3 to 5 hospitals per year growth, with 2 openings targeted in Q4 2026",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668718-nutex-outlines-3-to-5-hospitals-per-year-growth-with-2-openings-targeted-in-q4-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668718-nutex-outlines-3-to-5-hospitals-per-year-growth-with-2-openings-targeted-in-q4-2026?feed_item_type=news",
+    "publishedAt": "2026-11-07T14:45:50.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "nutx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nutexoutlines3to5hospitalsperyeargrowthwith2openingstargetedinq42026"
+  },
+  {
+    "id": "9f7e1cfcdd2f9f14",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Trending stocks this week as Wall Street ends sharply lower",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4667831-trending-stocks-this-week-as-wall-street-ends-sharply-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4667831-trending-stocks-this-week-as-wall-street-ends-sharply-lower?feed_item_type=news",
+    "publishedAt": "2026-11-07T14:35:54.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "aapl",
+      "orcl",
+      "amd",
+      "intc",
+      "nvda",
+      "qcom"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "trendingstocksthisweekaswallstreetendssharplylower"
+  },
+  {
+    "id": "b512cf63e64049d5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+    "summary": "The math should actually start with “if” — not “how much.”",
+    "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T14:30:00.000Z",
+    "fetchedAt": "2026-11-06T06:39:11.063Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "howmuchinrothconversionscanyoudoin2027withthenewtaxbrackets"
+  },
+  {
+    "id": "d60dc316556045ad",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Berkshire ramps up buybacks in Q3 even as operating earnings dip",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668717-berkshire-hathaway-ramps-up-buybacks-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668717-berkshire-hathaway-ramps-up-buybacks-q3?feed_item_type=news",
+    "publishedAt": "2026-11-07T14:10:39.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "brk.a",
+      "brk.b"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "berkshirerampsupbuybacksinq3evenasoperatingearningsdip"
+  },
+  {
+    "id": "586ebb078d4c144e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The $8 Linux Computer (2022)",
+    "summary": "",
+    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "canonicalUrl": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+    "publishedAt": "2026-11-07T14:00:20.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 14,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "the8linuxcomputer2022"
+  },
+  {
+    "id": "cac485b54a8f7b07",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T14:00:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
+  },
+  {
+    "id": "320ce0e55b8cd998",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国中央司令部司令库珀当地时间11月7日下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨…",
+    "summary": "美国中央司令部司令库珀当地时间11月7日下令成立一支名为“铁门”（Task Force Iron Gate）的特遣队，旨在配合美国政府正在开展的相关行动，阻止伊…",
+    "url": "https://wallstreetcn.com/livenews/3196432",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196432",
+    "publishedAt": "2026-11-07T13:59:56.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国中央司令部司令库珀当地时间11月7日下令成立一支名为铁门taskforceirongate的特遣队旨"
+  },
+  {
+    "id": "06b02390ef063c9a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "The long, strange trip of Tesla's Cybertruck",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668715-the-long-strange-trip-of-teslas-cybertruck?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668715-the-long-strange-trip-of-teslas-cybertruck?feed_item_type=news",
+    "publishedAt": "2026-11-07T13:49:27.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "tsla",
+      "f",
+      "gm",
+      "rivn",
+      "rddt"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "thelongstrangetripofteslascybertruck"
+  },
+  {
+    "id": "c9ddf9e709a3d6b3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊拉克石油部：将遵守OPEC+431万桶/日的产量水平。 提高产量上限需经OPEC+一致同意。 将继续努力争取明年提高产…",
+    "summary": "伊拉克石油部：将遵守OPEC+431万桶/日的产量水平。",
+    "url": "https://wallstreetcn.com/livenews/3196431",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196431",
+    "publishedAt": "2026-11-07T13:47:44.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊拉克石油部将遵守opec431万桶日的产量水平提高产量上限需经opec一致同意将继续努力争取明年提高产"
+  },
+  {
+    "id": "ecddea4d7542fffc",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "国金证券首席策略官、副所长牟一凌接受券商中国记者采访时表示，9月中下旬以来，A股市场表现承压，外部不确定性加剧是本轮回调…",
+    "summary": "国金证券首席策略官、副所长牟一凌接受券商中国记者采访时表示，9月中下旬以来，A股市场表现承压，外部不确定性加剧是本轮回调的核心扰动。",
+    "url": "https://wallstreetcn.com/livenews/3196430",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196430",
+    "publishedAt": "2026-11-07T13:31:48.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "国金证券首席策略官副所长牟一凌接受券商中国记者采访时表示9月中下旬以来a股市场表现承压外部不确定性加剧是本轮回调"
+  },
+  {
+    "id": "d98c9a4edc67f13f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening at a worse time",
+    "summary": "The ongoing tech selloff is leading investors to wonder if Anthropic will delay …",
+    "url": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T13:30:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "theaitradeisnowcountingonanthropicsipobutitcouldntbehappeningataworsetime"
+  },
+  {
+    "id": "093337f08029640e",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国将成立工作组限制伊朗使用陆路通道和里海。（路透）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196429",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196429",
+    "publishedAt": "2026-11-07T13:28:41.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国将成立工作组限制伊朗使用陆路通道和里海路透"
+  },
+  {
+    "id": "79df7e4a5ca3e84f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "英伟达CEO女儿取消原定访韩计划。（韩联社）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196428",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196428",
+    "publishedAt": "2026-11-07T13:25:06.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英伟达ceo女儿取消原定访韩计划韩联社"
+  },
+  {
+    "id": "3ec583acaece366f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。…",
+    "summary": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。",
+    "url": "https://wallstreetcn.com/livenews/3196427",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196427",
+    "publishedAt": "2026-11-07T13:21:48.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伯克希尔哈撒韦截至9月30日股权投资公允价值总额的65集中于alphabet美国运通苹果美国银行及可口可乐"
+  },
+  {
+    "id": "217b88a2bc78a632",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伯克希尔哈撒韦：截至9月底，现金储备较上一季度有所增加，达到3774亿美元。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196426",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196426",
+    "publishedAt": "2026-11-07T13:08:58.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伯克希尔哈撒韦截至9月底现金储备较上一季度有所增加达到3774亿美元"
+  },
+  {
+    "id": "354e29af69d57c22",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Berkshire Hathaway Q3 operating earnings -6% Y/Y, cash at $377.4B",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668714-berkshire-hathaway-q3-operating-earnings-dip?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668714-berkshire-hathaway-q3-operating-earnings-dip?feed_item_type=news",
+    "publishedAt": "2026-11-07T13:06:28.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "brk.a",
+      "brk.b"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "berkshirehathawayq3operatingearnings6yycashat3774b"
+  },
+  {
+    "id": "6d514d79ea098384",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。 第三季度净利润221.1亿美元，同比下降28%。…",
+    "summary": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。",
+    "url": "https://wallstreetcn.com/livenews/3196425",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196425",
+    "publishedAt": "2026-11-07T13:02:31.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伯克希尔哈撒韦第三季度营业利润为1271亿美元同比下降58第三季度净利润2211亿美元同比下降28"
+  },
+  {
+    "id": "2f741cf384e5fb66",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "今年10月以来，市场震荡调整，基金投顾逆势加仓A股。据券商统计，A股资产是10月基金投顾组合加仓最多的资产，且这种低位布…",
+    "summary": "今年10月以来，市场震荡调整，基金投顾逆势加仓A股。",
+    "url": "https://wallstreetcn.com/livenews/3196424",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196424",
+    "publishedAt": "2026-11-07T12:22:52.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "今年10月以来市场震荡调整基金投顾逆势加仓a股据券商统计a股资产是10月基金投顾组合加仓最多的资产且这种低位布"
+  },
+  {
+    "id": "bf68d58a997bc9eb",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗伊斯兰革命卫队发言人7日说，已解除了伊朗导弹的射程限制，伊朗能在一场“不对称战争”中打击敌人“预想不到的地点”。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196423",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196423",
+    "publishedAt": "2026-11-07T12:03:43.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "a-stock-channel",
+      "forex-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗伊斯兰革命卫队发言人7日说已解除了伊朗导弹的射程限制伊朗能在一场不对称战争中打击敌人预想不到的地点"
+  },
+  {
+    "id": "ea9459c1ea7c5cfc",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "抗议者闯入微软在欧洲的一处数据中心工地",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85823",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85823",
+    "publishedAt": "2026-11-07T11:46:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "抗议者闯入微软在欧洲的一处数据中心工地"
+  },
+  {
+    "id": "c6c5332e7314bb92",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "天宫即将迎来首位巴基斯坦宇航员",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85822",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85822",
+    "publishedAt": "2026-11-07T11:22:25.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "天宫即将迎来首位巴基斯坦宇航员"
+  },
+  {
+    "id": "8781de16dded7580",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "广电总局整治 AI 低俗微短剧",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85821",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85821",
+    "publishedAt": "2026-11-07T11:19:42.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "广电总局整治ai低俗微短剧"
+  },
+  {
     "id": "5a640f4af6d93458",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +491,202 @@
     "titleKey": "cyberwiios如何驾驭大模型在ot侧跨越幻觉与失控aicon北京"
   },
   {
+    "id": "f63b3e9deccf84d5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Every Mac comes with an (undocumented) family member classifier",
+    "summary": "",
+    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "canonicalUrl": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+    "publishedAt": "2026-11-07T09:46:03.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 294,
+      "comments": 145
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "everymaccomeswithanundocumentedfamilymemberclassifier"
+  },
+  {
+    "id": "6ce492bfdd1abc5b",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503464",
+    "canonicalUrl": "https://www.oschina.net/news/503464",
+    "publishedAt": "2026-11-07T09:40:05.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "firexbatis11015正式发版mybatis系列最好用最简单最方便的orm"
+  },
+  {
+    "id": "fe779a4d0053310e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Running a law firm on Free software",
+    "summary": "",
+    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+    "canonicalUrl": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition",
+    "publishedAt": "2026-11-07T09:39:06.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 62,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "runningalawfirmonfreesoftware"
+  },
+  {
+    "id": "bf7b882dd7969462",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Need for Speed Underground 2 online in the browser",
+    "summary": "",
+    "url": "https://nfsu2.xyz/",
+    "canonicalUrl": "https://nfsu2.xyz/",
+    "publishedAt": "2026-11-07T09:36:36.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 300,
+      "comments": 87
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "needforspeedunderground2onlineinthebrowser"
+  },
+  {
+    "id": "951a9e17eae61247",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "当我们终于开始认真谈论友情",
+    "summary": "友情是一种如此普遍，却又长期缺少严肃审视的亲密关系。",
+    "url": "https://www.tmtpost.com/8197164.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197164.html",
+    "publishedAt": "2026-11-07T09:33:12.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "当我们终于开始认真谈论友情"
+  },
+  {
+    "id": "d67b9101b8eeecf9",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "存储风暴压顶，小众手机「在劫难逃」",
+    "summary": "成长、高光、转折、衰落…",
+    "url": "https://www.tmtpost.com/8197119.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197119.html",
+    "publishedAt": "2026-11-07T09:33:10.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "主编精选文章",
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "存储风暴压顶小众手机在劫难逃"
+  },
+  {
+    "id": "572e987c9cede619",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "当芯片抢着上太空，半导体下一轮增量有了？",
+    "summary": "巨头争建太空机房，算力竞赛再度提速。",
+    "url": "https://www.tmtpost.com/8197078.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197078.html",
+    "publishedAt": "2026-11-07T09:33:06.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "当芯片抢着上太空半导体下一轮增量有了"
+  },
+  {
+    "id": "64da88069025a330",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "风口浪尖的数据中心，开始放低姿态",
+    "summary": "OpenAI公布新社区承诺。",
+    "url": "https://www.tmtpost.com/8197100.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197100.html",
+    "publishedAt": "2026-11-07T09:32:45.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "风口浪尖的数据中心开始放低姿态"
+  },
+  {
+    "id": "94f0488e47dcab12",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AI面试逼疯打工人",
+    "summary": "企业用AI筛人，求职者用AI练习。",
+    "url": "https://www.tmtpost.com/8197213.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197213.html",
+    "publishedAt": "2026-11-07T09:32:27.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "ai面试逼疯打工人"
+  },
+  {
+    "id": "4c2ced02522178e7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "在巴西电力市场，中国和日本走了两条相反的路",
+    "summary": "巴西电网扩张还要持续十年，新线路的运营期长达数十年。",
+    "url": "https://www.tmtpost.com/8197041.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197041.html",
+    "publishedAt": "2026-11-07T09:32:22.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "在巴西电力市场中国和日本走了两条相反的路"
+  },
+  {
     "id": "d9fed906bf7c4c2a",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +702,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "线上worker变慢本地却复现不了cloudflare让开发者直接看生产环境火焰图"
+  },
+  {
+    "id": "6915214f0f660cca",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Components of Agent Memory",
+    "summary": "",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "canonicalUrl": "https://www.anthropic.com/research/components-of-agent-memory",
+    "publishedAt": "2026-11-07T06:39:04.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 85,
+      "comments": 48
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thecomponentsofagentmemory"
   },
   {
     "id": "ee2b047ee2faf8d3",
@@ -116,6 +808,25 @@
     "titleKey": "沙特领导的联军拦截了瞄准利雅得的导弹"
   },
   {
+    "id": "076cd824669e2d43",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+    "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+    "url": "https://www.qbitai.com/2026/11/508264.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508264.html",
+    "publishedAt": "2026-11-07T05:01:17.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "抢跑deepseek硅谷华人把下一代agentharness造出来了"
+  },
+  {
     "id": "1ad94e4795290650",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -157,6 +868,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "记者从第九届进博会上海交易团国资分团集中签约仪式上获悉截至目前上海交易团国资分团在大宗商品医疗器械农食产品等领域"
+  },
+  {
+    "id": "365ec1ed6abe7dec",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "ChatGpt 大面积封号？",
+    "summary": "三个菲区 Pro20 全部中招，不同服务器固定 IP 出口，用了小半年一直很稳定。",
+    "url": "https://www.v2ex.com/t/1255172",
+    "canonicalUrl": "https://www.v2ex.com/t/1255172",
+    "publishedAt": "2026-11-07T04:41:21.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "OpenAI"
+    ],
+    "signals": {
+      "replies": 36
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "chatgpt大面积封号"
   },
   {
     "id": "8b09dd95f5a9341b",
@@ -335,7 +1067,7 @@
       "Claude"
     ],
     "signals": {
-      "replies": 28
+      "replies": 62
     },
     "lang": "zh",
     "weight": 55,
@@ -360,6 +1092,48 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "telustargets900mannualizedcashsavingsexiting2028whileprojecting500maiinfrastructurerevenueover3years"
+  },
+  {
+    "id": "f5459bec894cca49",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "智友社回馈 V 站新老客户，抽送第 13 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 3",
+    "summary": "各位 V 友好，感谢大家一直以来对我们智友社的支持和关注。",
+    "url": "https://www.v2ex.com/t/1255146",
+    "canonicalUrl": "https://www.v2ex.com/t/1255146",
+    "publishedAt": "2026-11-07T02:56:10.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 23
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "智友社回馈v站新老客户抽送第13波5个智友社的gptplus稳定特殊渠道日区独享月卡成品号3"
+  },
+  {
+    "id": "91b73823e378dea1",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "目前最强的 AI 能否实现这种排查问题的能力？",
+    "summary": "我在面对开发负责人时，打开系统界面，指着一个输入框说：“在这里输入这个，点提交，哎，它报错了，而且后台日志报的是栈溢出的错误，你来解决一下”，然后开发组就去解决…",
+    "url": "https://www.v2ex.com/t/1255141",
+    "canonicalUrl": "https://www.v2ex.com/t/1255141",
+    "publishedAt": "2026-11-07T02:47:37.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 28
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "目前最强的ai能否实现这种排查问题的能力"
   },
   {
     "id": "45f2e888eec6953a",
@@ -526,6 +1300,25 @@
     "titleKey": "saputoexpects17bukdairydivisionsaletocloseinh2fy27asitcreatesdedicatedingredientsdivision"
   },
   {
+    "id": "8862b1f3fddeee9c",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync v1.14.0 · 应用内 HTTPS 与配置包迁移",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503458",
+    "canonicalUrl": "https://www.oschina.net/news/503458",
+    "publishedAt": "2026-11-07T00:59:08.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv1140应用内https与配置包迁移"
+  },
+  {
     "id": "f9115a1a71fea230",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -606,8 +1399,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 436,
-      "comments": 71
+      "points": 820,
+      "comments": 132
     },
     "lang": "en",
     "weight": 92,
@@ -781,8 +1574,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 407,
-      "comments": 91
+      "points": 527,
+      "comments": 125
     },
     "lang": "en",
     "weight": 92,

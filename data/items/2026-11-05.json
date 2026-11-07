@@ -502,6 +502,28 @@
     "titleKey": "用ai写后端为什么还是在造轮子"
   },
   {
+    "id": "bf23eab8076f76b9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+    "summary": "",
+    "url": "https://github.com/hyphatech/spindle",
+    "canonicalUrl": "https://github.com/hyphatech/spindle",
+    "publishedAt": "2026-11-05T10:45:28.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 21,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnspindleafullfeaturedtypesafewebframeworkforocaml5"
+  },
+  {
     "id": "03a5d837bf48b14e",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -2406,8 +2428,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 116,
-      "comments": 69
+      "reactions": 119,
+      "comments": 76
     },
     "lang": "en",
     "weight": 60,

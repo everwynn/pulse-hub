@@ -415,6 +415,27 @@
     "titleKey": "美国年内麻疹确诊病例突破5000例为最近35年来首次"
   },
   {
+    "id": "2943d59691c6c66c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "很久没开 JetBrains 家产品了",
+    "summary": "16 年发 wb 说等有钱了就买 IDEA ，结果现在有钱了也不用买了，变成了买 token 了。",
+    "url": "https://www.v2ex.com/t/1255109",
+    "canonicalUrl": "https://www.v2ex.com/t/1255109",
+    "publishedAt": "2026-11-06T15:14:58.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 24
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "很久没开jetbrains家产品了"
+  },
+  {
     "id": "580e11d530a5bf37",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -446,7 +467,7 @@
       "git"
     ],
     "signals": {
-      "replies": 33
+      "replies": 43
     },
     "lang": "zh",
     "weight": 55,
@@ -652,8 +673,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 937,
-      "comments": 1796
+      "points": 1075,
+      "comments": 1929
     },
     "lang": "en",
     "weight": 92,
@@ -966,7 +987,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1074",
+    "summary": "JavaScript · ★ 1467",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -975,8 +996,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1074,
-      "forks": 582
+      "stars": 1467,
+      "forks": 738
     },
     "lang": "en",
     "weight": 90,
@@ -2326,8 +2347,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 115,
-      "comments": 61
+      "reactions": 118,
+      "comments": 65
     },
     "lang": "en",
     "weight": 60,
@@ -2636,23 +2657,6 @@
     "titleKey": "hereswherewestandonkimberlyclarksharesafterabetterthanfearedquarter"
   },
   {
-    "id": "b512cf63e64049d5",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "summary": "The math should actually start with “if” — not “how much.”",
-    "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-05T22:24:00.000Z",
-    "fetchedAt": "2026-11-06T06:39:11.063Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "howmuchinrothconversionscanyoudoin2027withthenewtaxbrackets"
-  },
-  {
     "id": "cc1c14499a28e1b4",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -2709,7 +2713,7 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 112,
+      "reactions": 120,
       "comments": 25
     },
     "lang": "en",
