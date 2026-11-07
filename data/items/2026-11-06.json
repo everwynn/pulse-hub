@@ -81,23 +81,6 @@
     "titleKey": "非洲股市收盘播报周五11月6日南非富时jse非洲领先40可交易指数收跌049至105万点下方本周1"
   },
   {
-    "id": "59c25d0825c9693c",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Nvidia, AMD and other chip stocks rebound. Is the ‘violent’ AI selloff over?",
-    "summary": "Analysts warn of further volatility ahead, though there are two new factors that…",
-    "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T15:48:00.000Z",
-    "fetchedAt": "2026-11-06T15:55:07.454Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiaamdandotherchipstocksreboundistheviolentaiselloffover"
-  },
-  {
     "id": "4e6a95a6f81b207f",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -240,6 +223,23 @@
     "titleKey": "amazonsalexaforshoppingnowanswerstotexts"
   },
   {
+    "id": "6bee7ec5cc47646a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "特斯拉将停产 Cyber​​truck",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85819",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85819",
+    "publishedAt": "2026-11-06T15:34:56.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "特斯拉将停产cyber​​truck"
+  },
+  {
     "id": "9222cea04c614af6",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -257,40 +257,6 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "nationalbankofcanadatoacquireeducationsavingsbusiness"
-  },
-  {
-    "id": "b5b9f69a399bdf11",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social…",
-    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T15:30:00.000Z",
-    "fetchedAt": "2026-11-02T18:20:20.610Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itseemsbizarrewereinour80swith950000intraditionaliraswhyisouradviserpushingrothconversions"
-  },
-  {
-    "id": "3beb483d588ef89d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    "summary": "“Sometimes I wonder whether wealthier Americans should trade places with people …",
-    "url": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T15:30:00.000Z",
-    "fetchedAt": "2026-11-05T16:28:14.898Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ihavenofinancialsafetynetim66relyonsocialsecurityandhavejust500insavingswhathopedoihave"
   },
   {
     "id": "90ba7ad049525d62",
@@ -345,6 +311,26 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "digitalocean推出学习与数据服务帮助ai智能体进行自我迭代"
+  },
+  {
+    "id": "2d67220073d8bc3d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+    "summary": "Dario刚喊减速…",
+    "url": "https://www.qbitai.com/2026/11/508184.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508184.html",
+    "publishedAt": "2026-11-06T15:21:56.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "资讯",
+      "AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a三大内部模型曝光领先opus55三个月rsi缩短80实验时间"
   },
   {
     "id": "88a3787924d11bad",
@@ -446,6 +432,27 @@
     "titleKey": "modernaraisesitsrevenueoutlookbutalleyesareonwhathappensnextwithitscancervaccine"
   },
   {
+    "id": "142620216a050b9d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "请问大家，如果自建 Git 服务器，有什么要注意的、踩坑的",
+    "summary": "我有一台甲骨文 ARM 4 核 24G 满配服务器，一台绿云 GreenCloud 。",
+    "url": "https://www.v2ex.com/t/1255105",
+    "canonicalUrl": "https://www.v2ex.com/t/1255105",
+    "publishedAt": "2026-11-06T15:07:01.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "git"
+    ],
+    "signals": {
+      "replies": 33
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "请问大家如果自建git服务器有什么要注意的踩坑的"
+  },
+  {
     "id": "2001571147c4d5ff",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -488,23 +495,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "ripcybertruckyouwereunlovedunwantedandutterlyabsurd"
-  },
-  {
-    "id": "806157d87e10b192",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-    "summary": "“My brother had no job and needed a place to live.”",
-    "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T15:00:00.000Z",
-    "fetchedAt": "2026-11-06T15:55:07.454Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "my93yearoldfatherchangedhiswillatthe11thhourleavingmybrotherhisentire500000estatecanichallengeit"
   },
   {
     "id": "9c934f4dca603bbd",
@@ -648,6 +638,28 @@
     "titleKey": "modernaraises2026outlookasceosaysnewervaccinesaregainingtraction"
   },
   {
+    "id": "81bbad1dd54c8612",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tesla to wind down Cybertruck production",
+    "summary": "",
+    "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "canonicalUrl": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "publishedAt": "2026-11-06T12:13:51.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 937,
+      "comments": 1796
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "teslatowinddowncybertruckproduction"
+  },
+  {
     "id": "10f6a1b7f470c2d3",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -777,6 +789,27 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "2026开源行业解决方案创新赛开源智能硬件解决方案赛道决赛名单公布"
+  },
+  {
+    "id": "46b1fdddece405d4",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "关于 gemini 用不了之后的戒断反应",
+    "summary": "平时反代接 hermes 里用，虽然有时候感觉挺谄媚的，但是今天突然被风控后，尝试换了好几个其他的模型，都感觉没有那种说人话的味道，开始有戒断反应了..",
+    "url": "https://www.v2ex.com/t/1255069",
+    "canonicalUrl": "https://www.v2ex.com/t/1255069",
+    "publishedAt": "2026-11-06T10:22:49.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 26
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "关于gemini用不了之后的戒断反应"
   },
   {
     "id": "459cecbfa25148b7",
@@ -928,6 +961,28 @@
     "titleKey": "中国三季度co2排放下降3"
   },
   {
+    "id": "0529f89ad3652425",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "JenkinWoo/sheeridVerify",
+    "summary": "JavaScript · ★ 1074",
+    "url": "https://github.com/JenkinWoo/sheeridVerify",
+    "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
+    "publishedAt": "2026-11-06T09:28:09.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "signals": {
+      "stars": 1074,
+      "forks": 582
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "jenkinwoosheeridverify"
+  },
+  {
     "id": "1d33afd17dab3166",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -950,6 +1005,26 @@
     "titleKey": "dutchidealistbankasnblocksnongoogleandroidincludinggrapheneos"
   },
   {
+    "id": "1454c6f214fb7526",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+    "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+    "url": "https://www.qbitai.com/2026/11/508174.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508174.html",
+    "publishedAt": "2026-11-06T09:25:59.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "资讯",
+      "派欧云"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "为什么每个personalagent背后都必须配备一台云电脑"
+  },
+  {
     "id": "72fac2214a82b7cd",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -965,6 +1040,46 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "silverlake和pif磋商收购unitysoftware"
+  },
+  {
+    "id": "af0d5767fdf444f3",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+    "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+    "url": "https://www.qbitai.com/2026/11/508170.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508170.html",
+    "publishedAt": "2026-11-06T09:21:51.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "资讯",
+      "阶跃终端"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "阶跃终端stepxneo智能体手机亮相进博会高通展台软硬模一体打造智能体新体验"
+  },
+  {
+    "id": "1407579b1faefcf8",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+    "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
+    "url": "https://www.qbitai.com/2026/11/508165.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508165.html",
+    "publishedAt": "2026-11-06T09:19:00.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "资讯",
+      "阿里巴巴"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "阿里巴巴发布2026ai向善行动报告ai数据中心可持续发展成年度亮点"
   },
   {
     "id": "8c07cc18ce6088b3",
@@ -984,6 +1099,67 @@
     "titleKey": "rheinmetallsharesplunge16afteroutlookcutasmilitarycontractsstall"
   },
   {
+    "id": "84e603ad796a6c91",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "今天离职谈话领导说他心寒了",
+    "summary": "昨天通知被离职原因是效益不好，今天谈话 1 、干了 7 个月赔偿 1 个月的感觉还挺仗义的 2 、离职协议中写了 11 月 6 号是截止日期，工资竟然只给算到 …",
+    "url": "https://www.v2ex.com/t/1255048",
+    "canonicalUrl": "https://www.v2ex.com/t/1255048",
+    "publishedAt": "2026-11-06T09:01:14.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 44
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "今天离职谈话领导说他心寒了"
+  },
+  {
+    "id": "4009d150f0d94c06",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "AI 浪潮下，孩子英语还需要卷吗？",
+    "summary": "我的认知是以后任何语言都会被 AI 抹平，完全没必要现在急头白脸的在孩子英语上花钱投入，除非孩子自己是喜欢的，那没问题。",
+    "url": "https://www.v2ex.com/t/1255030",
+    "canonicalUrl": "https://www.v2ex.com/t/1255030",
+    "publishedAt": "2026-11-06T08:25:32.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 30
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "ai浪潮下孩子英语还需要卷吗"
+  },
+  {
+    "id": "64f8e1c9d35451ae",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections wit…",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "canonicalUrl": "https://openai.com/index/partnering-with-hacktron",
+    "publishedAt": "2026-11-06T08:00:00.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "Security"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "partneringwithhacktrontofindvulnerabilitiesinopenaissystems"
+  },
+  {
     "id": "1a6e0ae2b8bfd7f8",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -999,6 +1175,27 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai狂烧2000亿美元谷歌全球启动自愿买断计划最高补偿12个月工资"
+  },
+  {
+    "id": "a00471608378b38e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "网上看到一则相亲帖",
+    "summary": "## 女方自我介绍 1.90 年女 168/51 未婚未孕，不黑不丑不显老。",
+    "url": "https://www.v2ex.com/t/1255021",
+    "canonicalUrl": "https://www.v2ex.com/t/1255021",
+    "publishedAt": "2026-11-06T07:58:20.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 26
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "网上看到一则相亲帖"
   },
   {
     "id": "10026063b0bfa72e",
@@ -1123,6 +1320,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "一边赛博修仙一边卖家电ai短剧开始冲双11业绩了"
+  },
+  {
+    "id": "c82e38f4820c31fa",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "用的飞机节点都被送中了",
+    "summary": "可能得益于部分用户长期开定位，买的机场反复切换节点登录 google ，提示的登录地点全是在国内，地点集中在浙、粤、桂。",
+    "url": "https://www.v2ex.com/t/1255000",
+    "canonicalUrl": "https://www.v2ex.com/t/1255000",
+    "publishedAt": "2026-11-06T06:52:07.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 43
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "用的飞机节点都被送中了"
   },
   {
     "id": "8eb5aeae4371c247",
@@ -1706,6 +1924,27 @@
     "titleKey": "摩托罗拉宣布第一款支持grapheneos的旗舰手机"
   },
   {
+    "id": "8068173d741c2438",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "最近发现更新小火箭不需要切换美区苹果 ID 了",
+    "summary": "是一直都可以的吗？我记得之前需要切换才行",
+    "url": "https://www.v2ex.com/t/1254980",
+    "canonicalUrl": "https://www.v2ex.com/t/1254980",
+    "publishedAt": "2026-11-06T06:01:14.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "Apple"
+    ],
+    "signals": {
+      "replies": 22
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "最近发现更新小火箭不需要切换美区苹果id了"
+  },
+  {
     "id": "5fd0c0f479bb3186",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -1841,6 +2080,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "fromlinuxtowikipediahowvolunteersbuildtheinternet"
+  },
+  {
+    "id": "fcc0ffc3af067c7a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "summary": "",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "canonicalUrl": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05",
+    "publishedAt": "2026-11-06T04:00:28.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 309,
+      "comments": 248
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "usfaasaysitwillphaseoutfloppydisksfromairtrafficcontrolby2028"
   },
   {
     "id": "d1cdae2127e91769",
@@ -2065,8 +2326,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 106,
-      "comments": 53
+      "reactions": 115,
+      "comments": 61
     },
     "lang": "en",
     "weight": 60,
@@ -2233,6 +2494,25 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "inkling2small"
+  },
+  {
+    "id": "4edff2f9b5f24ee3",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI age…",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "canonicalUrl": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "publishedAt": "2026-11-06T00:00:00.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "Publication"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "measuringhowaiagentshandleeverydaywetlabscience"
   },
   {
     "id": "eb1cdbf8f4a85a38",
@@ -2429,12 +2709,34 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 102,
-      "comments": 22
+      "reactions": 112,
+      "comments": 25
     },
     "lang": "en",
     "weight": 60,
     "titleKey": "congratstothekagglebenchmarkingchallengewinners"
+  },
+  {
+    "id": "52cdc4568a199364",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What do the next 4000 emoji look like?",
+    "summary": "",
+    "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+    "canonicalUrl": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
+    "publishedAt": "2026-11-05T20:46:26.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 33,
+      "comments": 19
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whatdothenext4000emojilooklike"
   },
   {
     "id": "88c4be85cebc719e",

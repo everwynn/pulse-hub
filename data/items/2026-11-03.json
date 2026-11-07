@@ -337,6 +337,28 @@
     "titleKey": "macatanyscale"
   },
   {
+    "id": "b7e3ff6a6efb390b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Flash C Compiler",
+    "summary": "",
+    "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+    "canonicalUrl": "https://blog.adafruit.com/2026/10/31/flash-c-compiler",
+    "publishedAt": "2026-11-03T14:49:42.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 20,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "theflashccompiler"
+  },
+  {
     "id": "289ed422fa3de1e5",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -422,6 +444,33 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "thisindicatorhastriggeredjust5timessince2000anditwarnsofatrapforstocks"
+  },
+  {
+    "id": "98b5bb1ddec367f1",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Minireel/HGhub",
+    "summary": "YellowFruit third-party client · TypeScript · ★ 1810",
+    "url": "https://github.com/Minireel/HGhub",
+    "canonicalUrl": "https://github.com/Minireel/HGhub",
+    "publishedAt": "2026-11-03T14:04:27.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "TypeScript",
+      "android",
+      "drama",
+      "free",
+      "movie-web-app",
+      "reels"
+    ],
+    "signals": {
+      "stars": 1810,
+      "forks": 1027
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "minireelhghub"
   },
   {
     "id": "870418de638bc4c7",
@@ -942,8 +991,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 3586,
-      "forks": 657
+      "stars": 3754,
+      "forks": 682
     },
     "lang": "en",
     "weight": 90,
@@ -1702,8 +1751,8 @@
       "swift"
     ],
     "signals": {
-      "stars": 2081,
-      "forks": 130
+      "stars": 2178,
+      "forks": 139
     },
     "lang": "en",
     "weight": 90,
@@ -3245,8 +3294,8 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 139,
-      "comments": 78
+      "reactions": 146,
+      "comments": 84
     },
     "lang": "en",
     "weight": 60,

@@ -152,6 +152,28 @@
     "titleKey": "macaucasinorevenueslumps10inoctoberagainstatoughcomparable"
   },
   {
+    "id": "b2b09cf8229c4698",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "s1dashu/quiet-md",
+    "summary": "Blazing-fast native notes app for macOS & Windows.",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "canonicalUrl": "https://github.com/s1dashu/quiet-md",
+    "publishedAt": "2026-11-01T14:22:53.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 1196,
+      "forks": 106
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "s1dashuquietmd"
+  },
+  {
     "id": "b982662354cb95c2",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1031,8 +1053,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 1975,
-      "forks": 415
+      "stars": 2055,
+      "forks": 435
     },
     "lang": "en",
     "weight": 90,
@@ -1058,8 +1080,8 @@
       "meeting-notes"
     ],
     "signals": {
-      "stars": 1542,
-      "forks": 282
+      "stars": 1575,
+      "forks": 287
     },
     "lang": "en",
     "weight": 90,
@@ -1106,8 +1128,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 1923,
-      "forks": 87
+      "stars": 1986,
+      "forks": 90
     },
     "lang": "en",
     "weight": 90,
@@ -1978,8 +2000,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 126,
-      "comments": 62
+      "reactions": 124,
+      "comments": 63
     },
     "lang": "en",
     "weight": 60,

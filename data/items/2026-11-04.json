@@ -312,7 +312,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 2806",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 2930",
     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "canonicalUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "publishedAt": "2026-11-04T14:54:56.000Z",
@@ -321,8 +321,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2806,
-      "forks": 1102
+      "stars": 2930,
+      "forks": 1142
     },
     "lang": "en",
     "weight": 90,
@@ -967,8 +967,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 184,
-      "comments": 145
+      "reactions": 197,
+      "comments": 169
     },
     "lang": "en",
     "weight": 60,
@@ -1590,6 +1590,33 @@
     "titleKey": "jellysheet"
   },
   {
+    "id": "96f129426244ed5c",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "livliv-dev/player",
+    "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face t…",
+    "url": "https://github.com/livliv-dev/player",
+    "canonicalUrl": "https://github.com/livliv-dev/player",
+    "publishedAt": "2026-11-04T03:28:33.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "TypeScript",
+      "avatar",
+      "character",
+      "face-tracking",
+      "lip-sync",
+      "pngtuber"
+    ],
+    "signals": {
+      "stars": 995,
+      "forks": 105
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "livlivdevplayer"
+  },
+  {
     "id": "bdb86ffe10eb1620",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1695,6 +1722,28 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "第一次相亲结束了果然和网上说的一模一样啊"
+  },
+  {
+    "id": "423a0111618f3180",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+    "summary": "",
+    "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+    "canonicalUrl": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747",
+    "publishedAt": "2026-11-04T02:19:16.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 58,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "greecehasitsownpompeiitheraburiedakrotiriinash17th16thcenturybce"
   },
   {
     "id": "c23df4bfdc44376a",
@@ -1986,7 +2035,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 62,
+      "reactions": 65,
       "comments": 14
     },
     "lang": "en",
@@ -2555,7 +2604,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 49,
+      "reactions": 54,
       "comments": 10
     },
     "lang": "en",
