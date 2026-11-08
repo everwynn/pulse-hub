@@ -987,7 +987,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1823",
+    "summary": "JavaScript · ★ 1833",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -996,8 +996,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1823,
-      "forks": 975
+      "stars": 1833,
+      "forks": 982
     },
     "lang": "en",
     "weight": 90,

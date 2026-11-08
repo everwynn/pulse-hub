@@ -17,6 +17,174 @@
     "titleKey": "顶尖ai实验室正在成为人才黑洞claudecode团队工程师离职后首次受访"
   },
   {
+    "id": "cc37162de92f2cae",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Quant snapshot: Aveanna Healthcare and Fossil lead top-rated names, as KBC Group and DeFi Development lag",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4666608-quant-snapshot-aveanna-healthcare-and-fossil-lead-top-rated-names-as-kbc-group-and-defi-development-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4666608-quant-snapshot-aveanna-healthcare-and-fossil-lead-top-rated-names-as-kbc-group-and-defi-development-lag?feed_item_type=news",
+    "publishedAt": "2026-11-08T15:00:54.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "avah",
+      "fosl",
+      "dht",
+      "hmc",
+      "jrsh",
+      "hqi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "quantsnapshotaveannahealthcareandfossilleadtopratednamesaskbcgroupanddefidevelopmentlag"
+  },
+  {
+    "id": "7bcaf73313b931f0",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
+    "summary": "S&P 500 companies’ earnings are mostly topping analysts’ estimates — but by the …",
+    "url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T15:00:00.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "corporateamericasprofitnumbersarejustbarelybeatingwallstreetsexpectations"
+  },
+  {
+    "id": "4458508b4f244d25",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Anthropic strikes $3.4B generator deal to secure data center power: FT",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668761-anthropic-strikes-3_4b-generator-deal-to-secure-data-center-power-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668761-anthropic-strikes-3_4b-generator-deal-to-secure-data-center-power-ft?feed_item_type=news",
+    "publishedAt": "2026-11-08T14:53:56.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "ant",
+      "cat",
+      "bx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "anthropicstrikes34bgeneratordealtosecuredatacenterpowerft"
+  },
+  {
+    "id": "a8446fee1e100f48",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Binance names new finance chief after $6.3 billion crypto theft",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668760-binance-names-new-finance-chief-after-6_3-billion-crypto-theft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668760-binance-names-new-finance-chief-after-6_3-billion-crypto-theft?feed_item_type=news",
+    "publishedAt": "2026-11-08T14:39:46.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "btc-usd",
+      "eth-usd",
+      "zcl-usd",
+      "zec-usd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "binancenamesnewfinancechiefafter63billioncryptotheft"
+  },
+  {
+    "id": "1356699d7230132d",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
+    "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
+    "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T14:13:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "werelosingtocottagecheesetheproteinmaxxingcrazeishurtingcreamcheesesales"
+  },
+  {
+    "id": "e2b4816510f1db13",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Notable healthcare headlines for the week: Moderna, Pfizer, and CVS Health in focus",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668617-notable-healthcare-headlines-for-the-week-moderna-pfizer-and-cvs-health-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668617-notable-healthcare-headlines-for-the-week-moderna-pfizer-and-cvs-health-in-focus?feed_item_type=news",
+    "publishedAt": "2026-11-08T14:05:29.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "xlv",
+      "cvs",
+      "pfe",
+      "lly",
+      "ilmn",
+      "syk"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "notablehealthcareheadlinesfortheweekmodernapfizerandcvshealthinfocus"
+  },
+  {
+    "id": "3f062de6e2fefe06",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "乌克兰国家电力公司8日在社交媒体发文称，俄军对乌能源基础设施的持续袭击导致乌电网面临严峻困难，哈尔科夫州、苏梅州和波尔塔…",
+    "summary": "乌克兰国家电力公司8日在社交媒体发文称，俄军对乌能源基础设施的持续袭击导致乌电网面临严峻困难，哈尔科夫州、苏梅州和波尔塔瓦州当天紧急停电。",
+    "url": "https://wallstreetcn.com/livenews/3196486",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196486",
+    "publishedAt": "2026-11-08T14:04:23.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "乌克兰国家电力公司8日在社交媒体发文称俄军对乌能源基础设施的持续袭击导致乌电网面临严峻困难哈尔科夫州苏梅州和波尔塔"
+  },
+  {
+    "id": "6710e3adbed719c0",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "SpaceX has had limited impact on stock indexes, Goldman Sachs says",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668759-spacex-has-had-limited-impact-on-stock-indexes-goldman-sachs-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668759-spacex-has-had-limited-impact-on-stock-indexes-goldman-sachs-says?feed_item_type=news",
+    "publishedAt": "2026-11-08T14:03:09.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "spcx",
+      "ndx",
+      "sp500",
+      "iwf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "spacexhashadlimitedimpactonstockindexesgoldmansachssays"
+  },
+  {
     "id": "af9094b61dde228b",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +200,23 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "租户隔离做了四层就能放心了吗工程师提醒还得看得见边界是否生效"
+  },
+  {
+    "id": "2ea29465d620eded",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
+    "summary": "An increasingly divided U.S.",
+    "url": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T14:00:00.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "stocksaremovinginsyncagainforthefirsttimeinawhiletheresjustoneproblem"
   },
   {
     "id": "cf3d69de598e9d0c",
@@ -53,6 +238,23 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "法国外长巴罗8日说欧洲将参加定于在阿联酋首都阿布扎比举行的美国俄罗斯和乌克兰三方会谈巴罗当天接受法国媒体采访时说"
+  },
+  {
+    "id": "40b243331994b5c1",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "台积电考虑进入内存行业",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85826",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85826",
+    "publishedAt": "2026-11-08T13:43:08.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "台积电考虑进入内存行业"
   },
   {
     "id": "13a666f464fb1acc",
@@ -476,8 +678,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 126,
-      "comments": 76
+      "points": 190,
+      "comments": 122
     },
     "lang": "en",
     "weight": 92,
@@ -622,12 +824,34 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 30,
-      "comments": 6
+      "points": 50,
+      "comments": 7
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "jitbitmaptextrenderingformicrocontrollers"
+  },
+  {
+    "id": "664be6fbbc8bb7dc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Writing as a Thinking Tool",
+    "summary": "",
+    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "canonicalUrl": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "publishedAt": "2026-11-08T10:41:52.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 28,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "writingasathinkingtool"
   },
   {
     "id": "9a1b2d2e25665802",
@@ -665,8 +889,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 55,
-      "comments": 21
+      "points": 106,
+      "comments": 34
     },
     "lang": "en",
     "weight": 92,
@@ -761,12 +985,33 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 80,
-      "comments": 72
+      "points": 92,
+      "comments": 76
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "agentmemoryneedsitsopentelemetrymoment"
+  },
+  {
+    "id": "a4af97e162a81484",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "突然想起来, 微软居然没拿出一个能用得模型?",
+    "summary": "不正常啊 按理微软也投入大量资源, 本来收购 github 也有优势 copilot 早期也发展可以, 但感觉自从 A/, Openai 占主流彻底没啥声音了啊",
+    "url": "https://www.v2ex.com/t/1255350",
+    "canonicalUrl": "https://www.v2ex.com/t/1255350",
+    "publishedAt": "2026-11-08T07:45:39.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 28
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "突然想起来微软居然没拿出一个能用得模型"
   },
   {
     "id": "c8e26c00742e2123",
@@ -783,7 +1028,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 45
+      "replies": 47
     },
     "lang": "zh",
     "weight": 55,
@@ -1006,7 +1251,7 @@
       "Android"
     ],
     "signals": {
-      "replies": 30
+      "replies": 33
     },
     "lang": "zh",
     "weight": 55,
@@ -1048,8 +1293,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 431,
-      "comments": 272
+      "points": 479,
+      "comments": 315
     },
     "lang": "en",
     "weight": 92,
@@ -1110,7 +1355,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 55
+      "replies": 57
     },
     "lang": "zh",
     "weight": 55,
@@ -1287,7 +1532,7 @@
       "macOS"
     ],
     "signals": {
-      "replies": 99
+      "replies": 102
     },
     "lang": "zh",
     "weight": 55,
@@ -1454,8 +1699,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 457,
-      "comments": 319
+      "points": 474,
+      "comments": 335
     },
     "lang": "en",
     "weight": 92,
@@ -1589,7 +1834,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 41
+      "replies": 42
     },
     "lang": "zh",
     "weight": 55,
@@ -1610,8 +1855,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 649,
-      "comments": 119
+      "points": 668,
+      "comments": 122
     },
     "lang": "en",
     "weight": 92,

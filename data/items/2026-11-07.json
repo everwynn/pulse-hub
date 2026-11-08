@@ -1,22 +1,5 @@
 [
   {
-    "id": "1356699d7230132d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-    "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-    "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T14:50:00.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "werelosingtocottagecheesetheproteinmaxxingcrazeishurtingcreamcheesesales"
-  },
-  {
     "id": "7c5a04d2b35fc39f",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
