@@ -139,6 +139,28 @@
     "titleKey": "evergreenaprovablysafesystemslanguage"
   },
   {
+    "id": "0863d425c0cb9884",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Clj.rs – a Clojure dialect implemented in Rust",
+    "summary": "",
+    "url": "https://clj.rs/",
+    "canonicalUrl": "https://clj.rs/",
+    "publishedAt": "2026-11-04T15:23:16.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 85,
+      "comments": 22
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "cljrsaclojuredialectimplementedinrust"
+  },
+  {
     "id": "d00abdadcea117d1",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -159,6 +181,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "addingwindowfunctionstoaspreadsheet"
+  },
+  {
+    "id": "57f24a68fcc80d61",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Porting Android 16 to my blind mother's keypad phone",
+    "summary": "",
+    "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "canonicalUrl": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+    "publishedAt": "2026-11-04T15:18:59.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 10,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "portingandroid16tomyblindmotherskeypadphone"
   },
   {
     "id": "30c8078defcf2bfc",
@@ -312,7 +356,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 3100",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 3190",
     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "canonicalUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "publishedAt": "2026-11-04T14:54:56.000Z",
@@ -321,8 +365,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 3100,
-      "forks": 1183
+      "stars": 3190,
+      "forks": 1194
     },
     "lang": "en",
     "weight": 90,
@@ -967,8 +1011,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 205,
-      "comments": 182
+      "reactions": 210,
+      "comments": 186
     },
     "lang": "en",
     "weight": 60,
@@ -1631,8 +1675,8 @@
       "pngtuber"
     ],
     "signals": {
-      "stars": 1252,
-      "forks": 130
+      "stars": 1301,
+      "forks": 133
     },
     "lang": "en",
     "weight": 90,
@@ -2226,8 +2270,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 93,
-      "comments": 44
+      "reactions": 95,
+      "comments": 47
     },
     "lang": "en",
     "weight": 60,

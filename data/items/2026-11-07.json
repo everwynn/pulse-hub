@@ -79,6 +79,27 @@
     "titleKey": "trendingstocksthisweekaswallstreetendssharplylower"
   },
   {
+    "id": "e0ff6a0d38836f93",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "现在农村还有住草房窝棚的吗？",
+    "summary": "我东大都 top2 了，草房窝棚应该已经被消灭了吧？",
+    "url": "https://www.v2ex.com/t/1255269",
+    "canonicalUrl": "https://www.v2ex.com/t/1255269",
+    "publishedAt": "2026-11-07T14:35:22.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 26
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "现在农村还有住草房窝棚的吗"
+  },
+  {
     "id": "b512cf63e64049d5",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -579,6 +600,26 @@
     "titleKey": "runningalawfirmonfreesoftware"
   },
   {
+    "id": "73a5bf694866ab3d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+    "summary": "AI写代码太快，基础设施跟不上了",
+    "url": "https://www.qbitai.com/2026/11/508449.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508449.html",
+    "publishedAt": "2026-11-07T09:38:56.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "资讯",
+      "AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "github不堪重负openai收购替代品a社原地自研马斯克也要搞"
+  },
+  {
     "id": "bf7b882dd7969462",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -727,6 +768,48 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "线上worker变慢本地却复现不了cloudflare让开发者直接看生产环境火焰图"
+  },
+  {
+    "id": "557df4ab1b1b7b6f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+    "summary": "融资缩水，硅谷投资人也谨慎了",
+    "url": "https://www.qbitai.com/2026/11/508344.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508344.html",
+    "publishedAt": "2026-11-07T08:11:25.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "资讯",
+      "AI，算力",
+      "ChatGPT",
+      "OpenAI",
+      "融资"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "openai新融资到账110亿美元不及原计划一半"
+  },
+  {
+    "id": "9c2e9588da11b419",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "为了去AI味，人类开始主动写烂文章了……",
+    "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+    "url": "https://www.qbitai.com/2026/11/508330.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508330.html",
+    "publishedAt": "2026-11-07T07:59:28.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "为了去ai味人类开始主动写烂文章了"
   },
   {
     "id": "c8e9b008ba73bf3e",
@@ -1077,6 +1160,26 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "agentsmd危险危险危险"
+  },
+  {
+    "id": "3a39732fe8875ab3",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+    "summary": "中国版cosmos再交卷",
+    "url": "https://www.qbitai.com/2026/11/508236.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508236.html",
+    "publishedAt": "2026-11-07T03:31:44.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "资讯",
+      "AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "浙大00后博士生再交卷把十几种物理要素装进一个世界模型华为昇腾原生"
   },
   {
     "id": "9fcebe6ae1e41813",
