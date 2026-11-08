@@ -1,5 +1,574 @@
 [
   {
+    "id": "d6b0d15bae5a2935",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "顶尖 AI 实验室正在成为“人才黑洞”！Claude Code 团队工程师离职后首次受访",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Qs0pJ5M43c56hdozHiR0",
+    "publishedAt": "2026-11-08T15:03:06.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "顶尖ai实验室正在成为人才黑洞claudecode团队工程师离职后首次受访"
+  },
+  {
+    "id": "af9094b61dde228b",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "租户隔离做了四层，就能放心了吗？工程师提醒：还得看得见边界是否生效",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/zTFVgklcTFZvgE2fkV7A",
+    "publishedAt": "2026-11-08T14:00:00.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "租户隔离做了四层就能放心了吗工程师提醒还得看得见边界是否生效"
+  },
+  {
+    "id": "21cf7ea01f3be71c",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Earnings Week Ahead: CSCO, CRWV, PLUG, ALC, AMAT, ACB, RKLB, ASTS, and more",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668057-earnings-week-ahead-csco-crwv-plug-alc-amat-acb-rklb-asts-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668057-earnings-week-ahead-csco-crwv-plug-alc-amat-acb-rklb-asts-and-more?feed_item_type=news",
+    "publishedAt": "2026-11-08T13:07:00.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "ceg",
+      "csco",
+      "oxy",
+      "b",
+      "nrg",
+      "pxlw"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "earningsweekaheadcscocrwvplugalcamatacbrklbastsandmore"
+  },
+  {
+    "id": "8d0d8d60d2920d3f",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "MARA heads into Q3 earnings: Here's what to expect",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668186-mara-heads-into-q3-earnings-heres-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668186-mara-heads-into-q3-earnings-heres-what-to-expect?feed_item_type=news",
+    "publishedAt": "2026-11-08T13:05:53.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "mara",
+      "btc-usd",
+      "btc"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "maraheadsintoq3earningshereswhattoexpect"
+  },
+  {
+    "id": "8a187abd84817362",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Have safety stocks already done all that they can do?",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668758-have-safety-stocks-already-done-all-that-they-can-do?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668758-have-safety-stocks-already-done-all-that-they-can-do?feed_item_type=news",
+    "publishedAt": "2026-11-08T12:49:09.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "xlv",
+      "spy",
+      "xlu",
+      "ivv",
+      "xlk",
+      "xlp"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "havesafetystocksalreadydoneallthattheycando"
+  },
+  {
+    "id": "1bab20da59cfa2ac",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "英国海上贸易行动办公室8日发布通报称，一艘油轮当地时间7日在驶离霍尔木兹海峡时遭不明发射物击中。通报称，事件发生于7日2…",
+    "summary": "英国海上贸易行动办公室8日发布通报称，一艘油轮当地时间7日在驶离霍尔木兹海峡时遭不明发射物击中。",
+    "url": "https://wallstreetcn.com/livenews/3196481",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196481",
+    "publishedAt": "2026-11-08T12:43:08.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英国海上贸易行动办公室8日发布通报称一艘油轮当地时间7日在驶离霍尔木兹海峡时遭不明发射物击中通报称事件发生于7日2"
+  },
+  {
+    "id": "72554c76f2b7431d",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "CoreWeave reaches out to Texas governor-elect on data centers",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668757-coreweave-reaches-out-to-texas-governor-elect-on-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668757-coreweave-reaches-out-to-texas-governor-elect-on-data-centers?feed_item_type=news",
+    "publishedAt": "2026-11-08T12:31:20.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "crwv"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "coreweavereachesouttotexasgovernorelectondatacenters"
+  },
+  {
+    "id": "c427b3a7c39199d9",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "屏幕竖起来，创作者不会矮一截",
+    "summary": "刷短剧的人，只是在找一个情绪出口。",
+    "url": "https://www.tmtpost.com/8197337.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197337.html",
+    "publishedAt": "2026-11-08T12:14:40.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "屏幕竖起来创作者不会矮一截"
+  },
+  {
+    "id": "6f1b037947973ea9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I will not be using LLMs in my coding",
+    "summary": "",
+    "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+    "canonicalUrl": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+    "publishedAt": "2026-11-08T12:14:10.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 20,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "iwillnotbeusingllmsinmycoding"
+  },
+  {
+    "id": "e38a9a284143c9ea",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "华为、OpenAI、字节等科技巨头为何都要插手制药？",
+    "summary": "为何科技巨头都要插手制药？",
+    "url": "https://www.tmtpost.com/8197608.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197608.html",
+    "publishedAt": "2026-11-08T12:13:38.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "华为openai字节等科技巨头为何都要插手制药"
+  },
+  {
+    "id": "49104cf7e084550a",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "字节跳动正在巴西扩建数据中心",
+    "summary": "字节跳动正于巴西打造其海外最大规模算力资产布局。",
+    "url": "https://www.tmtpost.com/8196975.html",
+    "canonicalUrl": "https://www.tmtpost.com/8196975.html",
+    "publishedAt": "2026-11-08T12:13:32.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "字节跳动正在巴西扩建数据中心"
+  },
+  {
+    "id": "d30f3aef6cffb7f0",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "刘庆峰交出科大讯飞半张AI答卷",
+    "summary": "科大讯飞的AI布局像个杂货铺么？",
+    "url": "https://www.tmtpost.com/8197516.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197516.html",
+    "publishedAt": "2026-11-08T12:13:27.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "刘庆峰交出科大讯飞半张ai答卷"
+  },
+  {
+    "id": "703c1a0c7496080f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "先进封装扩产潮，还差哪些？",
+    "summary": "透视国产先进封装产能落地和供应链的真实进度。",
+    "url": "https://www.tmtpost.com/8197519.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197519.html",
+    "publishedAt": "2026-11-08T12:10:41.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "先进封装扩产潮还差哪些"
+  },
+  {
+    "id": "b3a5312046c3c6ab",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "旷视的十五岁：不再等IPO，先谈扭亏",
+    "summary": "旷视战略收敛转做运营服务商，求可持续盈利。",
+    "url": "https://www.tmtpost.com/8188516.html",
+    "canonicalUrl": "https://www.tmtpost.com/8188516.html",
+    "publishedAt": "2026-11-08T12:09:39.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "旷视的十五岁不再等ipo先谈扭亏"
+  },
+  {
+    "id": "9d19309db8b496cd",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This market signal called the tech selloff. Now it’s sending another warning.",
+    "summary": "Correlations between individual stocks recently hit a record low, and a reversio…",
+    "url": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T12:00:00.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thismarketsignalcalledthetechselloffnowitssendinganotherwarning"
+  },
+  {
+    "id": "93f35d92cdbcc207",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "以色列国防部长卡茨8日在战争纪念仪式上称，以色列“对伊朗的任务尚未完成”，伊朗试图“重启获取核武器的进程”并进行“其他严…",
+    "summary": "以色列国防部长卡茨8日在战争纪念仪式上称，以色列“对伊朗的任务尚未完成”，伊朗试图“重启获取核武器的进程”并进行“其他严重威胁以色列安全的活动”，以方不能接受并…",
+    "url": "https://wallstreetcn.com/livenews/3196480",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196480",
+    "publishedAt": "2026-11-08T11:59:33.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "以色列国防部长卡茨8日在战争纪念仪式上称以色列对伊朗的任务尚未完成伊朗试图重启获取核武器的进程并进行其他严"
+  },
+  {
+    "id": "b1aee24f929231f1",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Trump offers press secretary position to UFC boss Dana White",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668756-trump-offers-press-secretary-position-to-ufc-boss-dana-white?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668756-trump-offers-press-secretary-position-to-ufc-boss-dana-white?feed_item_type=news",
+    "publishedAt": "2026-11-08T11:49:53.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "dxy"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "trumpofferspresssecretarypositiontoufcbossdanawhite"
+  },
+  {
+    "id": "3ee4418996dc0e58",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据英国金融时报，Anthropic于9月下旬从总部位于得州圣安东尼奥的设备供应商OnePWR Solutions处，以3…",
+    "summary": "据英国金融时报，Anthropic于9月下旬从总部位于得州圣安东尼奥的设备供应商OnePWR Solutions处，以34亿美元购得1.7吉瓦重型发电机的采购承…",
+    "url": "https://wallstreetcn.com/livenews/3196479",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196479",
+    "publishedAt": "2026-11-08T11:38:45.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "a-stock-channel",
+      "xgb-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据英国金融时报anthropic于9月下旬从总部位于得州圣安东尼奥的设备供应商onepwrsolutions处以3"
+  },
+  {
+    "id": "1d96b66fecb43402",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中信建投证券发布通信行业2027年度投资策略报告称，大模型商业化在2026年快速扩张，截至2026年9月底，OpenAI…",
+    "summary": "中信建投证券发布通信行业2027年度投资策略报告称，大模型商业化在2026年快速扩张，截至2026年9月底，OpenAI和Anthropic两家ARR合计约12…",
+    "url": "https://wallstreetcn.com/livenews/3196478",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196478",
+    "publishedAt": "2026-11-08T11:28:22.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中信建投证券发布通信行业2027年度投资策略报告称大模型商业化在2026年快速扩张截至2026年9月底openai"
+  },
+  {
+    "id": "5137b42b81382ff8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Person of Interest",
+    "summary": "",
+    "url": "https://krthr.co/person-of-interest/",
+    "canonicalUrl": "https://krthr.co/person-of-interest",
+    "publishedAt": "2026-11-08T11:23:28.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 98,
+      "comments": 58
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "personofinterest"
+  },
+  {
+    "id": "8e8d48eb9167e373",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间8日，伊朗伊斯兰革命卫队海军表示，又有一艘油轮试图穿越霍尔木兹海峡未经伊朗授权的航线，发生爆炸并引发剧烈火灾。自…",
+    "summary": "当地时间8日，伊朗伊斯兰革命卫队海军表示，又有一艘油轮试图穿越霍尔木兹海峡未经伊朗授权的航线，发生爆炸并引发剧烈火灾。",
+    "url": "https://wallstreetcn.com/livenews/3196477",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196477",
+    "publishedAt": "2026-11-08T11:16:14.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间8日伊朗伊斯兰革命卫队海军表示又有一艘油轮试图穿越霍尔木兹海峡未经伊朗授权的航线发生爆炸并引发剧烈火灾自"
+  },
+  {
+    "id": "e5615e61f9862ed5",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "也门胡塞武装一名高级消息人士7日说，沙特阿拉伯与叙利亚近期达成军事合作安排，涉及向沙特和也门边境地区及也门境内部署地面部…",
+    "summary": "也门胡塞武装一名高级消息人士7日说，沙特阿拉伯与叙利亚近期达成军事合作安排，涉及向沙特和也门边境地区及也门境内部署地面部队，以支援也门政府军。",
+    "url": "https://wallstreetcn.com/livenews/3196476",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196476",
+    "publishedAt": "2026-11-08T11:04:26.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "也门胡塞武装一名高级消息人士7日说沙特阿拉伯与叙利亚近期达成军事合作安排涉及向沙特和也门边境地区及也门境内部署地面部"
+  },
+  {
+    "id": "f53f7b07aab5e553",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据伊朗法尔斯通讯社8日报道，伊朗伊斯兰革命卫队发言人穆赫比当天表示，美国无法通过组建“铁门”特遣部队计划实现其给伊朗施加…",
+    "summary": "据伊朗法尔斯通讯社8日报道，伊朗伊斯兰革命卫队发言人穆赫比当天表示，美国无法通过组建“铁门”特遣部队计划实现其给伊朗施加经济压力的目的。",
+    "url": "https://wallstreetcn.com/livenews/3196475",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196475",
+    "publishedAt": "2026-11-08T10:57:29.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据伊朗法尔斯通讯社8日报道伊朗伊斯兰革命卫队发言人穆赫比当天表示美国无法通过组建铁门特遣部队计划实现其给伊朗施加"
+  },
+  {
+    "id": "f727496ffec5cd70",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Petered (what happens after the Peter Principle)",
+    "summary": "",
+    "url": "https://aworkinglibrary.com/writing/petered",
+    "canonicalUrl": "https://aworkinglibrary.com/writing/petered",
+    "publishedAt": "2026-11-08T10:56:43.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 53,
+      "comments": 26
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "peteredwhathappensafterthepeterprinciple"
+  },
+  {
+    "id": "5bb1d45454eb065b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国佐治亚州州长布莱恩·坎普正考虑参加2028年总统竞选。坎普也在考虑参加2028年的参议员竞选。（华盛顿邮报）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196474",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196474",
+    "publishedAt": "2026-11-08T10:50:40.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国佐治亚州州长布莱恩坎普正考虑参加2028年总统竞选坎普也在考虑参加2028年的参议员竞选华盛顿邮报"
+  },
+  {
+    "id": "8fe1882ed004c6d8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "JIT bitmap text rendering for microcontrollers",
+    "summary": "",
+    "url": "https://linebender.org/blog/jit-bitmap-text/",
+    "canonicalUrl": "https://linebender.org/blog/jit-bitmap-text",
+    "publishedAt": "2026-11-08T10:42:15.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 25,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "jitbitmaptextrenderingformicrocontrollers"
+  },
+  {
+    "id": "9a1b2d2e25665802",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "英国剑桥大学日前发布公报说，该校团队借助人工智能（AI）设计的一种新型广谱禽流感疫苗，在动物实验中对多种禽流感病毒变异株…",
+    "summary": "英国剑桥大学日前发布公报说，该校团队借助人工智能（AI）设计的一种新型广谱禽流感疫苗，在动物实验中对多种禽流感病毒变异株展现出防护效力。",
+    "url": "https://wallstreetcn.com/livenews/3196473",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196473",
+    "publishedAt": "2026-11-08T10:25:23.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英国剑桥大学日前发布公报说该校团队借助人工智能ai设计的一种新型广谱禽流感疫苗在动物实验中对多种禽流感病毒变异株"
+  },
+  {
+    "id": "42cbe128469f6208",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "summary": "",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "canonicalUrl": "https://github.com/synchopate/llama-modchip",
+    "publishedAt": "2026-11-08T10:22:04.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 33,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "llamamodchip284bdeepseekon64gbramnogpu"
+  },
+  {
     "id": "fa7ec18162015896",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +586,46 @@
     "titleKey": "从约束到进化ontology与ai自迭代的实践aicon北京"
   },
   {
+    "id": "f3b59e8d9392e193",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间8日获悉，沙特能源部一位官方消息人士称，沙特阿美石油公司位于利雅得的一栋行政大楼当日遭到“袭击企图”。当日的袭击…",
+    "summary": "当地时间8日获悉，沙特能源部一位官方消息人士称，沙特阿美石油公司位于利雅得的一栋行政大楼当日遭到“袭击企图”。",
+    "url": "https://wallstreetcn.com/livenews/3196472",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196472",
+    "publishedAt": "2026-11-08T09:57:56.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间8日获悉沙特能源部一位官方消息人士称沙特阿美石油公司位于利雅得的一栋行政大楼当日遭到袭击企图当日的袭击"
+  },
+  {
+    "id": "afc8a8b3bc67e4d6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Mueller declares $0.175 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668754-mueller-declares-0_175-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668754-mueller-declares-0_175-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-08T09:21:36.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "mli"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "muellerdeclares0175dividend"
+  },
+  {
     "id": "47c5b5fe5d0f01ca",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +641,49 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "自动路由真能省钱吗便宜模型出错后人类修一小时可能更贵"
+  },
+  {
+    "id": "931a7331e5e58b44",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "summary": "",
+    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "canonicalUrl": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "publishedAt": "2026-11-08T08:40:23.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 72,
+      "comments": 68
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "agentmemoryneedsitsopentelemetrymoment"
+  },
+  {
+    "id": "c8e26c00742e2123",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "卖软件这个事情在未来可能是伪命题了",
+    "summary": "刷到孟岩关于 AI 做软件开发的一个观点，随着 AI 能力的增强，未来人人都能通过嘴炮来做个 app 覆盖自己日常的需求，而不用等到大公司为了符合大多数人群而做…",
+    "url": "https://www.v2ex.com/t/1255327",
+    "canonicalUrl": "https://www.v2ex.com/t/1255327",
+    "publishedAt": "2026-11-08T05:19:45.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 42
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "卖软件这个事情在未来可能是伪命题了"
   },
   {
     "id": "d3a49a5ae4fec21c",
@@ -195,6 +847,26 @@
     "titleKey": "美国总统特朗普7日下令美国司法部对民主党人展开调查指控他们以弹劾及其他形式的惩罚手段威胁许多人并称这些行为构成"
   },
   {
+    "id": "83bdc702d39f5702",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "资本正在撤离“世界模型”",
+    "summary": "没有永远的夏天",
+    "url": "https://www.qbitai.com/2026/11/508466.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508466.html",
+    "publishedAt": "2026-11-08T04:09:55.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "资讯",
+      "世界模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "资本正在撤离世界模型"
+  },
+  {
     "id": "6ae31cb6615bc8ab",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -216,6 +888,48 @@
     "titleKey": "10日至11日围绕乌克兰问题的俄美乌三方会谈将在阿联酋首都阿布扎比举行近日多名俄方政治专家在接受总台报道员采访时表"
   },
   {
+    "id": "94e58f88200444df",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "写了个开源工具：手机照片视频无损搬到电脑，局域网直传， PC 不装任何客户端",
+    "summary": "写了个工具解决自己的痛点，开源出来给大家用，求轻喷、求反馈。",
+    "url": "https://www.v2ex.com/t/1255317",
+    "canonicalUrl": "https://www.v2ex.com/t/1255317",
+    "publishedAt": "2026-11-08T03:53:54.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "Android"
+    ],
+    "signals": {
+      "replies": 23
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "写了个开源工具手机照片视频无损搬到电脑局域网直传pc不装任何客户端"
+  },
+  {
+    "id": "c2838c5ce7efe608",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "40 岁老登，最近看一部 AI 漫剧上头",
+    "summary": "最近先在抖音刷到一部 AI 漫剧《重生螳螂：无限吞噬进化》，没想到还挺上头。",
+    "url": "https://www.v2ex.com/t/1255314",
+    "canonicalUrl": "https://www.v2ex.com/t/1255314",
+    "publishedAt": "2026-11-08T03:44:12.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 26
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "40岁老登最近看一部ai漫剧上头"
+  },
+  {
     "id": "2060f3f75a492b38",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -230,8 +944,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 78,
-      "comments": 38
+      "points": 407,
+      "comments": 259
     },
     "lang": "en",
     "weight": 92,
@@ -292,11 +1006,32 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 27
+      "replies": 55
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "现在还有必要花大量时间学习编程吗"
+  },
+  {
+    "id": "4a056c0b1c45c8d8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "倒霉呀，买官翻扫地机器人翻车了",
+    "summary": "之前至少有 3 个 身边的人买官翻都没啥问题，官翻也确实便宜。",
+    "url": "https://www.v2ex.com/t/1255303",
+    "canonicalUrl": "https://www.v2ex.com/t/1255303",
+    "publishedAt": "2026-11-08T02:36:12.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 29
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "倒霉呀买官翻扫地机器人翻车了"
   },
   {
     "id": "04038e606dd81dbb",
@@ -448,7 +1183,7 @@
       "macOS"
     ],
     "signals": {
-      "replies": 45
+      "replies": 96
     },
     "lang": "zh",
     "weight": 55,
@@ -615,8 +1350,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 297,
-      "comments": 205
+      "points": 447,
+      "comments": 314
     },
     "lang": "en",
     "weight": 92,
@@ -750,7 +1485,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 22
+      "replies": 41
     },
     "lang": "zh",
     "weight": 55,
@@ -771,8 +1506,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 476,
-      "comments": 97
+      "points": 641,
+      "comments": 118
     },
     "lang": "en",
     "weight": 92,

@@ -218,6 +218,28 @@
     "titleKey": "视频生成只是开始ai如何把内容做对"
   },
   {
+    "id": "84aad7f5fc9430d0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+    "summary": "",
+    "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+    "canonicalUrl": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of",
+    "publishedAt": "2026-11-05T13:44:07.000Z",
+    "fetchedAt": "2026-11-08T13:16:10.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 35,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "findingxanaduinsideajrpgclassictranslation15yearsinthemaking"
+  },
+  {
     "id": "7775c7a45d240710",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -417,8 +439,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2067,
-      "forks": 192
+      "stars": 2356,
+      "forks": 219
     },
     "lang": "en",
     "weight": 90,
@@ -1443,7 +1465,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "mmdoctor/google-pro-helper",
-    "summary": "Python · ★ 1165",
+    "summary": "Python · ★ 1192",
     "url": "https://github.com/mmdoctor/google-pro-helper",
     "canonicalUrl": "https://github.com/mmdoctor/google-pro-helper",
     "publishedAt": "2026-11-05T04:52:28.000Z",
@@ -1452,8 +1474,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1165,
-      "forks": 428
+      "stars": 1192,
+      "forks": 436
     },
     "lang": "en",
     "weight": 90,
@@ -2494,8 +2516,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 130,
-      "comments": 90
+      "reactions": 137,
+      "comments": 95
     },
     "lang": "en",
     "weight": 60,
