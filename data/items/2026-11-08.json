@@ -34,6 +34,48 @@
     "titleKey": "租户隔离做了四层就能放心了吗工程师提醒还得看得见边界是否生效"
   },
   {
+    "id": "c4b15a4973351dce",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中共中央书记处书记、国务委员王小洪7日至8日到云南调研。王小洪先后来到西双版纳傣族自治州、昆明市，深入口岸、企业、产业园…",
+    "summary": "中共中央书记处书记、国务委员王小洪7日至8日到云南调研。",
+    "url": "https://wallstreetcn.com/livenews/3196483",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196483",
+    "publishedAt": "2026-11-08T13:23:01.000Z",
+    "fetchedAt": "2026-11-08T13:40:03.740Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中共中央书记处书记国务委员王小洪7日至8日到云南调研王小洪先后来到西双版纳傣族自治州昆明市深入口岸企业产业园"
+  },
+  {
+    "id": "16d12ff75580c1fd",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "香港特区政府财政司司长陈茂波8日发表网志表示，香港近期盛事不断，吸引世界各地行业领袖和旅客云集香江，为本地经济注入显著动…",
+    "summary": "香港特区政府财政司司长陈茂波8日发表网志表示，香港近期盛事不断，吸引世界各地行业领袖和旅客云集香江，为本地经济注入显著动力。",
+    "url": "https://wallstreetcn.com/livenews/3196482",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196482",
+    "publishedAt": "2026-11-08T13:21:20.000Z",
+    "fetchedAt": "2026-11-08T13:40:03.740Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "香港特区政府财政司司长陈茂波8日发表网志表示香港近期盛事不断吸引世界各地行业领袖和旅客云集香江为本地经济注入显著动"
+  },
+  {
     "id": "21cf7ea01f3be71c",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -392,8 +434,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 98,
-      "comments": 58
+      "points": 114,
+      "comments": 69
     },
     "lang": "en",
     "weight": 92,
@@ -418,6 +460,26 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "当地时间8日伊朗伊斯兰革命卫队海军表示又有一艘油轮试图穿越霍尔木兹海峡未经伊朗授权的航线发生爆炸并引发剧烈火灾自"
+  },
+  {
+    "id": "4fb2185f5a1e2a11",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "终端侧AI：从单点应用走向智能体体验",
+    "summary": "高通在第九届进博会展出端侧MoE智能体",
+    "url": "https://www.qbitai.com/2026/11/508478.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508478.html",
+    "publishedAt": "2026-11-08T11:05:23.000Z",
+    "fetchedAt": "2026-11-08T13:40:03.740Z",
+    "tags": [
+      "资讯",
+      "高通"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "终端侧ai从单点应用走向智能体体验"
   },
   {
     "id": "e5615e61f9862ed5",
@@ -476,8 +538,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 53,
-      "comments": 26
+      "points": 66,
+      "comments": 32
     },
     "lang": "en",
     "weight": 92,
@@ -518,8 +580,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 25,
-      "comments": 5
+      "points": 30,
+      "comments": 6
     },
     "lang": "en",
     "weight": 92,
@@ -561,8 +623,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 33,
-      "comments": 15
+      "points": 48,
+      "comments": 19
     },
     "lang": "en",
     "weight": 92,
@@ -657,8 +719,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 72,
-      "comments": 68
+      "points": 79,
+      "comments": 69
     },
     "lang": "en",
     "weight": 92,
@@ -679,7 +741,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 42
+      "replies": 44
     },
     "lang": "zh",
     "weight": 55,
@@ -902,7 +964,7 @@
       "Android"
     ],
     "signals": {
-      "replies": 23
+      "replies": 28
     },
     "lang": "zh",
     "weight": 55,
@@ -923,7 +985,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 26
+      "replies": 29
     },
     "lang": "zh",
     "weight": 55,
@@ -944,8 +1006,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 407,
-      "comments": 259
+      "points": 424,
+      "comments": 266
     },
     "lang": "en",
     "weight": 92,
@@ -1183,7 +1245,7 @@
       "macOS"
     ],
     "signals": {
-      "replies": 96
+      "replies": 97
     },
     "lang": "zh",
     "weight": 55,
@@ -1350,8 +1412,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 447,
-      "comments": 314
+      "points": 454,
+      "comments": 317
     },
     "lang": "en",
     "weight": 92,
@@ -1506,8 +1568,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 641,
-      "comments": 118
+      "points": 648,
+      "comments": 119
     },
     "lang": "en",
     "weight": 92,

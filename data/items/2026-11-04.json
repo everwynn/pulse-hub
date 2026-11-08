@@ -153,8 +153,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 85,
-      "comments": 22
+      "points": 88,
+      "comments": 27
     },
     "lang": "en",
     "weight": 92,
@@ -197,7 +197,7 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 10,
+      "points": 13,
       "comments": 1
     },
     "lang": "en",
@@ -356,7 +356,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 3190",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 3192",
     "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "canonicalUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "publishedAt": "2026-11-04T14:54:56.000Z",
@@ -365,7 +365,7 @@
       "Python"
     ],
     "signals": {
-      "stars": 3190,
+      "stars": 3192,
       "forks": 1194
     },
     "lang": "en",
@@ -1012,7 +1012,7 @@
     ],
     "signals": {
       "reactions": 210,
-      "comments": 186
+      "comments": 187
     },
     "lang": "en",
     "weight": 60,
@@ -1675,7 +1675,7 @@
       "pngtuber"
     ],
     "signals": {
-      "stars": 1301,
+      "stars": 1302,
       "forks": 133
     },
     "lang": "en",

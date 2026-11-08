@@ -232,7 +232,7 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 35,
+      "points": 37,
       "comments": 2
     },
     "lang": "en",
@@ -439,8 +439,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2356,
-      "forks": 219
+      "stars": 2380,
+      "forks": 222
     },
     "lang": "en",
     "weight": 90,
@@ -2251,6 +2251,28 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "wayfairsalesjump10asfurnitureretailersaysitswinningshareofsluggishmarket"
+  },
+  {
+    "id": "dec1c1c58c1c6468",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+    "summary": "",
+    "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+    "canonicalUrl": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+    "publishedAt": "2026-11-04T20:53:54.000Z",
+    "fetchedAt": "2026-11-08T13:40:03.740Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 22,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "newtypefaceusingintricatedesignsfromshakespearesfirstfolio2023"
   },
   {
     "id": "b72058be7a346c50",
