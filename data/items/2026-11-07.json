@@ -138,23 +138,6 @@
     "titleKey": "the8linuxcomputer2022"
   },
   {
-    "id": "cac485b54a8f7b07",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
-    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T14:00:00.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
-  },
-  {
     "id": "320ce0e55b8cd998",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -381,6 +364,48 @@
     "titleKey": "伯克希尔哈撒韦第三季度营业利润为1271亿美元同比下降58第三季度净利润2211亿美元同比下降28"
   },
   {
+    "id": "9a4e7ee7c402f4e1",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "在 agent 时代，深度还是广度更重要？",
+    "summary": "指知识、经验与技能的深度与广度。",
+    "url": "https://www.v2ex.com/t/1255253",
+    "canonicalUrl": "https://www.v2ex.com/t/1255253",
+    "publishedAt": "2026-11-07T12:30:15.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 28
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "在agent时代深度还是广度更重要"
+  },
+  {
+    "id": "e8d8e77bdb1e6fd5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "请问大佬们买 Macbook 各种系列 24GB 以上的都是什么需求",
+    "summary": "能理解每个人的需求都差异很大，对于我来说，我也买过几台 pro ，不过都是好多年前了，现在都是买最轻便的 Air ，包括最近一直用的是上古的 Macbook 1…",
+    "url": "https://www.v2ex.com/t/1255251",
+    "canonicalUrl": "https://www.v2ex.com/t/1255251",
+    "publishedAt": "2026-11-07T12:29:31.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "MacBook Pro"
+    ],
+    "signals": {
+      "replies": 28
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "请问大佬们买macbook各种系列24gb以上的都是什么需求"
+  },
+  {
     "id": "2f741cf384e5fb66",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -505,8 +530,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 294,
-      "comments": 145
+      "points": 665,
+      "comments": 371
     },
     "lang": "en",
     "weight": 92,
@@ -568,8 +593,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 300,
-      "comments": 87
+      "points": 890,
+      "comments": 240
     },
     "lang": "en",
     "weight": 92,
@@ -702,6 +727,27 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "线上worker变慢本地却复现不了cloudflare让开发者直接看生产环境火焰图"
+  },
+  {
+    "id": "c8e9b008ba73bf3e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "外面阴雨绵绵，我的 claude 被 ban",
+    "summary": "pro 坚持了一个月，max5x 坚持了不到一个月，弹出来的直接是最难的“门户验证”，找贩子都说过不了。",
+    "url": "https://www.v2ex.com/t/1255202",
+    "canonicalUrl": "https://www.v2ex.com/t/1255202",
+    "publishedAt": "2026-11-07T07:14:49.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 21
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "外面阴雨绵绵我的claude被ban"
   },
   {
     "id": "6915214f0f660cca",
@@ -1507,23 +1553,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "itseemsbizarrewereinour80swith950000intraditionaliraswhyisouradviserpushingrothconversions"
-  },
-  {
-    "id": "b7bcbb94d4f0b26b",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certa…",
-    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T21:15:00.000Z",
-    "fetchedAt": "2026-11-07T05:55:24.347Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itfeelslikehesquietlybuildingaseparatelifemyhusbandinherited500000butherefusestospenditonourhome"
   },
   {
     "id": "836c3ebde3f1abb8",

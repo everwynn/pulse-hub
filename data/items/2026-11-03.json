@@ -451,7 +451,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Minireel/HGhub",
-    "summary": "YellowFruit third-party client · TypeScript · ★ 2025",
+    "summary": "YellowFruit third-party client · TypeScript · ★ 2478",
     "url": "https://github.com/Minireel/HGhub",
     "canonicalUrl": "https://github.com/Minireel/HGhub",
     "publishedAt": "2026-11-03T14:04:27.000Z",
@@ -465,8 +465,8 @@
       "reels"
     ],
     "signals": {
-      "stars": 2025,
-      "forks": 1071
+      "stars": 2478,
+      "forks": 1166
     },
     "lang": "en",
     "weight": 90,
@@ -492,6 +492,28 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "机器人干活ai当厂长这家巨头要造下一代自主智能仓"
+  },
+  {
+    "id": "b7faf05dedebe447",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Amsterdam School",
+    "summary": "",
+    "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+    "canonicalUrl": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+    "publishedAt": "2026-11-03T13:50:19.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 14,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "amsterdamschool"
   },
   {
     "id": "3f6ce7b5d80f5c70",
@@ -917,6 +939,28 @@
     "titleKey": "康佳退市同一代彩电巨头为什么活成了完全不同的样子"
   },
   {
+    "id": "2d1a5b7eea0ca56d",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "sarpstar/cinecode",
+    "summary": "Films made with code.",
+    "url": "https://github.com/sarpstar/cinecode",
+    "canonicalUrl": "https://github.com/sarpstar/cinecode",
+    "publishedAt": "2026-11-03T10:08:16.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 999,
+      "forks": 181
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "sarpstarcinecode"
+  },
+  {
     "id": "6fcf76966c45fd25",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -955,6 +999,33 @@
     "titleKey": "亲戚聚餐被当众问工资怎么回答"
   },
   {
+    "id": "b3c604604dd0b77a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Sandflow-ai/sand3d",
+    "summary": "3D modeling in Python, built for LLMs.",
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "canonicalUrl": "https://github.com/Sandflow-ai/sand3d",
+    "publishedAt": "2026-11-03T08:23:03.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "HTML",
+      "3d",
+      "blender",
+      "cad",
+      "llm",
+      "procedural-modeling"
+    ],
+    "signals": {
+      "stars": 1094,
+      "forks": 122
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "sandflowaisand3d"
+  },
+  {
     "id": "62d506dfa9b8f03c",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -991,8 +1062,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 3904,
-      "forks": 708
+      "stars": 3994,
+      "forks": 725
     },
     "lang": "en",
     "weight": 90,
@@ -1751,8 +1822,8 @@
       "swift"
     ],
     "signals": {
-      "stars": 2213,
-      "forks": 142
+      "stars": 2289,
+      "forks": 151
     },
     "lang": "en",
     "weight": 90,
@@ -3294,7 +3365,7 @@
       "hacktoberfest"
     ],
     "signals": {
-      "reactions": 148,
+      "reactions": 150,
       "comments": 85
     },
     "lang": "en",

@@ -987,7 +987,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1467",
+    "summary": "JavaScript · ★ 1748",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -996,8 +996,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1467,
-      "forks": 738
+      "stars": 1748,
+      "forks": 938
     },
     "lang": "en",
     "weight": 90,
@@ -2347,7 +2347,7 @@
       "career"
     ],
     "signals": {
-      "reactions": 118,
+      "reactions": 121,
       "comments": 65
     },
     "lang": "en",
@@ -2553,23 +2553,6 @@
     "titleKey": "egyptianandnigerianenglishjointheopenasrleaderboard"
   },
   {
-    "id": "21fb0677bb739f7a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Here are the 2027 capital-gains tax rates for each income level",
-    "summary": "How much will you pay in capital-gains taxes next year?",
-    "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-05T23:48:00.000Z",
-    "fetchedAt": "2026-11-06T06:39:11.063Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "herearethe2027capitalgainstaxratesforeachincomelevel"
-  },
-  {
     "id": "7df0c1bc23e41786",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -2713,7 +2696,7 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 120,
+      "reactions": 126,
       "comments": 25
     },
     "lang": "en",

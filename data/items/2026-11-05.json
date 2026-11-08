@@ -403,6 +403,28 @@
     "titleKey": "sshole"
   },
   {
+    "id": "54678b962afd3da5",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "NotRexed/Hookshot",
+    "summary": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2…",
+    "url": "https://github.com/NotRexed/Hookshot",
+    "canonicalUrl": "https://github.com/NotRexed/Hookshot",
+    "publishedAt": "2026-11-05T12:18:58.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "C++"
+    ],
+    "signals": {
+      "stars": 2067,
+      "forks": 192
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "notrexedhookshot"
+  },
+  {
     "id": "e59d39dfe25122ef",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -500,6 +522,28 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "用ai写后端为什么还是在造轮子"
+  },
+  {
+    "id": "e14d1081925759d8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "summary": "",
+    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "canonicalUrl": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed",
+    "publishedAt": "2026-11-05T10:52:04.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 101,
+      "comments": 65
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "uraniumcubesrevealwhythegermannuclearprojectfailed"
   },
   {
     "id": "bf23eab8076f76b9",
@@ -1392,6 +1436,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "lemmingscssanimation"
+  },
+  {
+    "id": "6ef751a0750b4327",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "mmdoctor/google-pro-helper",
+    "summary": "Python · ★ 1165",
+    "url": "https://github.com/mmdoctor/google-pro-helper",
+    "canonicalUrl": "https://github.com/mmdoctor/google-pro-helper",
+    "publishedAt": "2026-11-05T04:52:28.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1165,
+      "forks": 428
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "mmdoctorgoogleprohelper"
   },
   {
     "id": "21e65c45ee06af66",
@@ -2428,8 +2494,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 119,
-      "comments": 76
+      "reactions": 130,
+      "comments": 90
     },
     "lang": "en",
     "weight": 60,
