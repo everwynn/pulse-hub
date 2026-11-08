@@ -1,0 +1,71 @@
+---
+interface Props {
+  site: 'station' | 'cs-lab' | 'lucky-hub' | 'pulse-hub' | 'repo-rank' | 'tech-radar';
+  class?: string;
+}
+
+const { site, class: className } = Astro.props;
+---
+
+<span
+  class:list={['visit-counter', className]}
+  data-visit-counter
+  data-site={site}
+  title="匿名访问统计，不收集个人身份信息"
+  hidden></span>
+
+<script>
+  const ENDPOINT = 'https://stats.everwynn.me/hit';
+
+  const el = document.querySelector<HTMLElement>('[data-visit-counter]');
+  const site = el?.dataset.site;
+  const params = new URLSearchParams(location.search);
+  const isDevOptIn = params.has('stats-dev');
+
+  const readFlag = (key: string) => {
+    try {
+      return localStorage.getItem(key);
+    } catch {
+      return null;
+    }
+  };
+
+  const skip =
+    !el ||
+    !site ||
+    (!isDevOptIn && location.hostname !== 'everwynn.github.io') ||
+    navigator.doNotTrack === '1' ||
+    (navigator as Navigator & { globalPrivacyControl?: boolean }).globalPrivacyControl === true ||
+    params.has('notrack') ||
+    readFlag('ew:no-track') === '1';
+
+  const format = (value: number) => value.toLocaleString('zh-CN');
+
+  if (!skip) {
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 3000);
+
+    fetch(ENDPOINT, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ s: site, p: location.pathname }),
+      keepalive: true,
+      signal: controller.signal,
+    })
+      .then((response) => (response.ok ? response.json() : null))
+      .then((data) => {
+        if (!data || typeof data.page !== 'number' || data.page < 1) return;
+        el.textContent =
+          `本页 ${format(data.page)} 次浏览 · 全站 ${format(data.site)} 次 · 近 30 天 ${format(data.d30)}`;
+        el.hidden = false;
+      })
+      .catch(() => {})
+      .finally(() => clearTimeout(timer));
+  }
+</script>
+
+<style>
+  .visit-counter {
+    font-variant-numeric: tabular-nums;
+  }
+</style>

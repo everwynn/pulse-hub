@@ -1,5 +1,6 @@
 ---
 import { href } from '../lib/url';
+import VisitCounter from './VisitCounter.astro';
 
 const year = new Date().getFullYear();
 const { updatedAt } = Astro.props as { updatedAt?: string };
@@ -27,6 +28,9 @@ const { updatedAt } = Astro.props as { updatedAt?: string };
     <p class="text-xs text-gray-500 dark:text-slate-500 leading-relaxed">
       本站仅收录各信息源的<strong>标题、短摘要与原文链接</strong>，不存储、不转载正文；所有内容版权归原作者与来源站点所有，点击标题即跳转原文。
       {updatedAt ? `数据更新于 ${updatedAt}。` : ''}
+    </p>
+    <p class="text-xs text-gray-500 dark:text-slate-500">
+      <VisitCounter site="pulse-hub" />
     </p>
   </div>
 </footer>
