@@ -232,8 +232,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 37,
-      "comments": 2
+      "points": 38,
+      "comments": 3
     },
     "lang": "en",
     "weight": 92,
@@ -439,8 +439,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2380,
-      "forks": 222
+      "stars": 2396,
+      "forks": 224
     },
     "lang": "en",
     "weight": 90,
@@ -1465,7 +1465,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "mmdoctor/google-pro-helper",
-    "summary": "Python · ★ 1192",
+    "summary": "Python · ★ 1193",
     "url": "https://github.com/mmdoctor/google-pro-helper",
     "canonicalUrl": "https://github.com/mmdoctor/google-pro-helper",
     "publishedAt": "2026-11-05T04:52:28.000Z",
@@ -1474,8 +1474,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1192,
-      "forks": 436
+      "stars": 1193,
+      "forks": 438
     },
     "lang": "en",
     "weight": 90,
@@ -2539,7 +2539,7 @@
     ],
     "signals": {
       "reactions": 137,
-      "comments": 95
+      "comments": 96
     },
     "lang": "en",
     "weight": 60,

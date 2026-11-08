@@ -34,6 +34,48 @@
     "titleKey": "租户隔离做了四层就能放心了吗工程师提醒还得看得见边界是否生效"
   },
   {
+    "id": "cf3d69de598e9d0c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "法国外长巴罗8日说，欧洲将参加定于在阿联酋首都阿布扎比举行的美国、俄罗斯和乌克兰三方会谈。巴罗当天接受法国媒体采访时说，…",
+    "summary": "法国外长巴罗8日说，欧洲将参加定于在阿联酋首都阿布扎比举行的美国、俄罗斯和乌克兰三方会谈。",
+    "url": "https://wallstreetcn.com/livenews/3196485",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196485",
+    "publishedAt": "2026-11-08T13:50:23.000Z",
+    "fetchedAt": "2026-11-08T13:54:37.379Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "法国外长巴罗8日说欧洲将参加定于在阿联酋首都阿布扎比举行的美国俄罗斯和乌克兰三方会谈巴罗当天接受法国媒体采访时说"
+  },
+  {
+    "id": "13a666f464fb1acc",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "上海市政府副秘书长、上海交易团副团长朱民指出，历经九载发展，进博会成交与首发成果丰硕，上海交易团意向成交额已连续八年居全…",
+    "summary": "上海市政府副秘书长、上海交易团副团长朱民指出，历经九载发展，进博会成交与首发成果丰硕，上海交易团意向成交额已连续八年居全国地方交易团第一，本届展会规模再创新高，…",
+    "url": "https://wallstreetcn.com/livenews/3196484",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196484",
+    "publishedAt": "2026-11-08T13:42:42.000Z",
+    "fetchedAt": "2026-11-08T13:54:37.379Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "上海市政府副秘书长上海交易团副团长朱民指出历经九载发展进博会成交与首发成果丰硕上海交易团意向成交额已连续八年居全"
+  },
+  {
     "id": "c4b15a4973351dce",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -434,8 +476,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 114,
-      "comments": 69
+      "points": 126,
+      "comments": 76
     },
     "lang": "en",
     "weight": 92,
@@ -538,8 +580,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 66,
-      "comments": 32
+      "points": 70,
+      "comments": 35
     },
     "lang": "en",
     "weight": 92,
@@ -623,8 +665,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 48,
-      "comments": 19
+      "points": 55,
+      "comments": 21
     },
     "lang": "en",
     "weight": 92,
@@ -719,8 +761,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 79,
-      "comments": 69
+      "points": 80,
+      "comments": 72
     },
     "lang": "en",
     "weight": 92,
@@ -741,7 +783,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 44
+      "replies": 45
     },
     "lang": "zh",
     "weight": 55,
@@ -964,7 +1006,7 @@
       "Android"
     ],
     "signals": {
-      "replies": 28
+      "replies": 30
     },
     "lang": "zh",
     "weight": 55,
@@ -1006,8 +1048,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 424,
-      "comments": 266
+      "points": 431,
+      "comments": 272
     },
     "lang": "en",
     "weight": 92,
@@ -1245,7 +1287,7 @@
       "macOS"
     ],
     "signals": {
-      "replies": 97
+      "replies": 99
     },
     "lang": "zh",
     "weight": 55,
@@ -1412,8 +1454,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 454,
-      "comments": 317
+      "points": 457,
+      "comments": 319
     },
     "lang": "en",
     "weight": 92,
@@ -1568,7 +1610,7 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 648,
+      "points": 649,
       "comments": 119
     },
     "lang": "en",

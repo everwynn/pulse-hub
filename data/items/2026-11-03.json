@@ -451,7 +451,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Minireel/HGhub",
-    "summary": "YellowFruit third-party client · TypeScript · ★ 2750",
+    "summary": "YellowFruit third-party client · TypeScript · ★ 2756",
     "url": "https://github.com/Minireel/HGhub",
     "canonicalUrl": "https://github.com/Minireel/HGhub",
     "publishedAt": "2026-11-03T14:04:27.000Z",
@@ -465,8 +465,8 @@
       "reels"
     ],
     "signals": {
-      "stars": 2750,
-      "forks": 1239
+      "stars": 2756,
+      "forks": 1242
     },
     "lang": "en",
     "weight": 90,
@@ -953,8 +953,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1322,
-      "forks": 241
+      "stars": 1339,
+      "forks": 244
     },
     "lang": "en",
     "weight": 90,
@@ -1018,8 +1018,8 @@
       "procedural-modeling"
     ],
     "signals": {
-      "stars": 1248,
-      "forks": 135
+      "stars": 1254,
+      "forks": 138
     },
     "lang": "en",
     "weight": 90,
@@ -1062,7 +1062,7 @@
       "codex"
     ],
     "signals": {
-      "stars": 4054,
+      "stars": 4056,
       "forks": 736
     },
     "lang": "en",
@@ -1822,7 +1822,7 @@
       "swift"
     ],
     "signals": {
-      "stars": 2339,
+      "stars": 2340,
       "forks": 155
     },
     "lang": "en",
