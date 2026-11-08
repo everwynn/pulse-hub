@@ -92,8 +92,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 5114,
-      "forks": 255
+      "stars": 8297,
+      "forks": 412
     },
     "lang": "en",
     "weight": 90,
@@ -270,8 +270,8 @@
       "jetpack-compose"
     ],
     "signals": {
-      "stars": 4326,
-      "forks": 827
+      "stars": 6544,
+      "forks": 1396
     },
     "lang": "en",
     "weight": 90,
@@ -414,11 +414,16 @@
     "publishedAt": "2026-10-29T12:32:46.000Z",
     "fetchedAt": "2026-11-01T07:12:47.828Z",
     "tags": [
-      "C"
+      "C",
+      "game",
+      "linux",
+      "port",
+      "recompilation",
+      "windows"
     ],
     "signals": {
-      "stars": 3353,
-      "forks": 270
+      "stars": 4741,
+      "forks": 382
     },
     "lang": "en",
     "weight": 90,
@@ -500,6 +505,28 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "玉柴船电控股股东身兼大客户与供应商大额分红后募资补流引争议ipo观察"
+  },
+  {
+    "id": "28224c9361f91f23",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "BryceYuuu/RUN",
+    "summary": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） · Python · ★ 3582",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "canonicalUrl": "https://github.com/BryceYuuu/RUN",
+    "publishedAt": "2026-10-29T11:28:43.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 3582,
+      "forks": 257
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "bryceyuuurun"
   },
   {
     "id": "757a9ad2a74ae5bd",
@@ -628,8 +655,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 53,
-      "comments": 51
+      "reactions": 70,
+      "comments": 57
     },
     "lang": "en",
     "weight": 60,
@@ -816,8 +843,8 @@
       "promptengineering"
     ],
     "signals": {
-      "reactions": 112,
-      "comments": 100
+      "reactions": 129,
+      "comments": 115
     },
     "lang": "en",
     "weight": 60,
@@ -886,11 +913,11 @@
     "publishedAt": "2026-10-29T06:08:00.000Z",
     "fetchedAt": "2026-11-01T07:12:47.828Z",
     "tags": [
-      "Go"
+      "HTML"
     ],
     "signals": {
-      "stars": 1939,
-      "forks": 502
+      "stars": 2188,
+      "forks": 554
     },
     "lang": "en",
     "weight": 90,
@@ -1273,7 +1300,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Djihads80/Eglantine",
-    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 2100",
+    "summary": "VERY experimental Nintendo Switch 2 emulator · C++ · ★ 3423",
     "url": "https://github.com/Djihads80/Eglantine",
     "canonicalUrl": "https://github.com/Djihads80/Eglantine",
     "publishedAt": "2026-10-29T00:25:18.000Z",
@@ -1282,8 +1309,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2100,
-      "forks": 253
+      "stars": 3423,
+      "forks": 390
     },
     "lang": "en",
     "weight": 90,

@@ -1,0 +1,979 @@
+[
+  {
+    "id": "fa7ec18162015896",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV",
+    "publishedAt": "2026-11-08T10:00:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "从约束到进化ontology与ai自迭代的实践aicon北京"
+  },
+  {
+    "id": "47c5b5fe5d0f01ca",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "自动路由真能省钱吗？便宜模型出错后，人类修一小时可能更贵",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ",
+    "publishedAt": "2026-11-08T09:00:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "自动路由真能省钱吗便宜模型出错后人类修一小时可能更贵"
+  },
+  {
+    "id": "d3a49a5ae4fec21c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据日本方面当地时间11月8日消息，日本自民党正在考虑对前首相石破茂等人作出一定处分。消息称，6日，日本国会众议院全体会议…",
+    "summary": "据日本方面当地时间11月8日消息，日本自民党正在考虑对前首相石破茂等人作出一定处分。",
+    "url": "https://wallstreetcn.com/livenews/3196450",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196450",
+    "publishedAt": "2026-11-08T05:13:43.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据日本方面当地时间11月8日消息日本自民党正在考虑对前首相石破茂等人作出一定处分消息称6日日本国会众议院全体会议"
+  },
+  {
+    "id": "a5832806c0f2ab90",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间8日，沙特首都利雅得传出剧烈爆炸声，当地居民收到防空警报。（央视新闻）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196449",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196449",
+    "publishedAt": "2026-11-08T05:13:18.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间8日沙特首都利雅得传出剧烈爆炸声当地居民收到防空警报央视新闻"
+  },
+  {
+    "id": "721ade831727f188",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据路透社今天（11月8日）报道，以色列军方针对稍早前“有疑似敌方飞行器侵入以色列北部领空”的声明作出澄清，表示这是一起识…",
+    "summary": "据路透社今天（11月8日）报道，以色列军方针对稍早前“有疑似敌方飞行器侵入以色列北部领空”的声明作出澄清，表示这是一起识别错误导致的误报事件。",
+    "url": "https://wallstreetcn.com/livenews/3196448",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196448",
+    "publishedAt": "2026-11-08T04:50:30.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据路透社今天11月8日报道以色列军方针对稍早前有疑似敌方飞行器侵入以色列北部领空的声明作出澄清表示这是一起识"
+  },
+  {
+    "id": "33029049aa8fc916",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "以色列国防军8日称，初步报告显示，以色列北部的扎里特和绍梅拉“因疑有敌对飞行器渗透而响起警报”。详情正在核查中。（新华社…",
+    "summary": "以色列国防军8日称，初步报告显示，以色列北部的扎里特和绍梅拉“因疑有敌对飞行器渗透而响起警报”。",
+    "url": "https://wallstreetcn.com/livenews/3196447",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196447",
+    "publishedAt": "2026-11-08T04:41:44.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "以色列国防军8日称初步报告显示以色列北部的扎里特和绍梅拉因疑有敌对飞行器渗透而响起警报详情正在核查中新华社"
+  },
+  {
+    "id": "79412dcc762e72d1",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "白宫副幕僚长沃尔特斯即将离职。（Axios）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196446",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196446",
+    "publishedAt": "2026-11-08T04:22:49.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "白宫副幕僚长沃尔特斯即将离职axios"
+  },
+  {
+    "id": "9d7d56ebbcb45c3d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月8日，中国磷复肥工业协会发布《关于维护磷复肥行业平稳有序发展倡议》。倡议提出，全行业应立足行业大局，主动克服原料供…",
+    "summary": "11月8日，中国磷复肥工业协会发布《关于维护磷复肥行业平稳有序发展倡议》。",
+    "url": "https://wallstreetcn.com/livenews/3196445",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196445",
+    "publishedAt": "2026-11-08T04:18:26.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月8日中国磷复肥工业协会发布关于维护磷复肥行业平稳有序发展倡议倡议提出全行业应立足行业大局主动克服原料供"
+  },
+  {
+    "id": "8270622c52be0ed0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Kirlian Photography: Building Your Own Equipment",
+    "summary": "",
+    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "canonicalUrl": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+    "publishedAt": "2026-11-08T04:14:12.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 11,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "kirlianphotographybuildingyourownequipment"
+  },
+  {
+    "id": "1f4c9dbdbd658f38",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国总统特朗普7日下令美国司法部对民主党人展开调查，指控他们以弹劾及其他形式的惩罚手段“威胁许多人”，并称这些行为构成“…",
+    "summary": "美国总统特朗普7日下令美国司法部对民主党人展开调查，指控他们以弹劾及其他形式的惩罚手段“威胁许多人”，并称这些行为构成“犯罪”。",
+    "url": "https://wallstreetcn.com/livenews/3196444",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196444",
+    "publishedAt": "2026-11-08T04:12:59.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国总统特朗普7日下令美国司法部对民主党人展开调查指控他们以弹劾及其他形式的惩罚手段威胁许多人并称这些行为构成"
+  },
+  {
+    "id": "6ae31cb6615bc8ab",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "10日至11日，围绕乌克兰问题的俄美乌三方会谈将在阿联酋首都阿布扎比举行。近日，多名俄方政治专家在接受总台报道员采访时表…",
+    "summary": "10日至11日，围绕乌克兰问题的俄美乌三方会谈将在阿联酋首都阿布扎比举行。",
+    "url": "https://wallstreetcn.com/livenews/3196443",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196443",
+    "publishedAt": "2026-11-08T03:55:59.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "10日至11日围绕乌克兰问题的俄美乌三方会谈将在阿联酋首都阿布扎比举行近日多名俄方政治专家在接受总台报道员采访时表"
+  },
+  {
+    "id": "2060f3f75a492b38",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Goodbye Claude, Hello Pi",
+    "summary": "",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "canonicalUrl": "https://caleb.software/posts/claude-to-pi.html",
+    "publishedAt": "2026-11-08T03:11:48.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 78,
+      "comments": 38
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "goodbyeclaudehellopi"
+  },
+  {
+    "id": "4eb811cdb47390b4",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "7日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能…",
+    "summary": "7日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。",
+    "url": "https://wallstreetcn.com/livenews/3196442",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196442",
+    "publishedAt": "2026-11-08T02:58:21.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "7日中国企业改革与发展研究会发布了全球能源转型报告2026数据显示我国已构建起全球最大发展最快的可再生能"
+  },
+  {
+    "id": "31a3b45eb4bf2767",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "zlang v0.12.14.1 发布，支持中文编程、支持 Web 开发/桌面应用开发的国产全自研编程语言",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503469",
+    "canonicalUrl": "https://www.oschina.net/news/503469",
+    "publishedAt": "2026-11-08T02:57:35.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "zlangv012141发布支持中文编程支持web开发桌面应用开发的国产全自研编程语言"
+  },
+  {
+    "id": "3fb4880b9f6f8685",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "现在还有必要花大量时间学习编程吗？",
+    "summary": "AI 写代码越来越强，写代码当聊天的时代。",
+    "url": "https://www.v2ex.com/t/1255305",
+    "canonicalUrl": "https://www.v2ex.com/t/1255305",
+    "publishedAt": "2026-11-08T02:56:59.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 27
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "现在还有必要花大量时间学习编程吗"
+  },
+  {
+    "id": "04038e606dd81dbb",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间11月7日，也门首都萨那周边一村庄遭沙特战机空袭，目前已造成至少 32 人死亡、38 人受伤，还有大量伤者被压在…",
+    "summary": "当地时间11月7日，也门首都萨那周边一村庄遭沙特战机空袭，目前已造成至少 32 人死亡、38 人受伤，还有大量伤者被压在碎石下等待救援。",
+    "url": "https://wallstreetcn.com/livenews/3196441",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196441",
+    "publishedAt": "2026-11-08T02:32:51.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间11月7日也门首都萨那周边一村庄遭沙特战机空袭目前已造成至少32人死亡38人受伤还有大量伤者被压在"
+  },
+  {
+    "id": "7e0944451dd2dd9b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "中国白酒出口韩国暴涨85%，谁在买？",
+    "summary": "为什么韩国人会兑着喝？",
+    "url": "https://www.tmtpost.com/8197334.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197334.html",
+    "publishedAt": "2026-11-08T02:28:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "中国白酒出口韩国暴涨85谁在买"
+  },
+  {
+    "id": "d8c633cb8aa1fb61",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "年产250亿双的“国际袜都”：袜子、面子和里子",
+    "summary": "全国一动，诸暨先动；全国不动，诸暨也蠢蠢欲动。",
+    "url": "https://www.tmtpost.com/8197376.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197376.html",
+    "publishedAt": "2026-11-08T02:23:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "年产250亿双的国际袜都袜子面子和里子"
+  },
+  {
+    "id": "8c961b0a3226e964",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "实控人离婚给超8亿“分手费”，智能装备龙头三季报增收不增利",
+    "summary": "“分手费”8.69亿元，A股又现“天价离婚”。",
+    "url": "https://www.tmtpost.com/8197382.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197382.html",
+    "publishedAt": "2026-11-08T02:20:08.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "实控人离婚给超8亿分手费智能装备龙头三季报增收不增利"
+  },
+  {
+    "id": "394b842d8e2c0434",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AI泡沫监测·之二：第三个定价器上牌桌",
+    "summary": "四张考卷对账：没有一家说放缓，但融资结构先说了话。",
+    "url": "https://www.tmtpost.com/8197365.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197365.html",
+    "publishedAt": "2026-11-08T02:19:55.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "ai泡沫监测之二第三个定价器上牌桌"
+  },
+  {
+    "id": "f7775b8c559e0254",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "2026年，黄金为什么没当好避险资产？",
+    "summary": "黄金很难对冲一场战争的直接冲击。",
+    "url": "https://www.tmtpost.com/8197401.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197401.html",
+    "publishedAt": "2026-11-08T02:19:44.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "2026年黄金为什么没当好避险资产"
+  },
+  {
+    "id": "cb34cd6e6cff1b61",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "宇树跟红杉都不想自己“努力”了？",
+    "summary": "AI时代，VC越来越依赖产业方？",
+    "url": "https://www.tmtpost.com/8197415.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197415.html",
+    "publishedAt": "2026-11-08T02:17:16.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "宇树跟红杉都不想自己努力了"
+  },
+  {
+    "id": "4e81dbcb0987901d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[趁周末人少，回复就送永久激活码]Mac 专属应用 TouchX，自定义触控板动作",
+    "summary": "外面今天一直在下雨，起了个早，没事干，故把这个小工具打包了下 自己每天都在用 mac ，但是懒得接鼠标，一个触控板搞定， 一直本地在用 它可以做什么呢 - **…",
+    "url": "https://www.v2ex.com/t/1255299",
+    "canonicalUrl": "https://www.v2ex.com/t/1255299",
+    "publishedAt": "2026-11-08T02:05:12.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "macOS"
+    ],
+    "signals": {
+      "replies": 45
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "趁周末人少回复就送永久激活码mac专属应用touchx自定义触控板动作"
+  },
+  {
+    "id": "959874514347fba9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Consumer brain wave headsets threaten privacy",
+    "summary": "",
+    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+    "canonicalUrl": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+    "publishedAt": "2026-11-08T02:02:38.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 13,
+      "comments": 3
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "consumerbrainwaveheadsetsthreatenprivacy"
+  },
+  {
+    "id": "f10363b2f9ed336f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+    "summary": "",
+    "url": "https://github.com/crmne/zapfast",
+    "canonicalUrl": "https://github.com/crmne/zapfast",
+    "publishedAt": "2026-11-08T02:02:27.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 33,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "zapfastafastnativewhatsappclientinrustandegui"
+  },
+  {
+    "id": "f14b9e2d3ad582ee",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Global gas market could remain tight well into 2027, IEA warns",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668739-global-gas-market-could-remain-tight-well-into-2027-iea-warns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668739-global-gas-market-could-remain-tight-well-into-2027-iea-warns?feed_item_type=news",
+    "publishedAt": "2026-11-08T01:35:23.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "ung",
+      "boil",
+      "kold",
+      "unl",
+      "fcg",
+      "ng1:com"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "globalgasmarketcouldremaintightwellinto2027ieawarns"
+  },
+  {
+    "id": "7c85a066c004d686",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥🔥🔥 拾趣 (Magpie) v0.1.21 发布：解锁图片识别新模式，优化使用体验",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503468",
+    "canonicalUrl": "https://www.oschina.net/news/503468",
+    "publishedAt": "2026-11-08T01:17:24.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "拾趣magpiev0121发布解锁图片识别新模式优化使用体验"
+  },
+  {
+    "id": "7af21a413ef62696",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Making any integer with four 2s (2025)",
+    "summary": "",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "canonicalUrl": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s",
+    "publishedAt": "2026-11-07T22:38:58.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 95,
+      "comments": 25
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "makinganyintegerwithfour2s2025"
+  },
+  {
+    "id": "df7cc14896856cb3",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Paraguay’s bank collapse topples president, raises investor risks",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668738-paraguays-bank-collapse-topples-president-raises-investor-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668738-paraguays-bank-collapse-topples-president-raises-investor-risks?feed_item_type=news",
+    "publishedAt": "2026-11-07T22:33:20.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "pyg:usd",
+      "eem"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "paraguaysbankcollapsetopplespresidentraisesinvestorrisks"
+  },
+  {
+    "id": "cac485b54a8f7b07",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T20:48:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
+  },
+  {
+    "id": "ba6acf0c61d3b192",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "summary": "",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "canonicalUrl": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "publishedAt": "2026-11-07T20:45:32.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 297,
+      "comments": 205
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "claudecodesdontaskagainexposespasswordsin1122publicgithubfiles"
+  },
+  {
+    "id": "679c6a37a61f184b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+    "summary": "“I haven’t committed to the strategy yet and would appreciate some independent p…",
+    "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T20:36:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "secondguessingmyadviserisanannuitytherightmoveinthismarket"
+  },
+  {
+    "id": "7fda4868c6d4e944",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Key deals this week: PANW, META, OGI, CRM and more",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668734-key-deals-this-week-panw-meta-ogi-crm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668734-key-deals-this-week-panw-meta-ogi-crm-and-more?feed_item_type=news",
+    "publishedAt": "2026-11-07T20:15:42.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "crm",
+      "ogi",
+      "curlf",
+      "acb",
+      "nucl",
+      "rytm"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "keydealsthisweekpanwmetaogicrmandmore"
+  },
+  {
+    "id": "21fb0677bb739f7a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Here are the 2027 capital-gains tax rates for each income level",
+    "summary": "How much will you pay in capital-gains taxes next year?",
+    "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T19:48:00.000Z",
+    "fetchedAt": "2026-11-06T06:39:11.063Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "herearethe2027capitalgainstaxratesforeachincomelevel"
+  },
+  {
+    "id": "efd5a9e3f8e9a276",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+    "summary": "Don’t sit on the sidelines during open enrollment.",
+    "url": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T19:20:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "medicareprescriptiondrugcostswilljump50in2027doingnothingcouldcostyou"
+  },
+  {
+    "id": "fe9cc60429c25842",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Musk says Tesla Cybertruck demand is outpacing production",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668737-musk-says-tesla-cybertruck-demand-is-outpacing-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668737-musk-says-tesla-cybertruck-demand-is-outpacing-production?feed_item_type=news",
+    "publishedAt": "2026-11-07T19:05:43.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "tsla"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "musksaysteslacybertruckdemandisoutpacingproduction"
+  },
+  {
+    "id": "0adfce950307a4e6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Nvidia CEO was romantically involved with alleged Chinese spy, U.S. memo says: FT",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668736-nvidia-ceo-romantically-involved-alleged-chinese-spy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668736-nvidia-ceo-romantically-involved-alleged-chinese-spy?feed_item_type=news",
+    "publishedAt": "2026-11-07T18:30:27.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "nvda"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nvidiaceowasromanticallyinvolvedwithallegedchinesespyusmemosaysft"
+  },
+  {
+    "id": "22cc7f27602db948",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "这大环境看来是很差了",
+    "summary": "前两天入职了一家公司，干的广州黄埔某国企外包深圳融创项目，新入职的一共几个人。",
+    "url": "https://www.v2ex.com/t/1255285",
+    "canonicalUrl": "https://www.v2ex.com/t/1255285",
+    "publishedAt": "2026-11-07T18:19:52.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 22
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "这大环境看来是很差了"
+  },
+  {
+    "id": "ae5b103a05057871",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What I run on my $10 USD OpenStick homelab",
+    "summary": "",
+    "url": "https://blog.bosscher.ch/posts/openstick/",
+    "canonicalUrl": "https://blog.bosscher.ch/posts/openstick",
+    "publishedAt": "2026-11-07T18:12:12.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 476,
+      "comments": 97
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whatirunonmy10usdopenstickhomelab"
+  },
+  {
+    "id": "182d88c66b82b2ee",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Bulls vs. Bears: NVIDIA sparks valuation debate as stock nears six-month low",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668735-nvidia-sparks-valuation-debate-after-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668735-nvidia-sparks-valuation-debate-after-selloff?feed_item_type=news",
+    "publishedAt": "2026-11-07T17:43:27.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "nvda"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "bullsvsbearsnvidiasparksvaluationdebateasstocknearssixmonthlow"
+  },
+  {
+    "id": "05ad6e2cc6eedfe3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+    "summary": "There are many ideas for saving Social Security.",
+    "url": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T17:43:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "democratsbigelectionwinrevivesadifficultsocialsecurityquestionwhopays"
+  },
+  {
+    "id": "9642ab3247b78ef8",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+    "summary": "Math may be cold and unemotional — but finances are not.",
+    "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T17:33:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "im65andworthmorethan56millioncaniafforda200000camper"
+  },
+  {
+    "id": "804ae4cb38d07478",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+    "summary": "",
+    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+    "canonicalUrl": "https://maxxbench.unlap.ai/research/why-maxxbench",
+    "publishedAt": "2026-11-07T17:19:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 256,
+      "comments": 73
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "maxxbenchnicedeepswescorebutisittrue"
+  },
+  {
+    "id": "615a75416dcc6f76",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Cordonix 0.4.1 发布：每日后台更新，完善全部 MCP 工具说明",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503467",
+    "canonicalUrl": "https://www.oschina.net/news/503467",
+    "publishedAt": "2026-11-07T17:15:32.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "cordonix041发布每日后台更新完善全部mcp工具说明"
+  },
+  {
+    "id": "9322f1ffc7b3e189",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+    "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was …",
+    "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T17:04:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thewealthiest10ofamericansarepullingaheadofeveryoneelsethisiswhatsmakingthemricher"
+  },
+  {
+    "id": "b7bcbb94d4f0b26b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certa…",
+    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-07T17:01:00.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itfeelslikehesquietlybuildingaseparatelifemyhusbandinherited500000butherefusestospenditonourhome"
+  },
+  {
+    "id": "43c2b087a0b640e8",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85825",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85825",
+    "publishedAt": "2026-11-07T16:17:09.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "esahera探测器发回dart撞击的小行星照片"
+  },
+  {
+    "id": "b96094e303acfccb",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "OpenGoLive 0.9.8 发布：改进数据恢复，新增本地编辑冲突检测与组权限",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503466",
+    "canonicalUrl": "https://www.oschina.net/news/503466",
+    "publishedAt": "2026-11-07T16:14:13.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "opengolive098发布改进数据恢复新增本地编辑冲突检测与组权限"
+  },
+  {
+    "id": "635608000907be19",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "不复制海量数据，直接查询 S3：CSIRO 重构基因组分析架构",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/mF9A6U1M6SQFWfEKOJGW",
+    "publishedAt": "2026-11-07T16:11:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "不复制海量数据直接查询s3csiro重构基因组分析架构"
+  },
+  {
+    "id": "64582e591b3bd553",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "FAA 计划到 2028 年淘汰软盘",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85824",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85824",
+    "publishedAt": "2026-11-07T16:05:40.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "faa计划到2028年淘汰软盘"
+  }
+]

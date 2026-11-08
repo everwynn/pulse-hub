@@ -1,49 +1,102 @@
 {
   "timeZone": "Asia/Shanghai",
-  "updatedAt": "2026-11-02T05:58:44.327Z",
+  "updatedAt": "2026-11-08T05:57:37.450Z",
   "dates": [
     {
-      "date": "2026-11-02",
-      "count": 57,
+      "date": "2026-11-08",
+      "count": 50,
       "channels": {
-        "tech": 26,
-        "finance": 30,
-        "ai": 1
+        "tech": 20,
+        "finance": 30
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "count": 86,
+      "channels": {
+        "finance": 55,
+        "tech": 28,
+        "ai": 3
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "count": 177,
+      "channels": {
+        "finance": 80,
+        "tech": 76,
+        "ai": 21
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "count": 154,
+      "channels": {
+        "finance": 64,
+        "tech": 72,
+        "ai": 18
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "count": 141,
+      "channels": {
+        "tech": 66,
+        "finance": 62,
+        "ai": 13
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "count": 175,
+      "channels": {
+        "ai": 21,
+        "finance": 74,
+        "tech": 80
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "count": 124,
+      "channels": {
+        "tech": 57,
+        "ai": 11,
+        "finance": 56
       }
     },
     {
       "date": "2026-11-01",
-      "count": 95,
+      "count": 101,
       "channels": {
-        "tech": 36,
-        "finance": 54,
+        "tech": 43,
+        "finance": 53,
         "ai": 5
       }
     },
     {
       "date": "2026-10-31",
-      "count": 36,
+      "count": 39,
       "channels": {
         "finance": 5,
-        "tech": 26,
+        "tech": 29,
         "ai": 5
       }
     },
     {
       "date": "2026-10-30",
-      "count": 68,
+      "count": 71,
       "channels": {
         "finance": 32,
-        "tech": 25,
-        "ai": 11
+        "tech": 27,
+        "ai": 12
       }
     },
     {
       "date": "2026-10-29",
-      "count": 73,
+      "count": 74,
       "channels": {
         "finance": 11,
-        "tech": 39,
+        "tech": 40,
         "ai": 23
       }
     },

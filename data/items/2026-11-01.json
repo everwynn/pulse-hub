@@ -14,8 +14,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1162,
-      "comments": 208
+      "points": 1584,
+      "comments": 259
     },
     "lang": "en",
     "weight": 92,
@@ -150,6 +150,28 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "macaucasinorevenueslumps10inoctoberagainstatoughcomparable"
+  },
+  {
+    "id": "b2b09cf8229c4698",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "s1dashu/quiet-md",
+    "summary": "Blazing-fast native notes app for macOS & Windows.",
+    "url": "https://github.com/s1dashu/quiet-md",
+    "canonicalUrl": "https://github.com/s1dashu/quiet-md",
+    "publishedAt": "2026-11-01T14:22:53.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 1251,
+      "forks": 115
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "s1dashuquietmd"
   },
   {
     "id": "b982662354cb95c2",
@@ -596,23 +618,6 @@
     "titleKey": "showhnomnidiffopensourcesuperfastcontentawaregitdifftoolinrust"
   },
   {
-    "id": "930c9ea962cd901d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "America is doing better than you think. Your algorithm is just hiding it.",
-    "summary": "The bottom half of Americans has more than doubled its net worth since 2019.",
-    "url": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-01T13:00:00.000Z",
-    "fetchedAt": "2026-11-01T14:34:40.294Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "americaisdoingbetterthanyouthinkyouralgorithmisjusthidingit"
-  },
-  {
     "id": "9f5b8c3ab12fc97a",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1012,6 +1017,77 @@
     "titleKey": "据广汽埃安消息2026年10月昊铂埃安bu销量42357辆同比增长5679环比增长1933"
   },
   {
+    "id": "fe3d37636a0114cd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Resisting Cognitive Surrender",
+    "summary": "",
+    "url": "https://knlb.dev/essays/surrender",
+    "canonicalUrl": "https://knlb.dev/essays/surrender",
+    "publishedAt": "2026-11-01T06:13:30.000Z",
+    "fetchedAt": "2026-11-03T06:44:05.557Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 82,
+      "comments": 30
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "resistingcognitivesurrender"
+  },
+  {
+    "id": "58e339e60ea1035a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "mromidev/claude-animated-shorts",
+    "summary": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit…",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "canonicalUrl": "https://github.com/mromidev/claude-animated-shorts",
+    "publishedAt": "2026-11-01T05:50:38.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "TypeScript"
+    ],
+    "signals": {
+      "stars": 2143,
+      "forks": 465
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "mromidevclaudeanimatedshorts"
+  },
+  {
+    "id": "bba4eec3cdff6058",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "wquguru/cicada",
+    "summary": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。",
+    "url": "https://github.com/wquguru/cicada",
+    "canonicalUrl": "https://github.com/wquguru/cicada",
+    "publishedAt": "2026-11-01T05:41:23.000Z",
+    "fetchedAt": "2026-11-06T06:39:11.063Z",
+    "tags": [
+      "Swift",
+      "android",
+      "linux",
+      "live-captions",
+      "macos",
+      "meeting-notes"
+    ],
+    "signals": {
+      "stars": 1606,
+      "forks": 289
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "wqugurucicada"
+  },
+  {
     "id": "c57bc1e61d6b952a",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -1031,6 +1107,33 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "加拿大外交部长阿南德当地时间10月31日称加方正推行中等强国外交寻求与美国以外的多方伙伴加强贸易和安全联系以减"
+  },
+  {
+    "id": "1598c0c403f9aa69",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "caru-ini/stack-diagram",
+    "summary": "Agent skill: describe your stack in a sentence, get an architecture diagram with…",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "canonicalUrl": "https://github.com/caru-ini/stack-diagram",
+    "publishedAt": "2026-11-01T05:35:12.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "TypeScript",
+      "agent-skills",
+      "architecture-diagram",
+      "claude-code",
+      "claude-skills",
+      "codex"
+    ],
+    "signals": {
+      "stars": 2036,
+      "forks": 94
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "caruinistackdiagram"
   },
   {
     "id": "aac92b3a236c0f39",
@@ -1589,6 +1692,33 @@
     "titleKey": "anitalianfarmerfoundsomeunknownseedsinhisatticandplantedthem"
   },
   {
+    "id": "8683e0801e1cc661",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Verlintas/NOIR",
+    "summary": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。",
+    "url": "https://github.com/Verlintas/NOIR",
+    "canonicalUrl": "https://github.com/Verlintas/NOIR",
+    "publishedAt": "2026-10-31T21:34:39.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "Kotlin",
+      "adb",
+      "android",
+      "android-privacy",
+      "android-security",
+      "android-tools"
+    ],
+    "signals": {
+      "stars": 2719,
+      "forks": 256
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "verlintasnoir"
+  },
+  {
     "id": "00a01aed828fe205",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1661,8 +1791,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 2422,
-      "comments": 553
+      "points": 2677,
+      "comments": 597
     },
     "lang": "en",
     "weight": 92,
@@ -1851,6 +1981,31 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "caregiversarenowspendingmorethan11000ayearoutofpocketup60infiveyears"
+  },
+  {
+    "id": "085a3e32f65a09f5",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮",
+    "summary": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghos…",
+    "url": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+    "canonicalUrl": "https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5",
+    "publishedAt": "2026-10-31T17:57:27.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "devchallenge",
+      "hf26challenge",
+      "opensource",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 124,
+      "comments": 63
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "everycodebasehasadonottouchfileibuiltanainecromancertosummontheghostofthedeveloperwhowroteit"
   },
   {
     "id": "bdc4d34dc8ae1210",

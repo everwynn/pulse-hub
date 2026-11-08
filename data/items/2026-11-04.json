@@ -1,0 +1,2762 @@
+[
+  {
+    "id": "5e34cd2dbbb64fa7",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Firefox 测试迷你窗口功能",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85796",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85796",
+    "publishedAt": "2026-11-04T15:54:37.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "firefox测试迷你窗口功能"
+  },
+  {
+    "id": "3efc31dbc50d85db",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "刚刚，被李飞飞团队写进代码库的具身底座，现身乌镇峰会“上岗抓药”",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/L5Q1XJbFSubVNB9DGJsl?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/L5Q1XJbFSubVNB9DGJsl",
+    "publishedAt": "2026-11-04T15:51:17.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "刚刚被李飞飞团队写进代码库的具身底座现身乌镇峰会上岗抓药"
+  },
+  {
+    "id": "c7088a00470b1b32",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+    "summary": "",
+    "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "canonicalUrl": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+    "publishedAt": "2026-11-04T15:38:34.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 42,
+      "comments": 7
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "amdexpectstooutsellintelinq4forthefirsttimeinhistory"
+  },
+  {
+    "id": "148767fcf8100ff3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+    "summary": "Strategically embracing the right symbols in the office really can advance your …",
+    "url": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T15:33:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "depressingbuttrueifyouwanttogetaheadatworkembracevirtuesignaling"
+  },
+  {
+    "id": "2ba905cf961c64aa",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+    "summary": "",
+    "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+    "canonicalUrl": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+    "publishedAt": "2026-11-04T15:30:57.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 12,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "lettinguserstrusttheirownmcpclientswithoutopeningaphishinghole"
+  },
+  {
+    "id": "1d70a41770255162",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Kimi K3.1 Pro model weights are out",
+    "summary": "",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "canonicalUrl": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "publishedAt": "2026-11-04T15:30:30.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 470,
+      "comments": 133
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "kimik31promodelweightsareout"
+  },
+  {
+    "id": "d1cc995d569707b8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Evergreen: A Provably Safe Systems Language",
+    "summary": "",
+    "url": "https://evergreenlang.net",
+    "canonicalUrl": "https://evergreenlang.net/",
+    "publishedAt": "2026-11-04T15:25:04.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 24,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "evergreenaprovablysafesystemslanguage"
+  },
+  {
+    "id": "d00abdadcea117d1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Adding Window Functions to a Spreadsheet",
+    "summary": "",
+    "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+    "canonicalUrl": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase",
+    "publishedAt": "2026-11-04T15:21:12.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 17,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "addingwindowfunctionstoaspreadsheet"
+  },
+  {
+    "id": "30c8078defcf2bfc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+    "summary": "",
+    "url": "https://github.com/peterretief/codemap",
+    "canonicalUrl": "https://github.com/peterretief/codemap",
+    "publishedAt": "2026-11-04T15:18:24.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 15,
+      "comments": 3
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhncodemaponepageinteractivemapofanygorepository"
+  },
+  {
+    "id": "4e9813ac04bdbd71",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+    "summary": "Democratic victories in Texas and other states raise long-term questions about t…",
+    "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T15:17:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "micronandotherchipstocksslipaselectionresultsstrikeatthecoreofdatacenteroptimism"
+  },
+  {
+    "id": "6d7e86aa1f442463",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Datadog’s stock extends steep declines in the wake of earnings",
+    "summary": "Datadog failed to top expectations with its revenue forecast.",
+    "url": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T15:16:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "datadogsstockextendssteepdeclinesinthewakeofearnings"
+  },
+  {
+    "id": "e89be9b132dac1f3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
+    "summary": "The company is furthering its expansion outside of the handset market — by power…",
+    "url": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T15:13:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "qualcommsatoutthesemiconductorrallycanaspacexpartnershipchangethat"
+  },
+  {
+    "id": "0801b81d4fdbff3e",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "McDonald's stock rises as earnings beat, U.S. restaurants show improvement",
+    "summary": "McDonald's has leaned into discounts to attract budget-conscious diners over the…",
+    "url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+    "publishedAt": "2026-11-04T15:05:28.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "mcdonaldsstockrisesasearningsbeatusrestaurantsshowimprovement"
+  },
+  {
+    "id": "42a732abfc8d06f3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Three things that explain what’s changing with Obamacare in 2027",
+    "summary": "Affordable Care Act premiums are increasing again, and these plans have new rule…",
+    "url": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T15:03:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "threethingsthatexplainwhatschangingwithobamacarein2027"
+  },
+  {
+    "id": "17d9b9b6c8ad45da",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+    "summary": "",
+    "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+    "canonicalUrl": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent",
+    "publishedAt": "2026-11-04T15:01:44.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 69,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "guerrillabikelanessanfranciscomakesillicitinfrastructurepermanent2016"
+  },
+  {
+    "id": "94a40898c5cf39ac",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
+    "summary": "Wall Street finds reasons to cheer the Democrats’ sweep.",
+    "url": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/midterm-elections-deliver-a-blue-wave-the-stock-market-sees-green-5900a779?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T14:59:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "midtermelectionsdeliverabluewavethestockmarketseesgreen"
+  },
+  {
+    "id": "e4a555cc1dc72525",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "summary": "Google_AI_Pro_2Year_ZeroCost_Auto · Python · ★ 3100",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "canonicalUrl": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "publishedAt": "2026-11-04T14:54:56.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 3100,
+      "forks": 1183
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "worldonlyugoogleaipro2yearzerocostauto"
+  },
+  {
+    "id": "01cf716467c1775d",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
+    "summary": "AI is changing the bargain between large technology companies and their sharehol…",
+    "url": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T14:39:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "bigtechs500billionspendingspreeleavesalotlessforshareholders"
+  },
+  {
+    "id": "14c1354d7d264bcf",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for buildin…",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "canonicalUrl": "https://openai.com/index/openai-to-acquire-pierre",
+    "publishedAt": "2026-11-04T14:30:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "openaitoacquirepierrecomputercompanyinc"
+  },
+  {
+    "id": "9600691ca0238ca6",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate",
+    "summary": "AMD reported better-than-expected third-quarter results, driven by booming sales…",
+    "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    "publishedAt": "2026-11-04T14:23:01.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "amdsdatacenterrevenuenearlydoublesinq3andceosuexpectsgrowthtoaccelerate"
+  },
+  {
+    "id": "2cfbb93cc693944c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "North Korean fake job interview led to $6.3B Binance heist",
+    "summary": "",
+    "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "canonicalUrl": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+    "publishedAt": "2026-11-04T14:09:55.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 230,
+      "comments": 136
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "northkoreanfakejobinterviewledto63bbinanceheist"
+  },
+  {
+    "id": "5011a85aa49d102a",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Uber 总裁跳槽 OpenAI！曾掌舵谷歌、Snap 公关，Brockman 亲自发文欢迎",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/mcHCe07TQ08mEZtqcWi1",
+    "publishedAt": "2026-11-04T14:02:24.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "uber总裁跳槽openai曾掌舵谷歌snap公关brockman亲自发文欢迎"
+  },
+  {
+    "id": "dbfe6d12db3f8988",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）",
+    "summary": "我们聚焦2026年第三季度获评五星偏股混合型基金中单项能力优秀的产品，具体标准为“单项能力五星且综合评级五星”的双五星产品，通过梳理其评价标准、季度表现变化和具…",
+    "url": "https://www.tmtpost.com/8194019.html",
+    "canonicalUrl": "https://www.tmtpost.com/8194019.html",
+    "publishedAt": "2026-11-04T13:27:45.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "单项致胜五星偏股混合型基金产品深度参考2026年三季度"
+  },
+  {
+    "id": "06af7e770f95d787",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "基金市场概况与资产配置观点 （10.26—11.01）",
+    "summary": "腾讯济安指数上周下跌1.58%。",
+    "url": "https://www.tmtpost.com/8194003.html",
+    "canonicalUrl": "https://www.tmtpost.com/8194003.html",
+    "publishedAt": "2026-11-04T13:25:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "基金市场概况与资产配置观点10261101"
+  },
+  {
+    "id": "fbf17d994b58629b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "上市公司TOP5济安评估（10月26日至11月1日）",
+    "summary": "本周机构调研热度飙升，受上市公司三季报披露进入高峰驱动，调研活动仍保持活跃，公募机构的活跃度在短期内出现了爆发式增长。",
+    "url": "https://www.tmtpost.com/8193992.html",
+    "canonicalUrl": "https://www.tmtpost.com/8193992.html",
+    "publishedAt": "2026-11-04T13:21:33.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "上市公司top5济安评估10月26日至11月1日"
+  },
+  {
+    "id": "4cc389531abf5bf7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "同样是破净，为什么有的可能是错杀，有的却是价值陷阱？",
+    "summary": "判断一个行业是否值得关注，不能只看PB有多低，还要追问两个问题：公司的“家底”是在变厚还是变薄？",
+    "url": "https://www.tmtpost.com/8193964.html",
+    "canonicalUrl": "https://www.tmtpost.com/8193964.html",
+    "publishedAt": "2026-11-04T12:59:03.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "同样是破净为什么有的可能是错杀有的却是价值陷阱"
+  },
+  {
+    "id": "237ff9456d161cc2",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月3日）｜上市公司观察",
+    "summary": "本期两只标的分两类：聚石化学是首次跌停的高位修正，奥精医疗因财务立案连续跌停，收盘已低于济安定价七成一。",
+    "url": "https://www.tmtpost.com/8193958.html",
+    "canonicalUrl": "https://www.tmtpost.com/8193958.html",
+    "publishedAt": "2026-11-04T12:57:36.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "价值判断跌停板的投资机会和风险提示11月3日上市公司观察"
+  },
+  {
+    "id": "3d4ee5ccef3376fd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "价值判断：涨停板的投资机会和风险提示（11月3日）｜上市公司观察",
+    "summary": "本期三只标的分为两头：三只首板涨停、收盘仍低于济安定价三成八至四成九，来自光伏发电、焊材与热缩膜；三只连续涨停、收盘已高于济安定价七成四至一倍，分别是白酒的皇台…",
+    "url": "https://www.tmtpost.com/8193950.html",
+    "canonicalUrl": "https://www.tmtpost.com/8193950.html",
+    "publishedAt": "2026-11-04T12:51:36.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "价值判断涨停板的投资机会和风险提示11月3日上市公司观察"
+  },
+  {
+    "id": "f0c88ac434a0f1f8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我觉得 ai 时代对于普通人是利好啊，为啥如此多的人反感/不屑呢？",
+    "summary": "最近逛论坛、看国外的一些文章，发现好多人（包括我常看的一些专栏作者）都对 ai 有不少负面情绪，或者对那种“vibe coding”挺反感的。",
+    "url": "https://www.v2ex.com/t/1254526",
+    "canonicalUrl": "https://www.v2ex.com/t/1254526",
+    "publishedAt": "2026-11-04T12:06:07.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 81
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我觉得ai时代对于普通人是利好啊为啥如此多的人反感不屑呢"
+  },
+  {
+    "id": "a5a22250bd241574",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "勤俭节约的过一辈子，会不会等老了才发现亏大发了",
+    "summary": "从小节俭生活惯了，节衣缩食的，总想着多存点为未来留后路 等老了才发现钱花不完，就没了，是不是血亏啊 马斯克还说，未来金钱将变得毫无意义 如果金钱真变废纸了，这辈…",
+    "url": "https://www.v2ex.com/t/1254524",
+    "canonicalUrl": "https://www.v2ex.com/t/1254524",
+    "publishedAt": "2026-11-04T11:54:40.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 73
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "勤俭节约的过一辈子会不会等老了才发现亏大发了"
+  },
+  {
+    "id": "3710c1c88b7c3394",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "summary": "",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "canonicalUrl": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "publishedAt": "2026-11-04T11:52:17.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 545,
+      "comments": 362
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "aiisforcingustopayoff40yearsoftechnicaldebt"
+  },
+  {
+    "id": "79529e48a8f07850",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "富士胶片因 AI 热加大磁带产能",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85795",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85795",
+    "publishedAt": "2026-11-04T11:26:51.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "富士胶片因ai热加大磁带产能"
+  },
+  {
+    "id": "1692d6c27594bbc2",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "大模型会击穿具身智能吗？稚晖君带领团队深刻复盘并解答",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/bFKTeyCOlydWMYi91H4q",
+    "publishedAt": "2026-11-04T11:02:35.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "大模型会击穿具身智能吗稚晖君带领团队深刻复盘并解答"
+  },
+  {
+    "id": "f1a3bd73df70b82d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Nexus Mods 公布 AI 生成内容政策",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85794",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85794",
+    "publishedAt": "2026-11-04T10:57:52.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "nexusmods公布ai生成内容政策"
+  },
+  {
+    "id": "7bda969661cdf7a5",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook",
+    "summary": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of…",
+    "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+    "publishedAt": "2026-11-04T10:40:51.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "novosharesjumpaswegovypillsalesimpressdrugmakerhikesoutlook"
+  },
+  {
+    "id": "d79c20ddd7427145",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50363461",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50363461",
+    "publishedAt": "2026-11-04T10:10:27.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 384,
+      "comments": 112
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "tellhngeminitrainsonchathistoryevenforsubscriberspersonalaccounts"
+  },
+  {
+    "id": "9f2804e679f397c1",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+    "summary": "仅激活3B参数，十项基准全线提升！",
+    "url": "https://www.qbitai.com/2026/11/507586.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507586.html",
+    "publishedAt": "2026-11-04T10:08:38.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "资讯",
+      "具身推理模型",
+      "狮子山人工智能实验室"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "不靠堆砌数据让机器人看懂真实物理世界招商局狮子山实验室发布驭物lioner35ba3b具身推理模型"
+  },
+  {
+    "id": "ff596a8dbabf41cf",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Incident with Pull Requests, Git Operations and Issues",
+    "summary": "",
+    "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "canonicalUrl": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+    "publishedAt": "2026-11-04T10:00:06.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 193,
+      "comments": 94
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "incidentwithpullrequestsgitoperationsandissues"
+  },
+  {
+    "id": "3d9ba67dae955fc2",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "给 AI 业务单独划一块地：帆软怎么重新安排事、人和组织｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/BGkTakB51rl6ybIh4sYJ",
+    "publishedAt": "2026-11-04T10:00:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "给ai业务单独划一块地帆软怎么重新安排事人和组织aicon北京"
+  },
+  {
+    "id": "da04124bc2e79cba",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "苹果开始在中国推出 Apple Intelligence",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85793",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85793",
+    "publishedAt": "2026-11-04T09:55:53.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "苹果开始在中国推出appleintelligence"
+  },
+  {
+    "id": "3774b9a9fc73fc06",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "出生前后大脑会清理突变神经元",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85792",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85792",
+    "publishedAt": "2026-11-04T09:24:42.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "出生前后大脑会清理突变神经元"
+  },
+  {
+    "id": "ad36bd456d1d9aba",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Verification Is Not Knowledge: Science needs more than answers",
+    "summary": "",
+    "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "canonicalUrl": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+    "publishedAt": "2026-11-04T09:01:58.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 162,
+      "comments": 95
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "verificationisnotknowledgescienceneedsmorethananswers"
+  },
+  {
+    "id": "4b0b6a2e84d4cb9e",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+    "summary": "一场别开生面的具身智能科技盛宴",
+    "url": "https://www.qbitai.com/2026/11/507574.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507574.html",
+    "publishedAt": "2026-11-04T08:59:57.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "资讯",
+      "具身智能",
+      "超维动力",
+      "香港金融科技周"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "超维动力全栈矩阵亮相2026香港金融科技周具身智能硬科技引爆全场"
+  },
+  {
+    "id": "e78ad11a8182e5b2",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "调问更新 10.19 ~ 11.3：测评计分能力全面升级，问卷设计与管理体验持续优化",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503394",
+    "canonicalUrl": "https://www.oschina.net/news/503394",
+    "publishedAt": "2026-11-04T08:55:48.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "调问更新1019113测评计分能力全面升级问卷设计与管理体验持续优化"
+  },
+  {
+    "id": "f44d78cdc73a4bbd",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+    "summary": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+    "url": "https://www.qbitai.com/2026/11/507567.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507567.html",
+    "publishedAt": "2026-11-04T08:49:12.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "资讯",
+      "虎鲸文娱"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "虎鲸文娱鲸锐ai平台正式上线ai视频单分钟成本节省30以上"
+  },
+  {
+    "id": "356aa089c41bc58b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+    "summary": "",
+    "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "canonicalUrl": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+    "publishedAt": "2026-11-04T08:46:29.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 401,
+      "comments": 187
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nvidiartxsparkencryptedfirmwareslowsinferencespeedto35onlinux"
+  },
+  {
+    "id": "f32d51935bb34c11",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "仓颉语言原生 Coding Agent：cjh，一个文件就是整个开发团队",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503393",
+    "canonicalUrl": "https://www.oschina.net/news/503393",
+    "publishedAt": "2026-11-04T08:44:14.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "仓颉语言原生codingagentcjh一个文件就是整个开发团队"
+  },
+  {
+    "id": "aea60fd1ca2982fd",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "PingWAF - 面向现代 Web 应用的高性能分布式安全防护平台",
+    "summary": "",
+    "url": "https://www.oschina.net/p/pingwaf",
+    "canonicalUrl": "https://www.oschina.net/p/pingwaf",
+    "publishedAt": "2026-11-04T08:37:50.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "pingwaf面向现代web应用的高性能分布式安全防护平台"
+  },
+  {
+    "id": "61a6aa2541faa83b",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "SUSE 因 AI 而计划裁员十分之一",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85791",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85791",
+    "publishedAt": "2026-11-04T08:23:37.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "suse因ai而计划裁员十分之一"
+  },
+  {
+    "id": "f4ee98a8080cf71c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "昨天通知被裁员了，到现在脑瓜子还是嗡嗡的",
+    "summary": "#### base:北京 #### 职业：前端 10 月底刚过完 35 岁生日，35 岁这道坎果然还是没迈过去，昨天是 last day, 上午被领导叫去会议室…",
+    "url": "https://www.v2ex.com/t/1254452",
+    "canonicalUrl": "https://www.v2ex.com/t/1254452",
+    "publishedAt": "2026-11-04T08:13:51.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 89
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "昨天通知被裁员了到现在脑瓜子还是嗡嗡的"
+  },
+  {
+    "id": "8df21aa2d67ea7bd",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "We're Building AI to Replace Ourselves. What's the Plan?",
+    "summary": "Weren't we supposed to be replaced by AI by now?",
+    "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
+    "canonicalUrl": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
+    "publishedAt": "2026-11-04T08:06:25.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "discuss",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 205,
+      "comments": 182
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "werebuildingaitoreplaceourselveswhatstheplan"
+  },
+  {
+    "id": "fbc672c4c3fb4250",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "A thousand fewer paths to root",
+    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches…",
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "canonicalUrl": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "publishedAt": "2026-11-04T08:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Security"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "athousandfewerpathstoroot"
+  },
+  {
+    "id": "8dd68a9125bd9042",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 数据中台专业版 v3.0.1 发布：模型设计、版本管理与指标建模迎来多项升级！",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503390",
+    "canonicalUrl": "https://www.oschina.net/news/503390",
+    "publishedAt": "2026-11-04T07:48:32.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata数据中台专业版v301发布模型设计版本管理与指标建模迎来多项升级"
+  },
+  {
+    "id": "d289fa4c87090f4e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Bethesda 宣布《上古卷轴VI：哨兵》",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85790",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85790",
+    "publishedAt": "2026-11-04T07:35:02.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "bethesda宣布上古卷轴vi哨兵"
+  },
+  {
+    "id": "4b1bd8a945cbdb8b",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync v1.12.0 · 同步前检查、内容校验与诊断包",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503388",
+    "canonicalUrl": "https://www.oschina.net/news/503388",
+    "publishedAt": "2026-11-04T07:04:17.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv1120同步前检查内容校验与诊断包"
+  },
+  {
+    "id": "4e96f1207657de0e",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East…",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "canonicalUrl": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "publishedAt": "2026-11-04T07:00:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "daybreakredisnowavailableinawsgovclouduseast"
+  },
+  {
+    "id": "ece00ff8a2ac856a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Democrats win the Senate and close in on control of the House. Here’s what it means for your finances.",
+    "summary": "The results from the U.S.",
+    "url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T06:13:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "democratswinthesenateandcloseinoncontrolofthehousehereswhatitmeansforyourfinances"
+  },
+  {
+    "id": "d3f42b5417e0cf51",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "A股创新药概念持续走高，药明康德午后涨停，凯莱英、桂林三金、众生药业此前封板，石药创新、百普赛斯、荣昌生物、泰诺麦博等多…",
+    "summary": "A股创新药概念持续走高，药明康德午后涨停，凯莱英、桂林三金、众生药业此前封板，石药创新、百普赛斯、荣昌生物、泰诺麦博等多股涨超10%。",
+    "url": "https://wallstreetcn.com/livenews/3193899",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193899",
+    "publishedAt": "2026-11-04T06:11:45.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a股创新药概念持续走高药明康德午后涨停凯莱英桂林三金众生药业此前封板石药创新百普赛斯荣昌生物泰诺麦博等多"
+  },
+  {
+    "id": "26810ba81e2fcef5",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美东时间11月4日凌晨1时，美国中期选举现场投票基本结束，各州将继续统计并公布计票结果。据决策台数据预测，民主党将获参议…",
+    "summary": "美东时间11月4日凌晨1时，美国中期选举现场投票基本结束，各州将继续统计并公布计票结果。",
+    "url": "https://wallstreetcn.com/livenews/3193897",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193897",
+    "publishedAt": "2026-11-04T06:07:55.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美东时间11月4日凌晨1时美国中期选举现场投票基本结束各州将继续统计并公布计票结果据决策台数据预测民主党将获参议"
+  },
+  {
+    "id": "b501828df986cb51",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "港股大模型概念股午后反弹，智谱和MINIMAX涨7%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193896",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193896",
+    "publishedAt": "2026-11-04T06:07:47.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "港股大模型概念股午后反弹智谱和minimax涨7"
+  },
+  {
+    "id": "772d40a8c8f32024",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85789",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85789",
+    "publishedAt": "2026-11-04T06:07:00.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "币安称黑客通过虚假工作面试入侵工程师笔记本电脑"
+  },
+  {
+    "id": "69e653747a14d3bf",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中际旭创A股午后涨超10%，港股涨幅扩大至6%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193894",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193894",
+    "publishedAt": "2026-11-04T06:06:56.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中际旭创a股午后涨超10港股涨幅扩大至6"
+  },
+  {
+    "id": "c20fe8d95fc76c29",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "科创50指数涨超9%，创业板指涨超6%，沪指涨1.93%，深成指涨3.93%，贵金属、光伏、半导体芯片、医药生物等方向涨…",
+    "summary": "科创50指数涨超9%，创业板指涨超6%，沪指涨1.93%，深成指涨3.93%，贵金属、光伏、半导体芯片、医药生物等方向涨幅居前，沪深京三市上涨个股近4700只。",
+    "url": "https://wallstreetcn.com/livenews/3193893",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193893",
+    "publishedAt": "2026-11-04T06:04:54.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "科创50指数涨超9创业板指涨超6沪指涨193深成指涨393贵金属光伏半导体芯片医药生物等方向涨"
+  },
+  {
+    "id": "52349a996c5eb119",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "A股长鑫科技午后涨超10%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193891",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193891",
+    "publishedAt": "2026-11-04T06:03:36.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a股长鑫科技午后涨超10"
+  },
+  {
+    "id": "02951bd86a90d315",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Asian markets mixed as tech stocks slide and US midterm news weighs on equities",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4664464-asian-markets-mixed-as-tech-stocks-slide-and-us-midterm-news-weigh-on-equities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4664464-asian-markets-mixed-as-tech-stocks-slide-and-us-midterm-news-weigh-on-equities?feed_item_type=news",
+    "publishedAt": "2026-11-04T06:02:55.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "fxi",
+      "ewj",
+      "ewy",
+      "dxj",
+      "fxy",
+      "usd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "asianmarketsmixedastechstocksslideandusmidtermnewsweighsonequities"
+  },
+  {
+    "id": "9c72342a5b5bdfb6",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "科创50指数涨幅扩大至超8%，创业板指涨超5%，深成指涨3.6%，沪指涨1.7%。半导体行业ETF集体爆发，半导体ETF…",
+    "summary": "科创50指数涨幅扩大至超8%，创业板指涨超5%，深成指涨3.6%，沪指涨1.7%。",
+    "url": "https://wallstreetcn.com/livenews/3193887",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193887",
+    "publishedAt": "2026-11-04T06:00:39.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "科创50指数涨幅扩大至超8创业板指涨超5深成指涨36沪指涨17半导体行业etf集体爆发半导体etf"
+  },
+  {
+    "id": "582c1e1cadc8f997",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "US midterm elections 2026 live updates: Democrats win Senate control and edge",
+    "summary": "",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+    "canonicalUrl": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+    "publishedAt": "2026-11-04T06:00:30.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 17,
+      "comments": 3
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "usmidtermelections2026liveupdatesdemocratswinsenatecontrolandedge"
+  },
+  {
+    "id": "a3e39feed8a3e215",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "科创50指数涨幅扩大至7%，仅3只成分股下跌。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193885",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193885",
+    "publishedAt": "2026-11-04T05:58:59.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "科创50指数涨幅扩大至7仅3只成分股下跌"
+  },
+  {
+    "id": "bd52f497f51bca86",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "A股白酒板块午后大面积走弱 ，皇台酒业炸板后快速跳水，一度跌近9%，迎驾贡酒、古井贡酒、山西汾酒、水井坊跟跌。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193883",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193883",
+    "publishedAt": "2026-11-04T05:56:18.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a股白酒板块午后大面积走弱皇台酒业炸板后快速跳水一度跌近9迎驾贡酒古井贡酒山西汾酒水井坊跟跌"
+  },
+  {
+    "id": "02096d89d284461e",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "恒生科技指数涨幅扩大至1%。芯片股走强，天数智芯涨逾8%，中芯国际涨超7%，华虹宏力涨近7%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193881",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193881",
+    "publishedAt": "2026-11-04T05:55:46.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "恒生科技指数涨幅扩大至1芯片股走强天数智芯涨逾8中芯国际涨超7华虹宏力涨近7"
+  },
+  {
+    "id": "b9da1bb3ff667a05",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Democrats eye scrutiny of Trump, Big Tech with new subpoena power after midterm wins",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4664459-democrats-eye-scrutiny-of-trump-big-tech-with-new-subpoena-power-after-midterm-wins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4664459-democrats-eye-scrutiny-of-trump-big-tech-with-new-subpoena-power-after-midterm-wins?feed_item_type=news",
+    "publishedAt": "2026-11-04T05:52:03.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "spy",
+      "botz",
+      "arty",
+      "thnq",
+      "qqq",
+      "voo"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "democratseyescrutinyoftrumpbigtechwithnewsubpoenapoweraftermidtermwins"
+  },
+  {
+    "id": "ed5c7f5898573dd3",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Australian services PMI hits 7-month low of 48.5; Ai Group manufacturing index plunges",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4664465-australian-services-pmi-hits-7-month-low-of-485-ai-group-manufacturing-index-plunges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4664465-australian-services-pmi-hits-7-month-low-of-485-ai-group-manufacturing-index-plunges?feed_item_type=news",
+    "publishedAt": "2026-11-04T05:50:18.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "ewa",
+      "fxa",
+      "flau",
+      "aud:usd",
+      "usd:aud"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "australianservicespmihits7monthlowof485aigroupmanufacturingindexplunges"
+  },
+  {
+    "id": "e323e514222581a2",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Unilever eyes €1B in savings as post-spin-off restructuring gathers pace",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4664452-unilever-eyes-1b-in-savings-as-post-spin-off-restructuring-gathers-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4664452-unilever-eyes-1b-in-savings-as-post-spin-off-restructuring-gathers-pace?feed_item_type=news",
+    "publishedAt": "2026-11-04T05:47:58.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "ul",
+      "mkc"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "unilevereyes1binsavingsaspostspinoffrestructuringgatherspace"
+  },
+  {
+    "id": "3216303ebe99aeb1",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Ultragenyx outlines 2027 profitability plan with R&D under $350M and SG&A under $375M following GTX-102 discontinuation",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4664467-ultragenyx-outlines-2027-profitability-plan-with-r-and-d-under-350m-and-sg-and-a-under-375m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4664467-ultragenyx-outlines-2027-profitability-plan-with-r-and-d-under-350m-and-sg-and-a-under-375m?feed_item_type=news",
+    "publishedAt": "2026-11-04T05:46:52.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "rare"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "ultragenyxoutlines2027profitabilityplanwithrdunder350mandsgaunder375mfollowinggtx102discontinuation"
+  },
+  {
+    "id": "872a7b75e4d650c0",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "China’s services PMI misses expectations at 50.8 in October, composite PMI drops to 52.0",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4664463-chinas-services-pmi-misses-expectations-at-508-in-october-composite-pmi-drops-to-520?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4664463-chinas-services-pmi-misses-expectations-at-508-in-october-composite-pmi-drops-to-520?feed_item_type=news",
+    "publishedAt": "2026-11-04T05:38:30.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "fxi",
+      "ewh",
+      "gxc",
+      "caf",
+      "pgj",
+      "tdf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "chinasservicespmimissesexpectationsat508inoctobercompositepmidropsto520"
+  },
+  {
+    "id": "0a9711cc62e8189c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "猫贷中的“贷”与“猫”",
+    "summary": "以萌为名的阳谋。",
+    "url": "https://www.tmtpost.com/8192970.html",
+    "canonicalUrl": "https://www.tmtpost.com/8192970.html",
+    "publishedAt": "2026-11-04T05:38:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "猫贷中的贷与猫"
+  },
+  {
+    "id": "be3bb45e8d872fcb",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "六大科创龙头密集发声，谁在狂赚，谁在抢占下一轮风口",
+    "summary": "三季报业绩分化，AI算力与半导体增长强劲。",
+    "url": "https://www.tmtpost.com/8193040.html",
+    "canonicalUrl": "https://www.tmtpost.com/8193040.html",
+    "publishedAt": "2026-11-04T05:33:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "六大科创龙头密集发声谁在狂赚谁在抢占下一轮风口"
+  },
+  {
+    "id": "bd31ca7f6062fb57",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "通威48亿收购丽豪再进一步，逆周期整合优质产能，硅料出清多了一条并购通道",
+    "summary": "通威拟斥资不超48亿收购青海丽豪促光伏产能出清。",
+    "url": "https://www.tmtpost.com/8192987.html",
+    "canonicalUrl": "https://www.tmtpost.com/8192987.html",
+    "publishedAt": "2026-11-04T05:29:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "通威48亿收购丽豪再进一步逆周期整合优质产能硅料出清多了一条并购通道"
+  },
+  {
+    "id": "88c37adfa460f44b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AI视频的下一场竞争",
+    "summary": "生成容易，交付不易。",
+    "url": "https://www.tmtpost.com/8192972.html",
+    "canonicalUrl": "https://www.tmtpost.com/8192972.html",
+    "publishedAt": "2026-11-04T05:23:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "ai视频的下一场竞争"
+  },
+  {
+    "id": "335c46da21e2eacb",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "即时零售进入下半场",
+    "summary": "无短板竞争。",
+    "url": "https://www.tmtpost.com/8192950.html",
+    "canonicalUrl": "https://www.tmtpost.com/8192950.html",
+    "publishedAt": "2026-11-04T05:15:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "即时零售进入下半场"
+  },
+  {
+    "id": "dda27730eb56865c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "新国标落地，陪人看病是一门好生意吗？",
+    "summary": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。",
+    "url": "https://www.tmtpost.com/8193012.html",
+    "canonicalUrl": "https://www.tmtpost.com/8193012.html",
+    "publishedAt": "2026-11-04T05:12:40.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "新国标落地陪人看病是一门好生意吗"
+  },
+  {
+    "id": "f50f6de4caa3fa6a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Building the NBC News Big Board",
+    "summary": "",
+    "url": "https://ejfox.com/projects/nbc-big-board",
+    "canonicalUrl": "https://ejfox.com/projects/nbc-big-board",
+    "publishedAt": "2026-11-04T04:09:48.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "buildingthenbcnewsbigboard"
+  },
+  {
+    "id": "8ad6614a8d4165b9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Jelly Sheet",
+    "summary": "",
+    "url": "https://mrdoob.github.io/codevember-2026/01/",
+    "canonicalUrl": "https://mrdoob.github.io/codevember-2026/01",
+    "publishedAt": "2026-11-04T03:40:50.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 68,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "jellysheet"
+  },
+  {
+    "id": "96f129426244ed5c",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "livliv-dev/player",
+    "summary": "A lightweight 2.5D character player for the web, with lip sync and webcam face t…",
+    "url": "https://github.com/livliv-dev/player",
+    "canonicalUrl": "https://github.com/livliv-dev/player",
+    "publishedAt": "2026-11-04T03:28:33.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "TypeScript",
+      "avatar",
+      "character",
+      "face-tracking",
+      "lip-sync",
+      "pngtuber"
+    ],
+    "signals": {
+      "stars": 1252,
+      "forks": 130
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "livlivdevplayer"
+  },
+  {
+    "id": "bdb86ffe10eb1620",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+    "summary": "",
+    "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+    "canonicalUrl": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+    "publishedAt": "2026-11-04T03:20:13.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 44,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "distinctcellularandgeneticdifferencesincolorectalcancerinyoungpatients"
+  },
+  {
+    "id": "0499f401913c8ae2",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "感慨，感觉现在 gz 这么多，难怪这行环境这么差",
+    "summary": "之前在各大社区发了下自己被裁员的经历，我就想喷下这些人 很明显是一个公司要求这个岗位的人做不匹配该薪水的事情，被我礼貌的拒绝后，我依然是正常完成工作事务，拿多少…",
+    "url": "https://www.v2ex.com/t/1254356",
+    "canonicalUrl": "https://www.v2ex.com/t/1254356",
+    "publishedAt": "2026-11-04T03:00:32.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 66
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "感慨感觉现在gz这么多难怪这行环境这么差"
+  },
+  {
+    "id": "c00ff5886a44f28c",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+    "summary": "长视频记忆精度飙升，问答时延最高降97%",
+    "url": "https://www.qbitai.com/2026/11/507533.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507533.html",
+    "publishedAt": "2026-11-04T02:49:02.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "资讯",
+      "Agent",
+      "openJiuwen",
+      "记忆"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "让agent首次拥有视听双流记忆openjiuwenagentmemory看懂长视频关键事件一个不落"
+  },
+  {
+    "id": "e9222f7b7ebc62ae",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我就想知道我顶着限速跑在最左侧道路到底有没有问题？",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1254349",
+    "canonicalUrl": "https://www.v2ex.com/t/1254349",
+    "publishedAt": "2026-11-04T02:47:12.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 267
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我就想知道我顶着限速跑在最左侧道路到底有没有问题"
+  },
+  {
+    "id": "73b61f71ba578c62",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "第一次相亲结束了，果然和网上说的一模一样啊。",
+    "summary": "前情提要： [/t/1253104](/t/1253104) 上次发了帖子后，我尝试了和对方聊天，然后想着周末约着出去玩。",
+    "url": "https://www.v2ex.com/t/1254348",
+    "canonicalUrl": "https://www.v2ex.com/t/1254348",
+    "publishedAt": "2026-11-04T02:46:22.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 105
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "第一次相亲结束了果然和网上说的一模一样啊"
+  },
+  {
+    "id": "423a0111618f3180",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+    "summary": "",
+    "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+    "canonicalUrl": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747",
+    "publishedAt": "2026-11-04T02:19:16.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 154,
+      "comments": 21
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "greecehasitsownpompeiitheraburiedakrotiriinash17th16thcenturybce"
+  },
+  {
+    "id": "c23df4bfdc44376a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Apache SeaTunnel 社区 2026 年 10 月贡献总结报告",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503381",
+    "canonicalUrl": "https://www.oschina.net/news/503381",
+    "publishedAt": "2026-11-04T02:16:53.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "apacheseatunnel社区2026年10月贡献总结报告"
+  },
+  {
+    "id": "815b9a11aabfcfb1",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Skyeye 云企业级AI+零代码智能制造系统-AI应用 - v4.1.10发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503380",
+    "canonicalUrl": "https://www.oschina.net/news/503380",
+    "publishedAt": "2026-11-04T02:09:26.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "skyeye云企业级ai零代码智能制造系统ai应用v4110发布"
+  },
+  {
+    "id": "e1e16f192790fbc5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "大佬们，你们觉得有必要上回音壁吗",
+    "summary": "想了解下回音壁对看电视体验提升大吗，最近有点心痒痒，但是又不知道适不适合我 家里是 TCL Q9K + Apple TV ，平时看电视挺多的，几乎是有电视就不会…",
+    "url": "https://www.v2ex.com/t/1254330",
+    "canonicalUrl": "https://www.v2ex.com/t/1254330",
+    "publishedAt": "2026-11-04T02:01:50.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 68
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "大佬们你们觉得有必要上回音壁吗"
+  },
+  {
+    "id": "8a2891134fbef15f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Giant canyon on Mars is still tectonically active",
+    "summary": "",
+    "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+    "canonicalUrl": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+    "publishedAt": "2026-11-04T01:40:42.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 59,
+      "comments": 3
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "giantcanyononmarsisstilltectonicallyactive"
+  },
+  {
+    "id": "d71e11b9c9ed673a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "2026 年底了，忽然想转 iPhone ，属于是？",
+    "summary": "这么多年，之前用过 4s 和 6s ，其他都是折腾安卓家的各个品牌 最近接连着碰到两三件国产品牌安卓手机过渡介入私人隐私问题搞的有点恼火 想着 ios 是好点？",
+    "url": "https://www.v2ex.com/t/1254315",
+    "canonicalUrl": "https://www.v2ex.com/t/1254315",
+    "publishedAt": "2026-11-04T01:34:45.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 104
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "2026年底了忽然想转iphone属于是"
+  },
+  {
+    "id": "5c99e74de4b19a5c",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+    "summary": "The chip maker is showing “real” revenue from AI, shrugging off sustainability c…",
+    "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T01:16:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hereswhyamdsstockisrisingandsendingaconfidentmessageabouttheaitrade"
+  },
+  {
+    "id": "e4bf59d03c31c824",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+    "summary": "Super Micro is building out a “high-quality customer base” that’s fueling revenu…",
+    "url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-04T01:12:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "supermicrosstockpopsasearningsshowboomingdemandforaiservers"
+  },
+  {
+    "id": "0b286fad97992e38",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "各位每年的话费宽带费一共多少钱？",
+    "summary": "北京联通，1000 分钟通话，20G 流量，300M 宽带，1380/年",
+    "url": "https://www.v2ex.com/t/1254304",
+    "canonicalUrl": "https://www.v2ex.com/t/1254304",
+    "publishedAt": "2026-11-04T01:07:58.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 181
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "各位每年的话费宽带费一共多少钱"
+  },
+  {
+    "id": "0091ef80170b89d3",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "小孩子看稍微暴力血腥一点的电影真的影响很大么",
+    "summary": "不到该看的年龄，却看了，昆汀接受采访的时候，说他就是这样长大的，他的妈妈不会太限制他观影，所以同龄的孩子不能看的电影他在很小的时候就看过，从小看电影的量就很大。",
+    "url": "https://www.v2ex.com/t/1254298",
+    "canonicalUrl": "https://www.v2ex.com/t/1254298",
+    "publishedAt": "2026-11-04T00:47:39.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 133
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "小孩子看稍微暴力血腥一点的电影真的影响很大么"
+  },
+  {
+    "id": "e23cea8325b44604",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "C++26 Disapproved",
+    "summary": "",
+    "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+    "canonicalUrl": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive",
+    "publishedAt": "2026-11-04T00:33:22.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 200,
+      "comments": 95
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "c26disapproved"
+  },
+  {
+    "id": "8b61562f41bb4c92",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing Images 2.6",
+    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, a…",
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "canonicalUrl": "https://openai.com/index/introducing-images-2-6",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingimages26"
+  },
+  {
+    "id": "b7cda7222b2cd8e1",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe…",
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "canonicalUrl": "https://openai.com/index/devrev-enterprise-self-service",
+    "publishedAt": "2026-11-04T00:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "devrevdeliversautonomousselfservicewithgpt61sol"
+  },
+  {
+    "id": "fd58b0029fc5ed59",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "What analysts are telling us while Apple’s stock falls after earnings report",
+    "summary": "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling …",
+    "url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-03T22:48:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "whatanalystsaretellinguswhileapplesstockfallsafterearningsreport"
+  },
+  {
+    "id": "232ece577931ac7e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+    "summary": "The company missed revenue expectations, a tough outcome in today’s less-forgivi…",
+    "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-03T22:45:00.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shopifysstockslidesafterearningsthisiswhatsworryingwallstreet"
+  },
+  {
+    "id": "fd3958104ea53f9b",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "That's a Wrap on Hacktoberfest 2026! 🎃👻",
+    "summary": "Hacktoberfest 2026 wrapped up on October 31st!",
+    "url": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+    "canonicalUrl": "https://dev.to/devteam/thats-a-wrap-on-hacktoberfest-2026-148k",
+    "publishedAt": "2026-11-03T22:28:08.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [
+      "hacktoberfest",
+      "hf26challenge",
+      "opensource",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 65,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thatsawraponhacktoberfest2026"
+  },
+  {
+    "id": "5d070df80577a1cd",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "AI’s control over the bond market is growing — even rivaling war and elections",
+    "summary": "“Hyperscalers” burned through their cash.",
+    "url": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-03T22:06:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "aiscontroloverthebondmarketisgrowingevenrivalingwarandelections"
+  },
+  {
+    "id": "8dd04c692d165081",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Internals of PostgreSQL",
+    "summary": "",
+    "url": "https://www.interdb.jp/pg/index.html",
+    "canonicalUrl": "https://www.interdb.jp/pg/index.html",
+    "publishedAt": "2026-11-03T21:51:06.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 214,
+      "comments": 13
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "theinternalsofpostgresql"
+  },
+  {
+    "id": "b3f4ed319e343968",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+    "summary": "Falling below 7,500 would lead to a dramatic increase in selling pressure and vo…",
+    "url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-03T21:30:00.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "sp500islookingovertheedgeofatechnicalcliffwhathappensifitfallsoff"
+  },
+  {
+    "id": "bc4712349456fe73",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu",
+    "publishedAt": "2026-11-03T21:26:32.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai教ai开车百度首次披露apolloworld世界模型让无人驾驶突破不可能三角"
+  },
+  {
+    "id": "ab3329ea3efbd5e2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "summary": "",
+    "url": "https://uncracked.city",
+    "canonicalUrl": "https://uncracked.city/",
+    "publishedAt": "2026-11-03T21:20:03.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 18,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnuncrackedcitydetectivegamewhereyouquestionllmsuspectsthatlie"
+  },
+  {
+    "id": "d873e0725888635f",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+    "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjuste…",
+    "url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+    "publishedAt": "2026-11-03T21:11:34.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "ferrariraises2026guidanceafterq3earningsbeat"
+  },
+  {
+    "id": "47e8c359343ba1f7",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Shopify falls over 8% after Q3 revenue and merchandise volume miss estimates",
+    "summary": "Shopify's stock fell after the e-commerce platform's Q3 revenue and gross mercha…",
+    "url": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
+    "publishedAt": "2026-11-03T21:03:30.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "shopifyfallsover8afterq3revenueandmerchandisevolumemissestimates"
+  },
+  {
+    "id": "f4a87608dd7b36e4",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
+    "summary": "The stock has struggled in recent months.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/03/eatons-strong-quarter-should-mark-a-bottom-for-shares-of-the-ai-buildout-winner.html",
+    "canonicalUrl": "https://www.cnbc.com/investingclub/2026/11/03/eatons-strong-quarter-should-mark-a-bottom-for-shares-of-the-ai-buildout-winner.html",
+    "publishedAt": "2026-11-03T20:46:59.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "eatonsstrongquartershouldmarkabottomforsharesoftheaibuildoutwinner"
+  },
+  {
+    "id": "fd6593558cd88547",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Let's see where you code!",
+    "summary": "I’ve been writing a lot about AWS lately, so let’s take a breather.",
+    "url": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+    "canonicalUrl": "https://dev.to/maame-codes/lets-see-where-you-code-147",
+    "publishedAt": "2026-11-03T20:18:40.000Z",
+    "fetchedAt": "2026-11-05T16:28:14.898Z",
+    "tags": [
+      "watercooler",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 93,
+      "comments": 44
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "letsseewhereyoucode"
+  },
+  {
+    "id": "c2f538ff66f41774",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "国行 AI 真的来了",
+    "summary": "https://i.imgur.com/U8Cx6EC.jpeg https://i.imgur.com/xKXPRfm.jpeg",
+    "url": "https://www.v2ex.com/t/1254288",
+    "canonicalUrl": "https://www.v2ex.com/t/1254288",
+    "publishedAt": "2026-11-03T19:41:58.000Z",
+    "fetchedAt": "2026-11-04T16:29:23.660Z",
+    "tags": [
+      "Apple"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "国行ai真的来了"
+  },
+  {
+    "id": "02b23b451d0a374e",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Why we're keeping a hold rating on DuPont despite its beat-and-raise quarter",
+    "summary": "The stock could beat its February record high close.",
+    "url": "https://www.cnbc.com/investingclub/2026/11/03/were-keeping-a-hold-rating-on-dupont-despite-its-beat-and-raise-quarter.html",
+    "canonicalUrl": "https://www.cnbc.com/investingclub/2026/11/03/were-keeping-a-hold-rating-on-dupont-despite-its-beat-and-raise-quarter.html",
+    "publishedAt": "2026-11-03T19:26:02.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "whywerekeepingaholdratingondupontdespiteitsbeatandraisequarter"
+  },
+  {
+    "id": "61eafc02fdfc20a9",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+    "summary": "Pfizer announced that Cecile Guegan, who has held various leadership roles at th…",
+    "url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+    "publishedAt": "2026-11-03T19:25:44.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "pfizerhikesfullyearoutlookonnewproductgrowthtapscompanyveteranasnewcfo"
+  },
+  {
+    "id": "af0f93ed498f649b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "ToothPaste",
+    "summary": "",
+    "url": "https://brisk4t.github.io/blog/toothpaste/",
+    "canonicalUrl": "https://brisk4t.github.io/blog/toothpaste",
+    "publishedAt": "2026-11-03T18:27:27.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 33,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "toothpaste"
+  },
+  {
+    "id": "1130da963d03c506",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "canonicalUrl": "https://huggingface.co/blog/allenai/statebench",
+    "publishedAt": "2026-11-03T17:15:21.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "statebenchtestinghowlanguagemodelstrackstatechangesoverlongdocuments"
+  },
+  {
+    "id": "7659bec06695cc06",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Learn the rules: The hacker mindset",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset",
+    "publishedAt": "2026-11-03T17:14:38.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "Microsoft Research Podca"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "learntherulesthehackermindset"
+  },
+  {
+    "id": "603de55839c0332e",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "AI 改变的是数据接口，而不是查询引擎",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi",
+    "publishedAt": "2026-11-03T17:07:00.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai改变的是数据接口而不是查询引擎"
+  },
+  {
+    "id": "9c7bdf8b4e5b3a0d",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug disc…",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "canonicalUrl": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+    "publishedAt": "2026-11-03T17:01:49.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "agenticcheminformaticswithgoogleantigravity"
+  },
+  {
+    "id": "aa55c78dfa67a6e2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85788",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85788",
+    "publishedAt": "2026-11-03T16:58:29.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "纽约时报等起诉brave绕过付费墙抓取内容并提供给ai公司"
+  },
+  {
+    "id": "73af390a8a9a9bb5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Stringman, an $800 open-source room scale gripper robot",
+    "summary": "",
+    "url": "https://neufangled.com/",
+    "canonicalUrl": "https://neufangled.com/",
+    "publishedAt": "2026-11-03T16:47:29.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 492,
+      "comments": 170
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "stringmanan800opensourceroomscalegripperrobot"
+  },
+  {
+    "id": "c3d3dd789c07692c",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "canonicalUrl": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "publishedAt": "2026-11-03T16:35:36.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "paletteteachingasmallmodeltobuilddecksinyourdesignlanguage"
+  },
+  {
+    "id": "6b6d5cf4d6ccc49e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85787",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85787",
+    "publishedAt": "2026-11-03T16:33:42.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "google将对拒绝ai的美国学校关闭搜索"
+  },
+  {
+    "id": "2a28b7e48b9d2f26",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Fedora Linux 45 释出",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85786",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85786",
+    "publishedAt": "2026-11-03T16:22:33.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "fedoralinux45释出"
+  },
+  {
+    "id": "11d834198f6eaa38",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "加拿大央行行长Macklem：财政政策不会加大实现CPI目标的难度。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3193483",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193483",
+    "publishedAt": "2026-11-03T16:13:01.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "加拿大央行行长macklem财政政策不会加大实现cpi目标的难度"
+  },
+  {
+    "id": "6eb93e165f0308aa",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl",
+    "publishedAt": "2026-11-03T16:11:29.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "前迪士尼ai高管出任cpoutopaistudios技术布局再提速"
+  },
+  {
+    "id": "47b485fe25fcecbf",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Anthropic 'gobbling up' compute capacity ahead of IPO as commitments reach $807B: report",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4663587-anthropic-gobbling-up-compute-capacity-ahead-of-ipo-as-commitments-reach-807b-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4663587-anthropic-gobbling-up-compute-capacity-ahead-of-ipo-as-commitments-reach-807b-report?feed_item_type=news",
+    "publishedAt": "2026-11-03T16:10:47.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "ant",
+      "amzn",
+      "goog",
+      "googl",
+      "msft",
+      "spcx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "anthropicgobblingupcomputecapacityaheadofipoascommitmentsreach807breport"
+  },
+  {
+    "id": "669a615d00688c4d",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Charles River Laboratories Q3 2026 Earnings Preview",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4663655-charles-river-laboratories-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4663655-charles-river-laboratories-q3-2026-earnings-preview?feed_item_type=news",
+    "publishedAt": "2026-11-03T16:09:27.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "crl"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "charlesriverlaboratoriesq32026earningspreview"
+  },
+  {
+    "id": "9b1ad26632c29299",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "乌克兰国家电力公司3日通报称，俄军从当天凌晨开始持续袭击乌克兰能源系统，称这是规模最大的一轮袭击之一；过去一天俄军针对性…",
+    "summary": "乌克兰国家电力公司3日通报称，俄军从当天凌晨开始持续袭击乌克兰能源系统，称这是规模最大的一轮袭击之一；过去一天俄军针对性袭击能源设施20多次，致基础设施严重受损…",
+    "url": "https://wallstreetcn.com/livenews/3193482",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193482",
+    "publishedAt": "2026-11-03T16:09:00.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "乌克兰国家电力公司3日通报称俄军从当天凌晨开始持续袭击乌克兰能源系统称这是规模最大的一轮袭击之一过去一天俄军针对性"
+  },
+  {
+    "id": "02fcbb20f6de9883",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Perrigo Q3 2026 Earnings Preview",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4663654-perrigo-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4663654-perrigo-q3-2026-earnings-preview?feed_item_type=news",
+    "publishedAt": "2026-11-03T16:08:49.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "prgo"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "perrigoq32026earningspreview"
+  },
+  {
+    "id": "ebd68662949eb7dd",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "波斯湾原油流量的反弹正导致全球实物原油货物的成本大幅下跌，从中东到北海再到非洲的关键油种均受到冲击。 实物原油货物交易以…",
+    "summary": "波斯湾原油流量的反弹正导致全球实物原油货物的成本大幅下跌，从中东到北海再到非洲的关键油种均受到冲击。",
+    "url": "https://wallstreetcn.com/livenews/3193481",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193481",
+    "publishedAt": "2026-11-03T16:08:46.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "global-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "波斯湾原油流量的反弹正导致全球实物原油货物的成本大幅下跌从中东到北海再到非洲的关键油种均受到冲击实物原油货物交易以"
+  },
+  {
+    "id": "fd5bf41a2febe6b4",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Royalty Pharma Q3 2026 Earnings Preview",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4663653-royalty-pharma-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4663653-royalty-pharma-q3-2026-earnings-preview?feed_item_type=news",
+    "publishedAt": "2026-11-03T16:08:19.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "rprx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "royaltypharmaq32026earningspreview"
+  },
+  {
+    "id": "1a9d6b757c936d69",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "One Last Post, and a Proper Goodbye",
+    "summary": "🦄 What does it mean to be a developer?",
+    "url": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+    "canonicalUrl": "https://dev.to/anchildress1/one-last-post-and-a-proper-goodbye-53a2",
+    "publishedAt": "2026-11-03T16:08:07.000Z",
+    "fetchedAt": "2026-11-04T06:15:22.374Z",
+    "tags": [
+      "watercooler",
+      "writing",
+      "community",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 55,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "onelastpostandapropergoodbye"
+  },
+  {
+    "id": "dc58fdf347bd334a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Insulet Q3 2026 Earnings Preview",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4663651-insulet-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4663651-insulet-q3-2026-earnings-preview?feed_item_type=news",
+    "publishedAt": "2026-11-03T16:07:50.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "podd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "insuletq32026earningspreview"
+  },
+  {
+    "id": "03fba2d75ca8aad6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Circle heads into Q3 earnings with ARC revenue boost and USDC headache",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4663591-circle-heads-into-q3-earnings-with-arc-revenue-boost-and-usdc-headache?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4663591-circle-heads-into-q3-earnings-with-arc-revenue-boost-and-usdc-headache?feed_item_type=news",
+    "publishedAt": "2026-11-03T16:07:21.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "crcl",
+      "coin",
+      "usdc-usd",
+      "sp500",
+      "hype-usd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "circleheadsintoq3earningswitharcrevenueboostandusdcheadache"
+  },
+  {
+    "id": "cb2bfea2ebfbcdc0",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "在一名儿童因感染麻疹病毒死亡后，美国纽约报告了三十年来的首例麻疹死亡病例。这是该州不断扩大的麻疹疫情的一部分，该疫情已导…",
+    "summary": "在一名儿童因感染麻疹病毒死亡后，美国纽约报告了三十年来的首例麻疹死亡病例。",
+    "url": "https://wallstreetcn.com/livenews/3193480",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193480",
+    "publishedAt": "2026-11-03T16:07:11.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "在一名儿童因感染麻疹病毒死亡后美国纽约报告了三十年来的首例麻疹死亡病例这是该州不断扩大的麻疹疫情的一部分该疫情已导"
+  },
+  {
+    "id": "abfc6698e093fa8c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美股费城半导体指数涨超4%，英伟达涨3.03%，博通涨3.90%，美光涨3.62%，英特尔涨3.28%，AMD涨5.81…",
+    "summary": "美股费城半导体指数涨超4%，英伟达涨3.03%，博通涨3.90%，美光涨3.62%，英特尔涨3.28%，AMD涨5.81%，高通涨1.28%，台积电涨2.32%…",
+    "url": "https://wallstreetcn.com/livenews/3193479",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193479",
+    "publishedAt": "2026-11-03T16:02:26.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美股费城半导体指数涨超4英伟达涨303博通涨390美光涨362英特尔涨328amd涨581"
+  },
+  {
+    "id": "2829f198d8118c68",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "俄罗斯总统新闻秘书佩斯科夫3日在接受俄媒体采访时表示，安全不可分割原则是俄罗斯在乌克兰问题上所持立场的基石。 佩斯科夫说…",
+    "summary": "俄罗斯总统新闻秘书佩斯科夫3日在接受俄媒体采访时表示，安全不可分割原则是俄罗斯在乌克兰问题上所持立场的基石。",
+    "url": "https://wallstreetcn.com/livenews/3193478",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3193478",
+    "publishedAt": "2026-11-03T16:01:58.000Z",
+    "fetchedAt": "2026-11-03T16:13:42.107Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "俄罗斯总统新闻秘书佩斯科夫3日在接受俄媒体采访时表示安全不可分割原则是俄罗斯在乌克兰问题上所持立场的基石佩斯科夫说"
+  }
+]
