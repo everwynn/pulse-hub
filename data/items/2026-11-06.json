@@ -535,23 +535,6 @@
     "titleKey": "trumpsiranwarhaschangedthefutureofsocialsecurity"
   },
   {
-    "id": "1666e03ecf442bd8",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "The S&P 500 has become a big AI bet. Here are some simple alternatives.",
-    "summary": "The large-cap index is nowhere near as diversified as you think.",
-    "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T14:51:00.000Z",
-    "fetchedAt": "2026-11-06T15:55:07.454Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thesp500hasbecomeabigaibetherearesomesimplealternatives"
-  },
-  {
     "id": "ad2c4a98cfb738a6",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -987,7 +970,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1816",
+    "summary": "JavaScript · ★ 1885",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -996,8 +979,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1816,
-      "forks": 973
+      "stars": 1885,
+      "forks": 1005
     },
     "lang": "en",
     "weight": 90,
@@ -2272,23 +2255,6 @@
     "titleKey": "为了充实虚无的人生开始第三次尝试学吉他"
   },
   {
-    "id": "1f0f76d6c72f8144",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two…",
-    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T03:00:00.000Z",
-    "fetchedAt": "2026-11-05T06:42:32.662Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
-  },
-  {
     "id": "d9f73bba22c6c205",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -2347,8 +2313,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 121,
-      "comments": 66
+      "reactions": 125,
+      "comments": 68
     },
     "lang": "en",
     "weight": 60,
@@ -2696,8 +2662,8 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 126,
-      "comments": 25
+      "reactions": 131,
+      "comments": 26
     },
     "lang": "en",
     "weight": 60,

@@ -1,22 +1,5 @@
 [
   {
-    "id": "1356699d7230132d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-    "summary": "U.S. cottage-cheese sales have more than doubled from levels seen in 2021.",
-    "url": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T14:50:00.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "werelosingtocottagecheesetheproteinmaxxingcrazeishurtingcreamcheesesales"
-  },
-  {
     "id": "7c5a04d2b35fc39f",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -98,23 +81,6 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "现在农村还有住草房窝棚的吗"
-  },
-  {
-    "id": "b512cf63e64049d5",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-    "summary": "The math should actually start with “if” — not “how much.”",
-    "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T14:30:00.000Z",
-    "fetchedAt": "2026-11-06T06:39:11.063Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "howmuchinrothconversionscanyoudoin2027withthenewtaxbrackets"
   },
   {
     "id": "d60dc316556045ad",
@@ -520,6 +486,28 @@
     "titleKey": "广电总局整治ai低俗微短剧"
   },
   {
+    "id": "017b984ea4ef0d9d",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "tangerineturtle1/NX2navi",
+    "summary": "C · ★ 1530",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "canonicalUrl": "https://github.com/tangerineturtle1/NX2navi",
+    "publishedAt": "2026-11-07T10:01:23.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "C"
+    ],
+    "signals": {
+      "stars": 1530,
+      "forks": 78
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "tangerineturtle1nx2navi"
+  },
+  {
     "id": "5a640f4af6d93458",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -634,8 +622,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 890,
-      "comments": 240
+      "points": 1043,
+      "comments": 259
     },
     "lang": "en",
     "weight": 92,

@@ -1,5 +1,1191 @@
 [
   {
+    "id": "d5809aab1c296b3d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "“印度成OpenAI最大市场”，Altman首次回应“离职潮”：一群聪明人互不信任",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/7AXcQvPCSwfPhtL8iQpo",
+    "publishedAt": "2026-11-09T14:00:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "印度成openai最大市场altman首次回应离职潮一群聪明人互不信任"
+  },
+  {
+    "id": "965ca759141899b5",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "当 Flutter 遇上鸿蒙：一次“杂志级”混合开发实战",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/R6kE7tmckRcxpNj11mBb?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/R6kE7tmckRcxpNj11mBb",
+    "publishedAt": "2026-11-09T13:55:46.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "当flutter遇上鸿蒙一次杂志级混合开发实战"
+  },
+  {
+    "id": "2b108fef34579ea6",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Guys6YS7FsKUg8dLtMJx?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Guys6YS7FsKUg8dLtMJx",
+    "publishedAt": "2026-11-09T13:41:41.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "当ai在加速狂奔什么反而应该慢下来"
+  },
+  {
+    "id": "cd8fd2871ba4f41b",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "每两家头部手机厂商就有一家选它：火山引擎如何成为 AI 手机助手的\"隐形底座\"？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/icMBWWjE3LTzEY1tHKr8",
+    "publishedAt": "2026-11-09T13:40:23.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "每两家头部手机厂商就有一家选它火山引擎如何成为ai手机助手的隐形底座"
+  },
+  {
+    "id": "40879be4138fb2e1",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "开发者每周借助 AI 节约数十小时的比例在一年内从 68% 降至 26%",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/sdqHapplv45dQguTJ415?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/sdqHapplv45dQguTJ415",
+    "publishedAt": "2026-11-09T13:14:31.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "开发者每周借助ai节约数十小时的比例在一年内从68降至26"
+  },
+  {
+    "id": "0e7132ebc8b5e6b8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "得票最高的功能终于来了，OpenTofu 开始内置代码检查",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/jXBV6ib9g8g2Gw6kDaYh?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/jXBV6ib9g8g2Gw6kDaYh",
+    "publishedAt": "2026-11-09T13:00:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "得票最高的功能终于来了opentofu开始内置代码检查"
+  },
+  {
+    "id": "803ace41bd474831",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Java 近期资讯：JDK 28 发布日程、Oracle 关键补丁、eMudhra 证书、Apache POI、WildFly、Azul 与 BellSoft",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/w8RTJSY44DJJy97uagQr?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/w8RTJSY44DJJy97uagQr",
+    "publishedAt": "2026-11-09T11:27:27.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "java近期资讯jdk28发布日程oracle关键补丁emudhra证书apachepoiwildflyazul与bellsoft"
+  },
+  {
+    "id": "e26fd745283f707a",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Harness 已经很准了，为什么还需要一个 Agent Native Database",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/49JGp1l7v97riBlPpZ1q",
+    "publishedAt": "2026-11-09T10:44:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "harness已经很准了为什么还需要一个agentnativedatabase"
+  },
+  {
+    "id": "460b2b777fc145c1",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "沙特阿拉伯称利雅得市的危险已经过去。（彭博）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196711",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196711",
+    "publishedAt": "2026-11-09T06:19:24.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "沙特阿拉伯称利雅得市的危险已经过去彭博"
+  },
+  {
+    "id": "04b904b456ecb202",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”，该项目为华为、江淮和Stellantis的三方合作。目前，新车外观…",
+    "summary": "玛莎拉蒂与尊界的合作项目名为“玛莎拉蒂Design”，该项目为华为、江淮和Stellantis的三方合作。",
+    "url": "https://wallstreetcn.com/livenews/3196710",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196710",
+    "publishedAt": "2026-11-09T06:19:19.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "玛莎拉蒂与尊界的合作项目名为玛莎拉蒂design该项目为华为江淮和stellantis的三方合作目前新车外观"
+  },
+  {
+    "id": "359773c028f64c78",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "沙特阿拉伯发布利雅得地区危险警告。（彭博）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196708",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196708",
+    "publishedAt": "2026-11-09T06:16:47.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "沙特阿拉伯发布利雅得地区危险警告彭博"
+  },
+  {
+    "id": "697a1ffe65643e93",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据声明，法国农业信贷银行提议将其意大利分支机构Crédit Agricole Italia与意大利BPM银行合并，以创建…",
+    "summary": "据声明，法国农业信贷银行提议将其意大利分支机构Crédit Agricole Italia与意大利BPM银行合并，以创建意大利第三大银行集团。",
+    "url": "https://wallstreetcn.com/livenews/3196704",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196704",
+    "publishedAt": "2026-11-09T06:08:11.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据声明法国农业信贷银行提议将其意大利分支机构créditagricoleitalia与意大利bpm银行合并以创建"
+  },
+  {
+    "id": "ae76a262e30cadd4",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Sohu.com GAAP EPS of -$0.60, revenue of $133M",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668795-sohu-com-gaap-eps-of-0_60-revenue-of-133m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668795-sohu-com-gaap-eps-of-0_60-revenue-of-133m?feed_item_type=news",
+    "publishedAt": "2026-11-09T06:05:52.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "sohu"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "sohucomgaapepsof060revenueof133m"
+  },
+  {
+    "id": "ab1153f25b3e220a",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "纽元兑美元在新西兰选举后的涨幅扩大至1%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196701",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196701",
+    "publishedAt": "2026-11-09T06:05:02.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "纽元兑美元在新西兰选举后的涨幅扩大至1"
+  },
+  {
+    "id": "0de027cf9f5d41d5",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "裕信银行第三季度营收69.0亿欧元，预估64.7亿欧元。 第三季度净利润32.6亿欧元，预估28亿欧元。 第三季度净利息…",
+    "summary": "裕信银行第三季度营收69.0亿欧元，预估64.7亿欧元。",
+    "url": "https://wallstreetcn.com/livenews/3196699",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196699",
+    "publishedAt": "2026-11-09T06:01:36.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "裕信银行第三季度营收690亿欧元预估647亿欧元第三季度净利润326亿欧元预估28亿欧元第三季度净利息"
+  },
+  {
+    "id": "4f7a614c5734996d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "今日，阿里云上调Token Plan个人版订阅额度，Lite、Essential、Standard三档套餐月费不变，月度…",
+    "summary": "今日，阿里云上调Token Plan个人版订阅额度，Lite、Essential、Standard三档套餐月费不变，月度额度提升约74%至78%。",
+    "url": "https://wallstreetcn.com/livenews/3196696",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196696",
+    "publishedAt": "2026-11-09T05:58:25.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "今日阿里云上调tokenplan个人版订阅额度liteessentialstandard三档套餐月费不变月度"
+  },
+  {
+    "id": "a058594eb982d5b7",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "A股零售股反复活跃，上海九百冲击涨停，大东方此前封板，国芳集团、大连友谊涨超5%，百大集团、天虹股份涨幅居前。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196691",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196691",
+    "publishedAt": "2026-11-09T05:52:26.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a股零售股反复活跃上海九百冲击涨停大东方此前封板国芳集团大连友谊涨超5百大集团天虹股份涨幅居前"
+  },
+  {
+    "id": "ab90df8efa2cc557",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "日本将减轻液化石油气与煤油使用的成本负担。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196689",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196689",
+    "publishedAt": "2026-11-09T05:49:33.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "日本将减轻液化石油气与煤油使用的成本负担"
+  },
+  {
+    "id": "7619a9fb2302ca90",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Alphabet maintains massive SpaceX bet, initiates $548M Qualcomm stake",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668792-alphabet-maintains-massive-spacex-bet-initiates-548m-qualcomm-stake?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668792-alphabet-maintains-massive-spacex-bet-initiates-548m-qualcomm-stake?feed_item_type=news",
+    "publishedAt": "2026-11-09T05:47:02.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "goog",
+      "spcx",
+      "life",
+      "rvmd",
+      "frsh",
+      "gtlb"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "alphabetmaintainsmassivespacexbetinitiates548mqualcommstake"
+  },
+  {
+    "id": "ed7d01ab1db8436e",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "开源数据库管理工具 CloudDM 新版本发布，支持 OpenSearch、IoTDB 数据源",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503479",
+    "canonicalUrl": "https://www.oschina.net/news/503479",
+    "publishedAt": "2026-11-09T05:44:37.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "开源数据库管理工具clouddm新版本发布支持opensearchiotdb数据源"
+  },
+  {
+    "id": "2d81e7e16de5fb57",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国台湾证交所加权股价指数收高4.9%报41,661.70点。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3196683",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3196683",
+    "publishedAt": "2026-11-09T05:35:57.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国台湾证交所加权股价指数收高49报4166170点"
+  },
+  {
+    "id": "be2c74cf24f50000",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Constellation Software declares $1.00 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668794-constellation-software-declares-1_00-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668794-constellation-software-declares-1_00-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-09T05:35:33.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "csu:ca",
+      "cnswf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "constellationsoftwaredeclares100dividend"
+  },
+  {
+    "id": "dd6d6570aedd69d6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Strathcona Resources Ltd. raises dividend by 6.7% to CAD 0.32",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668793-strathcona-resources-ltd-raises-dividend-by-67-to-cad-032?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668793-strathcona-resources-ltd-raises-dividend-by-67-to-cad-032?feed_item_type=news",
+    "publishedAt": "2026-11-09T05:33:06.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "scr:ca",
+      "sthrf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "strathconaresourcesltdraisesdividendby67tocad032"
+  },
+  {
+    "id": "7cb6adfaa1113040",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "New England Realty Associates Limited Partnership declares $0.40 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668791-new-england-realty-associates-limited-partnership-declares-0_40-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668791-new-england-realty-associates-limited-partnership-declares-0_40-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-09T05:31:47.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "nen"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "newenglandrealtyassociateslimitedpartnershipdeclares040dividend"
+  },
+  {
+    "id": "bdc6d41e35412468",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Apple capped engineers at a $200 daily AI budget",
+    "summary": "",
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+    "canonicalUrl": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget",
+    "publishedAt": "2026-11-09T05:30:11.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 15,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "applecappedengineersata200dailyaibudget"
+  },
+  {
+    "id": "115299c72ea2ac01",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Cornerstone Total Return Fund Inc declares $0.1022 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4668790-cornerstone-total-return-fund-inc-declares-0_1022-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4668790-cornerstone-total-return-fund-inc-declares-0_1022-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-09T05:26:54.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "crf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "cornerstonetotalreturnfundincdeclares01022dividend"
+  },
+  {
+    "id": "c4d42f6bae7b1534",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "轩逸跌了65%，卡罗拉却涨了：10万元合资家轿，迎来了分化时刻",
+    "summary": "两家的分歧，最终落在一个经营问题上：在一个燃油车持续萎缩的市场里，愿意拿出多少利润，去换一个继续留在中国家庭车库里的位置。",
+    "url": "https://www.tmtpost.com/8197766.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197766.html",
+    "publishedAt": "2026-11-09T05:08:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "轩逸跌了65卡罗拉却涨了10万元合资家轿迎来了分化时刻"
+  },
+  {
+    "id": "172bac7a22070572",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "为什么「小电驴」也卖不动了",
+    "summary": "存量竞争，集体承压",
+    "url": "https://www.tmtpost.com/8197760.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197760.html",
+    "publishedAt": "2026-11-09T04:46:17.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "为什么小电驴也卖不动了"
+  },
+  {
+    "id": "dd5d8a31c3a37a63",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "中国讨论征收糖税",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85831",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85831",
+    "publishedAt": "2026-11-09T04:03:16.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "中国讨论征收糖税"
+  },
+  {
+    "id": "ea00706a8735cb70",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A Critique of GPUI",
+    "summary": "",
+    "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "canonicalUrl": "https://blog.zortax.de/posts/a-critique-of-gpui",
+    "publishedAt": "2026-11-09T03:51:10.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 57,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "acritiqueofgpui"
+  },
+  {
+    "id": "21287f0850024adb",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "GrantForge 2026.4.0 正式发布：新增四大数据系统，组织同步与细粒度授权全面升级",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503478",
+    "canonicalUrl": "https://www.oschina.net/news/503478",
+    "publishedAt": "2026-11-09T03:19:10.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "grantforge202640正式发布新增四大数据系统组织同步与细粒度授权全面升级"
+  },
+  {
+    "id": "be4d6366246d5cfd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "英伟达启动独立调查：黄仁勋继续担任CEO",
+    "summary": "亚洲芯片股反弹，英伟达场外合约仍在下跌。",
+    "url": "https://www.tmtpost.com/8198079.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198079.html",
+    "publishedAt": "2026-11-09T03:12:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "AGI",
+      "大模型",
+      "黄仁勋"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "英伟达启动独立调查黄仁勋继续担任ceo"
+  },
+  {
+    "id": "39a50f059829c30f",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": ":clap:日志审计系统 WGLOG v2.3.1 正式发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503477",
+    "canonicalUrl": "https://www.oschina.net/news/503477",
+    "publishedAt": "2026-11-09T03:02:06.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "clap日志审计系统wglogv231正式发布"
+  },
+  {
+    "id": "d41c6ef4edff1021",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "汽修店越开越多，为什么赚的钱却越来越少？",
+    "summary": "9000家修车店背后，真正集中的是什么",
+    "url": "https://www.tmtpost.com/8197767.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197767.html",
+    "publishedAt": "2026-11-09T02:56:59.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "汽修店越开越多为什么赚的钱却越来越少"
+  },
+  {
+    "id": "853a5a46dd4e5824",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "消费三姐妹，为什么不香了？",
+    "summary": "生意还在，溢价没了。",
+    "url": "https://www.tmtpost.com/8198041.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198041.html",
+    "publishedAt": "2026-11-09T02:56:57.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "主编精选文章"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "消费三姐妹为什么不香了"
+  },
+  {
+    "id": "1ccfaa877ca8bb5e",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Vue 动态表单 FormCreate 3.2 发布!",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503476",
+    "canonicalUrl": "https://www.oschina.net/news/503476",
+    "publishedAt": "2026-11-09T02:20:45.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "vue动态表单formcreate32发布"
+  },
+  {
+    "id": "e4170fb9aba6d38b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "天上已有上万颗卫星，谁来阻止它们相撞？",
+    "summary": "一颗卫星退役多年后，仍可能毁掉另一颗卫星。",
+    "url": "https://www.tmtpost.com/8197840.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197840.html",
+    "publishedAt": "2026-11-09T02:16:15.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "天上已有上万颗卫星谁来阻止它们相撞"
+  },
+  {
+    "id": "9aaea359cfe93fb7",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "感冒愈后长期咳嗽，发现了个神药？",
+    "summary": "应该是 16 年在北京感冒过一次每当什么事情，空气也不好，然后咳嗽不断差不多两个月才好 之后感冒后咳嗽我就需要很长时间才能，18 还是 19 年连续咳嗽了快三个…",
+    "url": "https://www.v2ex.com/t/1255459",
+    "canonicalUrl": "https://www.v2ex.com/t/1255459",
+    "publishedAt": "2026-11-09T02:01:34.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "健康"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "感冒愈后长期咳嗽发现了个神药"
+  },
+  {
+    "id": "89ffce924e5d2cd8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "RIP, Harvest",
+    "summary": "",
+    "url": "https://aphyr.com/posts/427-rip-harvest",
+    "canonicalUrl": "https://aphyr.com/posts/427-rip-harvest",
+    "publishedAt": "2026-11-09T01:58:21.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 258,
+      "comments": 76
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ripharvest"
+  },
+  {
+    "id": "1f0f76d6c72f8144",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two…",
+    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T01:21:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
+  },
+  {
+    "id": "e70f7777852cd9ef",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[中转站] 小众中转站推广，特色分组 opus-4.6，进来领鸡蛋 10$",
+    "summary": "站点： https://minitoken.cc/ 充值比例 1:1 主营模型 claude-opus-4-6 claude-sonnet-4-6 gpt-6-…",
+    "url": "https://www.v2ex.com/t/1255439",
+    "canonicalUrl": "https://www.v2ex.com/t/1255439",
+    "publishedAt": "2026-11-09T01:14:07.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 78
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "中转站小众中转站推广特色分组opus46进来领鸡蛋10"
+  },
+  {
+    "id": "d9b0cfc7fead061b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我觉得 CSDN 是彻底废了吧",
+    "summary": "如题 ![图片]( https://i.imgur.com/KBegB4J.jpeg \"图片\")",
+    "url": "https://www.v2ex.com/t/1255435",
+    "canonicalUrl": "https://www.v2ex.com/t/1255435",
+    "publishedAt": "2026-11-09T01:09:04.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "互联网"
+    ],
+    "signals": {
+      "replies": 54
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我觉得csdn是彻底废了吧"
+  },
+  {
+    "id": "635af1a247829ff7",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "希望 BLG 抗韩成功",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1255430",
+    "canonicalUrl": "https://www.v2ex.com/t/1255430",
+    "publishedAt": "2026-11-09T00:57:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "英雄联盟"
+    ],
+    "signals": {
+      "replies": 98
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "希望blg抗韩成功"
+  },
+  {
+    "id": "7ed03fe8350218ef",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "熊市持续中就开个银河定投纳指或者红利低波 ETF 吧，“万一免五”股票基金免 5 大笑脸开户",
+    "summary": "熊市中少买股票，就开个银河买买纳指或者红利低波 ETF 就行，胆子大的可以抄底!",
+    "url": "https://www.v2ex.com/t/1255423",
+    "canonicalUrl": "https://www.v2ex.com/t/1255423",
+    "publishedAt": "2026-11-09T00:40:55.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 65
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "熊市持续中就开个银河定投纳指或者红利低波etf吧万一免五股票基金免5大笑脸开户"
+  },
+  {
+    "id": "1666e03ecf442bd8",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+    "summary": "The large-cap index is nowhere near as diversified as you think.",
+    "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T00:40:00.000Z",
+    "fetchedAt": "2026-11-06T15:55:07.454Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thesp500couldbedangerouslyexposedtoaiherearesomesimplealternatives"
+  },
+  {
+    "id": "679c6a37a61f184b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+    "summary": "“I haven’t committed to the strategy yet and would appreciate some independent p…",
+    "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T00:30:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imsecondguessingmyadviserisanannuitytherightmoveinthismarket"
+  },
+  {
+    "id": "fcd1e23ab4bc7abc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Unlocking any car from X brand in most of the world",
+    "summary": "",
+    "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+    "canonicalUrl": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world",
+    "publishedAt": "2026-11-09T00:10:50.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 204,
+      "comments": 72
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "unlockinganycarfromxbrandinmostoftheworld"
+  },
+  {
+    "id": "16d2aa23cc3a3781",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[送码] 好看又好用的 iOS V2EX 客户端历经一个月终于上架了，送些码看看反馈",
+    "summary": "#### 前情提要 [吹出去的牛逼] 首先是基于爱好，小白做了自用，啥都不懂，希望大家温柔一点。",
+    "url": "https://www.v2ex.com/t/1255418",
+    "canonicalUrl": "https://www.v2ex.com/t/1255418",
+    "publishedAt": "2026-11-09T00:04:11.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 46
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "送码好看又好用的iosv2ex客户端历经一个月终于上架了送些码看看反馈"
+  },
+  {
+    "id": "b7bcbb94d4f0b26b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certa…",
+    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T00:02:00.000Z",
+    "fetchedAt": "2026-11-07T05:55:24.347Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itfeelslikehesquietlybuildingaseparatelifemyhusbandinherited500000butherefusestospenditonourhome"
+  },
+  {
+    "id": "5b0cc75cd4a897dd",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home …",
+    "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T00:00:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "funeralhomesarefindingnewlifehostingweddingsandgolfoutingsasthetraditionalburialbusinessdiesout"
+  },
+  {
+    "id": "b512cf63e64049d5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+    "summary": "The math should actually start with “if” — not “how much.”",
+    "url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T23:50:00.000Z",
+    "fetchedAt": "2026-11-06T06:39:11.063Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "howmuchinrothconversionscanyoudoin2027withthenewtaxbrackets"
+  },
+  {
+    "id": "9642ab3247b78ef8",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+    "summary": "Math may be cold and unemotional — but finances are not.",
+    "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T23:49:00.000Z",
+    "fetchedAt": "2026-11-08T05:57:37.450Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "im65andworthmorethan56millioncaniafforda200000camper"
+  },
+  {
+    "id": "4e93ff406d2c1743",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I'm not convinced the AI bubble exists",
+    "summary": "",
+    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+    "canonicalUrl": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+    "publishedAt": "2026-11-08T23:44:36.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 142,
+      "comments": 202
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "imnotconvincedtheaibubbleexists"
+  },
+  {
+    "id": "cac485b54a8f7b07",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-08T23:35:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
+  },
+  {
+    "id": "5a5e6c01cc01b5ea",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "各位还记得自己第一台手机什么品牌型号吗",
+    "summary": "我的第一台是西门子 2128 ，2002 年的一款夜光壳手机，夜里会发光，d 记得电视广告是在海洋馆拍的，a 手机会发淡绿色很神奇",
+    "url": "https://www.v2ex.com/t/1255417",
+    "canonicalUrl": "https://www.v2ex.com/t/1255417",
+    "publishedAt": "2026-11-08T23:30:15.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 128
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "各位还记得自己第一台手机什么品牌型号吗"
+  },
+  {
+    "id": "676c962b474fabd5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Chimera Vocal Synth",
+    "summary": "",
+    "url": "https://chimera-vocal-synth.vercel.app/",
+    "canonicalUrl": "https://chimera-vocal-synth.vercel.app/",
+    "publishedAt": "2026-11-08T22:36:03.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 164,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "chimeravocalsynth"
+  },
+  {
+    "id": "f83550abf3f96943",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+    "summary": "",
+    "url": "https://ketchup3d.github.io/app/",
+    "canonicalUrl": "https://ketchup3d.github.io/app",
+    "publishedAt": "2026-11-08T22:35:35.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 362,
+      "comments": 96
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ketchupopensourcesketchupalternativebuiltwithrustandwebgpu"
+  },
+  {
+    "id": "d2c8318861723598",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+    "summary": "",
+    "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "canonicalUrl": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+    "publishedAt": "2026-11-08T22:20:09.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 501,
+      "comments": 544
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nvidiaceojensenhuangslettertostaffaboutaffair"
+  },
+  {
+    "id": "3dc18d4ea0a36548",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50417407",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50417407",
+    "publishedAt": "2026-11-08T21:20:20.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 182,
+      "comments": 620
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "askhnwhatareyouworkingonnovember2026"
+  },
+  {
+    "id": "1f8fe74261170096",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Outlook.com is rejecting email from domains without DMARC",
+    "summary": "",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "canonicalUrl": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "publishedAt": "2026-11-08T19:20:32.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 337,
+      "comments": 254
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "outlookcomisrejectingemailfromdomainswithoutdmarc"
+  },
+  {
+    "id": "48ed0febb9ce652d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+    "summary": "",
+    "url": "https://duxlabs.dev/",
+    "canonicalUrl": "https://duxlabs.dev/",
+    "publishedAt": "2026-11-08T19:08:51.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 242,
+      "comments": 76
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "duxfreeopensourcewaylanddesktopshellwithfilemanagerandtheming"
+  },
+  {
     "id": "4ca656b76741e685",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",

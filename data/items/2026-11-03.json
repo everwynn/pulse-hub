@@ -376,6 +376,28 @@
     "titleKey": "从模型调用到任务交付maas如何走进agent生产"
   },
   {
+    "id": "80c5277ab917f29f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Quadrillion-parameter transformers and how to train them",
+    "summary": "",
+    "url": "https://qlabs.sh/research/parameters",
+    "canonicalUrl": "https://qlabs.sh/research/parameters",
+    "publishedAt": "2026-11-03T14:37:17.000Z",
+    "fetchedAt": "2026-11-08T15:10:14.020Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 28,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "quadrillionparametertransformersandhowtotrainthem"
+  },
+  {
     "id": "7d6354ca2b46ee4a",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -451,7 +473,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Minireel/HGhub",
-    "summary": "YellowFruit third-party client · TypeScript · ★ 2739",
+    "summary": "YellowFruit third-party client · TypeScript · ★ 3964",
     "url": "https://github.com/Minireel/HGhub",
     "canonicalUrl": "https://github.com/Minireel/HGhub",
     "publishedAt": "2026-11-03T14:04:27.000Z",
@@ -465,8 +487,8 @@
       "reels"
     ],
     "signals": {
-      "stars": 2739,
-      "forks": 1234
+      "stars": 3964,
+      "forks": 1565
     },
     "lang": "en",
     "weight": 90,
@@ -953,8 +975,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1304,
-      "forks": 239
+      "stars": 1670,
+      "forks": 300
     },
     "lang": "en",
     "weight": 90,
@@ -1018,8 +1040,8 @@
       "procedural-modeling"
     ],
     "signals": {
-      "stars": 1235,
-      "forks": 134
+      "stars": 1475,
+      "forks": 164
     },
     "lang": "en",
     "weight": 90,
@@ -1062,8 +1084,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 4051,
-      "forks": 735
+      "stars": 4168,
+      "forks": 755
     },
     "lang": "en",
     "weight": 90,
@@ -1822,8 +1844,8 @@
       "swift"
     ],
     "signals": {
-      "stars": 2334,
-      "forks": 155
+      "stars": 2423,
+      "forks": 166
     },
     "lang": "en",
     "weight": 90,

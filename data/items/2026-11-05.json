@@ -232,8 +232,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 35,
-      "comments": 2
+      "points": 38,
+      "comments": 3
     },
     "lang": "en",
     "weight": 92,
@@ -439,8 +439,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2356,
-      "forks": 219
+      "stars": 3384,
+      "forks": 324
     },
     "lang": "en",
     "weight": 90,
@@ -1465,7 +1465,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "mmdoctor/google-pro-helper",
-    "summary": "Python · ★ 1192",
+    "summary": "Python · ★ 1201",
     "url": "https://github.com/mmdoctor/google-pro-helper",
     "canonicalUrl": "https://github.com/mmdoctor/google-pro-helper",
     "publishedAt": "2026-11-05T04:52:28.000Z",
@@ -1474,8 +1474,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1192,
-      "forks": 436
+      "stars": 1201,
+      "forks": 440
     },
     "lang": "en",
     "weight": 90,
@@ -2253,6 +2253,28 @@
     "titleKey": "wayfairsalesjump10asfurnitureretailersaysitswinningshareofsluggishmarket"
   },
   {
+    "id": "dec1c1c58c1c6468",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+    "summary": "",
+    "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+    "canonicalUrl": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+    "publishedAt": "2026-11-04T20:53:54.000Z",
+    "fetchedAt": "2026-11-08T13:40:03.740Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 22,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "newtypefaceusingintricatedesignsfromshakespearesfirstfolio2023"
+  },
+  {
     "id": "b72058be7a346c50",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -2516,8 +2538,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 137,
-      "comments": 95
+      "reactions": 140,
+      "comments": 114
     },
     "lang": "en",
     "weight": 60,
@@ -2539,6 +2561,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "韩国游戏pc启动器被植入恶意代码"
+  },
+  {
+    "id": "4c0a6d8edf9d2434",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Declarative Dragging",
+    "summary": "",
+    "url": "https://declarative-dragging.github.io/",
+    "canonicalUrl": "https://declarative-dragging.github.io/",
+    "publishedAt": "2026-11-04T17:05:07.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 458,
+      "comments": 59
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "declarativedragging"
   },
   {
     "id": "5b4953ba14cdd226",
