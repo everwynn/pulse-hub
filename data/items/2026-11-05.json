@@ -439,8 +439,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2466,
-      "forks": 232
+      "stars": 3384,
+      "forks": 324
     },
     "lang": "en",
     "weight": 90,
@@ -2538,8 +2538,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 137,
-      "comments": 106
+      "reactions": 140,
+      "comments": 114
     },
     "lang": "en",
     "weight": 60,
@@ -2561,6 +2561,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "韩国游戏pc启动器被植入恶意代码"
+  },
+  {
+    "id": "4c0a6d8edf9d2434",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Declarative Dragging",
+    "summary": "",
+    "url": "https://declarative-dragging.github.io/",
+    "canonicalUrl": "https://declarative-dragging.github.io/",
+    "publishedAt": "2026-11-04T17:05:07.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 458,
+      "comments": 59
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "declarativedragging"
   },
   {
     "id": "5b4953ba14cdd226",

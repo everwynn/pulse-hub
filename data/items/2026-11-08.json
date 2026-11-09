@@ -1,5 +1,22 @@
 [
   {
+    "id": "5d19d9c597e02c77",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "LG 因其智能电视监视用户面临法律诉讼",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85829",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85829",
+    "publishedAt": "2026-11-08T15:23:44.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "lg因其智能电视监视用户面临法律诉讼"
+  },
+  {
     "id": "d6b0d15bae5a2935",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -79,6 +96,23 @@
     "titleKey": "anthropicstrikes34bgeneratordealtosecuredatacenterpowerft"
   },
   {
+    "id": "681cc0c2ec83b836",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "太平洋垃圾带海水变得更蓝更绿",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85828",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85828",
+    "publishedAt": "2026-11-08T14:40:27.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "太平洋垃圾带海水变得更蓝更绿"
+  },
+  {
     "id": "a8446fee1e100f48",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -101,6 +135,23 @@
     "titleKey": "binancenamesnewfinancechiefafter63billioncryptotheft"
   },
   {
+    "id": "f328b5b5ea0bca7f",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软移除了 PC 到 PC 的迁移功能",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85827",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85827",
+    "publishedAt": "2026-11-08T14:34:13.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软移除了pc到pc的迁移功能"
+  },
+  {
     "id": "1356699d7230132d",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -116,6 +167,25 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "werelosingtocottagecheesetheproteinmaxxingcrazeishurtingcreamcheesesales"
+  },
+  {
+    "id": "66aec08bf2f9f9dc",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "积木报表漏洞清零计划：10 月以来修复 32 个安全漏洞，另加固 5 项",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503472",
+    "canonicalUrl": "https://www.oschina.net/news/503472",
+    "publishedAt": "2026-11-08T14:10:19.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "积木报表漏洞清零计划10月以来修复32个安全漏洞另加固5项"
   },
   {
     "id": "e2b4816510f1db13",
@@ -276,6 +346,25 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "上海市政府副秘书长上海交易团副团长朱民指出历经九载发展进博会成交与首发成果丰硕上海交易团意向成交额已连续八年居全"
+  },
+  {
+    "id": "a538032377ae1f6f",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "KnowForge 2026.0.10：从知识库，开始长出一点“社区”了",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503471",
+    "canonicalUrl": "https://www.oschina.net/news/503471",
+    "publishedAt": "2026-11-08T13:24:40.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "knowforge2026010从知识库开始长出一点社区了"
   },
   {
     "id": "c4b15a4973351dce",
@@ -935,6 +1024,25 @@
     "titleKey": "当地时间8日获悉沙特能源部一位官方消息人士称沙特阿美石油公司位于利雅得的一栋行政大楼当日遭到袭击企图当日的袭击"
   },
   {
+    "id": "08d3efd50e7ce4d6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync v2.0.0 · Spring Boot 4.1 平台升级",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503470",
+    "canonicalUrl": "https://www.oschina.net/news/503470",
+    "publishedAt": "2026-11-08T09:29:02.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv200springboot41平台升级"
+  },
+  {
     "id": "afc8a8b3bc67e4d6",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -952,6 +1060,27 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "muellerdeclares0175dividend"
+  },
+  {
+    "id": "393bd37082e7eaaa",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "女儿生病出不了门，给她做了 100+体感小游戏：打开网页，站到摄像头前就能玩",
+    "summary": "前段时间上幼儿园中班的女儿生病，在家休养，不能出门。",
+    "url": "https://www.v2ex.com/t/1255360",
+    "canonicalUrl": "https://www.v2ex.com/t/1255360",
+    "publishedAt": "2026-11-08T09:03:38.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 72
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "女儿生病出不了门给她做了100体感小游戏打开网页站到摄像头前就能玩"
   },
   {
     "id": "47c5b5fe5d0f01ca",
@@ -1668,23 +1797,6 @@
     "titleKey": "paraguaysbankcollapsetopplespresidentraisesinvestorrisks"
   },
   {
-    "id": "cac485b54a8f7b07",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
-    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T20:48:00.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
-  },
-  {
     "id": "ba6acf0c61d3b192",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1705,23 +1817,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "claudecodesdontaskagainexposespasswordsin1122publicgithubfiles"
-  },
-  {
-    "id": "679c6a37a61f184b",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
-    "summary": "“I haven’t committed to the strategy yet and would appreciate some independent p…",
-    "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T20:36:00.000Z",
-    "fetchedAt": "2026-11-08T05:57:37.450Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "secondguessingmyadviserisanannuitytherightmoveinthismarket"
   },
   {
     "id": "7fda4868c6d4e944",
@@ -1899,23 +1994,6 @@
     "titleKey": "democratsbigelectionwinrevivesadifficultsocialsecurityquestionwhopays"
   },
   {
-    "id": "9642ab3247b78ef8",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-    "summary": "Math may be cold and unemotional — but finances are not.",
-    "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T17:33:00.000Z",
-    "fetchedAt": "2026-11-08T05:57:37.450Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "im65andworthmorethan56millioncaniafforda200000camper"
-  },
-  {
     "id": "804ae4cb38d07478",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1972,23 +2050,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "thewealthiest10ofamericansarepullingaheadofeveryoneelsethisiswhatsmakingthemricher"
-  },
-  {
-    "id": "b7bcbb94d4f0b26b",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-    "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certa…",
-    "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-07T17:01:00.000Z",
-    "fetchedAt": "2026-11-07T05:55:24.347Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itfeelslikehesquietlybuildingaseparatelifemyhusbandinherited500000butherefusestospenditonourhome"
   },
   {
     "id": "43c2b087a0b640e8",
