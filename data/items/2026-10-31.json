@@ -502,25 +502,6 @@
     "titleKey": "刚刚claude宣布取消5小时限制首批ultra用户已解封"
   },
   {
-    "id": "69110ad52b24ffe0",
-    "sourceId": "oschina",
-    "sourceName": "开源中国",
-    "channel": "tech",
-    "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
-    "summary": "",
-    "url": "https://www.oschina.net/news/503325",
-    "canonicalUrl": "https://www.oschina.net/news/503325",
-    "publishedAt": "2026-10-31T04:46:42.000Z",
-    "fetchedAt": "2026-11-01T07:12:47.828Z",
-    "tags": [
-      "软件更新新闻"
-    ],
-    "signals": {},
-    "lang": "zh",
-    "weight": 64,
-    "titleKey": "优化及缺陷修复开源ai无代码平台nocobase"
-  },
-  {
     "id": "acabac3677cfec48",
     "sourceId": "oschina",
     "sourceName": "开源中国",

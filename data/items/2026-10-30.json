@@ -109,28 +109,6 @@
     "titleKey": "fromsyntheticenterprisedataevaluationstorealmicrosoftcopilotaiconfidence"
   },
   {
-    "id": "9760ce08f6d914d7",
-    "sourceId": "devto",
-    "sourceName": "DEV Community",
-    "channel": "tech",
-    "title": "What was your win this week?",
-    "summary": "👋👋👋👋 Looking back on your week -- what was something you're proud of?",
-    "url": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
-    "canonicalUrl": "https://dev.to/devteam/what-was-your-win-this-week-47ci",
-    "publishedAt": "2026-10-30T13:00:00.000Z",
-    "fetchedAt": "2026-11-01T14:34:40.294Z",
-    "tags": [
-      "weeklyretro"
-    ],
-    "signals": {
-      "reactions": 33,
-      "comments": 36
-    },
-    "lang": "en",
-    "weight": 60,
-    "titleKey": "whatwasyourwinthisweek"
-  },
-  {
     "id": "a9c928fbd67025d6",
     "sourceId": "qbitai",
     "sourceName": "量子位",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "10c12f45206b8f28",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+    "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the…",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+    "publishedAt": "2026-11-07T15:23:46.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "berkshirehathawaymorethandoublesbuybacksinthirdquarterasearningsdecline"
+  },
+  {
     "id": "7c5a04d2b35fc39f",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -491,7 +508,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "tangerineturtle1/NX2navi",
-    "summary": "C · ★ 1530",
+    "summary": "C · ★ 2106",
     "url": "https://github.com/tangerineturtle1/NX2navi",
     "canonicalUrl": "https://github.com/tangerineturtle1/NX2navi",
     "publishedAt": "2026-11-07T10:01:23.000Z",
@@ -500,8 +517,8 @@
       "C"
     ],
     "signals": {
-      "stars": 1530,
-      "forks": 78
+      "stars": 2106,
+      "forks": 122
     },
     "lang": "en",
     "weight": 90,
@@ -1627,23 +1644,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "nvidiaamdandotherchipstocksreboundbutisrelieffromtheviolentselloffonlytemporary"
-  },
-  {
-    "id": "b5b9f69a399bdf11",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social…",
-    "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-06T21:15:00.000Z",
-    "fetchedAt": "2026-11-02T18:20:20.610Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itseemsbizarrewereinour80swith950000intraditionaliraswhyisouradviserpushingrothconversions"
   },
   {
     "id": "836c3ebde3f1abb8",

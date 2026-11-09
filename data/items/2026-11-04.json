@@ -1011,8 +1011,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 233,
-      "comments": 203
+      "reactions": 235,
+      "comments": 207
     },
     "lang": "en",
     "weight": 60,
@@ -2440,6 +2440,26 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "纽约时报等起诉brave绕过付费墙抓取内容并提供给ai公司"
+  },
+  {
+    "id": "01f13306dccd69a6",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "janestreet/agent_skills",
+    "summary": "Agent skills · ★ 1540",
+    "url": "https://github.com/janestreet/agent_skills",
+    "canonicalUrl": "https://github.com/janestreet/agent_skills",
+    "publishedAt": "2026-11-03T16:50:21.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {
+      "stars": 1540,
+      "forks": 85
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "janestreetagentskills"
   },
   {
     "id": "73af390a8a9a9bb5",

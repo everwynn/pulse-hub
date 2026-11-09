@@ -586,6 +586,28 @@
     "titleKey": "toyblocksacontrolledworldforrobotlearningandevaluation"
   },
   {
+    "id": "9c9e2550dcdccc12",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "What was your win this week?",
+    "summary": "👋👋👋👋 Looking back on your week -- what was something you're proud of?",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
+    "canonicalUrl": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
+    "publishedAt": "2026-11-06T14:00:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "weeklyretro"
+    ],
+    "signals": {
+      "reactions": 101,
+      "comments": 67
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whatwasyourwinthisweek"
+  },
+  {
     "id": "8145516f4d89a865",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -970,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1885",
+    "summary": "JavaScript · ★ 1922",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -979,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1885,
-      "forks": 1005
+      "stars": 1922,
+      "forks": 1030
     },
     "lang": "en",
     "weight": 90,
@@ -2313,8 +2335,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 125,
-      "comments": 68
+      "reactions": 130,
+      "comments": 75
     },
     "lang": "en",
     "weight": 60,
@@ -2662,7 +2684,7 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 131,
+      "reactions": 138,
       "comments": 26
     },
     "lang": "en",

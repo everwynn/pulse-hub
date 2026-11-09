@@ -1143,6 +1143,33 @@
     "titleKey": "突然想起来微软居然没拿出一个能用得模型"
   },
   {
+    "id": "9b2dd8ff04f84496",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "jhaizhou-ops/S2Arm",
+    "summary": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten …",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "canonicalUrl": "https://github.com/jhaizhou-ops/S2Arm",
+    "publishedAt": "2026-11-08T05:49:46.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "C#",
+      "apple-silicon",
+      "arm64",
+      "game-porting",
+      "ios",
+      "ipados"
+    ],
+    "signals": {
+      "stars": 1612,
+      "forks": 327
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "jhaizhouopss2arm"
+  },
+  {
     "id": "c8e26c00742e2123",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1992,6 +2019,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "democratsbigelectionwinrevivesadifficultsocialsecurityquestionwhopays"
+  },
+  {
+    "id": "62b2072937216db5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Isn't It Time for AVIF Everywhere?",
+    "summary": "",
+    "url": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+    "canonicalUrl": "https://www.michaelponders.com/2026/11/isnt-it-time-for-avif-everywhere.html",
+    "publishedAt": "2026-11-07T17:34:07.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 22,
+      "comments": 18
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "isntittimeforavifeverywhere"
   },
   {
     "id": "804ae4cb38d07478",

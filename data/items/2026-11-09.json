@@ -1,5 +1,229 @@
 [
   {
+    "id": "392e510da0c0eafd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
+    "summary": "",
+    "url": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+    "canonicalUrl": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
+    "publishedAt": "2026-11-09T15:39:01.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 52,
+      "comments": 27
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thesameh100costs269or1229anhourdependingwhereyourentit"
+  },
+  {
+    "id": "2521b4ef07225be2",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
+    "summary": "Some investors worried that SpaceX’s volatile stock would have an extreme impact…",
+    "url": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T15:35:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "howspacexwasabletoavertoneofthemarketsbiggestfearsaboutitsstock"
+  },
+  {
+    "id": "e7998bab0ef269f3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "A failed trial for a heart drug casts shadow over rivals developing similar therapies",
+    "summary": "The full data from the closely watched clinical trial showed that the drug had n…",
+    "url": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T15:16:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "afailedtrialforaheartdrugcastsshadowoverrivalsdevelopingsimilartherapies"
+  },
+  {
+    "id": "f384364e2c824033",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "canonicalUrl": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "publishedAt": "2026-11-09T15:05:57.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "nemotronpersonasfinancejapanasyntheticdatasetcapturingjapansdemographicsandfinancialcontext"
+  },
+  {
+    "id": "462a25971879736a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I Saw Your HN Comment",
+    "summary": "",
+    "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
+    "canonicalUrl": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment",
+    "publishedAt": "2026-11-09T15:01:03.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 224,
+      "comments": 152
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "isawyourhncomment"
+  },
+  {
+    "id": "1f0f76d6c72f8144",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two…",
+    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T15:00:00.000Z",
+    "fetchedAt": "2026-11-05T06:42:32.662Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
+  },
+  {
+    "id": "bf5c4e5af26433f0",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+    "summary": "The fallout from the board’s new investigation could become “a longer-lasting pr…",
+    "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T14:45:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "asnvidiasstockfallshereswhatwallstreethastosayaboutthejensenhuangscandal"
+  },
+  {
+    "id": "294f6973ce6f5305",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "OpenAI、Anthropic、Google 各有接口，开放标准离统一还有多远？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/5e8Qs11VHRHRyYsB2kFO",
+    "publishedAt": "2026-11-09T14:35:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "openaianthropicgoogle各有接口开放标准离统一还有多远"
+  },
+  {
+    "id": "a059682a1fe56a55",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Zebkit – Chromium as an embeddable library",
+    "summary": "",
+    "url": "https://github.com/ikey4u/zebkit",
+    "canonicalUrl": "https://github.com/ikey4u/zebkit",
+    "publishedAt": "2026-11-09T14:34:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 60,
+      "comments": 27
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "zebkitchromiumasanembeddablelibrary"
+  },
+  {
+    "id": "f50676b08066770c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+    "summary": "",
+    "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "canonicalUrl": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet",
+    "publishedAt": "2026-11-09T14:31:39.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 48,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "magentasolarpanelsmaybeagrivoltaicscleveresttrickyet"
+  },
+  {
+    "id": "8e6b296716b2782f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
+    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T14:30:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
+  },
+  {
+    "id": "4b182b0d23dd4993",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to outperform",
+    "summary": "Precisely because it has long been hamstrung by rigid labor markets and overregu…",
+    "url": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T14:16:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "asaitradefaltersgoldmansachssaysthislaggingregionisnowpositionedtooutperform"
+  },
+  {
     "id": "d5809aab1c296b3d",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -68,6 +292,23 @@
     "titleKey": "每两家头部手机厂商就有一家选它火山引擎如何成为ai手机助手的隐形底座"
   },
   {
+    "id": "8a666d12816e1bce",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "火星发现存在活火山的证据",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85841",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85841",
+    "publishedAt": "2026-11-09T13:19:02.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "火星发现存在活火山的证据"
+  },
+  {
     "id": "40879be4138fb2e1",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -83,6 +324,23 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "开发者每周借助ai节约数十小时的比例在一年内从68降至26"
+  },
+  {
+    "id": "3d14ce8431181822",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "世界大城市都在沉降",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85840",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85840",
+    "publishedAt": "2026-11-09T13:08:27.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "世界大城市都在沉降"
   },
   {
     "id": "0e7132ebc8b5e6b8",
@@ -102,6 +360,166 @@
     "titleKey": "得票最高的功能终于来了opentofu开始内置代码检查"
   },
   {
+    "id": "a5280442b7b6da41",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "30 公斤的巨鼠曾在三千万年前生活在今天的泰国",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85839",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85839",
+    "publishedAt": "2026-11-09T12:41:39.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "30公斤的巨鼠曾在三千万年前生活在今天的泰国"
+  },
+  {
+    "id": "238491130871f56b",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "summary": "",
+    "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "canonicalUrl": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "publishedAt": "2026-11-09T12:34:29.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "yourexpertshavepartnersthereshopeforkeepingthemtogether"
+  },
+  {
+    "id": "f1b6fb2006aa6d5b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Humans will never again create a project like Wikipedia",
+    "summary": "",
+    "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+    "canonicalUrl": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+    "publishedAt": "2026-11-09T12:30:20.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 399,
+      "comments": 336
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "humanswillneveragaincreateaprojectlikewikipedia"
+  },
+  {
+    "id": "3e56ab53f404a125",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Fold Epic Paper Airplanes",
+    "summary": "",
+    "url": "https://www.foldableflight.com",
+    "canonicalUrl": "https://www.foldableflight.com/",
+    "publishedAt": "2026-11-09T12:19:22.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 463,
+      "comments": 82
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "foldepicpaperairplanes"
+  },
+  {
+    "id": "d118789c6b8f133e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "*ST亿晶重整易主引爆五连板：中润光能拟入主，游资击鼓传花",
+    "summary": "不过是又一场借题发挥的游资狂欢。",
+    "url": "https://www.tmtpost.com/8198759.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198759.html",
+    "publishedAt": "2026-11-09T11:57:26.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "新能源",
+      "中国制造",
+      "焦点",
+      "科股"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "st亿晶重整易主引爆五连板中润光能拟入主游资击鼓传花"
+  },
+  {
+    "id": "40ba44c638a47f8f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "唐山工控集团投资者交流会落地上海，三大上市平台协同构筑产业发展新格局",
+    "summary": "三家上市平台各据赛道，产业协同逻辑进一步清晰。",
+    "url": "https://www.tmtpost.com/8197722.html",
+    "canonicalUrl": "https://www.tmtpost.com/8197722.html",
+    "publishedAt": "2026-11-09T11:37:36.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "唐山工控集团投资者交流会落地上海三大上市平台协同构筑产业发展新格局"
+  },
+  {
+    "id": "910bfdff0882dedd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What is malloc doing, anyway?",
+    "summary": "",
+    "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+    "canonicalUrl": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+    "publishedAt": "2026-11-09T11:31:05.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 124,
+      "comments": 27
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whatismallocdoinganyway"
+  },
+  {
+    "id": "2f7f900b022e83cd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "光模块龙头股价腰斩之际，天安新材拟2.5亿“追光”｜并购一线",
+    "summary": "天安新材拟跨界。",
+    "url": "https://www.tmtpost.com/8198545.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198545.html",
+    "publishedAt": "2026-11-09T11:30:48.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "主编精选文章",
+      "并购",
+      "焦点"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "光模块龙头股价腰斩之际天安新材拟25亿追光并购一线"
+  },
+  {
     "id": "803ace41bd474831",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -119,6 +537,78 @@
     "titleKey": "java近期资讯jdk28发布日程oracle关键补丁emudhra证书apachepoiwildflyazul与bellsoft"
   },
   {
+    "id": "5f79b0b39e7aa3af",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "商超重拾散装零食",
+    "summary": "商超重拾散装零食",
+    "url": "https://www.tmtpost.com/8198256.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198256.html",
+    "publishedAt": "2026-11-09T11:04:23.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "商超重拾散装零食"
+  },
+  {
+    "id": "35217c0fd31e241e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85838",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85838",
+    "publishedAt": "2026-11-09T11:04:21.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "高盛限制交易员和银行家使用第三方ai智能体"
+  },
+  {
+    "id": "64959d4c1592caf3",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AI进不了相亲相爱一家人，怎么办？",
+    "summary": "微信不妨学一学？",
+    "url": "https://www.tmtpost.com/8198165.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198165.html",
+    "publishedAt": "2026-11-09T11:00:16.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "ai进不了相亲相爱一家人怎么办"
+  },
+  {
+    "id": "5dd118ffaaf52404",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "黄仁勋婚外情背后：黄乐的神秘履历、48亿美元芯片生意与美国政策博弈",
+    "summary": "接下来，英伟达要查清这段关系有没有越过公司的制度边界；华盛顿则会借这场风波，重新计算黄仁勋、英伟达与美国AI政策之间的距离。",
+    "url": "https://www.tmtpost.com/8198370.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198370.html",
+    "publishedAt": "2026-11-09T11:00:11.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "黄仁勋婚外情背后黄乐的神秘履历48亿美元芯片生意与美国政策博弈"
+  },
+  {
     "id": "e26fd745283f707a",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +624,449 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "harness已经很准了为什么还需要一个agentnativedatabase"
+  },
+  {
+    "id": "d1230255859ec9d1",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "噪声污染伤害全球野生动物",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85837",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85837",
+    "publishedAt": "2026-11-09T10:23:27.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "噪声污染伤害全球野生动物"
+  },
+  {
+    "id": "932194a049a41117",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+    "summary": "量子位在寻找“能干”的答案",
+    "url": "https://www.qbitai.com/2026/11/508745.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508745.html",
+    "publishedAt": "2026-11-09T10:23:18.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "活动",
+      "资讯",
+      "MEET2027"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "倒计时一周量子位2026人工智能年度榜单征集即将截止"
+  },
+  {
+    "id": "a18767178596e7fd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+    "summary": "",
+    "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+    "canonicalUrl": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370",
+    "publishedAt": "2026-11-09T10:11:47.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 82,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "funthingstodowithyourvm370cemachinefunwithbigcomputers"
+  },
+  {
+    "id": "254a22fb971b634c",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
+    "summary": "香港金融科技周 x StartmeupHK 2026十一月六日圆满结束。",
+    "url": "https://www.qbitai.com/2026/11/508753.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508753.html",
+    "publishedAt": "2026-11-09T09:58:33.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "香港金融科技周"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "香港金融科技周xstartmeuphk2026圆满结束吸引逾48000与会者汇聚全球创新力量与增长机遇"
+  },
+  {
+    "id": "4c0ea7ba4ad2aef1",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "英国纯电动汽车销量即将超过汽油车",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85836",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85836",
+    "publishedAt": "2026-11-09T09:57:37.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "英国纯电动汽车销量即将超过汽油车"
+  },
+  {
+    "id": "23dd9123882abc52",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+    "summary": "11月9日，百度文心首次披露 RSI 最新进展",
+    "url": "https://www.qbitai.com/2026/11/508746.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508746.html",
+    "publishedAt": "2026-11-09T09:48:04.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "百度文心"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "百度文心首次披露rsi进展ernieevolve已用于最新模型研发文心55flash或将近期发布"
+  },
+  {
+    "id": "6cef138040f067a1",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥🔥ApiGo 5.5 发布，新增数据行列级权限",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503488",
+    "canonicalUrl": "https://www.oschina.net/news/503488",
+    "publishedAt": "2026-11-09T09:29:47.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "apigo55发布新增数据行列级权限"
+  },
+  {
+    "id": "5fc31f823ea2d3e9",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "千星达成！开源终端 uniTerm v1.12 发布：Docker 多租户部署、本地服务、终端录制与批量执行齐上线",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503487",
+    "canonicalUrl": "https://www.oschina.net/news/503487",
+    "publishedAt": "2026-11-09T09:04:39.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "千星达成开源终端unitermv112发布docker多租户部署本地服务终端录制与批量执行齐上线"
+  },
+  {
+    "id": "0188edbec7114380",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "具身智能出海，物流先行",
+    "summary": "全球练兵、全球交付",
+    "url": "https://www.qbitai.com/2026/11/508716.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508716.html",
+    "publishedAt": "2026-11-09T09:01:13.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "具身智能",
+      "出海",
+      "物流",
+      "菜鸟"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "具身智能出海物流先行"
+  },
+  {
+    "id": "2f75724ae7419973",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "“AI毁了我的计算机学位”",
+    "summary": "教授也用Claude糊弄…",
+    "url": "https://www.qbitai.com/2026/11/508706.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508706.html",
+    "publishedAt": "2026-11-09T08:57:20.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "CS"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "ai毁了我的计算机学位"
+  },
+  {
+    "id": "c72626a86d66df18",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/507843.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/507843.html",
+    "publishedAt": "2026-11-09T08:44:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "混元",
+      "腾讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "腾讯混元跻身最强开源模型一手实测hy4搭配workbuddy多模态agent交付力拉满"
+  },
+  {
+    "id": "69a294602945a405",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Aaron Swartz 诞辰四十周年",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85835",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85835",
+    "publishedAt": "2026-11-09T08:42:54.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "aaronswartz诞辰四十周年"
+  },
+  {
+    "id": "dac000423a2967e4",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "能力再扩充！deepin Skills 上架应用商店，小 U 同学直接调用",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503486",
+    "canonicalUrl": "https://www.oschina.net/news/503486",
+    "publishedAt": "2026-11-09T08:41:10.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "能力再扩充deepinskills上架应用商店小u同学直接调用"
+  },
+  {
+    "id": "7993c56386ae6d8f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+    "summary": "11月9日，千问办公发布2.0版本",
+    "url": "https://www.qbitai.com/2026/11/508694.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508694.html",
+    "publishedAt": "2026-11-09T08:34:03.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "千问"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "千问办公20发布首个支持多人与agent协作的teamagent来了"
+  },
+  {
+    "id": "527a504abfab18b7",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+    "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+    "url": "https://www.qbitai.com/2026/11/508690.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508690.html",
+    "publishedAt": "2026-11-09T08:26:45.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "资讯",
+      "投中网"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "叙事奔涌何以为锚丨第20届中国投资年会有限合伙人峰会即将启幕"
+  },
+  {
+    "id": "4c48b051a8faa3f0",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503485",
+    "canonicalUrl": "https://www.oschina.net/news/503485",
+    "publishedAt": "2026-11-09T08:24:02.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "优化及缺陷修复开源ai无代码平台nocobase"
+  },
+  {
+    "id": "50f383e95eacc218",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "七年级期中考试分数如下，哎，认命了",
+    "summary": "总分：282 语文：60 数学：35 英语：88 生物：19 政治：47 历史：27 地理：6",
+    "url": "https://www.v2ex.com/t/1255591",
+    "canonicalUrl": "https://www.v2ex.com/t/1255591",
+    "publishedAt": "2026-11-09T07:51:30.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "教育"
+    ],
+    "signals": {
+      "replies": 103
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "七年级期中考试分数如下哎认命了"
+  },
+  {
+    "id": "8d1b3279f8a7d499",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "GOTC 2026 能让你动手实操的 6 个共建活动",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503483",
+    "canonicalUrl": "https://www.oschina.net/news/503483",
+    "publishedAt": "2026-11-09T07:49:56.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "gotc2026能让你动手实操的6个共建活动"
+  },
+  {
+    "id": "49001fbd81a02cf6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85834",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85834",
+    "publishedAt": "2026-11-09T07:32:15.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "脚本ramaltman监视pc闲置内存然后发邮件给samaltman"
+  },
+  {
+    "id": "329392c2763f50eb",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Vue 可视化 AI 表单设计器 FcDesigner v3.6 版本发布，支持导出 SQL 功能!",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503482",
+    "canonicalUrl": "https://www.oschina.net/news/503482",
+    "publishedAt": "2026-11-09T07:01:16.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "vue可视化ai表单设计器fcdesignerv36版本发布支持导出sql功能"
+  },
+  {
+    "id": "378b7a53e48ed6f1",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "苹果将工程师的每日 AI 预算限制在 200 美元",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85833",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85833",
+    "publishedAt": "2026-11-09T06:40:12.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "苹果将工程师的每日ai预算限制在200美元"
+  },
+  {
+    "id": "b55c233c12bf2d84",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Asahi Linux 从 MIT 许可证切换到 GPL 许可证",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85832",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85832",
+    "publishedAt": "2026-11-09T06:29:20.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "asahilinux从mit许可证切换到gpl许可证"
+  },
+  {
+    "id": "31a805c0f22b4004",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "不用 Node 也能编译 Vue：一个原生二进制，把前后端做成一个工程",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503480",
+    "canonicalUrl": "https://www.oschina.net/news/503480",
+    "publishedAt": "2026-11-09T06:20:16.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "不用node也能编译vue一个原生二进制把前后端做成一个工程"
   },
   {
     "id": "460b2b777fc145c1",
@@ -193,6 +1126,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "沙特阿拉伯发布利雅得地区危险警告彭博"
+  },
+  {
+    "id": "9782791db948c710",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[送会员] 为了学好 英语 和 日语，我做了这个...",
+    "summary": "地址在： https://www.lingodew.com/ 目前支持 Web/iOS/Android 三端同步, App Store 和 Google Pla…",
+    "url": "https://www.v2ex.com/t/1255556",
+    "canonicalUrl": "https://www.v2ex.com/t/1255556",
+    "publishedAt": "2026-11-09T06:08:14.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 71
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "送会员为了学好英语和日语我做了这个"
   },
   {
     "id": "697a1ffe65643e93",
@@ -719,7 +1673,7 @@
       "健康"
     ],
     "signals": {
-      "replies": 67
+      "replies": 111
     },
     "lang": "zh",
     "weight": 55,
@@ -748,23 +1702,6 @@
     "titleKey": "ripharvest"
   },
   {
-    "id": "1f0f76d6c72f8144",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
-    "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two…",
-    "url": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T01:21:00.000Z",
-    "fetchedAt": "2026-11-05T06:42:32.662Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
-  },
-  {
     "id": "e70f7777852cd9ef",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -779,7 +1716,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 78
+      "replies": 137
     },
     "lang": "zh",
     "weight": 55,
@@ -800,7 +1737,7 @@
       "互联网"
     ],
     "signals": {
-      "replies": 54
+      "replies": 70
     },
     "lang": "zh",
     "weight": 55,
@@ -821,7 +1758,7 @@
       "英雄联盟"
     ],
     "signals": {
-      "replies": 98
+      "replies": 104
     },
     "lang": "zh",
     "weight": 55,
@@ -842,7 +1779,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 65
+      "replies": 111
     },
     "lang": "zh",
     "weight": 55,
@@ -1054,6 +1991,27 @@
     "titleKey": "各位还记得自己第一台手机什么品牌型号吗"
   },
   {
+    "id": "d95bcd19d117dfce",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "重新定义全平台 IPTV 播放器，自研内核极速快， V 友专属福利来了",
+    "summary": "做了几个月，发上来给大家鉴定鉴定。",
+    "url": "https://www.v2ex.com/t/1255416",
+    "canonicalUrl": "https://www.v2ex.com/t/1255416",
+    "publishedAt": "2026-11-08T23:15:32.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [
+      "Apple"
+    ],
+    "signals": {
+      "replies": 69
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "重新定义全平台iptv播放器自研内核极速快v友专属福利来了"
+  },
+  {
     "id": "676c962b474fabd5",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1090,8 +2048,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 362,
-      "comments": 96
+      "points": 679,
+      "comments": 199
     },
     "lang": "en",
     "weight": 92,
