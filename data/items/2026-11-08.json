@@ -692,6 +692,31 @@
     "titleKey": "以色列国防部长卡茨8日在战争纪念仪式上称以色列对伊朗的任务尚未完成伊朗试图重启获取核武器的进程并进行其他严"
   },
   {
+    "id": "c921d9878790881c",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Necoz Has a New Home on DEV! 🐈🎉",
+    "summary": "Hoi hoi! 👋 A little update from Necoz! 😸 We've created our own organization here…",
+    "url": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
+    "canonicalUrl": "https://dev.to/necoz/necoz-has-a-new-home-on-dev-3454",
+    "publishedAt": "2026-11-08T11:50:29.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "devto",
+      "community",
+      "organization",
+      "news"
+    ],
+    "signals": {
+      "reactions": 101,
+      "comments": 51
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "necozhasanewhomeondev"
+  },
+  {
     "id": "b1aee24f929231f1",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1162,8 +1187,8 @@
       "ipados"
     ],
     "signals": {
-      "stars": 1612,
-      "forks": 327
+      "stars": 1655,
+      "forks": 332
     },
     "lang": "en",
     "weight": 90,

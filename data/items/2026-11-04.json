@@ -2270,7 +2270,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 99,
+      "reactions": 100,
       "comments": 47
     },
     "lang": "en",
@@ -2447,15 +2447,15 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "janestreet/agent_skills",
-    "summary": "Agent skills · ★ 1540",
+    "summary": "Agent skills · ★ 1693",
     "url": "https://github.com/janestreet/agent_skills",
     "canonicalUrl": "https://github.com/janestreet/agent_skills",
     "publishedAt": "2026-11-03T16:50:21.000Z",
     "fetchedAt": "2026-11-09T17:01:30.127Z",
     "tags": [],
     "signals": {
-      "stars": 1540,
-      "forks": 85
+      "stars": 1693,
+      "forks": 92
     },
     "lang": "en",
     "weight": 90,

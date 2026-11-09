@@ -1,5 +1,311 @@
 [
   {
+    "id": "921e093307119264",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "恐慌指数VIX波动率日内跌幅达21.0%，报20.25；标普500指数目前涨超2.3%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197107",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197107",
+    "publishedAt": "2026-11-09T18:45:13.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "恐慌指数vix波动率日内跌幅达210报2025标普500指数目前涨超23"
+  },
+  {
+    "id": "0627d20e6479ca32",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "summary": "",
+    "url": "https://meowdisplay.app/",
+    "canonicalUrl": "https://meowdisplay.app/",
+    "publishedAt": "2026-11-09T18:39:22.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 3,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnmeowdisplayisiphonemirroringbutinreverse"
+  },
+  {
+    "id": "6d4ffecd97f53fcf",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Where should investors bet on semiconductors? – Morgan Stanley",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669171-where-should-investors-bet-on-semiconductors-morgan-stanley?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669171-where-should-investors-bet-on-semiconductors-morgan-stanley?feed_item_type=news",
+    "publishedAt": "2026-11-09T18:35:22.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "smh",
+      "psi",
+      "amd",
+      "intc",
+      "nvda",
+      "mu"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "whereshouldinvestorsbetonsemiconductorsmorganstanley"
+  },
+  {
+    "id": "849269767f38af44",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "EVI Industries adds 33rd commercial laundry business with CLZ deal",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669169-evi-industries-adds-33rd-commercial-laundry-business-with-clz-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669169-evi-industries-adds-33rd-commercial-laundry-business-with-clz-deal?feed_item_type=news",
+    "publishedAt": "2026-11-09T18:34:26.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "evi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "eviindustriesadds33rdcommerciallaundrybusinesswithclzdeal"
+  },
+  {
+    "id": "57c2fccb3c5970cf",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Kaspi.kz outlines 3,000-store midterm aspiration while planning 300 partner grocery stores",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669172-kaspi-kz-outlines-3000-store-midterm-aspiration-while-planning-300-partner-grocery-stores?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669172-kaspi-kz-outlines-3000-store-midterm-aspiration-while-planning-300-partner-grocery-stores?feed_item_type=news",
+    "publishedAt": "2026-11-09T18:34:07.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "kspi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "kaspikzoutlines3000storemidtermaspirationwhileplanning300partnergrocerystores"
+  },
+  {
+    "id": "b056bd28d4d375e3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "summary": "The chip makers’ shares were posting big gains Monday — but those companies coul…",
+    "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T18:33:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "areamdandbroadcomtherealwinnersofthenvidiaspyscandal"
+  },
+  {
+    "id": "381249b183921a87",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Ferguson raises FY2026 net sales outlook to ~7% growth while guiding 9.6%-9.8% operating margin",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669170-ferguson-raises-fy2026-net-sales-outlook-to-7-percent-growth-while-guiding-9_6-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669170-ferguson-raises-fy2026-net-sales-outlook-to-7-percent-growth-while-guiding-9_6-percentminus?feed_item_type=news",
+    "publishedAt": "2026-11-09T18:32:32.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "ferg"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "fergusonraisesfy2026netsalesoutlookto7growthwhileguiding9698operatingmargin"
+  },
+  {
+    "id": "13a256b1d71299d2",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "NYMEX天然气期货涨超5.00%，现报3.627美元/百万英热单位。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197106",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197106",
+    "publishedAt": "2026-11-09T18:31:46.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "nymex天然气期货涨超500现报3627美元百万英热单位"
+  },
+  {
+    "id": "0abb5bbfb1be6e10",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月9日，中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出，当前乌克兰问题正迎来谈判解决的关键时刻，国际…",
+    "summary": "11月9日，中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出，当前乌克兰问题正迎来谈判解决的关键时刻，国际社会呼唤和平、鼓励和谈的呼声愈发强烈，近…",
+    "url": "https://wallstreetcn.com/livenews/3197105",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197105",
+    "publishedAt": "2026-11-09T18:30:54.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月9日中国常驻联合国副代表孙磊大使在安理会乌克兰问题公开会上发言指出当前乌克兰问题正迎来谈判解决的关键时刻国际"
+  },
+  {
+    "id": "419ea2360587b933",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "上期所原油期货2612合约夜盘收跌3.62%，报614.40元人民币/桶。 沪金夜盘收涨0.6%，沪银收涨0.61%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197104",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197104",
+    "publishedAt": "2026-11-09T18:30:18.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "goldc-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "上期所原油期货2612合约夜盘收跌362报61440元人民币桶沪金夜盘收涨06沪银收涨061"
+  },
+  {
+    "id": "a7f9a2d0b8590e41",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Too many men suffering in silence, national health report finds (Canada)",
+    "summary": "",
+    "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+    "canonicalUrl": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+    "publishedAt": "2026-11-09T18:27:58.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 12,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "toomanymensufferinginsilencenationalhealthreportfindscanada"
+  },
+  {
+    "id": "1994916b00b812c6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "ABB, SoftBank weigh China carve-out to salvage robotics deal - Bloomberg",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669167-abb-softbank-weigh-china-carve-out-to-salvage-robotics-deal-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669167-abb-softbank-weigh-china-carve-out-to-salvage-robotics-deal-bloomberg?feed_item_type=news",
+    "publishedAt": "2026-11-09T18:27:05.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "abbny",
+      "sftbf",
+      "sftby",
+      "abb:ca"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "abbsoftbankweighchinacarveouttosalvageroboticsdealbloomberg"
+  },
+  {
+    "id": "5bf6311e959f1250",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Think the bond market is broken? History says a massive turnaround could be coming.",
+    "summary": "Bond investors would do well to remember that it’s often darkest before the dawn…",
+    "url": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/think-the-bond-market-is-broken-history-says-a-massive-turnaround-could-be-coming-dfaae450?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T18:26:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thinkthebondmarketisbrokenhistorysaysamassiveturnaroundcouldbecoming"
+  },
+  {
+    "id": "e4e708f1c887473f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+    "summary": "",
+    "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "canonicalUrl": "https://www.infineon.com/press-release/2026/infpr202611-028",
+    "publishedAt": "2026-11-09T18:25:01.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 7,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "infineonmarksinnovationmilestonewith300mmpowersiliconcarbidewafer"
+  },
+  {
+    "id": "9079db2a58cc3130",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "英伟达的黄仁勋不再计划出席周一的Anthropic CEO论坛。（Business Insider）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197103",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197103",
+    "publishedAt": "2026-11-09T18:25:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英伟达的黄仁勋不再计划出席周一的anthropicceo论坛businessinsider"
+  },
+  {
     "id": "291bc24a268146d1",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +321,270 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "不想当管理者就用不好codingagentanthropic工程师长文谈agent管理实战"
+  },
+  {
+    "id": "4dd260b130b04e29",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Vanguard expands investor choice in proxy voting to all its U.S. equity index products",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669164-vanguard-expands-investor-choice-in-proxy-voting-to-all-its-us-equity-index-products?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669164-vanguard-expands-investor-choice-in-proxy-voting-to-all-its-us-equity-index-products?feed_item_type=news",
+    "publishedAt": "2026-11-09T18:22:48.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "vanguardexpandsinvestorchoiceinproxyvotingtoallitsusequityindexproducts"
+  },
+  {
+    "id": "3953f7346938e1c9",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美联储Barkin：如果每次美联储政策会议都能纳入整整两个月的经济数据，那将是一个优势。 当前政策利率可能处于中性水平或…",
+    "summary": "美联储Barkin：如果每次美联储政策会议都能纳入整整两个月的经济数据，那将是一个优势。",
+    "url": "https://wallstreetcn.com/livenews/3197102",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197102",
+    "publishedAt": "2026-11-09T18:21:18.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美联储barkin如果每次美联储政策会议都能纳入整整两个月的经济数据那将是一个优势当前政策利率可能处于中性水平或"
+  },
+  {
+    "id": "29e2e6a86d677cf7",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+    "summary": "Rising prices point to the Fed increasing borrowing costs before Christmas.",
+    "url": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T18:16:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hotusinflationhasntcooledoffrisingconsumerpricestokeepfedratehikeontrack"
+  },
+  {
+    "id": "70f5cf58b0fe2926",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "周一（11月9日），美联储隔夜逆回购协议（RRP）使用规模为2.52亿美元（交易对手3家），上个交易日报1.5亿美元。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197101",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197101",
+    "publishedAt": "2026-11-09T18:15:50.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "周一11月9日美联储隔夜逆回购协议rrp使用规模为252亿美元交易对手3家上个交易日报15亿美元"
+  },
+  {
+    "id": "5b0cc75cd4a897dd",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home …",
+    "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T18:11:00.000Z",
+    "fetchedAt": "2026-11-09T06:21:39.774Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "funeralhomesarefindingnewlifehostingweddingsandgolfoutingsasthetraditionalburialbusinessdiesout"
+  },
+  {
+    "id": "a118ff9103e97a9e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "His, mine or ours? I’m 53 and not sure how to handle merging finances with my long-term partner.",
+    "summary": "The ‘split’ you discuss should be more about estate planning than contemplating …",
+    "url": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/his-mine-or-ours-im-53-and-not-sure-how-to-handle-merging-finances-with-my-long-term-partner-4c34c914?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T18:08:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hismineoroursim53andnotsurehowtohandlemergingfinanceswithmylongtermpartner"
+  },
+  {
+    "id": "bdb47b6145d04818",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部拍卖六周期国债，得标利率3.990%，投标倍数2.59。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197097",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197097",
+    "publishedAt": "2026-11-09T18:03:02.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部拍卖六周期国债得标利率3990投标倍数259"
+  },
+  {
+    "id": "feead07a8e30554f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.627%（10月6日为4.932%、2006年以来最高），投标倍数2.…",
+    "summary": "美国财政部拍卖580亿美元三年期国债，得标利率4.627%（10月6日为4.932%、2006年以来最高），投标倍数2.53（前次为2.62）。",
+    "url": "https://wallstreetcn.com/livenews/3197096",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197096",
+    "publishedAt": "2026-11-09T18:02:18.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部拍卖580亿美元三年期国债得标利率462710月6日为49322006年以来最高投标倍数2"
+  },
+  {
+    "id": "bb2c7cd209a8b41e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a bro…",
+    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T18:00:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "wehadtheworstfightiwantmyhusbandtoretireat65butidontwanttolosehis280000salaryisthatunreasonable"
+  },
+  {
+    "id": "5e8260d801ed3855",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "扎克伯格：Muse Ember将成为最小模型。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197094",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197094",
+    "publishedAt": "2026-11-09T17:59:38.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "扎克伯格museember将成为最小模型"
+  },
+  {
+    "id": "b5662247746e3c3d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Our Smallest, Most Efficient Model: Muse Ember",
+    "summary": "",
+    "url": "https://research.meta.ai/blog/muse-ember",
+    "canonicalUrl": "https://research.meta.ai/blog/muse-ember",
+    "publishedAt": "2026-11-09T17:58:46.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 27,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "oursmallestmostefficientmodelmuseember"
+  },
+  {
+    "id": "07bce71777cbc2a8",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
+    "summary": "Several medical studies have found that people taking GLP-1 medications have an …",
+    "url": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T17:52:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ozempiczepboundandotherglp1drugshaveapossibleriskofvisionloss"
+  },
+  {
+    "id": "9a4dfdb17fd9bc6c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+    "summary": "",
+    "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+    "canonicalUrl": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385",
+    "publishedAt": "2026-11-09T17:42:55.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 105,
+      "comments": 75
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whenwillthisstoptheraspberrypi516gbsbcnowsellsfor385"
+  },
+  {
+    "id": "8e6b296716b2782f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
+    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T17:30:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
   },
   {
     "id": "189c3f3188e106ed",
@@ -331,6 +901,28 @@
     "titleKey": "明晟公司msci北欧国家指数涨08报40803点在十个板块中北欧金融板块涨幅最大军工股萨博公司涨57"
   },
   {
+    "id": "ad0caffecf040333",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50427934",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50427934",
+    "publishedAt": "2026-11-09T16:36:38.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 37,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhndbdelveopensourcedbclientmadewithrustandgpui"
+  },
+  {
     "id": "a34a646fd25cb2c8",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -461,8 +1053,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 62,
-      "comments": 42
+      "points": 243,
+      "comments": 145
     },
     "lang": "en",
     "weight": 92,

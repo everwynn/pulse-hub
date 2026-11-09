@@ -160,8 +160,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 60,
-      "comments": 27
+      "points": 86,
+      "comments": 33
     },
     "lang": "en",
     "weight": 92,
@@ -182,29 +182,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 48,
-      "comments": 11
+      "points": 137,
+      "comments": 52
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "magentasolarpanelsmaybeagrivoltaicscleveresttrickyet"
-  },
-  {
-    "id": "8e6b296716b2782f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
-    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T14:30:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
   },
   {
     "id": "4b182b0d23dd4993",
@@ -430,12 +413,29 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 463,
-      "comments": 82
+      "points": 599,
+      "comments": 95
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "foldepicpaperairplanes"
+  },
+  {
+    "id": "23289ebae2c7e8d7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "外资流入港股消费板块，但别着急抄底",
+    "summary": "恒生消费指数近两周上涨8.05%，李宁、蒙牛乳业、申洲国际集体涨超12%；不过近一个月港股通合计净流出303.88亿港元，说明这轮回流由外资主导，内资并未跟进。",
+    "url": "https://www.tmtpost.com/8198776.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198776.html",
+    "publishedAt": "2026-11-09T12:11:59.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "外资流入港股消费板块但别着急抄底"
   },
   {
     "id": "d118789c6b8f133e",
@@ -491,8 +491,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 124,
-      "comments": 27
+      "points": 161,
+      "comments": 33
     },
     "lang": "en",
     "weight": 92,
@@ -997,6 +997,48 @@
     "titleKey": "脚本ramaltman监视pc闲置内存然后发邮件给samaltman"
   },
   {
+    "id": "083492cd13bf76e8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+    "summary": "",
+    "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+    "canonicalUrl": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+    "publishedAt": "2026-11-09T07:04:25.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 445,
+      "comments": 339
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "isopus55nerfedthinkingpatternschangedonnovember3"
+  },
+  {
+    "id": "ce758d5b20d6d5ec",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
+    "summary": "最早量产的亲自泼冷水",
+    "url": "https://www.qbitai.com/2026/11/508629.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508629.html",
+    "publishedAt": "2026-11-09T07:02:36.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "智能车参考",
+      "L3"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "l3大撤退奔驰宝马官宣不玩了还没l2好用"
+  },
+  {
     "id": "329392c2763f50eb",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -1142,7 +1184,7 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 71
+      "replies": 73
     },
     "lang": "zh",
     "weight": 55,
@@ -1286,6 +1328,25 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "日本将减轻液化石油气与煤油使用的成本负担"
+  },
+  {
+    "id": "7e63a72f5c137d52",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+    "summary": "Worker不够了主管Agent还能自己招！",
+    "url": "https://www.qbitai.com/2026/11/508607.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508607.html",
+    "publishedAt": "2026-11-09T05:47:58.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "ai接管一家8万star开源公司写代码派任务查bug全包了"
   },
   {
     "id": "7619a9fb2302ca90",
@@ -1451,6 +1512,26 @@
     "titleKey": "cornerstonetotalreturnfundincdeclares01022dividend"
   },
   {
+    "id": "49d445de5917016a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+    "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
+    "url": "https://www.qbitai.com/2026/11/508603.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508603.html",
+    "publishedAt": "2026-11-09T05:09:23.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "资讯",
+      "基元律动"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "基元律动发布neohorse15flashpreviewagent模型rsi进入第二轮迭代"
+  },
+  {
     "id": "c4d42f6bae7b1534",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -1522,6 +1603,26 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "acritiqueofgpui"
+  },
+  {
+    "id": "2dacb3a159e06631",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
+    "summary": "“让人放心，把人放大。”",
+    "url": "https://www.qbitai.com/2026/11/508586.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508586.html",
+    "publishedAt": "2026-11-09T03:47:12.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [
+      "资讯",
+      "腾讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当ai在加速狂奔什么反而应该慢下来"
   },
   {
     "id": "21287f0850024adb",
@@ -1673,7 +1774,7 @@
       "健康"
     ],
     "signals": {
-      "replies": 111
+      "replies": 112
     },
     "lang": "zh",
     "weight": 55,
@@ -1737,7 +1838,7 @@
       "互联网"
     ],
     "signals": {
-      "replies": 70
+      "replies": 71
     },
     "lang": "zh",
     "weight": 55,
@@ -1779,7 +1880,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 111
+      "replies": 113
     },
     "lang": "zh",
     "weight": 55,
@@ -1878,23 +1979,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "itfeelslikehesquietlybuildingaseparatelifemyhusbandinherited500000butherefusestospenditonourhome"
-  },
-  {
-    "id": "5b0cc75cd4a897dd",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-    "summary": "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home …",
-    "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T00:00:00.000Z",
-    "fetchedAt": "2026-11-09T06:21:39.774Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "funeralhomesarefindingnewlifehostingweddingsandgolfoutingsasthetraditionalburialbusinessdiesout"
   },
   {
     "id": "b512cf63e64049d5",
@@ -2005,7 +2089,7 @@
       "Apple"
     ],
     "signals": {
-      "replies": 69
+      "replies": 70
     },
     "lang": "zh",
     "weight": 55,
