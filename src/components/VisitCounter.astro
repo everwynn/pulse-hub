@@ -2,15 +2,18 @@
 interface Props {
   site: 'station' | 'cs-lab' | 'lucky-hub' | 'pulse-hub' | 'repo-rank' | 'tech-radar';
   class?: string;
+  /** 全站数字前的限定词。门户页脚还有 6 站汇总，用「全站」会与汇总混淆，传「本站」区分 */
+  scopeLabel?: string;
 }
 
-const { site, class: className } = Astro.props;
+const { site, class: className, scopeLabel = '全站' } = Astro.props;
 ---
 
 <span
   class:list={['visit-counter', className]}
   data-visit-counter
   data-site={site}
+  data-scope-label={scopeLabel}
   title="匿名访问统计，不收集个人身份信息"
   hidden></span>
 
@@ -19,6 +22,7 @@ const { site, class: className } = Astro.props;
 
   const el = document.querySelector<HTMLElement>('[data-visit-counter]');
   const site = el?.dataset.site;
+  const scopeWord = el?.dataset.scopeLabel || '全站';
   const params = new URLSearchParams(location.search);
   const isDevOptIn = params.has('stats-dev');
 
@@ -56,7 +60,7 @@ const { site, class: className } = Astro.props;
       .then((data) => {
         if (!data || typeof data.page !== 'number' || data.page < 1) return;
         el.textContent =
-          `本页 ${format(data.page)} 次浏览 · 全站 ${format(data.site)} 次 · 近 30 天 ${format(data.d30)}`;
+          `本页 ${format(data.page)} 次浏览 · ${scopeWord} ${format(data.site)} 次 · 近 30 天 ${format(data.d30)}`;
         el.hidden = false;
       })
       .catch(() => {})
