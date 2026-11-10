@@ -1,5 +1,146 @@
 [
   {
+    "id": "beabce908289a0f8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "面向 AI Native 的数据库技术演进 | 腾讯云数据库 DBTalk",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/video/W1VS3q3eMAosMwrHb1k4",
+    "publishedAt": "2026-11-10T15:53:17.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "面向ainative的数据库技术演进腾讯云数据库dbtalk"
+  },
+  {
+    "id": "2b6be98fdcd7d3a5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Why stocks are falling and 10-year yields are climbing back near 5% after Tuesday’s inflation report",
+    "summary": "‘I don’t think they should be raising another 25 basis points,’ one portfolio ma…",
+    "url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T15:47:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "whystocksarefallingand10yearyieldsareclimbingbacknear5aftertuesdaysinflationreport"
+  },
+  {
+    "id": "3b716871421235db",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
+    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T15:45:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
+  },
+  {
+    "id": "7f8dbb57466ecc7a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "summary": "There’s already a demographic ‘run’ on Social Security.",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T15:30:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
+  },
+  {
+    "id": "d95c1b2b1c5b728c",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Elon Musk was half right in his comment last week about SoftBank backpedaling on a gas-turbine order",
+    "summary": "Elon Musk in a social-media post last week said that SoftBank “defaulted” on a g…",
+    "url": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/elon-musk-was-half-right-in-his-comment-last-week-about-softbank-back-pedaling-on-a-gas-turbine-order-c293d335?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T15:30:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "elonmuskwashalfrightinhiscommentlastweekaboutsoftbankbackpedalingonagasturbineorder"
+  },
+  {
+    "id": "52f49582cde6aaac",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "成本仅1/3！Meta 新模型 Muse Ember 硬刚 Claude Haiku 5.5",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Ou4l4aD7zvUzXWXsWJfY",
+    "publishedAt": "2026-11-10T15:22:09.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "成本仅13meta新模型museember硬刚claudehaiku55"
+  },
+  {
+    "id": "461bfdd3973e47a2",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "DeepSeek Harness 日活154万，官方开始给插件作者发Token：Agent 生态要靠开发者了",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Y7lTO7Q1M8oN5JhxhirK",
+    "publishedAt": "2026-11-10T15:20:56.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "deepseekharness日活154万官方开始给插件作者发tokenagent生态要靠开发者了"
+  },
+  {
+    "id": "1f01c321f942fc44",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Hardest Tarball?",
+    "summary": "",
+    "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+    "canonicalUrl": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+    "publishedAt": "2026-11-10T15:00:39.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 75,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thehardesttarball"
+  },
+  {
     "id": "4c37ee5c1e974668",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +158,103 @@
     "titleKey": "cloudflarekvinstant读取p99仅162毫秒写入一次却要01美元"
   },
   {
+    "id": "40c5a98bc9ad8c41",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Forget happy hour. ‘Money parties’ are having a moment.",
+    "summary": "There’s evidence showing that talking about finances with your friends can help …",
+    "url": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T14:58:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "forgethappyhourmoneypartiesarehavingamoment"
+  },
+  {
+    "id": "0a5d8994988a7a41",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "4000万失能老人背后，为何有笔至今算不平的照护账？",
+    "summary": "当各方力量形成合力，居家养老才能走出“叫好不叫座”的困局，让专业、有尊严的照护，真正走进每一个有需要的家庭。",
+    "url": "https://www.tmtpost.com/8200404.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200404.html",
+    "publishedAt": "2026-11-10T14:42:55.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "主编精选文章"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "4000万失能老人背后为何有笔至今算不平的照护账"
+  },
+  {
+    "id": "755928ba308f1a74",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "第三代国潮来袭：藏在桌面与旷野里的中国智造",
+    "summary": "硬核办公国货，在京东11.11迎来破圈时刻。",
+    "url": "https://www.tmtpost.com/8200254.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200254.html",
+    "publishedAt": "2026-11-10T14:42:28.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "第三代国潮来袭藏在桌面与旷野里的中国智造"
+  },
+  {
+    "id": "c5adbbbdea95d103",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Death Knell of Digital Search",
+    "summary": "",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+    "canonicalUrl": "https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search",
+    "publishedAt": "2026-11-10T14:41:36.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 21,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thedeathknellofdigitalsearch"
+  },
+  {
+    "id": "fc11c5e2246bf0b4",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
+    "summary": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。",
+    "url": "https://www.tmtpost.com/8200086.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200086.html",
+    "publishedAt": "2026-11-10T13:28:54.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "消研所周报",
+      "消研所 TRENDMAKERS",
+      "新消费",
+      "消费"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "亚朵集团三季度营收3429亿元酒店业务稳健发展欧莱雅进博会首发五大成果优衣库进博会聚焦可持续发展消研所周报"
+  },
+  {
     "id": "2c89e5383900c5e8",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +270,103 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "突破kubernetes的cpu抽象uber为异构服务器重新定义一核"
+  },
+  {
+    "id": "aaf8177e4d2d5fc9",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Polymarket says annualized revenue has topped $1.8 billion",
+    "summary": "Amid growth of its U.S.",
+    "url": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
+    "publishedAt": "2026-11-10T13:00:01.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "polymarketsaysannualizedrevenuehastopped18billion"
+  },
+  {
+    "id": "d29b32c7b3679d7c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Let over Lambda–50 Years of Lisp (2008)",
+    "summary": "",
+    "url": "https://letoverlambda.com/",
+    "canonicalUrl": "https://letoverlambda.com/",
+    "publishedAt": "2026-11-10T12:35:27.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 41,
+      "comments": 7
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "letoverlambda50yearsoflisp2008"
+  },
+  {
+    "id": "bb1845b7a7b5973e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "AlphaProof Code",
+    "summary": "",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "canonicalUrl": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "publishedAt": "2026-11-10T12:11:12.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 381,
+      "comments": 132
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "alphaproofcode"
+  },
+  {
+    "id": "ba265fe6458f9837",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Chinese Short Dramas Own Overseas Attention but Not Yet the Profits",
+    "summary": "Vertical micro-dramas from Chinese teams now command extreme mobile engagement a…",
+    "url": "https://www.tmtpost.com/8200340.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200340.html",
+    "publishedAt": "2026-11-10T12:00:06.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "chineseshortdramasownoverseasattentionbutnotyettheprofits"
+  },
+  {
+    "id": "29d9c09dd1a8cbc4",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Helping caregivers use AI in everyday life",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in fiv…",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "canonicalUrl": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "publishedAt": "2026-11-10T12:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "helpingcaregiversuseaiineverydaylife"
   },
   {
     "id": "7b2d8351c891cd87",
@@ -68,6 +403,40 @@
     "titleKey": "硅谷疯炒ai自我进化李飞飞jeffdean齐泼冷水无限加速不可信"
   },
   {
+    "id": "70e5197d58b48919",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "中国 Android 厂商开始要求开发者身份验证",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85848",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85848",
+    "publishedAt": "2026-11-10T11:18:31.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "中国android厂商开始要求开发者身份验证"
+  },
+  {
+    "id": "2cbe17e7d6387c1d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "生成式 AI 过度美化现实",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85847",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85847",
+    "publishedAt": "2026-11-10T11:04:32.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "生成式ai过度美化现实"
+  },
+  {
     "id": "ded4d2178d1cdf54",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -102,6 +471,63 @@
     "titleKey": "触觉也能token化蚂蚁灵波发布通用触觉模型把具身原生推进到机器人指尖"
   },
   {
+    "id": "922d9526620c4656",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "10x 工程师变成 100x 了，普通工程师还是那么普通",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503514",
+    "canonicalUrl": "https://www.oschina.net/news/503514",
+    "publishedAt": "2026-11-10T10:08:13.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "10x工程师变成100x了普通工程师还是那么普通"
+  },
+  {
+    "id": "261cccef57a0b496",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "等位超5000桌，餐饮排队王，为什么都爱开在高端商场？",
+    "summary": "最火餐饮扎堆开在万象城，商场图的不止是租金。",
+    "url": "https://www.tmtpost.com/8198486.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198486.html",
+    "publishedAt": "2026-11-10T10:07:58.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "等位超5000桌餐饮排队王为什么都爱开在高端商场"
+  },
+  {
+    "id": "603092e3249f5b1f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "猪肉不停降价，给了“云南猪王”更多磨练二代的机会",
+    "summary": "二代接班会不会提速?",
+    "url": "https://www.tmtpost.com/8198696.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198696.html",
+    "publishedAt": "2026-11-10T10:07:55.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "猪肉不停降价给了云南猪王更多磨练二代的机会"
+  },
+  {
     "id": "80d4bc4e387227f2",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +560,278 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "airbnb借助chronon将推荐延迟从两天缩短至秒级"
+  },
+  {
+    "id": "f742b62cd2a9aace",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85846",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85846",
+    "publishedAt": "2026-11-10T09:09:26.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "epicgames计划支持尽可能多的linux发行版"
+  },
+  {
+    "id": "0167fb66c99e0fde",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Queens Public library under ransomware attack e-borrowing suspended",
+    "summary": "",
+    "url": "https://connect.queenslibrary.org/",
+    "canonicalUrl": "https://connect.queenslibrary.org/",
+    "publishedAt": "2026-11-10T09:04:39.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 139,
+      "comments": 88
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "queenspubliclibraryunderransomwareattackeborrowingsuspended"
+  },
+  {
+    "id": "8cbe4e77a76f4232",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+    "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March…",
+    "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+    "publishedAt": "2026-11-10T09:01:37.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "softbankswingsto7billionlossafterusdatacenterhitandintelsharedecline"
+  },
+  {
+    "id": "b84c47464ca95349",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Closing the AI guidance gap in education",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on…",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "canonicalUrl": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "publishedAt": "2026-11-10T09:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "closingtheaiguidancegapineducation"
+  },
+  {
+    "id": "f084f6908d031600",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qOntology 本体工程平台开源版 v1.1.1 发布：完善项目详情与抽取任务管理，统一建模交互体验",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503510",
+    "canonicalUrl": "https://www.oschina.net/news/503510",
+    "publishedAt": "2026-11-10T08:39:17.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qontology本体工程平台开源版v111发布完善项目详情与抽取任务管理统一建模交互体验"
+  },
+  {
+    "id": "4b7a99be00c3072e",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+    "summary": "近亿元融资刚刚落袋",
+    "url": "https://www.qbitai.com/2026/11/509017.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509017.html",
+    "publishedAt": "2026-11-10T08:33:25.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "千比特整机",
+      "正元量子",
+      "超导量子计算"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从芯片到千比特整机超导量子计算还有一场硬仗"
+  },
+  {
+    "id": "afeca956f7769d08",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "幼儿园小学初中学龄人口已达到峰值",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85845",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85845",
+    "publishedAt": "2026-11-10T08:08:03.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "幼儿园小学初中学龄人口已达到峰值"
+  },
+  {
+    "id": "854b8c8b4b1d3868",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+    "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+    "url": "https://www.qbitai.com/2026/11/508996.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508996.html",
+    "publishedAt": "2026-11-10T07:57:45.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "蚂蚁灵波"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从一脑多机到一脑多手蚂蚁灵波开源lingbottouch触觉基础模型"
+  },
+  {
+    "id": "973324e89307e27f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+    "summary": "让每一次任务，都成为下一次进步的起点",
+    "url": "https://www.qbitai.com/2026/11/508998.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508998.html",
+    "publishedAt": "2026-11-10T07:56:29.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "openJiuwen"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "agent自演进驶入双轨时代openjiuwen首发ttse经验学习框架"
+  },
+  {
+    "id": "7ae4f782227d0d40",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+    "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+    "url": "https://www.qbitai.com/2026/11/508991.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508991.html",
+    "publishedAt": "2026-11-10T07:50:26.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "物原科技"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "成立四个月融资过亿美金tensorworld物原科技要跑通物理真实路线"
+  },
+  {
+    "id": "70e4d8eef1d2d1a4",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+    "summary": "加速东部城市型智算中心向E-AIDC演进",
+    "url": "https://www.qbitai.com/2026/11/508985.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508985.html",
+    "publishedAt": "2026-11-10T07:33:19.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "智算中心",
+      "达卯科技"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "达卯科技与浦东环保能源战略合作黎明智算中心算电协同平台启动"
+  },
+  {
+    "id": "99afca53a5756467",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "科学家在碲化锰观察到交替磁性证据",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85844",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85844",
+    "publishedAt": "2026-11-10T07:30:38.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "科学家在碲化锰观察到交替磁性证据"
+  },
+  {
+    "id": "19bbd1bced2b5079",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Token卷到触觉了！机器人终于有了通用手感",
+    "summary": "蚂蚁灵波开源LingBot-Touch",
+    "url": "https://www.qbitai.com/2026/11/508919.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508919.html",
+    "publishedAt": "2026-11-10T07:26:53.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "LingBot-Touch",
+      "具身智能",
+      "蚂蚁灵波"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "token卷到触觉了机器人终于有了通用手感"
+  },
+  {
+    "id": "401b917969aefae4",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "开源新生力：一群中学生登上 GOTC 主会场",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503507",
+    "canonicalUrl": "https://www.oschina.net/news/503507",
+    "publishedAt": "2026-11-10T07:26:47.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "开源新生力一群中学生登上gotc主会场"
   },
   {
     "id": "9325b05dfe0d8581",
@@ -296,6 +994,26 @@
     "titleKey": "农发行发行406天期债券规模50亿元发行利率12478预期13000投标倍数529倍边际倍数100"
   },
   {
+    "id": "ad2ed0c3b8e1ffed",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+    "summary": "作曲、拍片、3D建模一条龙全包圆",
+    "url": "https://www.qbitai.com/2026/11/508912.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508912.html",
+    "publishedAt": "2026-11-10T07:03:43.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "Claude"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "fable52首批实测来了网友opus突然不香了"
+  },
+  {
     "id": "80ce55ef15a0c79a",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -374,6 +1092,25 @@
     "titleKey": "ateaoutlinesrunwayintomid2028with200mherculesfacilityasittargetsmid2027hcvnda"
   },
   {
+    "id": "78c9fa2283c6ae85",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, ne…",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "canonicalUrl": "https://openai.com/index/ai-effect-on-freelance-work",
+    "publishedAt": "2026-11-10T07:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "workatthefrontieraiseffectonfreelancework"
+  },
+  {
     "id": "e204eb74ff431847",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -435,23 +1172,6 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "从路透社到linuxmagazineopenkylin30收获全球关注"
-  },
-  {
-    "id": "8cbe4e77a76f4232",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
-    "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March…",
-    "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-    "publishedAt": "2026-11-10T06:54:32.000Z",
-    "fetchedAt": "2026-11-10T07:14:07.981Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "softbankswingsto7billionnetlossinsecondquarterastechselloffweighsonresults"
   },
   {
     "id": "9fb98e768ec053a9",
@@ -524,8 +1244,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 92,
-      "comments": 19
+      "points": 560,
+      "comments": 197
     },
     "lang": "en",
     "weight": 92,
@@ -630,6 +1350,23 @@
     "titleKey": "江西机制电价竞价公示光伏量增价跌风电价格反涨0352元的光伏不是市场价是名额价"
   },
   {
+    "id": "cf7b13ec33393d6b",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "TSMC's October sales jump as global chip boom rolls on",
+    "summary": "TSMC reports its monthly sales figures for October on Tuesday.",
+    "url": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/10/tsmcs-october-sales-.html",
+    "publishedAt": "2026-11-10T05:42:42.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "tsmcsoctobersalesjumpasglobalchipboomrollson"
+  },
+  {
     "id": "09496b0f0c698b2e",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -726,6 +1463,27 @@
     "titleKey": "想做一套设备管理系统权限报表真的要自己写吗"
   },
   {
+    "id": "32fe32f28cade311",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[补送码] 我制作了 Mac 的活动追踪器「日影」",
+    "summary": "## 补送码 上一月在 V 站发的送码帖很快就被领完了，所以这次提供更多激活码：前 100 位可以领取永久激活码，100 位以后的留言可以领取有效期一年的激活码…",
+    "url": "https://www.v2ex.com/t/1255839",
+    "canonicalUrl": "https://www.v2ex.com/t/1255839",
+    "publishedAt": "2026-11-10T04:22:56.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 86
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "补送码我制作了mac的活动追踪器日影"
+  },
+  {
     "id": "faaeb1c6c1f3e2d3",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -765,23 +1523,6 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "2026开源行业解决方案创新赛总决赛评委阵容公布"
-  },
-  {
-    "id": "bb2c7cd209a8b41e",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a bro…",
-    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T03:38:00.000Z",
-    "fetchedAt": "2026-11-09T18:46:11.729Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "wehadtheworstfightiwantmyhusbandtoretireat65butidontwanttolosehis280000salaryisthatunreasonable"
   },
   {
     "id": "ecf3a45fddc32537",
@@ -836,11 +1577,35 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 59
+      "replies": 79
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "外企外包也许是大龄失业人员的最好归宿"
+  },
+  {
+    "id": "e9943ad01867dd86",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+    "summary": "速度提了，API价格降了",
+    "url": "https://www.qbitai.com/2026/11/508828.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/508828.html",
+    "publishedAt": "2026-11-10T02:48:22.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "Seedream 5.5",
+      "即梦",
+      "字节跳动",
+      "豆包"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "100轮图像编辑这道毙刷题新出的seedream55稳上来了"
   },
   {
     "id": "491548674c710ae5",
@@ -876,7 +1641,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 74
+      "replies": 116
     },
     "lang": "zh",
     "weight": 55,
@@ -897,7 +1662,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 85
+      "replies": 135
     },
     "lang": "zh",
     "weight": 55,
@@ -945,6 +1710,27 @@
     "titleKey": "ip2region3190发布数据更新logstash插件ci测试"
   },
   {
+    "id": "77a301edc0e3ac2c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[HyperAPI 中转站]新老用户们来领鸡蛋了，评论留 ID，送$10 体验额度",
+    "summary": "站点： https://hyperapi.cc QQ 交流群：1095326876",
+    "url": "https://www.v2ex.com/t/1255755",
+    "canonicalUrl": "https://www.v2ex.com/t/1255755",
+    "publishedAt": "2026-11-10T01:51:37.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 103
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "hyperapi中转站新老用户们来领鸡蛋了评论留id送10体验额度"
+  },
+  {
     "id": "43d10152f69cf606",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -959,11 +1745,32 @@
       "生活"
     ],
     "signals": {
-      "replies": 133
+      "replies": 145
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "突然想到个一直没有想的事情各位一般多久剪一次头发"
+  },
+  {
+    "id": "702e5c0ba03a09a4",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我是不是真的老年痴呆了？还是说被骗了？",
+    "summary": "年纪大了，想喷点香水遮老人味，朋友推荐了大卫杜夫冷水，说是一百多左右。",
+    "url": "https://www.v2ex.com/t/1255737",
+    "canonicalUrl": "https://www.v2ex.com/t/1255737",
+    "publishedAt": "2026-11-10T01:20:08.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 75
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我是不是真的老年痴呆了还是说被骗了"
   },
   {
     "id": "484c05602b06375a",
@@ -980,7 +1787,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 76
+      "replies": 100
     },
     "lang": "zh",
     "weight": 55,
@@ -1046,6 +1853,23 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "horiblepublickeytricks"
+  },
+  {
+    "id": "40ba6c12c1cac2ae",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Decision Models in Hugging Face",
+    "summary": "",
+    "url": "https://huggingface.co/blog/decision",
+    "canonicalUrl": "https://huggingface.co/blog/decision",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "decisionmodelsinhuggingface"
   },
   {
     "id": "cac485b54a8f7b07",
@@ -1184,6 +2008,23 @@
     "titleKey": "areamdandbroadcomtherealwinnersofthenvidiaspyscandal"
   },
   {
+    "id": "f7cd0876c0370b6c",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
+    "summary": "Securitize saw growth in tokenization last quarter and announced its expansion i…",
+    "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
+    "publishedAt": "2026-11-09T21:24:13.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "tokenizationplatformsecuritizegains10postmarketonq3resultsmoveintoassetbackedfinance"
+  },
+  {
     "id": "5d6df7318345304c",
     "sourceId": "google-research",
     "sourceName": "Google Research",
@@ -1224,6 +2065,23 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "uspsnowoffersofficialzipcodeboundarypolygons"
+  },
+  {
+    "id": "34c9eca71c528830",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliabil…",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "canonicalUrl": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "publishedAt": "2026-11-09T19:51:47.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "geminirobotics25acceleratesrealworldgeneraldexterity"
   },
   {
     "id": "628069c68754a919",
@@ -1736,8 +2594,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 469,
-      "comments": 741
+      "points": 797,
+      "comments": 929
     },
     "lang": "en",
     "weight": 92,
@@ -1823,23 +2681,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "whenwillthisstoptheraspberrypi516gbsbcnowsellsfor385"
-  },
-  {
-    "id": "8e6b296716b2782f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
-    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T17:30:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
   },
   {
     "id": "189c3f3188e106ed",
@@ -2255,23 +3096,6 @@
     "titleKey": "千问办公20发布首个支持多人与agent协作的teamagent来了"
   },
   {
-    "id": "017e017a0e09209d",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Why renters are obsessed with these $300 ‘boneless couches’",
-    "summary": "Black Friday could be the perfect time to buy one.",
-    "url": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T16:26:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "whyrentersareobsessedwiththese300bonelesscouches"
-  },
-  {
     "id": "ce390d2e29649269",
     "sourceId": "devto",
     "sourceName": "DEV Community",
@@ -2289,8 +3113,8 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 88,
-      "comments": 15
+      "reactions": 100,
+      "comments": 20
     },
     "lang": "en",
     "weight": 60,

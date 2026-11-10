@@ -112,6 +112,28 @@
     "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
   },
   {
+    "id": "b3c5f5ba668e9059",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Taking another shot at the cheap IP camera, part 2",
+    "summary": "",
+    "url": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/",
+    "canonicalUrl": "https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2",
+    "publishedAt": "2026-11-09T14:40:42.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 48,
+      "comments": 20
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "takinganothershotatthecheapipcamerapart2"
+  },
+  {
     "id": "294f6973ce6f5305",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -1625,8 +1647,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 3110,
-      "forks": 1250
+      "stars": 4393,
+      "forks": 1704
     },
     "lang": "en",
     "weight": 90,

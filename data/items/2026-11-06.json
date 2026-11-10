@@ -600,8 +600,8 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 108,
-      "comments": 70
+      "reactions": 115,
+      "comments": 74
     },
     "lang": "en",
     "weight": 60,
@@ -992,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1970",
+    "summary": "JavaScript · ★ 2003",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -1001,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1970,
-      "forks": 1063
+      "stars": 2003,
+      "forks": 1083
     },
     "lang": "en",
     "weight": 90,
@@ -2335,8 +2335,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 130,
-      "comments": 75
+      "reactions": 132,
+      "comments": 76
     },
     "lang": "en",
     "weight": 60,
@@ -2684,8 +2684,8 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 140,
-      "comments": 26
+      "reactions": 142,
+      "comments": 28
     },
     "lang": "en",
     "weight": 60,
@@ -2792,7 +2792,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "jamesondh/chimera-vocal-synth",
-    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1329",
+    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1536",
     "url": "https://github.com/jamesondh/chimera-vocal-synth",
     "canonicalUrl": "https://github.com/jamesondh/chimera-vocal-synth",
     "publishedAt": "2026-11-05T19:10:42.000Z",
@@ -2801,8 +2801,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1329,
-      "forks": 153
+      "stars": 1536,
+      "forks": 172
     },
     "lang": "en",
     "weight": 90,
@@ -3221,8 +3221,8 @@
       "humor"
     ],
     "signals": {
-      "stars": 1520,
-      "forks": 43
+      "stars": 1738,
+      "forks": 50
     },
     "lang": "en",
     "weight": 90,

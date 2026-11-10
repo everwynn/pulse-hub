@@ -1,5 +1,27 @@
 [
   {
+    "id": "170996092d1cb447",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Ghanaian street games you can play in the browser",
+    "summary": "",
+    "url": "https://www.ghanastreetgames.com/",
+    "canonicalUrl": "https://www.ghanastreetgames.com/",
+    "publishedAt": "2026-11-08T15:31:52.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 73,
+      "comments": 13
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnghanaianstreetgamesyoucanplayinthebrowser"
+  },
+  {
     "id": "5d19d9c597e02c77",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -654,6 +676,28 @@
     "titleKey": "旷视的十五岁不再等ipo先谈扭亏"
   },
   {
+    "id": "a3087548d8949450",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+    "summary": "",
+    "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+    "canonicalUrl": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+    "publishedAt": "2026-11-08T12:07:17.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 73,
+      "comments": 27
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "netbsd11desktoponaraspberrypi4"
+  },
+  {
     "id": "9d19309db8b496cd",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -709,8 +753,8 @@
       "news"
     ],
     "signals": {
-      "reactions": 109,
-      "comments": 61
+      "reactions": 121,
+      "comments": 65
     },
     "lang": "en",
     "weight": 60,
@@ -1187,8 +1231,8 @@
       "ipados"
     ],
     "signals": {
-      "stars": 2117,
-      "forks": 407
+      "stars": 2327,
+      "forks": 440
     },
     "lang": "en",
     "weight": 90,
