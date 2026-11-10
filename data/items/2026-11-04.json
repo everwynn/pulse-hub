@@ -1011,7 +1011,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 235,
+      "reactions": 237,
       "comments": 207
     },
     "lang": "en",
@@ -1675,8 +1675,8 @@
       "pngtuber"
     ],
     "signals": {
-      "stars": 1355,
-      "forks": 143
+      "stars": 1424,
+      "forks": 148
     },
     "lang": "en",
     "weight": 90,
@@ -2270,8 +2270,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 100,
-      "comments": 47
+      "reactions": 101,
+      "comments": 54
     },
     "lang": "en",
     "weight": 60,
@@ -2712,7 +2712,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 56,
+      "reactions": 57,
       "comments": 10
     },
     "lang": "en",

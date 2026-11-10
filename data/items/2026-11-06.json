@@ -600,7 +600,7 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 104,
+      "reactions": 108,
       "comments": 70
     },
     "lang": "en",
@@ -992,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 1924",
+    "summary": "JavaScript · ★ 1970",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -1001,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1924,
-      "forks": 1032
+      "stars": 1970,
+      "forks": 1063
     },
     "lang": "en",
     "weight": 90,
@@ -2684,7 +2684,7 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 137,
+      "reactions": 140,
       "comments": 26
     },
     "lang": "en",
@@ -2785,6 +2785,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "模型之外腾讯还在补什么"
+  },
+  {
+    "id": "f3a9676fbfb57ffd",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "jamesondh/chimera-vocal-synth",
+    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1329",
+    "url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "canonicalUrl": "https://github.com/jamesondh/chimera-vocal-synth",
+    "publishedAt": "2026-11-05T19:10:42.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 1329,
+      "forks": 153
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "jamesondhchimeravocalsynth"
   },
   {
     "id": "1ef3ca28fbdc166d",
@@ -3178,6 +3200,33 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "索尼集团推出一款售价60美元的廉价有线耳机mdr3r于周四上市发售其灵感源自索尼在1979年随第一代walkman"
+  },
+  {
+    "id": "f3b818b5763707b0",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "IainKay/ram-altman",
+    "summary": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to t…",
+    "url": "https://github.com/IainKay/ram-altman",
+    "canonicalUrl": "https://github.com/IainKay/ram-altman",
+    "publishedAt": "2026-11-05T16:16:41.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Shell",
+      "bash",
+      "cron",
+      "dram",
+      "email",
+      "humor"
+    ],
+    "signals": {
+      "stars": 1520,
+      "forks": 43
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "iainkayramaltman"
   },
   {
     "id": "fc02656ce6d774a4",

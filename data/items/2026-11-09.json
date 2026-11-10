@@ -112,23 +112,6 @@
     "titleKey": "mylifecouldbecutshortim55marriedandhaveabraintumorshouldisplashoutona210000porsche"
   },
   {
-    "id": "bf5c4e5af26433f0",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-    "summary": "The fallout from the board’s new investigation could become “a longer-lasting pr…",
-    "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T14:45:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "asnvidiasstockfallshereswhatwallstreethastosayaboutthejensenhuangscandal"
-  },
-  {
     "id": "294f6973ce6f5305",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -326,6 +309,25 @@
     "titleKey": "世界大城市都在沉降"
   },
   {
+    "id": "42d1fc89c9a70048",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infra…",
+    "url": "https://openai.com/index/control-room",
+    "canonicalUrl": "https://openai.com/index/control-room",
+    "publishedAt": "2026-11-09T13:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Safety"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "controlroomacentralsystemtotrackandstopmodelworkloadsacrossourresearchinfrastructure"
+  },
+  {
     "id": "0e7132ebc8b5e6b8",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -341,6 +343,25 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "得票最高的功能终于来了opentofu开始内置代码检查"
+  },
+  {
+    "id": "5ef62403f5511eb0",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "ModStartCMS v12.0.1 修复并发恢复报错，兼容严格模式零日期，动态适配表前缀。",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503493",
+    "canonicalUrl": "https://www.oschina.net/news/503493",
+    "publishedAt": "2026-11-09T12:50:32.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "modstartcmsv1201修复并发恢复报错兼容严格模式零日期动态适配表前缀"
   },
   {
     "id": "a5280442b7b6da41",
@@ -403,7 +424,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "Fold Epic Paper Airplanes",
+    "title": "Foldable Flight: The Best Paper Airplanes",
     "summary": "",
     "url": "https://www.foldableflight.com",
     "canonicalUrl": "https://www.foldableflight.com/",
@@ -413,12 +434,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 599,
-      "comments": 95
+      "points": 954,
+      "comments": 146
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "foldepicpaperairplanes"
+    "titleKey": "foldableflightthebestpaperairplanes"
   },
   {
     "id": "23289ebae2c7e8d7",
@@ -940,6 +961,42 @@
     "titleKey": "优化及缺陷修复开源ai无代码平台nocobase"
   },
   {
+    "id": "bb3ffdb74c4f3234",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to…",
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "canonicalUrl": "https://openai.com/index/coderabbit-codex-daybreak",
+    "publishedAt": "2026-11-09T08:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "coderabbitscalesagenticsoftwaredevelopmentandships20xmore"
+  },
+  {
+    "id": "35a17e4e180f8ada",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawing…",
+    "url": "https://openai.com/index/kuken",
+    "canonicalUrl": "https://openai.com/index/kuken",
+    "publishedAt": "2026-11-09T08:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "kukenindustriessearches70yearsofdrawingsinminutes"
+  },
+  {
     "id": "50f383e95eacc218",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -954,7 +1011,7 @@
       "教育"
     ],
     "signals": {
-      "replies": 103
+      "replies": 150
     },
     "lang": "zh",
     "weight": 55,
@@ -978,6 +1035,48 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "gotc2026能让你动手实操的6个共建活动"
+  },
+  {
+    "id": "4243e078e66b72d9",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我做的收费 SSH 客户端 Termark，被人 1:1 复刻并开源了",
+    "summary": "很久没来 V 站了，今天搜「 gpui 」想学点新东西，点开第一个结果，发现这个项目和我做的 SSH 客户端 Termark ，在界面布局、功能设计、交互方式，…",
+    "url": "https://www.v2ex.com/t/1255590",
+    "canonicalUrl": "https://www.v2ex.com/t/1255590",
+    "publishedAt": "2026-11-09T07:49:10.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 84
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我做的收费ssh客户端termark被人11复刻并开源了"
+  },
+  {
+    "id": "67b258e98b897caa",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "工作以及求职解惑",
+    "summary": "背景： 我们公司现在全面推 AI ，前段时间裁了几个人，目前只剩 5 个主力开发。",
+    "url": "https://www.v2ex.com/t/1255587",
+    "canonicalUrl": "https://www.v2ex.com/t/1255587",
+    "publishedAt": "2026-11-09T07:44:34.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "求职"
+    ],
+    "signals": {
+      "replies": 65
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "工作以及求职解惑"
   },
   {
     "id": "49001fbd81a02cf6",
@@ -1512,6 +1611,28 @@
     "titleKey": "cornerstonetotalreturnfundincdeclares01022dividend"
   },
   {
+    "id": "edf4b8d60a5965a5",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "huamidev/GestaltX",
+    "summary": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese…",
+    "url": "https://github.com/huamidev/GestaltX",
+    "canonicalUrl": "https://github.com/huamidev/GestaltX",
+    "publishedAt": "2026-11-09T05:15:48.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Swift"
+    ],
+    "signals": {
+      "stars": 3110,
+      "forks": 1250
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "huamidevgestaltx"
+  },
+  {
     "id": "49d445de5917016a",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -2035,23 +2156,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "imnotconvincedtheaibubbleexists"
-  },
-  {
-    "id": "cac485b54a8f7b07",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
-    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-08T23:35:00.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
   },
   {
     "id": "5a5e6c01cc01b5ea",

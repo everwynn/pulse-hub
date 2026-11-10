@@ -508,7 +508,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "tangerineturtle1/NX2navi",
-    "summary": "C · ★ 2177",
+    "summary": "C · ★ 2550",
     "url": "https://github.com/tangerineturtle1/NX2navi",
     "canonicalUrl": "https://github.com/tangerineturtle1/NX2navi",
     "publishedAt": "2026-11-07T10:01:23.000Z",
@@ -517,8 +517,8 @@
       "C"
     ],
     "signals": {
-      "stars": 2177,
-      "forks": 129
+      "stars": 2550,
+      "forks": 168
     },
     "lang": "en",
     "weight": 90,
@@ -1778,5 +1778,27 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "cloudflare与voidzero联合推出tsrs由ai生成的typescript编译器rust移植版"
+  },
+  {
+    "id": "9d20629f909cba9d",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "DIYgod/pinky",
+    "summary": "Let AI agents use your phone, with you in the loop.",
+    "url": "https://github.com/DIYgod/pinky",
+    "canonicalUrl": "https://github.com/DIYgod/pinky",
+    "publishedAt": "2026-11-06T16:53:14.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Go"
+    ],
+    "signals": {
+      "stars": 1539,
+      "forks": 165
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "diygodpinky"
   }
 ]

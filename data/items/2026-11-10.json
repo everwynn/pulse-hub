@@ -1,5 +1,1272 @@
 [
   {
+    "id": "4c37ee5c1e974668",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Cloudflare KV Instant：读取 p99 仅 1.62 毫秒，写入一次却要 0.1 美元",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/YrPwJgFYyBSAmJE4hJAB?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/YrPwJgFYyBSAmJE4hJAB",
+    "publishedAt": "2026-11-10T15:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "cloudflarekvinstant读取p99仅162毫秒写入一次却要01美元"
+  },
+  {
+    "id": "2c89e5383900c5e8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "突破 Kubernetes 的 CPU 抽象，Uber 为异构服务器重新定义“一核”",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/STFszc8JxPkXGeV9QRH3",
+    "publishedAt": "2026-11-10T13:27:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "突破kubernetes的cpu抽象uber为异构服务器重新定义一核"
+  },
+  {
+    "id": "7b2d8351c891cd87",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "openJiuwen首发Agent Device Foundation，重新定义Agent与物理世界的交互方式",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/dLF01VxLUZpLX40Wmlv7",
+    "publishedAt": "2026-11-10T11:56:55.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "openjiuwen首发agentdevicefoundation重新定义agent与物理世界的交互方式"
+  },
+  {
+    "id": "1c576041021f9c21",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "硅谷疯炒 AI 自我进化，李飞飞、Jeff Dean 齐泼冷水：无限加速不可信",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/mZlISiZL9c1eurrsZRpo",
+    "publishedAt": "2026-11-10T11:28:43.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "硅谷疯炒ai自我进化李飞飞jeffdean齐泼冷水无限加速不可信"
+  },
+  {
+    "id": "ded4d2178d1cdf54",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/sBjhhysFKZibZpXQZEGy",
+    "publishedAt": "2026-11-10T11:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "anthropic重做源代码管理系统提交量增长12倍传统架构开始失效"
+  },
+  {
+    "id": "a96fba00e42e54b8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "触觉也能 Token 化！蚂蚁灵波发布通用触觉模型，把“具身原生”推进到机器人指尖",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/W7VPoeNBPX4y2u72WAGM",
+    "publishedAt": "2026-11-10T10:40:29.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "触觉也能token化蚂蚁灵波发布通用触觉模型把具身原生推进到机器人指尖"
+  },
+  {
+    "id": "80d4bc4e387227f2",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "ADD 资产驱动开发：让 AI Coding 懂业务、守规范、稳架构、实现端到端交付｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/rsMuS4cuc2ir68ulGgEs",
+    "publishedAt": "2026-11-10T10:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "add资产驱动开发让aicoding懂业务守规范稳架构实现端到端交付aicon北京"
+  },
+  {
+    "id": "e5d90408f10c4fb6",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Airbnb 借助 Chronon 将推荐延迟从两天缩短至秒级",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/yuRNB72KsEbjGYSkV7FY?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/yuRNB72KsEbjGYSkV7FY",
+    "publishedAt": "2026-11-10T09:11:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "airbnb借助chronon将推荐延迟从两天缩短至秒级"
+  },
+  {
+    "id": "9325b05dfe0d8581",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "英飞凌在Tradegate上的股价较XETRA收盘价上涨5.6%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197493",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197493",
+    "publishedAt": "2026-11-10T07:14:03.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英飞凌在tradegate上的股价较xetra收盘价上涨56"
+  },
+  {
+    "id": "3784159f38aa228b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "外交部：新一轮中美大熊猫合作将推进全球生物多样性保护。（央视新闻）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197492",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197492",
+    "publishedAt": "2026-11-10T07:13:17.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "外交部新一轮中美大熊猫合作将推进全球生物多样性保护央视新闻"
+  },
+  {
+    "id": "57400a5f4054b48b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "沃达丰上调2027财年调整后EBITDA及调整后自由现金流预期。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197490",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197490",
+    "publishedAt": "2026-11-10T07:12:48.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "沃达丰上调2027财年调整后ebitda及调整后自由现金流预期"
+  },
+  {
+    "id": "bfcfbd689497e14d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "第九届中国国际进口博览会11月10日闭幕，按一年计意向成交额854.5亿美元，比上届增长2.3%，创历史新高。（新华社）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197489",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197489",
+    "publishedAt": "2026-11-10T07:11:31.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "第九届中国国际进口博览会11月10日闭幕按一年计意向成交额8545亿美元比上届增长23创历史新高新华社"
+  },
+  {
+    "id": "10b3811d1bbfc8c4",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "农发行发行7年期债券，规模20亿元，发行利率1.5280%，预期1.5000%，投标倍数4.59倍，边际倍数6.00倍。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3197487",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197487",
+    "publishedAt": "2026-11-10T07:10:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "bond-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "农发行发行7年期债券规模20亿元发行利率15280预期15000投标倍数459倍边际倍数600倍"
+  },
+  {
+    "id": "9f224224dca389d3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "从国务院国资委获悉，我国西北地区海拔最高的抽水蓄能电站——青海德令哈60万千瓦抽水蓄能电站正式开工建设。电站位于青海海西…",
+    "summary": "从国务院国资委获悉，我国西北地区海拔最高的抽水蓄能电站——青海德令哈60万千瓦抽水蓄能电站正式开工建设。",
+    "url": "https://wallstreetcn.com/livenews/3197486",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197486",
+    "publishedAt": "2026-11-10T07:07:33.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从国务院国资委获悉我国西北地区海拔最高的抽水蓄能电站青海德令哈60万千瓦抽水蓄能电站正式开工建设电站位于青海海西"
+  },
+  {
+    "id": "a097c09524f2418f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "农发行发行2年期债券，规模40亿元，发行利率1.3512%，预期1.3700%，投标倍数3.24倍，边际倍数2.67倍；…",
+    "summary": "农发行发行2年期债券，规模40亿元，发行利率1.3512%，预期1.3700%，投标倍数3.24倍，边际倍数2.67倍； 农发行发行2年期债券，规模20亿元，发…",
+    "url": "https://wallstreetcn.com/livenews/3197483",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197483",
+    "publishedAt": "2026-11-10T07:06:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "bond-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "农发行发行2年期债券规模40亿元发行利率13512预期13700投标倍数324倍边际倍数267倍"
+  },
+  {
+    "id": "bec58fa371a038a6",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "农发行发行406天期债券，规模50亿元，发行利率1.2478%，预期1.3000%，投标倍数5.29倍，边际倍数1.00…",
+    "summary": "农发行发行406天期债券，规模50亿元，发行利率1.2478%，预期1.3000%，投标倍数5.29倍，边际倍数1.00倍。",
+    "url": "https://wallstreetcn.com/livenews/3197481",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197481",
+    "publishedAt": "2026-11-10T07:04:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "bond-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "农发行发行406天期债券规模50亿元发行利率12478预期13000投标倍数529倍边际倍数100"
+  },
+  {
+    "id": "80ce55ef15a0c79a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Honda Motor GAAP EPS of ¥132.75, revenue of ¥12037.66B; updates FY2027 outlook",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669512-honda-motor-gaap-eps-of-13275-revenue-of-1203766b-updates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669512-honda-motor-gaap-eps-of-13275-revenue-of-1203766b-updates-fy2027-outlook?feed_item_type=news",
+    "publishedAt": "2026-11-10T07:03:24.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hmc",
+      "hnda:ca",
+      "hndaf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "hondamotorgaapepsof13275revenueof1203766bupdatesfy2027outlook"
+  },
+  {
+    "id": "6e2913019741cc01",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "国际电工委员会（IEC）近日正式发布《激光显示 第5-8部分：光栅扫描激光显示的扫描特性测试方法》国际标准，由我国专家担…",
+    "summary": "国际电工委员会（IEC）近日正式发布《激光显示 第5-8部分：光栅扫描激光显示的扫描特性测试方法》国际标准，由我国专家担任项目负责人，联合比利时、美国、日本等国…",
+    "url": "https://wallstreetcn.com/livenews/3197480",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197480",
+    "publishedAt": "2026-11-10T07:03:23.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "国际电工委员会iec近日正式发布激光显示第58部分光栅扫描激光显示的扫描特性测试方法国际标准由我国专家担"
+  },
+  {
+    "id": "c96248fa11d9f4fe",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月10日，武汉1宗宅地出让，土地出让面积45491.33㎡（合68.24亩），规划建筑面积109200㎡，容积率2.…",
+    "summary": "11月10日，武汉1宗宅地出让，土地出让面积45491.33㎡（合68.24亩），规划建筑面积109200㎡，容积率2.4，起始价6.8亿元，起始楼面价6227…",
+    "url": "https://wallstreetcn.com/livenews/3197478",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3197478",
+    "publishedAt": "2026-11-10T07:02:58.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月10日武汉1宗宅地出让土地出让面积4549133合6824亩规划建筑面积109200容积率2"
+  },
+  {
+    "id": "a35a3b4f60765ecd",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Atea outlines runway into mid-2028 with $200M Hercules facility as it targets mid-2027 HCV NDA",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669511-atea-outlines-runway-into-midminus-2028-with-200m-hercules-facility-as-it-targets-midminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669511-atea-outlines-runway-into-midminus-2028-with-200m-hercules-facility-as-it-targets-midminus?feed_item_type=news",
+    "publishedAt": "2026-11-10T07:01:40.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "avir"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "ateaoutlinesrunwayintomid2028with200mherculesfacilityasittargetsmid2027hcvnda"
+  },
+  {
+    "id": "e204eb74ff431847",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "SoftBank Group GAAP EPS of -¥136.83, revenue of ¥4235.04B",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669510-softbank-group-gaap-eps-of-13683-revenue-of-423504b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669510-softbank-group-gaap-eps-of-13683-revenue-of-423504b?feed_item_type=news",
+    "publishedAt": "2026-11-10T06:58:29.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "sftby",
+      "sftb:ca",
+      "sftbf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "softbankgroupgaapepsof13683revenueof423504b"
+  },
+  {
+    "id": "4f594b6d37a978e2",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Michael Burry trims Caterpillar bearish bet after puts nearly quadruple",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669480-michael-burry-trims-caterpillar-bearish-bet-after-puts-nearly-quadruple?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669480-michael-burry-trims-caterpillar-bearish-bet-after-puts-nearly-quadruple?feed_item_type=news",
+    "publishedAt": "2026-11-10T06:58:13.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "cat",
+      "smh",
+      "orcl",
+      "met",
+      "pltr"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "michaelburrytrimscaterpillarbearishbetafterputsnearlyquadruple"
+  },
+  {
+    "id": "474e4adfba861448",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "从路透社到 Linux Magazine：openKylin 3.0 收获全球关注",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503505",
+    "canonicalUrl": "https://www.oschina.net/news/503505",
+    "publishedAt": "2026-11-10T06:54:42.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "从路透社到linuxmagazineopenkylin30收获全球关注"
+  },
+  {
+    "id": "8cbe4e77a76f4232",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+    "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March…",
+    "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+    "publishedAt": "2026-11-10T06:54:32.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "softbankswingsto7billionnetlossinsecondquarterastechselloffweighsonresults"
+  },
+  {
+    "id": "9fb98e768ec053a9",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Life360 lifts full-year revenue outlook to $665M-$681M while extending U.S. price changes and scaling ads",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669509-life360-lifts-full-year-revenue-outlook-to-665m-681m-while-extending-u-s-price-changes-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669509-life360-lifts-full-year-revenue-outlook-to-665m-681m-while-extending-u-s-price-changes-and?feed_item_type=news",
+    "publishedAt": "2026-11-10T06:51:48.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "lif",
+      "lifx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "life360liftsfullyearrevenueoutlookto665m681mwhileextendinguspricechangesandscalingads"
+  },
+  {
+    "id": "619d15e69b10f13c",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Greystone Housing Impact GAAP EPS of $0.09 misses by $0.02, revenue of $21.95M",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4669508-greystone-housing-impact-gaap-eps-of-009-misses-by-002-revenue-of-2195m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4669508-greystone-housing-impact-gaap-eps-of-009-misses-by-002-revenue-of-2195m?feed_item_type=news",
+    "publishedAt": "2026-11-10T06:49:02.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "ghi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "greystonehousingimpactgaapepsof009missesby002revenueof2195m"
+  },
+  {
+    "id": "c61984e552c2d4ad",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85843",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85843",
+    "publishedAt": "2026-11-10T06:35:14.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "fda警告glp1减肥药可能增加突然失明风险"
+  },
+  {
+    "id": "16e797057530d5cd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+    "summary": "",
+    "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+    "canonicalUrl": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider",
+    "publishedAt": "2026-11-10T06:01:08.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 92,
+      "comments": 19
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "amazonsavesmillionsbyreplacingsonnet46withstrandsdecider"
+  },
+  {
+    "id": "73cf89128ef03674",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "“十五五”把氢能写进规划，企业却在等一张跑不通的网，制造、储运、消纳三本账，到底谁来买单？",
+    "summary": "氢能产业化卡在储运短板与标准缺位两大环节。",
+    "url": "https://www.tmtpost.com/8198944.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198944.html",
+    "publishedAt": "2026-11-10T06:01:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "十五五把氢能写进规划企业却在等一张跑不通的网制造储运消纳三本账到底谁来买单"
+  },
+  {
+    "id": "d10c851b8efa4e4d",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "300 元卖掉你的脸，下一秒就成为 AI 短剧主角",
+    "summary": "那张脸一旦离开镜头，去向就不再由她们决定。",
+    "url": "https://www.tmtpost.com/8199587.html",
+    "canonicalUrl": "https://www.tmtpost.com/8199587.html",
+    "publishedAt": "2026-11-10T05:56:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "300元卖掉你的脸下一秒就成为ai短剧主角"
+  },
+  {
+    "id": "cc82eb43401ade02",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Mathematicians Are Like Luddites",
+    "summary": "",
+    "url": "https://alok.blog/luddite/",
+    "canonicalUrl": "https://alok.blog/luddite",
+    "publishedAt": "2026-11-10T05:52:38.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 11,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "mathematiciansarelikeluddites"
+  },
+  {
+    "id": "3ff1831069ca88e6",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "黄仁勋的危机，英伟达的软肋",
+    "summary": "英伟达不能只有黄仁勋。",
+    "url": "https://www.tmtpost.com/8199278.html",
+    "canonicalUrl": "https://www.tmtpost.com/8199278.html",
+    "publishedAt": "2026-11-10T05:51:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "黄仁勋的危机英伟达的软肋"
+  },
+  {
+    "id": "4b58a52f42f07e74",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "江西机制电价竞价公示，光伏量增价跌，风电价格反涨？0.352元的光伏不是市场价，是名额价",
+    "summary": "江西新能源竞价出清价反映拥挤度而非真实市场电价。",
+    "url": "https://www.tmtpost.com/8198942.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198942.html",
+    "publishedAt": "2026-11-10T05:47:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "江西机制电价竞价公示光伏量增价跌风电价格反涨0352元的光伏不是市场价是名额价"
+  },
+  {
+    "id": "09496b0f0c698b2e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "上海戴家小妹，31年前创立的公司市值1.8万亿",
+    "summary": "黄仁勋提前点头。",
+    "url": "https://www.tmtpost.com/8199571.html",
+    "canonicalUrl": "https://www.tmtpost.com/8199571.html",
+    "publishedAt": "2026-11-10T05:40:49.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "上海戴家小妹31年前创立的公司市值18万亿"
+  },
+  {
+    "id": "b72a7286c7399c63",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "与电建、能建等多家央企签下合作背后，西门子能源真正售卖的是中国总包出海的技术通行证",
+    "summary": "进博会央企与西门子能源签约，核心是借其资质出海，合作窗口随国产技术进展变化。",
+    "url": "https://www.tmtpost.com/8198945.html",
+    "canonicalUrl": "https://www.tmtpost.com/8198945.html",
+    "publishedAt": "2026-11-10T05:40:43.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "与电建能建等多家央企签下合作背后西门子能源真正售卖的是中国总包出海的技术通行证"
+  },
+  {
+    "id": "525867ef1b6da247",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85842",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85842",
+    "publishedAt": "2026-11-10T05:31:35.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "法国称伊朗黑客组织攻击了超市的制冷控制器"
+  },
+  {
+    "id": "d0e5baf721acbc59",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Your TV can see through walls",
+    "summary": "",
+    "url": "https://maurycyz.com/projects/fading/",
+    "canonicalUrl": "https://maurycyz.com/projects/fading",
+    "publishedAt": "2026-11-10T05:24:45.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 40,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "yourtvcanseethroughwalls"
+  },
+  {
+    "id": "20d4e19695ab4914",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "想做一套设备管理系统，权限报表真的要自己写吗",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503502",
+    "canonicalUrl": "https://www.oschina.net/news/503502",
+    "publishedAt": "2026-11-10T04:45:02.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "想做一套设备管理系统权限报表真的要自己写吗"
+  },
+  {
+    "id": "faaeb1c6c1f3e2d3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ultorg: The User Interface for Relational Databases",
+    "summary": "",
+    "url": "https://www.ultorg.com/",
+    "canonicalUrl": "https://www.ultorg.com/",
+    "publishedAt": "2026-11-10T03:59:39.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 27,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ultorgtheuserinterfaceforrelationaldatabases"
+  },
+  {
+    "id": "23ea4f91705c71b6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "2026 开源行业解决方案创新赛总决赛评委阵容公布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503501",
+    "canonicalUrl": "https://www.oschina.net/news/503501",
+    "publishedAt": "2026-11-10T03:57:26.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "2026开源行业解决方案创新赛总决赛评委阵容公布"
+  },
+  {
+    "id": "bb2c7cd209a8b41e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a bro…",
+    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T03:38:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "wehadtheworstfightiwantmyhusbandtoretireat65butidontwanttolosehis280000salaryisthatunreasonable"
+  },
+  {
+    "id": "ecf3a45fddc32537",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Anthropic 发布 Fable 5.2 与 Mythos 5.2，声称“8 天写出一个能开机的操作系统”",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503499/claude-fable-and-mythos-5-2",
+    "canonicalUrl": "https://www.oschina.net/news/503499/claude-fable-and-mythos-5-2",
+    "publishedAt": "2026-11-10T03:37:45.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "anthropic发布fable52与mythos52声称8天写出一个能开机的操作系统"
+  },
+  {
+    "id": "3e21e37a85ce2276",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qOntology 本体工程平台开源版 v1.1.0 发布：AI 辅助建模、知识图谱多视图！企业本体 FDE 的超强工具！",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503498",
+    "canonicalUrl": "https://www.oschina.net/news/503498",
+    "publishedAt": "2026-11-10T03:07:06.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qontology本体工程平台开源版v110发布ai辅助建模知识图谱多视图企业本体fde的超强工具"
+  },
+  {
+    "id": "75939c2f0e911086",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "外企外包也许是大龄失业人员的最好归宿",
+    "summary": "入职一家外企外包几个月，谈谈感受。",
+    "url": "https://www.v2ex.com/t/1255797",
+    "canonicalUrl": "https://www.v2ex.com/t/1255797",
+    "publishedAt": "2026-11-10T02:51:12.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 59
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "外企外包也许是大龄失业人员的最好归宿"
+  },
+  {
+    "id": "491548674c710ae5",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": ":fire::fire::fire:vmr 0.8.1 发布 ：一款可扩展跨平台 SDK 超级版本管理工具",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503496",
+    "canonicalUrl": "https://www.oschina.net/news/503496",
+    "publishedAt": "2026-11-10T02:30:22.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "firefirefirevmr081发布一款可扩展跨平台sdk超级版本管理工具"
+  },
+  {
+    "id": "12e099cdc6443b42",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "有没有三个月瘦 30 斤的办法",
+    "summary": "从现在开始，想在过年前减肥减掉 30 斤，惊艳那些亲戚们，也给自己涨个面 有没有什么方法？",
+    "url": "https://www.v2ex.com/t/1255768",
+    "canonicalUrl": "https://www.v2ex.com/t/1255768",
+    "publishedAt": "2026-11-10T02:13:39.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 74
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "有没有三个月瘦30斤的办法"
+  },
+  {
+    "id": "3e61cb4c3914cb11",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "北漂四年的河北小夫妻，想去南方城市看看，想听听大家的意见",
+    "summary": "如题，北漂四年的河北小夫妻，无孩，想去南方城市看看，想听听大家的想法。",
+    "url": "https://www.v2ex.com/t/1255766",
+    "canonicalUrl": "https://www.v2ex.com/t/1255766",
+    "publishedAt": "2026-11-10T02:10:26.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 85
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "北漂四年的河北小夫妻想去南方城市看看想听听大家的意见"
+  },
+  {
+    "id": "45d034335846b7e5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Formalizing CPython",
+    "summary": "",
+    "url": "https://broyojo.com/python-formalization/",
+    "canonicalUrl": "https://broyojo.com/python-formalization",
+    "publishedAt": "2026-11-10T01:56:48.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 41,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "formalizingcpython"
+  },
+  {
+    "id": "0a2f241923aa2363",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "ip2region 3.19.0 发布 - 数据更新 & Logstash 插件 & CI 测试",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503494",
+    "canonicalUrl": "https://www.oschina.net/news/503494",
+    "publishedAt": "2026-11-10T01:54:35.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ip2region3190发布数据更新logstash插件ci测试"
+  },
+  {
+    "id": "43d10152f69cf606",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "突然想到个一直没有想的事情，各位一般多久剪一次头发",
+    "summary": "之前一直是 20-30 天一次，头发乱糟糟的。",
+    "url": "https://www.v2ex.com/t/1255744",
+    "canonicalUrl": "https://www.v2ex.com/t/1255744",
+    "publishedAt": "2026-11-10T01:31:42.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 133
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "突然想到个一直没有想的事情各位一般多久剪一次头发"
+  },
+  {
+    "id": "484c05602b06375a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "公司不让用苹果手机设备了，有 苹果 pro 尺寸大小的手机推荐么",
+    "summary": "感觉 pro 尺寸大小正好，不喜欢 pro max 那样太大的手机。",
+    "url": "https://www.v2ex.com/t/1255727",
+    "canonicalUrl": "https://www.v2ex.com/t/1255727",
+    "publishedAt": "2026-11-10T01:10:39.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 76
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "公司不让用苹果手机设备了有苹果pro尺寸大小的手机推荐么"
+  },
+  {
+    "id": "aa7b74b316e755d3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The short seller who saw signs of Nvidia’s China scandal months ago claims Megaspeed isn’t the only company helping China access chips",
+    "summary": "‘We were confident in the research initially, and we’re still confident in it no…",
+    "url": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-short-seller-who-saw-signs-of-nvidias-china-scandal-months-ago-claims-megaspeed-isnt-the-ony-company-helping-china-access-chips-9877f544?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T00:48:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "theshortsellerwhosawsignsofnvidiaschinascandalmonthsagoclaimsmegaspeedisnttheonlycompanyhelpingchinaaccesschips"
+  },
+  {
+    "id": "e3b635d2dcebc427",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Locating the source of a mysterious beep",
+    "summary": "",
+    "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+    "canonicalUrl": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
+    "publishedAt": "2026-11-10T00:10:46.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 120,
+      "comments": 58
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "locatingthesourceofamysteriousbeep"
+  },
+  {
+    "id": "d98e55920c5da9f2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Horible public key tricks",
+    "summary": "",
+    "url": "https://maurycyz.com/projects/badcert/",
+    "canonicalUrl": "https://maurycyz.com/projects/badcert",
+    "publishedAt": "2026-11-10T00:07:17.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 120,
+      "comments": 39
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "horiblepublickeytricks"
+  },
+  {
+    "id": "cac485b54a8f7b07",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T23:52:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
+  },
+  {
+    "id": "84b9d3a5c60415ed",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramo…",
+    "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+    "publishedAt": "2026-11-09T23:14:38.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "skydanceoutlinesits6billioninplannedcostsavingsheresthebreakdown"
+  },
+  {
+    "id": "b934eb5567e0dc8e",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+    "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started l…",
+    "url": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+    "publishedAt": "2026-11-09T23:05:53.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "lucidmisseswallstreetsearningsexpectationsexpandsloanfromsaudiarabiafund"
+  },
+  {
+    "id": "d2d51c6002e9394b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
+    "summary": "The rocket-launch company just posted a steeper loss than analysts were expectin…",
+    "url": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T22:49:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "rocketlabsharesdipafterthecompanysdefiningquartermissesthemark"
+  },
+  {
+    "id": "67019088b9e06193",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pa…",
+    "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T22:49:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hereshowberniesanderswantstokeepsocialsecuritysolventforgenerations"
+  },
+  {
+    "id": "bf5c4e5af26433f0",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
+    "summary": "The fallout from the board’s new investigation could become “a longer-lasting pr…",
+    "url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T21:55:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "asnvidiasstockfallshereswhatwallstreethastosayaboutthejensenhuangscandal"
+  },
+  {
+    "id": "2068954a446ef173",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+    "summary": "“It took one election and a poor Nvidia headline to go from D.C.",
+    "url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T21:52:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "dowseesitsthird1000pointswinginfourdayswhythevolatilityisntoveryet"
+  },
+  {
+    "id": "b056bd28d4d375e3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
+    "summary": "The chip makers’ shares were posting big gains Monday — but those companies coul…",
+    "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-09T21:43:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "areamdandbroadcomtherealwinnersofthenvidiaspyscandal"
+  },
+  {
+    "id": "5d6df7318345304c",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Exploring the world's languages with Language Explorer",
+    "summary": "Natural Language Processing",
+    "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+    "canonicalUrl": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer",
+    "publishedAt": "2026-11-09T20:29:39.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Natural Language Process",
+      "Open Source Models & Dat"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "exploringtheworldslanguageswithlanguageexplorer"
+  },
+  {
+    "id": "40356594a9839d12",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "USPS now offers official ZIP Code boundary polygons",
+    "summary": "",
+    "url": "https://postalpro.usps.com/zcb",
+    "canonicalUrl": "https://postalpro.usps.com/zcb",
+    "publishedAt": "2026-11-09T19:58:59.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 591,
+      "comments": 298
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "uspsnowoffersofficialzipcodeboundarypolygons"
+  },
+  {
+    "id": "628069c68754a919",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizatio…",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "canonicalUrl": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "chatgptenterprisenowavailableinawsmarketplace"
+  },
+  {
+    "id": "37f368e0cd1a3cd4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "E-means: Outperforming k-means in one-tenth the epochs",
+    "summary": "",
+    "url": "https://e-means.github.io/",
+    "canonicalUrl": "https://e-means.github.io/",
+    "publishedAt": "2026-11-09T18:45:43.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 363,
+      "comments": 31
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "emeansoutperformingkmeansinonetenththeepochs"
+  },
+  {
     "id": "921e093307119264",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -102,23 +1369,6 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "kaspikzoutlines3000storemidtermaspirationwhileplanning300partnergrocerystores"
-  },
-  {
-    "id": "b056bd28d4d375e3",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Are AMD and Broadcom the real winners of the Nvidia spy scandal?",
-    "summary": "The chip makers’ shares were posting big gains Monday — but those companies coul…",
-    "url": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/are-amd-and-broadcom-the-real-winners-of-the-nvidia-spy-scandal-d2343072?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T18:33:00.000Z",
-    "fetchedAt": "2026-11-09T18:46:11.729Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "areamdandbroadcomtherealwinnersofthenvidiaspyscandal"
   },
   {
     "id": "381249b183921a87",
@@ -472,21 +1722,26 @@
     "titleKey": "美国财政部拍卖580亿美元三年期国债得标利率462710月6日为49322006年以来最高投标倍数2"
   },
   {
-    "id": "bb2c7cd209a8b41e",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a bro…",
-    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T18:00:00.000Z",
-    "fetchedAt": "2026-11-09T18:46:11.729Z",
-    "tags": [],
-    "signals": {},
+    "id": "654cb87680801a88",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "summary": "",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "canonicalUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "publishedAt": "2026-11-09T18:01:10.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 469,
+      "comments": 741
+    },
     "lang": "en",
-    "weight": 68,
-    "titleKey": "wehadtheworstfightiwantmyhusbandtoretireat65butidontwanttolosehis280000salaryisthatunreasonable"
+    "weight": 92,
+    "titleKey": "claudefable52andmythos52"
   },
   {
     "id": "5e8260d801ed3855",
@@ -1017,6 +2272,31 @@
     "titleKey": "whyrentersareobsessedwiththese300bonelesscouches"
   },
   {
+    "id": "ce390d2e29649269",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Our Looping Factory Cut DEV Page Load Time by 75% and Counting",
+    "summary": "A month ago, an average web request on DEV took about 70 milliseconds inside Rai…",
+    "url": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
+    "canonicalUrl": "https://dev.to/dailycontext/our-looping-factory-cut-dev-page-load-time-by-75-and-counting-1hnf",
+    "publishedAt": "2026-11-09T16:12:25.000Z",
+    "fetchedAt": "2026-11-10T07:14:07.981Z",
+    "tags": [
+      "ai",
+      "agents",
+      "automation",
+      "architecture"
+    ],
+    "signals": {
+      "reactions": 88,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "ourloopingfactorycutdevpageloadtimeby75andcounting"
+  },
+  {
     "id": "2520e84ace3a7cb3",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1053,8 +2333,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 243,
-      "comments": 145
+      "points": 513,
+      "comments": 282
     },
     "lang": "en",
     "weight": 92,
