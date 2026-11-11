@@ -439,8 +439,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 6139,
-      "forks": 547
+      "stars": 6826,
+      "forks": 600
     },
     "lang": "en",
     "weight": 90,
@@ -1465,7 +1465,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "mmdoctor/google-pro-helper",
-    "summary": "Python · ★ 1604",
+    "summary": "Python · ★ 1672",
     "url": "https://github.com/mmdoctor/google-pro-helper",
     "canonicalUrl": "https://github.com/mmdoctor/google-pro-helper",
     "publishedAt": "2026-11-05T04:52:28.000Z",
@@ -1474,8 +1474,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1604,
-      "forks": 551
+      "stars": 1672,
+      "forks": 573
     },
     "lang": "en",
     "weight": 90,
@@ -2539,7 +2539,7 @@
     ],
     "signals": {
       "reactions": 155,
-      "comments": 139
+      "comments": 143
     },
     "lang": "en",
     "weight": 60,

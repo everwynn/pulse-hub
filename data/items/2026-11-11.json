@@ -1,5 +1,1064 @@
 [
   {
+    "id": "fb34e0a7d9cb24e0",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA",
+    "publishedAt": "2026-11-11T12:02:05.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "agent从demo到生产究竟还差几步4周实战课来了"
+  },
+  {
+    "id": "ce07d6efa7963f7c",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW",
+    "publishedAt": "2026-11-11T11:06:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "cloudflare推出面向ai应用程序的websearchapi"
+  },
+  {
+    "id": "e60eb71587079928",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3",
+    "publishedAt": "2026-11-11T10:00:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "基于agentkit重塑研发协作从编码提效到组织效能跃迁aicon北京"
+  },
+  {
+    "id": "4022a607b3736c56",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "微软 10 月安全更新修复 1400 余个漏洞，其中一个已遭利用",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/mfy0RUYOqEAW8imUrGTY",
+    "publishedAt": "2026-11-11T09:06:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "微软10月安全更新修复1400余个漏洞其中一个已遭利用"
+  },
+  {
+    "id": "3ce818553b06fe4d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free …",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "canonicalUrl": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "publishedAt": "2026-11-11T08:00:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "chatgptplusforveteransandservicemembers"
+  },
+  {
+    "id": "7291139bcf84ea5d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "源杰科技触及涨停，成交额70.09亿元，涨幅20%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3198168",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198168",
+    "publishedAt": "2026-11-11T06:10:07.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "源杰科技触及涨停成交额7009亿元涨幅20"
+  },
+  {
+    "id": "1262e15e655459ef",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月10日，中国金水河—越南马鹿塘公路口岸扩大开放公布仪式在云南红河金平中越友谊桥举行，标志着金水河公路口岸正式升级为…",
+    "summary": "11月10日，中国金水河—越南马鹿塘公路口岸扩大开放公布仪式在云南红河金平中越友谊桥举行，标志着金水河公路口岸正式升级为国际性常年开放公路客货运输口岸。",
+    "url": "https://wallstreetcn.com/livenews/3198167",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198167",
+    "publishedAt": "2026-11-11T06:09:43.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月10日中国金水河越南马鹿塘公路口岸扩大开放公布仪式在云南红河金平中越友谊桥举行标志着金水河公路口岸正式升级为"
+  },
+  {
+    "id": "caaf39e4d9dc90dd",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Michael Burry calls Nvidia 'a heck of a trade' while betting big on MercadoLibre",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670413-michael-burry-calls-nvidia-a-heck-of-a-trade-while-betting-big-on-mercadolibre?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670413-michael-burry-calls-nvidia-a-heck-of-a-trade-while-betting-big-on-mercadolibre?feed_item_type=news",
+    "publishedAt": "2026-11-11T06:08:56.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "nvda",
+      "adbe",
+      "meli",
+      "sfm",
+      "jd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "michaelburrycallsnvidiaaheckofatradewhilebettingbigonmercadolibre"
+  },
+  {
+    "id": "8d98c1feb5d38006",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "QuickLogic forecasts 55% sequential Q4 revenue increase while targeting non-GAAP net income of $1.3M",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670447-quicklogic-forecasts-55-percent-sequential-q4-revenue-increase-while-targeting-non-gaap-net?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670447-quicklogic-forecasts-55-percent-sequential-q4-revenue-increase-while-targeting-non-gaap-net?feed_item_type=news",
+    "publishedAt": "2026-11-11T06:02:34.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "quik"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "quicklogicforecasts55sequentialq4revenueincreasewhiletargetingnongaapnetincomeof13m"
+  },
+  {
+    "id": "c0788a3a683f60f4",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Body forecasts Q4 revenue of $38M-$42M while targeting $125M adjusted EBITDA breakeven after restructuring",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670446-body-forecasts-q4-revenue-of-38m-42m-while-targeting-125m-adjusted-ebitda-breakeven-after?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670446-body-forecasts-q4-revenue-of-38m-42m-while-targeting-125m-adjusted-ebitda-breakeven-after?feed_item_type=news",
+    "publishedAt": "2026-11-11T06:02:11.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "bodi",
+      "bodyw"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "bodyforecastsq4revenueof38m42mwhiletargeting125madjustedebitdabreakevenafterrestructuring"
+  },
+  {
+    "id": "85d2138c122cddb3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "财政部印发《会计改革与发展“十五五”规划》。其中提出，会计监督作用更好发挥。会计监督体系更加健全，打击财务造假工作机制进…",
+    "summary": "财政部印发《会计改革与发展“十五五”规划》。",
+    "url": "https://wallstreetcn.com/livenews/3198164",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198164",
+    "publishedAt": "2026-11-11T06:01:51.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "财政部印发会计改革与发展十五五规划其中提出会计监督作用更好发挥会计监督体系更加健全打击财务造假工作机制进"
+  },
+  {
+    "id": "c67d74ea815121b2",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国汽车工业协会今天（11日）发布的最新数据显示，10月份，我国汽车产销量双双超过300万辆，比上月呈现一定幅度的增长，…",
+    "summary": "中国汽车工业协会今天（11日）发布的最新数据显示，10月份，我国汽车产销量双双超过300万辆，比上月呈现一定幅度的增长，其中，新能源汽车市场销量占比持续走高。",
+    "url": "https://wallstreetcn.com/livenews/3198161",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198161",
+    "publishedAt": "2026-11-11T06:00:56.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国汽车工业协会今天11日发布的最新数据显示10月份我国汽车产销量双双超过300万辆比上月呈现一定幅度的增长"
+  },
+  {
+    "id": "b5d9cf6ead249337",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Asian markets diverge as U.S. CPI elevates Fed rate hike expectations; Bitcoin drops below $73.5K",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670420-asian-markets-diverge-as-us-cpi-elevates-fed-rate-hike-expectations-bitcoin-drops-below-735k?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670420-asian-markets-diverge-as-us-cpi-elevates-fed-rate-hike-expectations-bitcoin-drops-below-735k?feed_item_type=news",
+    "publishedAt": "2026-11-11T05:57:30.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "fxi",
+      "ewj",
+      "ewy",
+      "dxj",
+      "fxy",
+      "usd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "asianmarketsdivergeasuscpielevatesfedratehikeexpectationsbitcoindropsbelow735k"
+  },
+  {
+    "id": "85b7ccf178cf94da",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "从中国航天科技集团十一院了解到，2026年11月11日，我国自主研发的“轻骑兵”中小型太阳能无人机在西北某机场首飞成功。…",
+    "summary": "从中国航天科技集团十一院了解到，2026年11月11日，我国自主研发的“轻骑兵”中小型太阳能无人机在西北某机场首飞成功。",
+    "url": "https://wallstreetcn.com/livenews/3198152",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198152",
+    "publishedAt": "2026-11-11T05:53:44.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从中国航天科技集团十一院了解到2026年11月11日我国自主研发的轻骑兵中小型太阳能无人机在西北某机场首飞成功"
+  },
+  {
+    "id": "6a400d002abcce00",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Hagerty slips 12% after pricing an upsized secondary offering at $14.85 per share",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670440-hagerty-slips-12-as-upsized-secondary-offering-priced-at-1485-per-share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670440-hagerty-slips-12-as-upsized-secondary-offering-priced-at-1485-per-share?feed_item_type=news",
+    "publishedAt": "2026-11-11T05:53:05.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hgty"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "hagertyslips12afterpricinganupsizedsecondaryofferingat1485pershare"
+  },
+  {
+    "id": "c8b66708a00f0a06",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "10年期日本国债收益率上升10.5个基点至2.795%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3198149",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198149",
+    "publishedAt": "2026-11-11T05:51:44.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "bond-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "10年期日本国债收益率上升105个基点至2795"
+  },
+  {
+    "id": "4139b50af8488aa9",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "苹果官网11月11日宣布，Apple支持社区将于2026年11月20日永久关闭。即日起，社区将不再接受新帖子，并转为只读…",
+    "summary": "苹果官网11月11日宣布，Apple支持社区将于2026年11月20日永久关闭。",
+    "url": "https://wallstreetcn.com/livenews/3198147",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198147",
+    "publishedAt": "2026-11-11T05:50:22.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "苹果官网11月11日宣布apple支持社区将于2026年11月20日永久关闭即日起社区将不再接受新帖子并转为只读"
+  },
+  {
+    "id": "d0e810893cdea0d9",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "E-L Financial Corporation Limited PFD 1ST SER 3 declares CAD 0.3438 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670445-e-l-financial-corporation-limited-pfd-1st-ser-3-declares-cad-0_3438-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670445-e-l-financial-corporation-limited-pfd-1st-ser-3-declares-cad-0_3438-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-11T05:50:05.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "elf.pr.h:ca"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "elfinancialcorporationlimitedpfd1stser3declarescad03438dividend"
+  },
+  {
+    "id": "5b88725df60d26d7",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "创业板指涨超3%，新易盛涨超15%，中际旭创涨超13%，算力硬件、短剧、游戏、机器人等方向涨幅居前，沪深京三市上涨个股超…",
+    "summary": "创业板指涨超3%，新易盛涨超15%，中际旭创涨超13%，算力硬件、短剧、游戏、机器人等方向涨幅居前，沪深京三市上涨个股超3800只。",
+    "url": "https://wallstreetcn.com/livenews/3198146",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198146",
+    "publishedAt": "2026-11-11T05:47:28.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "创业板指涨超3新易盛涨超15中际旭创涨超13算力硬件短剧游戏机器人等方向涨幅居前沪深京三市上涨个股超"
+  },
+  {
+    "id": "bad8a40e6a317b60",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "A股存储芯片板块短线拉升，利扬芯片、泰瑞机器涨停，南亚新材涨超10%，联讯仪器、普冉股份、深南电路、杭州柯林、炬光科技跟…",
+    "summary": "A股存储芯片板块短线拉升，利扬芯片、泰瑞机器涨停，南亚新材涨超10%，联讯仪器、普冉股份、深南电路、杭州柯林、炬光科技跟涨。",
+    "url": "https://wallstreetcn.com/livenews/3198143",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198143",
+    "publishedAt": "2026-11-11T05:45:03.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "a股存储芯片板块短线拉升利扬芯片泰瑞机器涨停南亚新材涨超10联讯仪器普冉股份深南电路杭州柯林炬光科技跟"
+  },
+  {
+    "id": "7a1e38a6440536a3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "现货钯金上涨3%，报1056.58美元/盎司。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3198140",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198140",
+    "publishedAt": "2026-11-11T05:44:07.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "现货钯金上涨3报105658美元盎司"
+  },
+  {
+    "id": "1ab12cb4015c3f32",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "八年平头哥闯关港股，阿里分拆背后的算力资本局",
+    "summary": "阿里巴巴决定让平头哥自己去资本市场拿钱。",
+    "url": "https://www.tmtpost.com/8200942.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200942.html",
+    "publishedAt": "2026-11-11T05:26:13.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "AGI",
+      "阿里巴巴",
+      "芯片"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "八年平头哥闯关港股阿里分拆背后的算力资本局"
+  },
+  {
+    "id": "2e3a8f36c96c6776",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+    "summary": "",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "canonicalUrl": "https://github.com/gmkurtzer/ginux",
+    "publishedAt": "2026-11-11T05:25:54.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 16,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "gregkurtzersginuxisnowauserspacekernel"
+  },
+  {
+    "id": "0e5a83369e515b5e",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "summary": "",
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "canonicalUrl": "https://huggingface.co/blog/qvac/botpsy",
+    "publishedAt": "2026-11-11T05:01:16.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "botpsyondevicepersonalassistantwithasubbillionparameteragenticlanguagemodel"
+  },
+  {
+    "id": "cfe29db6e8e7d589",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Protecting SSH Keys with macOS Secure Enclave",
+    "summary": "",
+    "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+    "canonicalUrl": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys",
+    "publishedAt": "2026-11-11T04:28:57.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 56,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "protectingsshkeyswithmacossecureenclave"
+  },
+  {
+    "id": "f5f884957f7b9817",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "无人拖拉机真正下地了！新疆大田深翻30+厘米，丘沃智能开物™系统首次完整曝光",
+    "summary": "L4无人化作业走向规模交付",
+    "url": "https://www.qbitai.com/2026/11/509052.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509052.html",
+    "publishedAt": "2026-11-11T03:43:31.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "资讯",
+      "丘沃智能",
+      "拖拉机",
+      "自动驾驶"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "无人拖拉机真正下地了新疆大田深翻30厘米丘沃智能开物系统首次完整曝光"
+  },
+  {
+    "id": "8e6ac414a2281105",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "安孚、东山、复星纷纷模仿，为何国内造不出伯克希尔？",
+    "summary": "AI退潮之际，来自一台旧机器的启示",
+    "url": "https://www.tmtpost.com/8200882.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200882.html",
+    "publishedAt": "2026-11-11T03:38:10.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "安孚东山复星纷纷模仿为何国内造不出伯克希尔"
+  },
+  {
+    "id": "cd18a717d341ef41",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+    "summary": "",
+    "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "canonicalUrl": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+    "publishedAt": "2026-11-11T02:57:08.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 49,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "todeterbioterrorismusimposesnewrulesonorderingsyntheticdna"
+  },
+  {
+    "id": "bcebf60821f5510a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "大模型千千万，为什么非要用 Claude？",
+    "summary": "## 不理解，实在不理解...",
+    "url": "https://www.v2ex.com/t/1256081",
+    "canonicalUrl": "https://www.v2ex.com/t/1256081",
+    "publishedAt": "2026-11-11T02:41:24.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 90
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "大模型千千万为什么非要用claude"
+  },
+  {
+    "id": "7f8dbb57466ecc7a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "summary": "There is already a demographic ‘run’ on Social Security.",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T02:15:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
+  },
+  {
+    "id": "32a2f3eba5f61fcb",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "黄仁勋分手费5000亿？硅谷大佬绯闻启示录",
+    "summary": "黄仁勋承认出轨，盘点硅谷大佬绯闻代价。",
+    "url": "https://www.tmtpost.com/8200229.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200229.html",
+    "publishedAt": "2026-11-11T02:10:14.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "黄仁勋分手费5000亿硅谷大佬绯闻启示录"
+  },
+  {
+    "id": "44232a50b87be12c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A great old-timey game-programming hack (2013)",
+    "summary": "",
+    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "canonicalUrl": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+    "publishedAt": "2026-11-11T01:56:31.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 91,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "agreatoldtimeygameprogramminghack2013"
+  },
+  {
+    "id": "9782c5d67fbfc6ce",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
+    "summary": "The chain has been contending with falling birth rates, cautious consumers, stif…",
+    "url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T01:54:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "onereasonchildrensplaceisfilingforbankruptcynotenoughchildren"
+  },
+  {
+    "id": "0aed7cc5cc674715",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "马上结婚了，但是吵架了！",
+    "summary": "## 背景： 女朋友对我很好，人也很好，经常给我买东西，我给她买的东西有，但没有她给我买的多 平时住在一起，大的花销一般是我出，但是最后出的应该也差不多，没太计…",
+    "url": "https://www.v2ex.com/t/1256055",
+    "canonicalUrl": "https://www.v2ex.com/t/1256055",
+    "publishedAt": "2026-11-11T01:51:35.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 192
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "马上结婚了但是吵架了"
+  },
+  {
+    "id": "d01cb96f79e3feed",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "32 岁后端程序员，准备拿 N+1 离职了",
+    "summary": "坐标北京，快 32 岁，Java 后端开发 7 年多，在目前这家公司待了快 5 年 入职的时候是公司巅峰，然后就是漫长的‘阴跌’，工作成长空间有限，加班也比较多…",
+    "url": "https://www.v2ex.com/t/1256051",
+    "canonicalUrl": "https://www.v2ex.com/t/1256051",
+    "publishedAt": "2026-11-11T01:48:49.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 71
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "32岁后端程序员准备拿n1离职了"
+  },
+  {
+    "id": "9fa28a4eccfefb60",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "openKylin 社区 2026 年度贡献榜单公布！",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503523",
+    "canonicalUrl": "https://www.oschina.net/news/503523",
+    "publishedAt": "2026-11-11T01:43:09.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "openkylin社区2026年度贡献榜单公布"
+  },
+  {
+    "id": "b0400a22ba4d573f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "2026，AI应用的钱都流向了哪里？",
+    "summary": "视频、图像和3D拿走大头。",
+    "url": "https://www.tmtpost.com/8200663.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200663.html",
+    "publishedAt": "2026-11-11T01:42:55.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "2026ai应用的钱都流向了哪里"
+  },
+  {
+    "id": "dc8142348cea2464",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "家电三巨头的计算中心新对决",
+    "summary": "家电三巨头的计算中心新对决",
+    "url": "https://www.tmtpost.com/8200652.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200652.html",
+    "publishedAt": "2026-11-11T01:40:51.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "家电三巨头的计算中心新对决"
+  },
+  {
+    "id": "916335b4639bb90b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "平头哥要上市，阿里AI的第一个“大结果”",
+    "summary": "大厂芯片再加速。",
+    "url": "https://www.tmtpost.com/8200714.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200714.html",
+    "publishedAt": "2026-11-11T01:40:48.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "主编精选文章"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "平头哥要上市阿里ai的第一个大结果"
+  },
+  {
+    "id": "ba3af495fe9a0593",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+    "summary": "A third-quarter revenue beat and $9 billion in planned prepayments gave investor…",
+    "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T01:12:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "coreweavesstockpopsasnewfinancingplaybookeasesdebtconcerns"
+  },
+  {
+    "id": "f29ea234dee4a84d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "双十一名存实亡",
+    "summary": "rt 现在的双十一太平淡了 还记得早些年，10 号晚上 20 点左右以及 24 点左右盯着手机付款！",
+    "url": "https://www.v2ex.com/t/1256030",
+    "canonicalUrl": "https://www.v2ex.com/t/1256030",
+    "publishedAt": "2026-11-11T01:07:18.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 83
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "双十一名存实亡"
+  },
+  {
+    "id": "7424fde9117f6335",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "DjangoAdmin 敏捷开发框架 Django+EleVue 版本 v2.8.2 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503520",
+    "canonicalUrl": "https://www.oschina.net/news/503520",
+    "publishedAt": "2026-11-11T00:48:11.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "djangoadmin敏捷开发框架djangoelevue版本v282发布"
+  },
+  {
+    "id": "3bad395d0c5c91dd",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "RXThinkCMF 敏捷开发框架 Laravel13+NaiveVue 版本 v2.6.0 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503519",
+    "canonicalUrl": "https://www.oschina.net/news/503519",
+    "publishedAt": "2026-11-11T00:30:19.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "rxthinkcmf敏捷开发框架laravel13naivevue版本v260发布"
+  },
+  {
+    "id": "bb2c7cd209a8b41e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a bro…",
+    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T00:30:00.000Z",
+    "fetchedAt": "2026-11-09T18:46:11.729Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "wehadtheworstfightiwantmyhusbandtoretireat65butidontwanttolosehis280000salaryisthatunreasonable"
+  },
+  {
+    "id": "22156bbdb89306c0",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "SSHYard 已正式发布 V1.0.0 - 高颜值纯原生 SSH 客户端，功能齐全且体积非常小，随楼抽 50 位评论者每位赠送 50 个$v2ex",
+    "summary": "## 介绍 SSHYard 是一款免费开源的 SSH / SFTP 客户端，支持 macOS 、Windows 和 Linux ，在终端里操作、管理远程文件等，…",
+    "url": "https://www.v2ex.com/t/1256021",
+    "canonicalUrl": "https://www.v2ex.com/t/1256021",
+    "publishedAt": "2026-11-11T00:16:38.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 64
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "sshyard已正式发布v100高颜值纯原生ssh客户端功能齐全且体积非常小随楼抽50位评论者每位赠送50个v2ex"
+  },
+  {
+    "id": "8e6b296716b2782f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
+    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
+  },
+  {
+    "id": "3b716871421235db",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
+    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T23:25:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
+  },
+  {
+    "id": "33b8b45be5e2d06a",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+    "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings repo…",
+    "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+    "publishedAt": "2026-11-10T23:16:15.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "coreweavebeatsonrevenueandliftsguidanceeasingaislowdownconcerns"
+  },
+  {
+    "id": "b7c40e56acdb3267",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+    "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales…",
+    "url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+    "publishedAt": "2026-11-10T22:39:30.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "fossilceosaysturnaroundisaheadofplanassalesreturntogrowth"
+  },
+  {
+    "id": "75aff1eab1e4d357",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+    "summary": "It’s one thing for money to shift between stocks, but it’s another thing for cus…",
+    "url": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T22:37:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "amdsstockfadesasinvestorsweighwhethernvidiasturmoilwillmeanlastingwins"
+  },
+  {
+    "id": "82b21726c87f7df2",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+    "summary": "Investors shouldn’t pay much attention to how the SOX chip-sector index trades u…",
+    "url": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-10T22:30:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "lookingtobuythedipinchipstockshereshowtoavoidbuyingtoosoon"
+  },
+  {
+    "id": "f237ee7aef63c6dc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "summary": "",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "canonicalUrl": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy",
+    "publishedAt": "2026-11-10T21:25:03.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 127,
+      "comments": 97
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "applehasnewmacappcomingtomakerunninglocalaimodelseasy"
+  },
+  {
+    "id": "6a188487a0641233",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Six Math Essentials",
+    "summary": "",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "canonicalUrl": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "publishedAt": "2026-11-10T20:58:44.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 197,
+      "comments": 34
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "sixmathessentials"
+  },
+  {
+    "id": "29975ac78acab62c",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+    "publishedAt": "2026-11-10T20:52:56.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "Research Blog"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "lazareveniforasreprogrammingdormantneuronstobackdooraiagents"
+  },
+  {
+    "id": "3f84f795800bd2f1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Scion is back and is going to sell a kei truck in America",
+    "summary": "",
+    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+    "canonicalUrl": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america",
+    "publishedAt": "2026-11-10T19:50:46.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 421,
+      "comments": 286
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "scionisbackandisgoingtosellakeitruckinamerica"
+  },
+  {
     "id": "05ce0b3f9a5fe522",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -34,6 +1093,69 @@
     "titleKey": "近700亿美元ipo定价突然撤回anthropic最快今天路演下周冲刺上市"
   },
   {
+    "id": "0f0e6bbf3742b8fd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Starlink Mini 2",
+    "summary": "",
+    "url": "https://starlink.com/mini-2",
+    "canonicalUrl": "https://starlink.com/mini-2",
+    "publishedAt": "2026-11-10T18:22:32.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 355,
+      "comments": 357
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "starlinkmini2"
+  },
+  {
+    "id": "a8de47bee8ca8f4b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "summary": "",
+    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "canonicalUrl": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f",
+    "publishedAt": "2026-11-10T18:02:02.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 350,
+      "comments": 206
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "synapticspatentclaimsstopworkondisplaylinkdrivers"
+  },
+  {
+    "id": "2941596367dd8fa1",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "OwnCoder 0.2.0 发布，面向开发者的桌面端 AI 编程工具",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503518",
+    "canonicalUrl": "https://www.oschina.net/news/503518",
+    "publishedAt": "2026-11-10T17:13:40.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "owncoder020发布面向开发者的桌面端ai编程工具"
+  },
+  {
     "id": "8e54d591cd3e0546",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -49,6 +1171,45 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "chrome想终结去邮箱复制验证码但隐私真的更好了吗"
+  },
+  {
+    "id": "48bbc66c62df0dc6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软宣布 .NET 11",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85851",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85851",
+    "publishedAt": "2026-11-10T16:50:48.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软宣布net11"
+  },
+  {
+    "id": "ac8b7b40bbe600be",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": ".name Grandfathered",
+    "summary": "",
+    "url": "https://neil.fraser.name/news/2026/11/10/",
+    "canonicalUrl": "https://neil.fraser.name/news/2026/11/10",
+    "publishedAt": "2026-11-10T16:37:44.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 755,
+      "comments": 169
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "namegrandfathered"
   },
   {
     "id": "697ebda88813c41e",
@@ -112,6 +1273,23 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "美国五年期国债收益率涨15个基点报483"
+  },
+  {
+    "id": "00b02bbb83382b49",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85850",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85850",
+    "publishedAt": "2026-11-10T16:23:20.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "2026年全球化石燃料碳排放量预计下降04"
   },
   {
     "id": "98f0d7f45ab6ffa5",
@@ -337,23 +1515,6 @@
     "titleKey": "blender53releasedwithgaussiansplatsupport"
   },
   {
-    "id": "bb2c7cd209a8b41e",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
-    "summary": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a bro…",
-    "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T16:15:00.000Z",
-    "fetchedAt": "2026-11-09T18:46:11.729Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "wehadtheworstfightiwantmyhusbandtoretireat65butidontwanttolosehis280000salaryisthatunreasonable"
-  },
-  {
     "id": "35a3e1327a19d552",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -486,22 +1647,5 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "bonelesscouchesarethenewfutons"
-  },
-  {
-    "id": "8e6b296716b2782f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
-    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T16:01:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
   }
 ]

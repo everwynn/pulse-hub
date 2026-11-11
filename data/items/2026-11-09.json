@@ -1,5 +1,27 @@
 [
   {
+    "id": "1c19d95d821e82f3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why I wrote the BEAM book (2025)",
+    "summary": "",
+    "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+    "canonicalUrl": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook",
+    "publishedAt": "2026-11-09T15:41:35.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 31,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whyiwrotethebeambook2025"
+  },
+  {
     "id": "392e510da0c0eafd",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -54,6 +76,31 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "afailedtrialforaheartdrugcastsshadowoverrivalsdevelopingsimilartherapies"
+  },
+  {
+    "id": "005562e913641799",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "How do you truly stand out in Tech?",
+    "summary": "I am not going to lie to you, the market has been rough out there.",
+    "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
+    "canonicalUrl": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
+    "publishedAt": "2026-11-09T15:11:22.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "discuss",
+      "community",
+      "productivity",
+      "career"
+    ],
+    "signals": {
+      "reactions": 130,
+      "comments": 70
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "howdoyoutrulystandoutintech"
   },
   {
     "id": "f384364e2c824033",
@@ -1647,8 +1694,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 4393,
-      "forks": 1704
+      "stars": 5377,
+      "forks": 2083
     },
     "lang": "en",
     "weight": 90,

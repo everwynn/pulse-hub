@@ -508,7 +508,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "tangerineturtle1/NX2navi",
-    "summary": "C · ★ 2715",
+    "summary": "C · ★ 2956",
     "url": "https://github.com/tangerineturtle1/NX2navi",
     "canonicalUrl": "https://github.com/tangerineturtle1/NX2navi",
     "publishedAt": "2026-11-07T10:01:23.000Z",
@@ -517,8 +517,8 @@
       "C"
     ],
     "signals": {
-      "stars": 2715,
-      "forks": 177
+      "stars": 2956,
+      "forks": 199
     },
     "lang": "en",
     "weight": 90,
@@ -1794,8 +1794,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 1641,
-      "forks": 175
+      "stars": 1756,
+      "forks": 187
     },
     "lang": "en",
     "weight": 90,

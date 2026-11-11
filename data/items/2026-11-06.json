@@ -600,8 +600,8 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 115,
-      "comments": 74
+      "reactions": 117,
+      "comments": 84
     },
     "lang": "en",
     "weight": 60,
@@ -992,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 2003",
+    "summary": "JavaScript · ★ 2013",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -1001,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 2003,
-      "forks": 1083
+      "stars": 2013,
+      "forks": 1089
     },
     "lang": "en",
     "weight": 90,
@@ -2611,6 +2611,33 @@
     "titleKey": "the2027taxbracketsareoutseewhatthestandarddeductionandsalttaxbreakswillbe"
   },
   {
+    "id": "a08db1b05860c0df",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "voyager-so/vork",
+    "summary": "Headless 3D and VFX engine for agents.",
+    "url": "https://github.com/voyager-so/vork",
+    "canonicalUrl": "https://github.com/voyager-so/vork",
+    "publishedAt": "2026-11-05T22:37:07.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "Rust",
+      "3d",
+      "ai-agents",
+      "gpu",
+      "metal",
+      "ray-tracing"
+    ],
+    "signals": {
+      "stars": 1365,
+      "forks": 111
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "voyagersovork"
+  },
+  {
     "id": "fdd297b3001bcfc0",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -2792,7 +2819,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "jamesondh/chimera-vocal-synth",
-    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1536",
+    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1762",
     "url": "https://github.com/jamesondh/chimera-vocal-synth",
     "canonicalUrl": "https://github.com/jamesondh/chimera-vocal-synth",
     "publishedAt": "2026-11-05T19:10:42.000Z",
@@ -2801,8 +2828,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1536,
-      "forks": 172
+      "stars": 1762,
+      "forks": 205
     },
     "lang": "en",
     "weight": 90,
@@ -3221,8 +3248,8 @@
       "humor"
     ],
     "signals": {
-      "stars": 1738,
-      "forks": 50
+      "stars": 1840,
+      "forks": 54
     },
     "lang": "en",
     "weight": 90,

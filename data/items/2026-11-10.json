@@ -1,5 +1,22 @@
 [
   {
+    "id": "a4470f8f6d8438f3",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "波士顿动力为其人形机器人加入了轮子",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85849",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85849",
+    "publishedAt": "2026-11-10T15:58:19.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "波士顿动力为其人形机器人加入了轮子"
+  },
+  {
     "id": "beabce908289a0f8",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -34,40 +51,6 @@
     "titleKey": "whystocksarefallingand10yearyieldsareclimbingbacknear5aftertuesdaysinflationreport"
   },
   {
-    "id": "3b716871421235db",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
-    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T15:45:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
-  },
-  {
-    "id": "7f8dbb57466ecc7a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "summary": "There’s already a demographic ‘run’ on Social Security.",
-    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T15:30:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
-  },
-  {
     "id": "d95c1b2b1c5b728c",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -83,6 +66,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "elonmuskwashalfrightinhiscommentlastweekaboutsoftbankbackpedalingonagasturbineorder"
+  },
+  {
+    "id": "011d276f8aa41b11",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Smart home devices should work without the internet",
+    "summary": "",
+    "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+    "canonicalUrl": "https://docodethatmatters.com/home-automation-overnight-success",
+    "publishedAt": "2026-11-10T15:25:20.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 827,
+      "comments": 297
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "smarthomedevicesshouldworkwithouttheinternet"
   },
   {
     "id": "52f49582cde6aaac",
@@ -233,6 +238,25 @@
     "titleKey": "thedeathknellofdigitalsearch"
   },
   {
+    "id": "3ace0b683e0f6fc7",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "phimint v0.8.0 发布：模型选择跨重启生效、终端贴图、长输出不再消失",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503517",
+    "canonicalUrl": "https://www.oschina.net/news/503517",
+    "publishedAt": "2026-11-10T14:33:10.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "phimintv080发布模型选择跨重启生效终端贴图长输出不再消失"
+  },
+  {
     "id": "fc11c5e2246bf0b4",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -311,6 +335,25 @@
     "titleKey": "letoverlambda50yearsoflisp2008"
   },
   {
+    "id": "8e4453c321c829ab",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "YuanQi（UIEIP）低代码平台 v1.0 开源：一个 Go 单文件，装下建模、表单、权限、流程与 AI 知识库（MIT）",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503516",
+    "canonicalUrl": "https://www.oschina.net/news/503516",
+    "publishedAt": "2026-11-10T12:25:47.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "yuanqiuieip低代码平台v10开源一个go单文件装下建模表单权限流程与ai知识库mit"
+  },
+  {
     "id": "bb1845b7a7b5973e",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -384,6 +427,27 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "openjiuwen首发agentdevicefoundation重新定义agent与物理世界的交互方式"
+  },
+  {
+    "id": "a0641327c0d46d2b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "你对 AI 说的最多的一句话是什么？",
+    "summary": "对 AI 是的话： 1.",
+    "url": "https://www.v2ex.com/t/1255953",
+    "canonicalUrl": "https://www.v2ex.com/t/1255953",
+    "publishedAt": "2026-11-10T11:48:18.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 76
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "你对ai说的最多的一句话是什么"
   },
   {
     "id": "1c576041021f9c21",
@@ -471,6 +535,28 @@
     "titleKey": "触觉也能token化蚂蚁灵波发布通用触觉模型把具身原生推进到机器人指尖"
   },
   {
+    "id": "56518a1b28c2a414",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "英伟达机器人开源撞上Fable 5.2发布！Jim Fan：不是寒冬是夏天",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/509032.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509032.html",
+    "publishedAt": "2026-11-10T10:35:38.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "资讯",
+      "世界模型",
+      "具身智能",
+      "英伟达"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英伟达机器人开源撞上fable52发布jimfan不是寒冬是夏天"
+  },
+  {
     "id": "922d9526620c4656",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -526,6 +612,25 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "猪肉不停降价给了云南猪王更多磨练二代的机会"
+  },
+  {
+    "id": "17a4001544cdf2f2",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing Businesses in ChatGPT",
+    "summary": "Manage your business information, get insights about how your business shows up,…",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "canonicalUrl": "https://openai.com/index/introducing-businesses-chatgpt",
+    "publishedAt": "2026-11-10T10:00:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingbusinessesinchatgpt"
   },
   {
     "id": "80d4bc4e387227f2",
@@ -1194,6 +1299,27 @@
     "titleKey": "life360liftsfullyearrevenueoutlookto665m681mwhileextendinguspricechangesandscalingads"
   },
   {
+    "id": "bd5080f6abd4b4a2",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[91Token] 新站开启， Claude、GPT、Gemini、Seedance、GLM 塞进了一个 Key，新用户留言加群领取 10 刀体验金",
+    "summary": "官网直达： https://91token.com （注册入口就是它，别搜错域名） API 地址： https://api.91token.com （ API …",
+    "url": "https://www.v2ex.com/t/1255880",
+    "canonicalUrl": "https://www.v2ex.com/t/1255880",
+    "publishedAt": "2026-11-10T06:49:04.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "中转站"
+    ],
+    "signals": {
+      "replies": 71
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "91token新站开启claudegptgeminiseedanceglm塞进了一个key新用户留言加群领取10刀体验金"
+  },
+  {
     "id": "619d15e69b10f13c",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1211,6 +1337,27 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "greystonehousingimpactgaapepsof009missesby002revenueof2195m"
+  },
+  {
+    "id": "ae05cf104bf3bcdc",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "再聊 A/封号，所有的伪装都是徒劳",
+    "summary": "根据最近半个月被封的十几个号 以及各种身边同事和 V 友的封号情况来看 A\\是一定有能力能做到，在你登录的一瞬间识别你是否为 CN 用户 再不济，你最多几轮对话…",
+    "url": "https://www.v2ex.com/t/1255879",
+    "canonicalUrl": "https://www.v2ex.com/t/1255879",
+    "publishedAt": "2026-11-10T06:46:31.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 81
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "再聊a封号所有的伪装都是徒劳"
   },
   {
     "id": "c61984e552c2d4ad",
@@ -1855,6 +2002,42 @@
     "titleKey": "horiblepublickeytricks"
   },
   {
+    "id": "88e76f2d28a1c51d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "summary": "Cogent combines OpenAI models with enterprise context to help automatically reme…",
+    "url": "https://openai.com/index/cogent-security",
+    "canonicalUrl": "https://openai.com/index/cogent-security",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "cogentandopenaibuildcyberdefensefactoriesforenterprises"
+  },
+  {
+    "id": "645d79903acce65a",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "summary": "",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "canonicalUrl": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "publishedAt": "2026-11-10T00:00:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "payforhuggingfacehubwithyourgooglecloudaccount"
+  },
+  {
     "id": "40ba6c12c1cac2ae",
     "sourceId": "huggingface-blog",
     "sourceName": "Hugging Face Blog",
@@ -1921,6 +2104,31 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "lucidmisseswallstreetsearningsexpectationsexpandsloanfromsaudiarabiafund"
+  },
+  {
+    "id": "e5032badb39eb441",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "How did you end up in tech, and are you staying?",
+    "summary": "Last week you showed me where you code.",
+    "url": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
+    "canonicalUrl": "https://dev.to/maame-codes/how-did-you-end-up-in-tech-and-are-you-staying-4l9b",
+    "publishedAt": "2026-11-09T23:02:37.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [
+      "discuss",
+      "career",
+      "beginners",
+      "watercooler"
+    ],
+    "signals": {
+      "reactions": 99,
+      "comments": 37
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "howdidyouendupintechandareyoustaying"
   },
   {
     "id": "d2d51c6002e9394b",
@@ -3113,8 +3321,8 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 100,
-      "comments": 20
+      "reactions": 112,
+      "comments": 26
     },
     "lang": "en",
     "weight": 60,

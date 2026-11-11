@@ -1,0 +1,19 @@
+[
+  {
+    "id": "06d865af2307d2a9",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert…",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "canonicalUrl": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "fetchedAt": "2026-11-11T06:11:05.493Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "gilberttobinrethinksthebusinessoflawwithai"
+  }
+]
