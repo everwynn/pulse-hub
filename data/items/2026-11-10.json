@@ -163,23 +163,6 @@
     "titleKey": "cloudflarekvinstant读取p99仅162毫秒写入一次却要01美元"
   },
   {
-    "id": "40c5a98bc9ad8c41",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Forget happy hour. ‘Money parties’ are having a moment.",
-    "summary": "There’s evidence showing that talking about finances with your friends can help …",
-    "url": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T14:58:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "forgethappyhourmoneypartiesarehavingamoment"
-  },
-  {
     "id": "0a5d8994988a7a41",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -798,6 +781,23 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "幼儿园小学初中学龄人口已达到峰值"
+  },
+  {
+    "id": "8ec86951b8ad7577",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer s…",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "canonicalUrl": "https://openai.com/index/singapore-airlines-travel-work",
+    "publishedAt": "2026-11-10T08:00:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "singaporeairlineselevatestravelworkwithopenaitechnology"
   },
   {
     "id": "854b8c8b4b1d3868",
@@ -1755,6 +1755,28 @@
     "titleKey": "100轮图像编辑这道毙刷题新出的seedream55稳上来了"
   },
   {
+    "id": "0c05c9d97ff03c96",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Kianuni/Erosion-CN",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1461",
+    "url": "https://github.com/Kianuni/Erosion-CN",
+    "canonicalUrl": "https://github.com/Kianuni/Erosion-CN",
+    "publishedAt": "2026-11-10T02:37:31.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "Swift"
+    ],
+    "signals": {
+      "stars": 1461,
+      "forks": 338
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "kianunierosioncn"
+  },
+  {
     "id": "491548674c710ae5",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -2123,8 +2145,8 @@
       "watercooler"
     ],
     "signals": {
-      "reactions": 99,
-      "comments": 37
+      "reactions": 113,
+      "comments": 45
     },
     "lang": "en",
     "weight": 60,
@@ -3321,8 +3343,8 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 112,
-      "comments": 26
+      "reactions": 118,
+      "comments": 28
     },
     "lang": "en",
     "weight": 60,

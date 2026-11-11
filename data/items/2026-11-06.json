@@ -600,8 +600,8 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 117,
-      "comments": 84
+      "reactions": 120,
+      "comments": 87
     },
     "lang": "en",
     "weight": 60,
@@ -992,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 2013",
+    "summary": "JavaScript · ★ 2026",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -1001,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 2013,
-      "forks": 1089
+      "stars": 2026,
+      "forks": 1090
     },
     "lang": "en",
     "weight": 90,
@@ -2711,8 +2711,8 @@
       "machinelearning"
     ],
     "signals": {
-      "reactions": 142,
-      "comments": 28
+      "reactions": 143,
+      "comments": 30
     },
     "lang": "en",
     "weight": 60,
@@ -2819,7 +2819,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "jamesondh/chimera-vocal-synth",
-    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1762",
+    "summary": "the ultimate vocal synthesizer - sing, speak, beatbox, and more · Rust · ★ 1889",
     "url": "https://github.com/jamesondh/chimera-vocal-synth",
     "canonicalUrl": "https://github.com/jamesondh/chimera-vocal-synth",
     "publishedAt": "2026-11-05T19:10:42.000Z",
@@ -2828,8 +2828,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1762,
-      "forks": 205
+      "stars": 1889,
+      "forks": 226
     },
     "lang": "en",
     "weight": 90,
@@ -3248,8 +3248,8 @@
       "humor"
     ],
     "signals": {
-      "stars": 1840,
-      "forks": 54
+      "stars": 1902,
+      "forks": 56
     },
     "lang": "en",
     "weight": 90,

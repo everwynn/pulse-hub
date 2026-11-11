@@ -1,5 +1,634 @@
 [
   {
+    "id": "bd0bb8a833a87edb",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "德国经济专家委员会成员加布里埃尔·费尔伯迈尔警告称，美国中期选举结果不太可能促使华盛顿软化贸易保护主义立场，反而可能加剧…",
+    "summary": "德国经济专家委员会成员加布里埃尔·费尔伯迈尔警告称，美国中期选举结果不太可能促使华盛顿软化贸易保护主义立场，反而可能加剧关税政策的不确定性。",
+    "url": "https://wallstreetcn.com/livenews/3198531",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198531",
+    "publishedAt": "2026-11-11T15:53:46.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "德国经济专家委员会成员加布里埃尔费尔伯迈尔警告称美国中期选举结果不太可能促使华盛顿软化贸易保护主义立场反而可能加剧"
+  },
+  {
+    "id": "0045d81ee5d52068",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+    "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indica…",
+    "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+    "publishedAt": "2026-11-11T15:53:36.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "coreweaveceointratortellscnbchehascanceledhisplannedsharesaleprogram"
+  },
+  {
+    "id": "5447ba8e79a0ae51",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国驻美国大使谢锋10日晚表示，近年来，中国、美国和世界发生了重大深刻变化，两国关系也经历波折起伏，但中美关系互利共赢的…",
+    "summary": "中国驻美国大使谢锋10日晚表示，近年来，中国、美国和世界发生了重大深刻变化，两国关系也经历波折起伏，但中美关系互利共赢的本质特征没有变，两国人民友好交往的良好愿…",
+    "url": "https://wallstreetcn.com/livenews/3198530",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198530",
+    "publishedAt": "2026-11-11T15:49:12.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国驻美国大使谢锋10日晚表示近年来中国美国和世界发生了重大深刻变化两国关系也经历波折起伏但中美关系互利共赢的"
+  },
+  {
+    "id": "5a40ddf90ef5d374",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "全球最大保险经纪公司Marsh & McLennan Cos.正游说美国众多监管部门，要求允许银行对由信用风险保险覆盖的…",
+    "summary": "全球最大保险经纪公司Marsh & McLennan Cos.正游说美国众多监管部门，要求允许银行对由信用风险保险覆盖的贷款持有较少资本，因为银行正在寻求新的方…",
+    "url": "https://wallstreetcn.com/livenews/3198529",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198529",
+    "publishedAt": "2026-11-11T15:47:02.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "us-stock-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "全球最大保险经纪公司marshmclennancos正游说美国众多监管部门要求允许银行对由信用风险保险覆盖的"
+  },
+  {
+    "id": "65b45f83f7ccae20",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "纳斯达克100指数涨幅扩大至2.1%，纳指涨1.57%，标普涨超1%，道指跌超0.1%，半导体指数涨5.38%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3198528",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198528",
+    "publishedAt": "2026-11-11T15:44:42.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "纳斯达克100指数涨幅扩大至21纳指涨157标普涨超1道指跌超01半导体指数涨538"
+  },
+  {
+    "id": "61d5661a5171027d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "德国中国商会和毕马威德国11日在德国法兰克福联合发布的《在德中资企业营商环境调查报告2026》显示，德国仍是中国企业在欧…",
+    "summary": "德国中国商会和毕马威德国11日在德国法兰克福联合发布的《在德中资企业营商环境调查报告2026》显示，德国仍是中国企业在欧洲开展生产投资的首选目的地，中德企业在研…",
+    "url": "https://wallstreetcn.com/livenews/3198527",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198527",
+    "publishedAt": "2026-11-11T15:43:57.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "德国中国商会和毕马威德国11日在德国法兰克福联合发布的在德中资企业营商环境调查报告2026显示德国仍是中国企业在欧"
+  },
+  {
+    "id": "cc1ce570b00b3189",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美联储讨论纽约联储主席（在任时享有FOMC永久投票权，号称“美联储三把手”）威廉姆斯的去留问题。 退休制度触使官员们研究…",
+    "summary": "美联储讨论纽约联储主席（在任时享有FOMC永久投票权，号称“美联储三把手”）威廉姆斯的去留问题。",
+    "url": "https://wallstreetcn.com/livenews/3198526",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198526",
+    "publishedAt": "2026-11-11T15:33:27.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美联储讨论纽约联储主席在任时享有fomc永久投票权号称美联储三把手威廉姆斯的去留问题退休制度触使官员们研究"
+  },
+  {
+    "id": "f99991ab93ec4fab",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "前美国总统拜登的国家经济委员会主任布雷纳德（Lael Brainard）向民主党人推介一项低首付方案，旨在将数百万新购房…",
+    "summary": "前美国总统拜登的国家经济委员会主任布雷纳德（Lael Brainard）向民主党人推介一项低首付方案，旨在将数百万新购房者带入市场；与此同时，即将上任的国会领导…",
+    "url": "https://wallstreetcn.com/livenews/3198525",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3198525",
+    "publishedAt": "2026-11-11T15:33:01.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "前美国总统拜登的国家经济委员会主任布雷纳德laelbrainard向民主党人推介一项低首付方案旨在将数百万新购房"
+  },
+  {
+    "id": "3b716871421235db",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
+    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T15:30:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
+  },
+  {
+    "id": "83e9fa13b4a8f4eb",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
+    "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around deb…",
+    "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T15:26:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "coreweavejustgaveashotinthearmtomicronlumentumandtherestoftheaitrade"
+  },
+  {
+    "id": "79f838b5c0f2f4b3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+    "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with …",
+    "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T15:25:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "im63andwanttospend95000onaroofdeckformy500000homeisthatagoodinvestment"
+  },
+  {
+    "id": "ac8ea521ae85a36b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "上海合晶定增方案调整：砍掉补流项目、7亿加码12英寸硅片，扩产资金七成靠举债",
+    "summary": "股权融资杯水车薪，大头需银团贷款。",
+    "url": "https://www.tmtpost.com/8201705.html",
+    "canonicalUrl": "https://www.tmtpost.com/8201705.html",
+    "publishedAt": "2026-11-11T15:15:01.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "芯片",
+      "半导体",
+      "融资"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "上海合晶定增方案调整砍掉补流项目7亿加码12英寸硅片扩产资金七成靠举债"
+  },
+  {
+    "id": "71ac82e3d24a9c63",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+    "summary": "Anxiety in the U.S.",
+    "url": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T15:15:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "marketangstisdrivinginvestorsintolowvolatilitystocksasaitradestumbles"
+  },
+  {
+    "id": "bc806a9efa65ec0c",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
+    "summary": "Many service members face an often invisible financial trap when they step out o…",
+    "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T15:08:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "fromlivinginhiscartoa756creditscorehowoneveteranrebuilthisfinances"
+  },
+  {
+    "id": "d1194824432ded60",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "summary": "Predicting how DNA sequences and their variations impact specific human cell typ…",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+    "canonicalUrl": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "publishedAt": "2026-11-11T15:00:15.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "alphagenome2decipheringhowcellsreaddnatobetterunderstanddisease"
+  },
+  {
+    "id": "c5625db03669d63d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "假如地球没有诞生生命？",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85862",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85862",
+    "publishedAt": "2026-11-11T14:43:47.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "假如地球没有诞生生命"
+  },
+  {
+    "id": "4aa58e90d5a02128",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Firefox 内置 VPN 服务在三个月内不限制流量",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85861",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85861",
+    "publishedAt": "2026-11-11T14:33:18.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "firefox内置vpn服务在三个月内不限制流量"
+  },
+  {
+    "id": "c5bdbd7f2beee990",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My friend hates her job but shuts down when I give her advice. How can I help her?",
+    "summary": "It’s counterintuitive, but the worst thing you could do is give your friend advi…",
+    "url": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T14:24:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "myfriendhatesherjobbutshutsdownwhenigiveheradvicehowcanihelpher"
+  },
+  {
+    "id": "9e61b630d99cc091",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Pharo in the Browser with WebAssembly",
+    "summary": "",
+    "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "canonicalUrl": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "publishedAt": "2026-11-11T14:21:27.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 55,
+      "comments": 13
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "pharointhebrowserwithwebassembly"
+  },
+  {
+    "id": "18b9922390a705bd",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "苹果关闭支持社区",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85860",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85860",
+    "publishedAt": "2026-11-11T14:16:09.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "苹果关闭支持社区"
+  },
+  {
+    "id": "40c5a98bc9ad8c41",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Forget happy hour. ‘Money parties’ are having a moment.",
+    "summary": "There’s evidence showing that talking about finances with your friends can help …",
+    "url": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/forget-happy-hour-money-parties-are-having-a-moment-6bc6f02a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-11T14:12:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "forgethappyhourmoneypartiesarehavingamoment"
+  },
+  {
+    "id": "2e5d7749bbd3dda2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Atuin Threads: All your agent sessions on every machine",
+    "summary": "",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "canonicalUrl": "https://blog.atuin.sh/threads-agent-sessions",
+    "publishedAt": "2026-11-11T14:10:46.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 54,
+      "comments": 18
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "atuinthreadsallyouragentsessionsoneverymachine"
+  },
+  {
+    "id": "dc41b2e6694ec2ea",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Apple is killing its Support Community forum next week",
+    "summary": "",
+    "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "canonicalUrl": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "publishedAt": "2026-11-11T14:02:11.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 96,
+      "comments": 53
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "appleiskillingitssupportcommunityforumnextweek"
+  },
+  {
+    "id": "3a53821f43bf61a6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+    "summary": "",
+    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "canonicalUrl": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "publishedAt": "2026-11-11T13:56:05.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 140,
+      "comments": 73
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "iaskedeverytvmanufacturer17questionsabouthowtheyspyonyou"
+  },
+  {
+    "id": "99c204226007a95c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Hyper-Realistic Sand with WebGL2",
+    "summary": "",
+    "url": "https://av.github.io/safe-sand/",
+    "canonicalUrl": "https://av.github.io/safe-sand",
+    "publishedAt": "2026-11-11T13:39:29.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 45,
+      "comments": 7
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "hyperrealisticsandwithwebgl2"
+  },
+  {
+    "id": "78dd3d9e3022e40f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+    "summary": "",
+    "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "canonicalUrl": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "publishedAt": "2026-11-11T13:34:24.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 31,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhngodboltinafloatingwindowforneovimccrust"
+  },
+  {
+    "id": "b3a87a9e13834887",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "退复星南宁、卖莱美老厂：中恒集团的收缩账",
+    "summary": "两笔交易的绝对金额都不算高，但放在中恒集团前三季度业绩承压、持续梳理存量资产的背景下，也是一个战略信号。",
+    "url": "https://www.tmtpost.com/8201586.html",
+    "canonicalUrl": "https://www.tmtpost.com/8201586.html",
+    "publishedAt": "2026-11-11T13:32:08.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "创新药",
+      "生物医药",
+      "医疗医药行业",
+      "医疗健康",
+      "医疗",
+      "大健康"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "退复星南宁卖莱美老厂中恒集团的收缩账"
+  },
+  {
+    "id": "80f79e10dc2ec4cc",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Nissan cuts sales forecast again on China woes as CEO outlines plan to fight back",
+    "summary": "Intensifying competition in the world's largest auto market forced Nissan to cut…",
+    "url": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/11/nissan-sales-forecast-earnings-china.html",
+    "publishedAt": "2026-11-11T13:18:48.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "nissancutssalesforecastagainonchinawoesasceooutlinesplantofightback"
+  },
+  {
+    "id": "6b14e118d89621d6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Can a Linear Program Do Weight-Space Programming?",
+    "summary": "",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "canonicalUrl": "https://nathan.rs/posts/weight-space-lp",
+    "publishedAt": "2026-11-11T12:30:17.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 129,
+      "comments": 19
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "canalinearprogramdoweightspaceprogramming"
+  },
+  {
+    "id": "0edfca17186afbc1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "We need more goat sacrifices",
+    "summary": "",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "canonicalUrl": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "publishedAt": "2026-11-11T12:29:48.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 65,
+      "comments": 32
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "weneedmoregoatsacrifices"
+  },
+  {
+    "id": "4abbaedf455edcc5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
+    "summary": "",
+    "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "canonicalUrl": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+    "publishedAt": "2026-11-11T12:09:49.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 42,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nextlevelbenchmarkingoverfittingthomasneumann"
+  },
+  {
+    "id": "7adcee0f98dff8a9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+    "summary": "",
+    "url": "https://pietromiotti.com/latest/maya-site/?maya",
+    "canonicalUrl": "https://pietromiotti.com/latest/maya-site?maya",
+    "publishedAt": "2026-11-11T12:05:22.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 578,
+      "comments": 225
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "googleswepoints48aiagentsatnasalidarfindsunmappedmayapyramidin72h"
+  },
+  {
     "id": "fb34e0a7d9cb24e0",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +646,43 @@
     "titleKey": "agent从demo到生产究竟还差几步4周实战课来了"
   },
   {
+    "id": "b02cf11294dd2c42",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "扩产太猛、5亿转债转不动，聚合顺3亿定增由实控人兜底遭问询",
+    "summary": "扩产承压，定增补流遭问询。",
+    "url": "https://www.tmtpost.com/8201522.html",
+    "canonicalUrl": "https://www.tmtpost.com/8201522.html",
+    "publishedAt": "2026-11-11T11:43:07.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "融资",
+      "焦点"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "扩产太猛5亿转债转不动聚合顺3亿定增由实控人兜底遭问询"
+  },
+  {
+    "id": "528fecf3ca1f8891",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "黑猩猩后天习得部分叫声",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85859",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85859",
+    "publishedAt": "2026-11-11T11:12:10.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "黑猩猩后天习得部分叫声"
+  },
+  {
     "id": "ce07d6efa7963f7c",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +698,101 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "cloudflare推出面向ai应用程序的websearchapi"
+  },
+  {
+    "id": "f4ad82f3bee6b6e0",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "刚果埃博拉病例突破 1.1 万例",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85858",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85858",
+    "publishedAt": "2026-11-11T10:55:55.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "刚果埃博拉病例突破11万例"
+  },
+  {
+    "id": "a40201032f03f3e8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Using voltage glitching to unleash the A100 in my mining card",
+    "summary": "",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "canonicalUrl": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100",
+    "publishedAt": "2026-11-11T10:48:40.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 140,
+      "comments": 55
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "usingvoltageglitchingtounleashthea100inmyminingcard"
+  },
+  {
+    "id": "6b2a44565547e0e5",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "AI 生成的代码并不可靠",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85857",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85857",
+    "publishedAt": "2026-11-11T10:43:22.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "ai生成的代码并不可靠"
+  },
+  {
+    "id": "f4dcfe0bb8107475",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Casvisor 开源：Apache-2.0 的堡垒机，一个 Go 二进制支持 SSH、RDP、VNC、Telnet 与会话录像",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503535",
+    "canonicalUrl": "https://www.oschina.net/news/503535",
+    "publishedAt": "2026-11-11T10:40:01.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "casvisor开源apache20的堡垒机一个go二进制支持sshrdpvnctelnet与会话录像"
+  },
+  {
+    "id": "8ddd32ff2287335b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "超过美国，中国成巴西医疗器械最大进口来源国",
+    "summary": "中国制造已经成为巴西医疗设备的重要供应力量。",
+    "url": "https://www.tmtpost.com/8201235.html",
+    "canonicalUrl": "https://www.tmtpost.com/8201235.html",
+    "publishedAt": "2026-11-11T10:29:16.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "主编精选文章",
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "超过美国中国成巴西医疗器械最大进口来源国"
   },
   {
     "id": "e60eb71587079928",
@@ -68,6 +829,78 @@
     "titleKey": "微软10月安全更新修复1400余个漏洞其中一个已遭利用"
   },
   {
+    "id": "8ad2dedb9c1e2b04",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "比黄仁勋婚外情更大的风暴，才刚刚到来",
+    "summary": "这场技术革命的发展已势不可挡。",
+    "url": "https://www.tmtpost.com/8201240.html",
+    "canonicalUrl": "https://www.tmtpost.com/8201240.html",
+    "publishedAt": "2026-11-11T08:42:40.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "比黄仁勋婚外情更大的风暴才刚刚到来"
+  },
+  {
+    "id": "55afa3c22855c9b1",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "389家游戏工作室并购调查：34%关停，十年内关停比例达38.9%",
+    "summary": "作室被收购之后，真的能够获得更好的发展吗？",
+    "url": "https://www.tmtpost.com/8200751.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200751.html",
+    "publishedAt": "2026-11-11T08:42:37.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "主编精选文章"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "389家游戏工作室并购调查34关停十年内关停比例达389"
+  },
+  {
+    "id": "cc0dc76359590026",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "CERN 如何为 LHC 研发下一代磁体",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85856",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85856",
+    "publishedAt": "2026-11-11T08:20:35.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "cern如何为lhc研发下一代磁体"
+  },
+  {
+    "id": "e10d327575673107",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qOntology 本体建模平台开源版 v1.1.2 发布：完善项目版本展示，优化建模交互与页面布局",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503533",
+    "canonicalUrl": "https://www.oschina.net/news/503533",
+    "publishedAt": "2026-11-11T08:15:44.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qontology本体建模平台开源版v112发布完善项目版本展示优化建模交互与页面布局"
+  },
+  {
     "id": "3ce818553b06fe4d",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -85,6 +918,157 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "chatgptplusforveteransandservicemembers"
+  },
+  {
+    "id": "e12fb4e17d39d51b",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "猫围着你叫是叫你去解决问题",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85855",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85855",
+    "publishedAt": "2026-11-11T07:41:22.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "猫围着你叫是叫你去解决问题"
+  },
+  {
+    "id": "1697ac052d60b159",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "yuanqi‑open（UIEIP）v1.0 更新：SSO 单点登录示例 yuanqi‑ssodemo 维护完成｜Go 单文件一体化企业低代码平台",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503532",
+    "canonicalUrl": "https://www.oschina.net/news/503532",
+    "publishedAt": "2026-11-11T07:23:28.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "yuanqiopenuieipv10更新sso单点登录示例yuanqissodemo维护完成go单文件一体化企业低代码平台"
+  },
+  {
+    "id": "23a526784824a197",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "开源企业数仓 Apache Cloudberry 2.2.0 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503531",
+    "canonicalUrl": "https://www.oschina.net/news/503531",
+    "publishedAt": "2026-11-11T07:14:35.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "开源企业数仓apachecloudberry220发布"
+  },
+  {
+    "id": "e0445b6a5cab5cc6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "英伟达股价 2 天暴跌 10%",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85854",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85854",
+    "publishedAt": "2026-11-11T07:11:17.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "英伟达股价2天暴跌10"
+  },
+  {
+    "id": "1dbc14b2533fcad9",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Michael John Harrison 成为首位获得布克奖的科幻作家",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85853",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85853",
+    "publishedAt": "2026-11-11T07:02:26.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "michaeljohnharrison成为首位获得布克奖的科幻作家"
+  },
+  {
+    "id": "9c8fa465da90f2c8",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+    "summary": "价格、门槛全打穿",
+    "url": "https://www.qbitai.com/2026/11/509146.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509146.html",
+    "publishedAt": "2026-11-11T06:41:26.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "TRAE",
+      "罗永浩"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "双11直播间爆改ai秀场罗永浩上手trae秒变aicoding的大众嘴替"
+  },
+  {
+    "id": "145c03364819b76f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "从“卖Token”到“卖结果” | 科技有「联想」沙龙激辩Token经济三大议题",
+    "summary": "10月30日，“科技有「联想」·Token畅想曲”线下沙龙在京举行。",
+    "url": "https://www.qbitai.com/2026/11/509088.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509088.html",
+    "publishedAt": "2026-11-11T06:27:03.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "资讯",
+      "联想"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从卖token到卖结果科技有联想沙龙激辩token经济三大议题"
+  },
+  {
+    "id": "c130cd988b608869",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+    "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。",
+    "url": "https://www.qbitai.com/2026/11/509085.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509085.html",
+    "publishedAt": "2026-11-11T06:18:09.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "资讯",
+      "天猫"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "卷起来了11月11日大模型厂商在天猫打5折"
   },
   {
     "id": "7291139bcf84ea5d",
@@ -479,8 +1463,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 56,
-      "comments": 15
+      "points": 329,
+      "comments": 120
     },
     "lang": "en",
     "weight": 92,
@@ -528,6 +1512,27 @@
     "titleKey": "安孚东山复星纷纷模仿为何国内造不出伯克希尔"
   },
   {
+    "id": "e36c12bfc6040188",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[求关注]建立了一个 TG 频道 A 股资讯自动发布，回复这个帖子前 100 名送铜币",
+    "summary": "**内容如下：** 做了一个 Telegram 的 Bot ，每天早上会定时发布早盘情报，每小时会发布要闻，收盘发布总结。",
+    "url": "https://www.v2ex.com/t/1256107",
+    "canonicalUrl": "https://www.v2ex.com/t/1256107",
+    "publishedAt": "2026-11-11T03:37:01.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 113
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "求关注建立了一个tg频道a股资讯自动发布回复这个帖子前100名送铜币"
+  },
+  {
     "id": "cd18a717d341ef41",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -564,7 +1569,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 90
+      "replies": 186
     },
     "lang": "zh",
     "weight": 55,
@@ -658,7 +1663,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 192
+      "replies": 314
     },
     "lang": "zh",
     "weight": 55,
@@ -679,7 +1684,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 71
+      "replies": 102
     },
     "lang": "zh",
     "weight": 55,
@@ -758,6 +1763,48 @@
     "titleKey": "平头哥要上市阿里ai的第一个大结果"
   },
   {
+    "id": "49c52d7c42e64ccd",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "工作和未来困境，大龄码农该何去何从",
+    "summary": "前情： 三十八线小城市，人口大概 1-200w(包括下面的县市和农村)，本地主要以工业工厂为主，经济低迷。",
+    "url": "https://www.v2ex.com/t/1256042",
+    "canonicalUrl": "https://www.v2ex.com/t/1256042",
+    "publishedAt": "2026-11-11T01:34:17.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 88
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "工作和未来困境大龄码农该何去何从"
+  },
+  {
+    "id": "3c3dc5eeeb98893b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "想买 switch 了 是买 1 还是 2？",
+    "summary": "想玩这些 1. 平时和女朋友在家玩玩体感游戏 2. 野炊 3. 暗黑刷刷刷",
+    "url": "https://www.v2ex.com/t/1256038",
+    "canonicalUrl": "https://www.v2ex.com/t/1256038",
+    "publishedAt": "2026-11-11T01:20:40.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 83
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "想买switch了是买1还是2"
+  },
+  {
     "id": "ba3af495fe9a0593",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -789,7 +1836,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 83
+      "replies": 108
     },
     "lang": "zh",
     "weight": 55,
@@ -865,11 +1912,28 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 64
+      "replies": 83
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "sshyard已正式发布v100高颜值纯原生ssh客户端功能齐全且体积非常小随楼抽50位评论者每位赠送50个v2ex"
+  },
+  {
+    "id": "154cde00a4b49b8a",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "summary": "",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "canonicalUrl": "https://huggingface.co/blog/token-pooling",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "fetchedAt": "2026-11-11T16:08:54.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "tokenpoolingawaretrainingformultivectorembeddingmodels"
   },
   {
     "id": "8e6b296716b2782f",
@@ -887,23 +1951,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
-  },
-  {
-    "id": "3b716871421235db",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
-    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-10T23:25:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
   },
   {
     "id": "33b8b45be5e2d06a",
