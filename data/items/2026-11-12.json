@@ -1,5 +1,492 @@
 [
   {
+    "id": "464c69d9704373ab",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+    "summary": "‘There’s no question that Congress is going to push for a complete ban on the sa…",
+    "url": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-12T15:55:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiaisspendingmorethaneveronwashingtonlobbyingitmaynotstopcongressfromlimitingchinachipsalesnow"
+  },
+  {
+    "id": "fd3367bee2e8ebe4",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
+    "summary": "Home sales fell in October to a 16-year low as buyers bolted from the housing ma…",
+    "url": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/home-sales-plummet-to-lowest-level-since-the-great-recession-as-buyers-flee-the-market-624e6270?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-12T15:52:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "homesalesplummettolowestlevelsincegreatrecessionaspriceshitalltimehigh"
+  },
+  {
+    "id": "37f30cd0644f065f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "What really happens during Medicare counseling",
+    "summary": "Open enrollment can bring unexpected challenges for seniors.",
+    "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-12T15:40:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "whatreallyhappensduringmedicarecounseling"
+  },
+  {
+    "id": "0e85a0536defbc83",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+    "summary": "",
+    "url": "https://fable52.games",
+    "canonicalUrl": "https://fable52.games/",
+    "publishedAt": "2026-11-12T15:30:01.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 24,
+      "comments": 20
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnfable52gamesplayandinspectfable52singlefilehtmlgames"
+  },
+  {
+    "id": "7f8dbb57466ecc7a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "summary": "There is already a demographic ‘run’ on Social Security.",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-12T15:30:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
+  },
+  {
+    "id": "ea3b6c6981fcc85e",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+    "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed b…",
+    "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+    "publishedAt": "2026-11-12T15:27:41.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "nebiusfalls16ascompanyexpectsincreased2026capexspendissuesweakoutlook"
+  },
+  {
+    "id": "749ee29d1109eaad",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
+    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
+    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-12T15:26:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantaffordour200000ayeardreamretirementithinkhescheap"
+  },
+  {
+    "id": "fbddc5093ca6c688",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+    "summary": "",
+    "url": "https://github.com/chocoford/ExcalidrawZ",
+    "canonicalUrl": "https://github.com/chocoford/ExcalidrawZ",
+    "publishedAt": "2026-11-12T15:25:52.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 22,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "excalidrawzlocalnativeexcalidrawonmacosios"
+  },
+  {
+    "id": "83a93d64929ec2b8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I'm making LLMs work on small and old devices",
+    "summary": "",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "canonicalUrl": "https://github.com/hyperionaidev/smolmaxxing",
+    "publishedAt": "2026-11-12T15:23:10.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 27,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "immakingllmsworkonsmallandolddevices"
+  },
+  {
+    "id": "90876bb467755920",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Here’s what Megaspeed, the company at the forefront of the Nvidia scandal, is now saying",
+    "summary": "The Singaporean company Megaspeed, which stands at the center of the scandal eng…",
+    "url": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-12T15:23:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hereswhatmegaspeedthecompanyattheforefrontofthenvidiascandalisnowsaying"
+  },
+  {
+    "id": "c80b09f7d1f39cd8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+    "summary": "",
+    "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+    "canonicalUrl": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch",
+    "publishedAt": "2026-11-12T15:14:52.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 20,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "fittingfour32gbresizablebarsbehindapcieswitchonlinux"
+  },
+  {
+    "id": "7b24223818ce660c",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj",
+    "publishedAt": "2026-11-12T15:00:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "google终于让pytorch原生跑上tpu开发者早该如此"
+  },
+  {
+    "id": "2bd14c4c78c7a4b4",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "用户抱怨难以在流媒体服务上找到想看的内容",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85874",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85874",
+    "publishedAt": "2026-11-12T14:42:28.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "用户抱怨难以在流媒体服务上找到想看的内容"
+  },
+  {
+    "id": "200fe51844bb6551",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "印度苹果代工厂发生三名合同工死亡事故",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85873",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85873",
+    "publishedAt": "2026-11-12T14:28:40.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "印度苹果代工厂发生三名合同工死亡事故"
+  },
+  {
+    "id": "cc006a008f5a0816",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+    "summary": "",
+    "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "canonicalUrl": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+    "publishedAt": "2026-11-12T14:18:49.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 98,
+      "comments": 30
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "abandonedquake4expansionfinishedbymoddersandnowplayable"
+  },
+  {
+    "id": "5e548c5078a185a8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+    "summary": "",
+    "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "canonicalUrl": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+    "publishedAt": "2026-11-12T14:12:37.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 83,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "talkingzen6withmikeclarkatamdindepth"
+  },
+  {
+    "id": "1b55eb305977927c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Libreagi – Save OSS Models",
+    "summary": "",
+    "url": "https://libreagi.com/",
+    "canonicalUrl": "https://libreagi.com/",
+    "publishedAt": "2026-11-12T14:11:58.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 52,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "libreagisaveossmodels"
+  },
+  {
+    "id": "308c384de57e6a8a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+    "summary": "",
+    "url": "https://spectrum.ieee.org/electric-ship-batteries",
+    "canonicalUrl": "https://spectrum.ieee.org/electric-ship-batteries",
+    "publishedAt": "2026-11-12T14:06:03.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 31,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "electricshipbatteriespromisecompactcoolerpower"
+  },
+  {
+    "id": "15be79a623a62af6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "黄仁勋辞职",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85872",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85872",
+    "publishedAt": "2026-11-12T14:03:11.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "黄仁勋辞职"
+  },
+  {
+    "id": "28150402573a76d6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "BMI 误判数百万人肥胖",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85871",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85871",
+    "publishedAt": "2026-11-12T14:01:40.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "bmi误判数百万人肥胖"
+  },
+  {
+    "id": "570a4830827c6d9c",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "天文学家发现一个恒星系统每八分钟发射一次射电信号",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85870",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85870",
+    "publishedAt": "2026-11-12T13:55:08.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "天文学家发现一个恒星系统每八分钟发射一次射电信号"
+  },
+  {
+    "id": "3a9e1ae75d411273",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "NVIDIA Announces CEO Transition",
+    "summary": "",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "canonicalUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "publishedAt": "2026-11-12T13:52:29.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1294,
+      "comments": 1082
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nvidiaannouncesceotransition"
+  },
+  {
+    "id": "05ff47168555f476",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Chinese Workers Are Paying Their Own AI Bills to Stay Productive",
+    "summary": "Generative AI has become daily infrastructure for millions of office and profess…",
+    "url": "https://www.tmtpost.com/8203536.html",
+    "canonicalUrl": "https://www.tmtpost.com/8203536.html",
+    "publishedAt": "2026-11-12T13:42:07.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "chineseworkersarepayingtheirownaibillstostayproductive"
+  },
+  {
+    "id": "dea0f6e59eda6758",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "《Big Walk》开发商利用 AI 修 Bug 引起争议",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85869",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85869",
+    "publishedAt": "2026-11-12T13:27:09.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "bigwalk开发商利用ai修bug引起争议"
+  },
+  {
+    "id": "75d663eafa35574c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "今天起，豆包工作接入更多模型了",
+    "summary": "11月12日，豆包工作宣布正式接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型，并推出限时特惠计划。",
+    "url": "https://www.tmtpost.com/8202629.html",
+    "canonicalUrl": "https://www.tmtpost.com/8202629.html",
+    "publishedAt": "2026-11-12T13:23:33.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "今天起豆包工作接入更多模型了"
+  },
+  {
+    "id": "18ad67433da5d10e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "实测百度文心5.5 Flash Preview：审美依然在线，编程全力争先",
+    "summary": "百度发布最新基础模型，编程、3D 建模、知识工作、内容创作等表现突出。",
+    "url": "https://www.tmtpost.com/8202831.html",
+    "canonicalUrl": "https://www.tmtpost.com/8202831.html",
+    "publishedAt": "2026-11-12T13:23:09.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "实测百度文心55flashpreview审美依然在线编程全力争先"
+  },
+  {
     "id": "247b269c77075a5b",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +502,106 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "智能体ai架构中记忆知识与上下文的系统化方案"
+  },
+  {
+    "id": "14978713791ebf36",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "艾迪药业定增再砍6600万：管线分文未动，补流空间进一步压缩",
+    "summary": "从12.77亿元首版方案，到9.45亿元，再落到如今8.79亿元，大半年时间里，这轮定增经历两轮规模压缩。",
+    "url": "https://www.tmtpost.com/8203361.html",
+    "canonicalUrl": "https://www.tmtpost.com/8203361.html",
+    "publishedAt": "2026-11-12T12:57:08.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "创新药",
+      "生物医药",
+      "医疗医药行业",
+      "医疗行业",
+      "医疗健康",
+      "大健康"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "艾迪药业定增再砍6600万管线分文未动补流空间进一步压缩"
+  },
+  {
+    "id": "3d260f41b47a78dc",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Trade Desk财报超预期，华尔街乐观情绪推高股价",
+    "summary": "至少有14位跟踪该股票的分析师在财报发布后上调了他们的目标价。",
+    "url": "https://www.tmtpost.com/8203436.html",
+    "canonicalUrl": "https://www.tmtpost.com/8203436.html",
+    "publishedAt": "2026-11-12T12:11:31.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "tradedesk财报超预期华尔街乐观情绪推高股价"
+  },
+  {
+    "id": "da68c734c083f11b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Anthropic IPO",
+    "summary": "",
+    "url": "https://ipo.anthropic.com/us/",
+    "canonicalUrl": "https://ipo.anthropic.com/us",
+    "publishedAt": "2026-11-12T11:46:41.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 462,
+      "comments": 478
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "anthropicipo"
+  },
+  {
+    "id": "7693ca1b9d6e27bb",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Alibaba’s Chip Unit Heads for Hong Kong With Cloud Still in the Way",
+    "summary": "Alibaba plans to list T-Head in Hong Kong after eight years inside the group.",
+    "url": "https://www.tmtpost.com/8203405.html",
+    "canonicalUrl": "https://www.tmtpost.com/8203405.html",
+    "publishedAt": "2026-11-12T11:46:05.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "alibabaschipunitheadsforhongkongwithcloudstillintheway"
+  },
+  {
+    "id": "78074c9c13fe8559",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+    "summary": "「CAD拆解」",
+    "url": "https://www.qbitai.com/2026/11/509440.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509440.html",
+    "publishedAt": "2026-11-12T11:36:20.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "MiniMax"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "多模态源神minimax开源sota生图模型原生4k一张两毛"
   },
   {
     "id": "847564acebab1b37",
@@ -34,6 +621,26 @@
     "titleKey": "谷歌发布首款决策模型geminidecision19项测试拿下7项第一准确率最高922"
   },
   {
+    "id": "5f21cc990babf73a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+    "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
+    "url": "https://www.qbitai.com/2026/11/509404.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509404.html",
+    "publishedAt": "2026-11-12T10:45:33.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "银河智学"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从通用大模型到学习过程智能ai如何真正进入课堂"
+  },
+  {
     "id": "ec8e7e914f0358ff",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -42,13 +649,35 @@
     "summary": "点击查看原文>",
     "url": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&utm_medium=article",
     "canonicalUrl": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo",
-    "publishedAt": "2026-11-12T10:45:04.000Z",
+    "publishedAt": "2026-11-12T10:45:05.000Z",
     "fetchedAt": "2026-11-12T07:06:59.517Z",
     "tags": [],
     "signals": {},
     "lang": "zh",
     "weight": 70,
     "titleKey": "token越烧越多利润却没涨李彦宏要重新设计企业组织"
+  },
+  {
+    "id": "1179360a952950e0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why Writing Correct Software Is Hard",
+    "summary": "",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "canonicalUrl": "https://pron.github.io/posts/correctness-and-complexity",
+    "publishedAt": "2026-11-12T10:28:26.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 254,
+      "comments": 105
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whywritingcorrectsoftwareishard"
   },
   {
     "id": "75e7d5e61fb60a0e",
@@ -85,6 +714,47 @@
     "titleKey": "让系统接管底层算法harmonyos7fastkit的性能与接入实践"
   },
   {
+    "id": "f9acf3ddd5237f86",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+    "summary": "全世界都在踩刹车，达里奥一个人踩油门",
+    "url": "https://www.qbitai.com/2026/11/509381.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509381.html",
+    "publishedAt": "2026-11-12T10:11:29.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "Anthropic",
+      "Claude"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "anthropic启动ipo路演估值已缩水6000亿美元"
+  },
+  {
+    "id": "67daf8316a5babf1",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+    "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
+    "url": "https://www.qbitai.com/2026/11/509355.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509355.html",
+    "publishedAt": "2026-11-12T10:08:24.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "Grok"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "马斯克grok泄露自家机密spacex特斯拉工资绩效全曝光"
+  },
+  {
     "id": "91c246cae6c944d2",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -102,6 +772,43 @@
     "titleKey": "从搜到知识到理解约束差旅agent的业务语义偏好图谱与上下文工程实践aicon北京"
   },
   {
+    "id": "6b52a93b557de2db",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+    "summary": "企业 AI 的难题，不只是模型够不够强",
+    "url": "https://www.qbitai.com/2026/11/509349.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509349.html",
+    "publishedAt": "2026-11-12T09:34:06.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "中兴通讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "让ai真正懂业务璇玑如何成为企业ai的语义基础设施"
+  },
+  {
+    "id": "355b5622bdc066f4",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, highe…",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "canonicalUrl": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "publishedAt": "2026-11-12T09:30:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "holidayextrasisrethinkingwhatitcanbuildwithcodex"
+  },
+  {
     "id": "d14bc85acfe60881",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -117,6 +824,138 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "谷歌采用dpop增强oauth20抵御令牌窃取与重放攻击"
+  },
+  {
+    "id": "7b30760acc82b639",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "被领导叫去涨薪了",
+    "summary": "虽然只加了 2K ，但是也很开心啊 最近 V 站工作贴一片灰暗，给 V 友一些希望",
+    "url": "https://www.v2ex.com/t/1256525",
+    "canonicalUrl": "https://www.v2ex.com/t/1256525",
+    "publishedAt": "2026-11-12T08:50:09.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 105
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "被领导叫去涨薪了"
+  },
+  {
+    "id": "64261f6913322c95",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "M87 星系黑洞存在甜甜圈结构",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85868",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85868",
+    "publishedAt": "2026-11-12T08:43:31.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "m87星系黑洞存在甜甜圈结构"
+  },
+  {
+    "id": "84c5ab19075bafad",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "《Python 之禅》作者 Tim Peters 去世",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85867",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85867",
+    "publishedAt": "2026-11-12T08:30:55.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "python之禅作者timpeters去世"
+  },
+  {
+    "id": "61abde1794b5c523",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "马斯克已准备好聘请黄仁勋",
+    "summary": "老黄出轨认错、再曝婚外恋",
+    "url": "https://www.qbitai.com/2026/11/509334.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509334.html",
+    "publishedAt": "2026-11-12T08:16:11.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "智能车参考",
+      "黄仁勋"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "马斯克已准备好聘请黄仁勋"
+  },
+  {
+    "id": "06b3e68dd3336a50",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
+    "summary": "只管挖不管埋。",
+    "url": "https://www.qbitai.com/2026/11/509291.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509291.html",
+    "publishedAt": "2026-11-12T07:55:11.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "Anthropic",
+      "玻璃翼计划"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "anthropic玻璃翼计划被质疑近4万个候补漏洞只修了217条"
+  },
+  {
+    "id": "f69816b0c0a29b56",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "电视厂商回应有关监视的提问",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85866",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85866",
+    "publishedAt": "2026-11-12T07:39:21.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "电视厂商回应有关监视的提问"
+  },
+  {
+    "id": "5b3a477409810e53",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "全球化筑基，AI 赋能新体验，openKylin 3.0 SP1 正式发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503545",
+    "canonicalUrl": "https://www.oschina.net/news/503545",
+    "publishedAt": "2026-11-12T07:13:17.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "全球化筑基ai赋能新体验openkylin30sp1正式发布"
   },
   {
     "id": "ef0a82b9d041282a",
@@ -441,6 +1280,23 @@
     "titleKey": "telefónicaraisesebitdaandfreecashflowoutlookafterq3results"
   },
   {
+    "id": "5b43032c0befb3a6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "腾讯计划将半数员工部署到 AI 原生业务",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85865",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85865",
+    "publishedAt": "2026-11-12T06:49:27.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "腾讯计划将半数员工部署到ai原生业务"
+  },
+  {
     "id": "9f577ee3a3ad2b54",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -456,6 +1312,26 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "当算力遇上电墙英飞凌豪赌300毫米氮化镓背后"
+  },
+  {
+    "id": "318218a9dfeab385",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "百曜科技入选全球 The Information 50！",
+    "summary": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
+    "url": "https://www.qbitai.com/2026/11/509285.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509285.html",
+    "publishedAt": "2026-11-12T06:13:22.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "资讯",
+      "百曜科技"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "百曜科技入选全球theinformation50"
   },
   {
     "id": "e8f18ad74a45caae",
@@ -594,6 +1470,48 @@
     "titleKey": "darlingdevelopmentupdateq42026"
   },
   {
+    "id": "45f13410f2b7e292",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "佬们，工资太低想跳槽，该准备什么？",
+    "summary": "校招进的国企，可是工资太低了，而且没有涨的希望，准备跳槽了 目前就是时间宽松，早九晚六，上班的时候也能刷两道力扣的题 下班了就准备软考高级",
+    "url": "https://www.v2ex.com/t/1256427",
+    "canonicalUrl": "https://www.v2ex.com/t/1256427",
+    "publishedAt": "2026-11-12T03:54:54.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "佬们工资太低想跳槽该准备什么"
+  },
+  {
+    "id": "5ddd9ecf93c5e711",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "资金垫子铺完了！",
+    "summary": "各位老哥大家好，今天我是兴高采烈啊。",
+    "url": "https://www.v2ex.com/t/1256423",
+    "canonicalUrl": "https://www.v2ex.com/t/1256423",
+    "publishedAt": "2026-11-12T03:40:18.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 123
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "资金垫子铺完了"
+  },
+  {
     "id": "0ed5823cebf60ba8",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -632,23 +1550,6 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "夹缝中生存的中国程序员"
-  },
-  {
-    "id": "7f8dbb57466ecc7a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "summary": "There is already a demographic ‘run’ on Social Security.",
-    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T03:15:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
   },
   {
     "id": "67019088b9e06193",
@@ -742,23 +1643,6 @@
     "titleKey": "skyeye云企业级ai零代码智能制造系统消息通知v4111发布"
   },
   {
-    "id": "3b716871421235db",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
-    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T02:45:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
-  },
-  {
     "id": "79f838b5c0f2f4b3",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -798,6 +1682,27 @@
     "titleKey": "criticalrcevulnerabilityinapachehttpserver"
   },
   {
+    "id": "11e998bc7eb82df6",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "不知道的迷信，它生效吗？",
+    "summary": "预告：我知道这可能是一个比较具有争议性的问题，我先说明，我很叛逆。",
+    "url": "https://www.v2ex.com/t/1256363",
+    "canonicalUrl": "https://www.v2ex.com/t/1256363",
+    "publishedAt": "2026-11-12T02:07:13.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 69
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "不知道的迷信它生效吗"
+  },
+  {
     "id": "0ccc4f20e8a67c22",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -833,7 +1738,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 83
+      "replies": 112
     },
     "lang": "zh",
     "weight": 55,
@@ -873,7 +1778,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 67
+      "replies": 88
     },
     "lang": "zh",
     "weight": 55,
@@ -894,11 +1799,30 @@
       "生活"
     ],
     "signals": {
-      "replies": 96
+      "replies": 122
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "31岁男前来讨教v吧老哥备孕秘籍"
+  },
+  {
+    "id": "6323bd6e229b49c7",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Supporting research on AI and children’s safety",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety.",
+    "url": "https://openai.com/index/children-first-declaration",
+    "canonicalUrl": "https://openai.com/index/children-first-declaration",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "supportingresearchonaiandchildrenssafety"
   },
   {
     "id": "06d865af2307d2a9",
@@ -916,6 +1840,23 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "gilberttobinrethinksthebusinessoflawwithai"
+  },
+  {
+    "id": "7d1fa4abee08c222",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "summary": "",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "canonicalUrl": "https://huggingface.co/blog/3d-lora-finetuning",
+    "publishedAt": "2026-11-12T00:00:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "thedefinitivefinetuningguidefor3dgenerationmodels"
   },
   {
     "id": "a0698d61cbf9abae",

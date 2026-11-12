@@ -508,7 +508,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "tangerineturtle1/NX2navi",
-    "summary": "C · ★ 3329",
+    "summary": "C · ★ 3457",
     "url": "https://github.com/tangerineturtle1/NX2navi",
     "canonicalUrl": "https://github.com/tangerineturtle1/NX2navi",
     "publishedAt": "2026-11-07T10:01:23.000Z",
@@ -517,8 +517,8 @@
       "C"
     ],
     "signals": {
-      "stars": 3329,
-      "forks": 222
+      "stars": 3457,
+      "forks": 238
     },
     "lang": "en",
     "weight": 90,
@@ -1665,7 +1665,7 @@
       "automation"
     ],
     "signals": {
-      "stars": 1305,
+      "stars": 1212,
       "forks": 1
     },
     "lang": "en",
@@ -1736,7 +1736,7 @@
       "aida64-extreme-setup"
     ],
     "signals": {
-      "stars": 1304,
+      "stars": 1207,
       "forks": 0
     },
     "lang": "en",
@@ -1763,7 +1763,7 @@
       "python"
     ],
     "signals": {
-      "stars": 1304,
+      "stars": 1207,
       "forks": 0
     },
     "lang": "en",
@@ -1902,8 +1902,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 1909,
-      "forks": 198
+      "stars": 1987,
+      "forks": 208
     },
     "lang": "en",
     "weight": 90,

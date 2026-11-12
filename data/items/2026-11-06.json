@@ -600,7 +600,7 @@
       "weeklyretro"
     ],
     "signals": {
-      "reactions": 120,
+      "reactions": 121,
       "comments": 87
     },
     "lang": "en",
@@ -992,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 2046",
+    "summary": "JavaScript · ★ 2076",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -1001,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 2046,
-      "forks": 1110
+      "stars": 2076,
+      "forks": 1126
     },
     "lang": "en",
     "weight": 90,

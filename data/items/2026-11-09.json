@@ -78,8 +78,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 118,
-      "comments": 37
+      "reactions": 121,
+      "comments": 40
     },
     "lang": "en",
     "weight": 60,
@@ -120,8 +120,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 160,
-      "comments": 89
+      "reactions": 164,
+      "comments": 94
     },
     "lang": "en",
     "weight": 60,
@@ -1719,8 +1719,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 6566,
-      "forks": 2474
+      "stars": 6866,
+      "forks": 2531
     },
     "lang": "en",
     "weight": 90,
