@@ -508,7 +508,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "tangerineturtle1/NX2navi",
-    "summary": "C · ★ 3105",
+    "summary": "C · ★ 3329",
     "url": "https://github.com/tangerineturtle1/NX2navi",
     "canonicalUrl": "https://github.com/tangerineturtle1/NX2navi",
     "publishedAt": "2026-11-07T10:01:23.000Z",
@@ -517,8 +517,8 @@
       "C"
     ],
     "signals": {
-      "stars": 3105,
-      "forks": 210
+      "stars": 3329,
+      "forks": 222
     },
     "lang": "en",
     "weight": 90,
@@ -1646,6 +1646,33 @@
     "titleKey": "nvidiaamdandotherchipstocksreboundbutisrelieffromtheviolentselloffonlytemporary"
   },
   {
+    "id": "b801aaa0db823686",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "mahmoudtawfik1998/secure-pdf-document-processor",
+    "summary": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop · H…",
+    "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+    "canonicalUrl": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+    "publishedAt": "2026-11-06T21:23:09.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "HTML",
+      "acrobat-dc-pro",
+      "acrobat-for-free-2026",
+      "acrobat-no-limits",
+      "acrobat-pdf",
+      "automation"
+    ],
+    "signals": {
+      "stars": 1305,
+      "forks": 1
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "mahmoudtawfik1998securepdfdocumentprocessor"
+  },
+  {
     "id": "836c3ebde3f1abb8",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1661,6 +1688,87 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "micronsstockisdirtcheapandthatsignitingafierceonlinedebate"
+  },
+  {
+    "id": "21c90e1a03962dc6",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "AleRibeiro44/archicad-desktop-setup",
+    "summary": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run…",
+    "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
+    "canonicalUrl": "https://github.com/AleRibeiro44/archicad-desktop-setup",
+    "publishedAt": "2026-11-06T20:36:04.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "HTML",
+      "archicad",
+      "archicad-2026",
+      "archicad-download",
+      "automation",
+      "desktop"
+    ],
+    "signals": {
+      "stars": 1301,
+      "forks": 0
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "aleribeiro44archicaddesktopsetup"
+  },
+  {
+    "id": "c40e2bfa1a399eba",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "hembramneeraj3-create/aida-64-extreme",
+    "summary": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Config…",
+    "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+    "canonicalUrl": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+    "publishedAt": "2026-11-06T20:33:44.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "HTML",
+      "aida64",
+      "aida64-extreme-compatibi",
+      "aida64-extreme-detailed-",
+      "aida64-extreme-hardware-",
+      "aida64-extreme-setup"
+    ],
+    "signals": {
+      "stars": 1304,
+      "forks": 0
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "hembramneeraj3createaida64extreme"
+  },
+  {
+    "id": "8c11ce865eb48319",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "summary": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installe…",
+    "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "canonicalUrl": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "publishedAt": "2026-11-06T20:33:06.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "HTML",
+      "automation",
+      "desktop",
+      "developer-tools",
+      "open-source",
+      "python"
+    ],
+    "signals": {
+      "stars": 1304,
+      "forks": 0
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "abdulmannanmalik13wqadobesubstance3dstudio"
   },
   {
     "id": "806157d87e10b192",
@@ -1794,8 +1902,8 @@
       "Go"
     ],
     "signals": {
-      "stars": 1844,
-      "forks": 194
+      "stars": 1909,
+      "forks": 198
     },
     "lang": "en",
     "weight": 90,

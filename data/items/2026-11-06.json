@@ -992,7 +992,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "JenkinWoo/sheeridVerify",
-    "summary": "JavaScript · ★ 2026",
+    "summary": "JavaScript · ★ 2046",
     "url": "https://github.com/JenkinWoo/sheeridVerify",
     "canonicalUrl": "https://github.com/JenkinWoo/sheeridVerify",
     "publishedAt": "2026-11-06T09:28:09.000Z",
@@ -1001,8 +1001,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 2026,
-      "forks": 1090
+      "stars": 2046,
+      "forks": 1110
     },
     "lang": "en",
     "weight": 90,
@@ -2335,7 +2335,7 @@
       "career"
     ],
     "signals": {
-      "reactions": 132,
+      "reactions": 133,
       "comments": 76
     },
     "lang": "en",
@@ -2712,7 +2712,7 @@
     ],
     "signals": {
       "reactions": 143,
-      "comments": 30
+      "comments": 32
     },
     "lang": "en",
     "weight": 60,

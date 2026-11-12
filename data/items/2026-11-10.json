@@ -540,6 +540,28 @@
     "titleKey": "英伟达机器人开源撞上fable52发布jimfan不是寒冬是夏天"
   },
   {
+    "id": "dc7bf30533133870",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Jane Street: Socratic Tutor",
+    "summary": "",
+    "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "canonicalUrl": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+    "publishedAt": "2026-11-10T10:18:22.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 20,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "janestreetsocratictutor"
+  },
+  {
     "id": "922d9526620c4656",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -1760,7 +1782,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Kianuni/Erosion-CN",
-    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1461",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1640",
     "url": "https://github.com/Kianuni/Erosion-CN",
     "canonicalUrl": "https://github.com/Kianuni/Erosion-CN",
     "publishedAt": "2026-11-10T02:37:31.000Z",
@@ -1769,8 +1791,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 1461,
-      "forks": 338
+      "stars": 1640,
+      "forks": 364
     },
     "lang": "en",
     "weight": 90,
@@ -2145,8 +2167,8 @@
       "watercooler"
     ],
     "signals": {
-      "reactions": 113,
-      "comments": 45
+      "reactions": 136,
+      "comments": 53
     },
     "lang": "en",
     "weight": 60,
@@ -2168,23 +2190,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "rocketlabsharesdipafterthecompanysdefiningquartermissesthemark"
-  },
-  {
-    "id": "67019088b9e06193",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pa…",
-    "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T22:49:00.000Z",
-    "fetchedAt": "2026-11-10T07:14:07.981Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hereshowberniesanderswantstokeepsocialsecuritysolventforgenerations"
   },
   {
     "id": "bf5c4e5af26433f0",
@@ -3343,8 +3348,8 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 118,
-      "comments": 28
+      "reactions": 122,
+      "comments": 31
     },
     "lang": "en",
     "weight": 60,

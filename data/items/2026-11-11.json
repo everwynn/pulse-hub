@@ -119,6 +119,25 @@
     "titleKey": "德国中国商会和毕马威德国11日在德国法兰克福联合发布的在德中资企业营商环境调查报告2026显示德国仍是中国企业在欧"
   },
   {
+    "id": "c2da977f9e325eb0",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "15 分钟让你有 C 语言超能力！！！",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503536",
+    "canonicalUrl": "https://www.oschina.net/news/503536",
+    "publishedAt": "2026-11-11T15:40:28.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "15分钟让你有c语言超能力"
+  },
+  {
     "id": "cc1ce570b00b3189",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -158,57 +177,6 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "前美国总统拜登的国家经济委员会主任布雷纳德laelbrainard向民主党人推介一项低首付方案旨在将数百万新购房"
-  },
-  {
-    "id": "3b716871421235db",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
-    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-11T15:30:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
-  },
-  {
-    "id": "83e9fa13b4a8f4eb",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "CoreWeave just gave a shot in the arm to Micron, Lumentum and the rest of the AI trade",
-    "summary": "CoreWeave’s improved AI economics and its vow to show some discipline around deb…",
-    "url": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/micron-and-other-ai-stocks-surge-as-coreweave-calms-wall-streets-worst-fears-0a18152a?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-11T15:26:00.000Z",
-    "fetchedAt": "2026-11-11T16:08:54.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "coreweavejustgaveashotinthearmtomicronlumentumandtherestoftheaitrade"
-  },
-  {
-    "id": "79f838b5c0f2f4b3",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m 63 and want to spend $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-    "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage with …",
-    "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-11T15:25:00.000Z",
-    "fetchedAt": "2026-11-11T16:08:54.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "im63andwanttospend95000onaroofdeckformy500000homeisthatagoodinvestment"
   },
   {
     "id": "ac8ea521ae85a36b",
@@ -812,6 +780,27 @@
     "titleKey": "基于agentkit重塑研发协作从编码提效到组织效能跃迁aicon北京"
   },
   {
+    "id": "c7a751dd475bddb8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "兄弟们，房贷终于要还清了！",
+    "summary": "本月房贷终于要还清了，卡里备好的 4.7 万静静躺着，等那天银行自动划走就好。",
+    "url": "https://www.v2ex.com/t/1256244",
+    "canonicalUrl": "https://www.v2ex.com/t/1256244",
+    "publishedAt": "2026-11-11T09:51:01.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 68
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "兄弟们房贷终于要还清了"
+  },
+  {
     "id": "4022a607b3736c56",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -863,6 +852,27 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "389家游戏工作室并购调查34关停十年内关停比例达389"
+  },
+  {
+    "id": "ffc18f94abf08afd",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "家人们，我失恋了",
+    "summary": "好像失去了支撑，现在在工位，回家也是一个人，工作没有什么盼头，喜欢的人也没有了",
+    "url": "https://www.v2ex.com/t/1256209",
+    "canonicalUrl": "https://www.v2ex.com/t/1256209",
+    "publishedAt": "2026-11-11T08:37:01.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 117
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "家人们我失恋了"
   },
   {
     "id": "cc0dc76359590026",
@@ -937,6 +947,27 @@
     "titleKey": "猫围着你叫是叫你去解决问题"
   },
   {
+    "id": "48d485c03e6d4f23",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "最近秋招陆陆续续面了一堆应届生，说点感受",
+    "summary": "整体水平是真的高。CCF A 一作的不少，两段大厂实习基本是标配，而且实习都是实打实做过东西的，能讲出细节。聊业务、聊领域、聊 Agent 怎么搭、评测怎么做，…",
+    "url": "https://www.v2ex.com/t/1256189",
+    "canonicalUrl": "https://www.v2ex.com/t/1256189",
+    "publishedAt": "2026-11-11T07:28:26.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 107
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "最近秋招陆陆续续面了一堆应届生说点感受"
+  },
+  {
     "id": "1697ac052d60b159",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -990,6 +1021,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "英伟达股价2天暴跌10"
+  },
+  {
+    "id": "197c2c80ac26dc62",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tim Peters has died",
+    "summary": "",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "canonicalUrl": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "publishedAt": "2026-11-11T07:03:17.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1085,
+      "comments": 122
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "timpetershasdied"
   },
   {
     "id": "1dbc14b2533fcad9",
@@ -1576,23 +1629,6 @@
     "titleKey": "大模型千千万为什么非要用claude"
   },
   {
-    "id": "7f8dbb57466ecc7a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "summary": "There is already a demographic ‘run’ on Social Security.",
-    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-11T02:15:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
-  },
-  {
     "id": "32a2f3eba5f61fcb",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -1919,6 +1955,23 @@
     "titleKey": "sshyard已正式发布v100高颜值纯原生ssh客户端功能齐全且体积非常小随楼抽50位评论者每位赠送50个v2ex"
   },
   {
+    "id": "69f2710e5c141e8f",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale.",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "canonicalUrl": "https://openai.com/index/jiostar-vijay-seshadri",
+    "publishedAt": "2026-11-11T00:00:00.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "jiostarschiefarchitectonaidiscoveryat500muserscale"
+  },
+  {
     "id": "154cde00a4b49b8a",
     "sourceId": "huggingface-blog",
     "sourceName": "Hugging Face Blog",
@@ -1951,23 +2004,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
-  },
-  {
-    "id": "33b8b45be5e2d06a",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-    "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings repo…",
-    "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-    "publishedAt": "2026-11-10T23:16:15.000Z",
-    "fetchedAt": "2026-11-11T06:11:05.493Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "coreweavebeatsonrevenueandliftsguidanceeasingaislowdownconcerns"
   },
   {
     "id": "b7c40e56acdb3267",

@@ -753,8 +753,8 @@
       "news"
     ],
     "signals": {
-      "reactions": 132,
-      "comments": 95
+      "reactions": 149,
+      "comments": 107
     },
     "lang": "en",
     "weight": 60,
@@ -1231,8 +1231,8 @@
       "ipados"
     ],
     "signals": {
-      "stars": 2564,
-      "forks": 476
+      "stars": 2664,
+      "forks": 489
     },
     "lang": "en",
     "weight": 90,

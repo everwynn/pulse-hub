@@ -61,6 +61,31 @@
     "titleKey": "howspacexwasabletoavertoneofthemarketsbiggestfearsaboutitsstock"
   },
   {
+    "id": "41feaaf40f94efde",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️",
+    "summary": "Almost every piece of software running on Earth today traces back to three peopl…",
+    "url": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
+    "canonicalUrl": "https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp",
+    "publishedAt": "2026-11-09T15:30:54.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "c",
+      "cpp",
+      "csharp",
+      "programming"
+    ],
+    "signals": {
+      "reactions": 118,
+      "comments": 37
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thectrilogyhowdennisritchiebjarnestroustrupandandershejlsbergbuiltthemodernworld️"
+  },
+  {
     "id": "e7998bab0ef269f3",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -95,8 +120,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 150,
-      "comments": 78
+      "reactions": 160,
+      "comments": 89
     },
     "lang": "en",
     "weight": 60,
@@ -1694,8 +1719,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 6031,
-      "forks": 2363
+      "stars": 6566,
+      "forks": 2474
     },
     "lang": "en",
     "weight": 90,
@@ -2399,6 +2424,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "duxfreeopensourcewaylanddesktopshellwithfilemanagerandtheming"
+  },
+  {
+    "id": "c74f7aca23ed7765",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I gave an agent a lakehouse and control of my garden",
+    "summary": "",
+    "url": "https://jatorre.github.io/garden/",
+    "canonicalUrl": "https://jatorre.github.io/garden",
+    "publishedAt": "2026-11-08T17:19:06.000Z",
+    "fetchedAt": "2026-11-12T07:06:59.517Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 9,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "igaveanagentalakehouseandcontrolofmygarden"
   },
   {
     "id": "4ca656b76741e685",
