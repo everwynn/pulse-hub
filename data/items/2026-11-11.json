@@ -217,23 +217,6 @@
     "titleKey": "marketangstisdrivinginvestorsintolowvolatilitystocksasaitradestumbles"
   },
   {
-    "id": "bc806a9efa65ec0c",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-    "summary": "Many service members face an often invisible financial trap when they step out o…",
-    "url": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-11T15:08:00.000Z",
-    "fetchedAt": "2026-11-11T16:08:54.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "fromlivinginhiscartoa756creditscorehowoneveteranrebuilthisfinances"
-  },
-  {
     "id": "d1194824432ded60",
     "sourceId": "deepmind-blog",
     "sourceName": "Google DeepMind",
@@ -1529,7 +1512,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1092",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1310",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1538,8 +1521,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 1092,
-      "forks": 12
+      "stars": 1310,
+      "forks": 19
     },
     "lang": "en",
     "weight": 90,
@@ -2161,8 +2144,8 @@
       "local-ai"
     ],
     "signals": {
-      "stars": 1031,
-      "forks": 39
+      "stars": 1188,
+      "forks": 47
     },
     "lang": "en",
     "weight": 90,

@@ -467,6 +467,23 @@
     "titleKey": "中国android厂商开始要求开发者身份验证"
   },
   {
+    "id": "ea2338dd86ec192a",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "Opening the datasets behind our AI weather models",
+    "summary": "Foundational precipitation and geostationary satellite datasets to observe the p…",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+    "canonicalUrl": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+    "publishedAt": "2026-11-10T11:13:04.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "openingthedatasetsbehindouraiweathermodels"
+  },
+  {
     "id": "2cbe17e7d6387c1d",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -515,8 +532,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1354,
-      "forks": 89
+      "stars": 1416,
+      "forks": 90
     },
     "lang": "en",
     "weight": 90,
@@ -1804,7 +1821,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Kianuni/Erosion-CN",
-    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1753",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1885",
     "url": "https://github.com/Kianuni/Erosion-CN",
     "canonicalUrl": "https://github.com/Kianuni/Erosion-CN",
     "publishedAt": "2026-11-10T02:37:31.000Z",
@@ -1813,8 +1830,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 1753,
-      "forks": 378
+      "stars": 1885,
+      "forks": 402
     },
     "lang": "en",
     "weight": 90,
@@ -2140,8 +2157,8 @@
       "plex"
     ],
     "signals": {
-      "stars": 1016,
-      "forks": 56
+      "stars": 1067,
+      "forks": 57
     },
     "lang": "en",
     "weight": 90,
@@ -2216,8 +2233,8 @@
       "watercooler"
     ],
     "signals": {
-      "reactions": 145,
-      "comments": 56
+      "reactions": 147,
+      "comments": 60
     },
     "lang": "en",
     "weight": 60,
@@ -3397,7 +3414,7 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 130,
+      "reactions": 134,
       "comments": 35
     },
     "lang": "en",

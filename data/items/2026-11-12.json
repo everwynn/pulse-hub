@@ -68,8 +68,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 99,
-      "comments": 14
+      "reactions": 118,
+      "comments": 17
     },
     "lang": "en",
     "weight": 60,
@@ -404,8 +404,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 3305,
-      "comments": 3016
+      "points": 3846,
+      "comments": 3308
     },
     "lang": "en",
     "weight": 92,
@@ -614,6 +614,31 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "多模态源神minimax开源sota生图模型原生4k一张两毛"
+  },
+  {
+    "id": "c15f54dcb74c4753",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "A 10 years old developer who has become a DEV.to Trusted Member! 😱",
+    "summary": "I still can't believe it!",
+    "url": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
+    "canonicalUrl": "https://dev.to/necoz/a-10-years-old-developer-who-has-become-a-devto-trusted-member-49c8",
+    "publishedAt": "2026-11-12T11:18:53.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "discuss",
+      "trusted",
+      "beginners",
+      "devto"
+    ],
+    "signals": {
+      "reactions": 93,
+      "comments": 47
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "a10yearsolddeveloperwhohasbecomeadevtotrustedmember"
   },
   {
     "id": "847564acebab1b37",
@@ -972,8 +997,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 97,
-      "comments": 61
+      "reactions": 125,
+      "comments": 90
     },
     "lang": "en",
     "weight": 60,

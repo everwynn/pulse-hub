@@ -1,5 +1,360 @@
 [
   {
+    "id": "a6453dda025826da",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部长斯科特·贝森特表示，美联储不应因与伊朗战争相关的“能源供应冲击”所引发的通胀而加息。然而，他在CNBC发表上…",
+    "summary": "美国财政部长斯科特·贝森特表示，美联储不应因与伊朗战争相关的“能源供应冲击”所引发的通胀而加息。",
+    "url": "https://wallstreetcn.com/livenews/3199905",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3199905",
+    "publishedAt": "2026-11-13T15:59:33.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部长斯科特贝森特表示美联储不应因与伊朗战争相关的能源供应冲击所引发的通胀而加息然而他在cnbc发表上"
+  },
+  {
+    "id": "68588d4560d7b2b3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+    "summary": "",
+    "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+    "canonicalUrl": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+    "publishedAt": "2026-11-13T15:52:04.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 13,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "brazilscaixainsurerbreachexposesnamesandtaxidsofall76mcustomers"
+  },
+  {
+    "id": "d97175dc210e7613",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "微软：我们看到令人鼓舞的复苏进展。 确认无迹象显示此次服务中断由恶意活动导致。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3199903",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3199903",
+    "publishedAt": "2026-11-13T15:45:49.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "微软我们看到令人鼓舞的复苏进展确认无迹象显示此次服务中断由恶意活动导致"
+  },
+  {
+    "id": "f6829d0ba9cf97e5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Microsoft Outlook outage stretches into a second day, causing widespread disruption",
+    "summary": "The outage could result in a $100 million to $400 million negative impact to Mic…",
+    "url": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T15:44:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "microsoftoutlookoutagestretchesintoaseconddaycausingwidespreaddisruption"
+  },
+  {
+    "id": "56637bc3784d24a9",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "经过周五议员们对一项预算计划的支持，德国明年将把借款额提高2,100多亿欧元（合2220亿美元），这是自第二次世界大战以…",
+    "summary": "经过周五议员们对一项预算计划的支持，德国明年将把借款额提高2,100多亿欧元（合2220亿美元），这是自第二次世界大战以来的第二高金额。",
+    "url": "https://wallstreetcn.com/livenews/3199896",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3199896",
+    "publishedAt": "2026-11-13T15:41:29.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "经过周五议员们对一项预算计划的支持德国明年将把借款额提高2100多亿欧元合2220亿美元这是自第二次世界大战以"
+  },
+  {
+    "id": "1319d8fa83d78577",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国波士顿联储主席Collins表示，由于价格压力正在扩散，很快需要进一步加息。 很快，进一步适度收紧政策是合适的，但未…",
+    "summary": "美国波士顿联储主席Collins表示，由于价格压力正在扩散，很快需要进一步加息。",
+    "url": "https://wallstreetcn.com/livenews/3199895",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3199895",
+    "publishedAt": "2026-11-13T15:40:10.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国波士顿联储主席collins表示由于价格压力正在扩散很快需要进一步加息很快进一步适度收紧政策是合适的但未"
+  },
+  {
+    "id": "80833f67dda9466d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "标普500指数跌幅扩大至1%，道指跌0.14%，纳指跌1.76%，纳斯达克100指数跌2.2%，半导体指数跌6%。 英伟…",
+    "summary": "标普500指数跌幅扩大至1%，道指跌0.14%，纳指跌1.76%，纳斯达克100指数跌2.2%，半导体指数跌6%。",
+    "url": "https://wallstreetcn.com/livenews/3199894",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3199894",
+    "publishedAt": "2026-11-13T15:38:56.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "标普500指数跌幅扩大至1道指跌014纳指跌176纳斯达克100指数跌22半导体指数跌6英伟"
+  },
+  {
+    "id": "f9f14ae8097a7fb6",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m 17 and will be a first-generation college student. Is law school worth being $200,000 in debt?",
+    "summary": "“I‘’m considering a pre-law track … I’m just a bit hesitant because of how expen…",
+    "url": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-17-and-will-be-a-first-generation-college-student-is-law-school-worth-being-200-000-in-debt-df9b23c3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T15:37:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "im17andwillbeafirstgenerationcollegestudentislawschoolworthbeing200000indebt"
+  },
+  {
+    "id": "bea09bb738a41b3c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "近期，智能硬件市场迎来消费旺季。在深圳华强北商圈，AI陪伴玩具新品持续迭代，不少档口前围满了客商。商户向记者展示了今年上…",
+    "summary": "近期，智能硬件市场迎来消费旺季。",
+    "url": "https://wallstreetcn.com/livenews/3199892",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3199892",
+    "publishedAt": "2026-11-13T15:35:08.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "近期智能硬件市场迎来消费旺季在深圳华强北商圈ai陪伴玩具新品持续迭代不少档口前围满了客商商户向记者展示了今年上"
+  },
+  {
+    "id": "749ee29d1109eaad",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
+    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T15:30:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantafforda200000ayearretirementishebeingcheap"
+  },
+  {
+    "id": "10024fb4d0d01799",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5",
+    "publishedAt": "2026-11-13T15:18:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "在银行业为基于kubernetes的平台打造云原生文化"
+  },
+  {
+    "id": "963839e96dcc03c5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T15:15:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shehasahistoryoffinancialmismanagementmybrothercutoursisteroutofhiswillillgeteverythingdoitellher"
+  },
+  {
+    "id": "be7a73bd226fdecc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+    "summary": "",
+    "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+    "canonicalUrl": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+    "publishedAt": "2026-11-13T15:08:07.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 13,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "palmfretsminnesotaguitaristsinventionstrikesanewchord"
+  },
+  {
+    "id": "cdd55aa7367a45be",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and …",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "canonicalUrl": "https://openai.com/index/introducing-chatgpt-wallet",
+    "publishedAt": "2026-11-13T15:00:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingchatgptwallet"
+  },
+  {
+    "id": "f91ca8dc2cfab7c1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50484421",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50484421",
+    "publishedAt": "2026-11-13T14:53:32.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 78,
+      "comments": 31
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "usoctoberppirises65yoyhighestinnearlyfouryears"
+  },
+  {
+    "id": "55bac5384f649812",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A technical vision for the Haskell ecosystem",
+    "summary": "",
+    "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+    "canonicalUrl": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+    "publishedAt": "2026-11-13T14:43:12.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 38,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "atechnicalvisionforthehaskellecosystem"
+  },
+  {
+    "id": "ffdf8be9b4d1a3fc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Lonewolf 0.3 – A standalone XMPP server written in Rust",
+    "summary": "",
+    "url": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+    "canonicalUrl": "https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0",
+    "publishedAt": "2026-11-13T14:28:40.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 23,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "lonewolf03astandalonexmppserverwritteninrust"
+  },
+  {
+    "id": "583a8aed32d6f33d",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+    "summary": "Cisco is trying to become a bigger player in AI after missing out on the early y…",
+    "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+    "publishedAt": "2026-11-13T14:26:04.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "ciscobeatsonearningssaysaiinfrastructurerevenuewilldoublethisfiscalyear"
+  },
+  {
     "id": "be9a86894ef2941b",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +370,45 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "奥运史上第一次一朵云整体留给了举办国"
+  },
+  {
+    "id": "2f38593ca8bde7d9",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "canonicalUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "publishedAt": "2026-11-13T14:05:22.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "llamacppv100astrongerfoundationforthelocalaiecosystem"
+  },
+  {
+    "id": "2cdada2707b20bfe",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why Zig over C for Systems Programming",
+    "summary": "",
+    "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+    "canonicalUrl": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming",
+    "publishedAt": "2026-11-13T14:01:13.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 99,
+      "comments": 44
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whyzigovercforsystemsprogramming"
   },
   {
     "id": "2b5e58970bda3625",
@@ -34,6 +428,28 @@
     "titleKey": "应用只是冰山一角构建大规模移动应用基础设施需要什么"
   },
   {
+    "id": "c62b49b0d6aefb51",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+    "summary": "",
+    "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "canonicalUrl": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+    "publishedAt": "2026-11-13T12:10:24.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 310,
+      "comments": 205
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "doomsdayfriday13novemberad20261960"
+  },
+  {
     "id": "3ad2f649003568d3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -49,6 +465,29 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "黄仁勋辞职把扁平化推到极致的创始人体面退场的代价"
+  },
+  {
+    "id": "717ccf40bd6786dd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "山下有松推出首款鞋履；COACH母公司Q1中国市场增长39%；迪桑特新增签约两支中国滑雪国家队；上海安踏营运中心正式启幕｜消研所周报",
+    "summary": "On昂跑Q3亚太市场净销售额增长31.1%；体育总局冬运中心与UTO悠途完成续约。",
+    "url": "https://www.tmtpost.com/8204401.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204401.html",
+    "publishedAt": "2026-11-13T11:21:17.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "消费",
+      "新消费",
+      "新消费观察",
+      "消研所周报",
+      "消研所 TRENDMAKERS"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "山下有松推出首款鞋履coach母公司q1中国市场增长39迪桑特新增签约两支中国滑雪国家队上海安踏营运中心正式启幕消研所周报"
   },
   {
     "id": "272b2459930b013d",
@@ -68,6 +507,98 @@
     "titleKey": "docker呼吁通过隔离与治理保障智能体安全"
   },
   {
+    "id": "97a152c76ab09808",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them",
+    "summary": "Alibaba, Baidu, and Kuaishou are sending chip and model assets to separate marke…",
+    "url": "https://www.tmtpost.com/8204635.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204635.html",
+    "publishedAt": "2026-11-13T10:52:05.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "chinasinternetgiantsarelistingaiunitsbecausetheparentstockwillnotpricethem"
+  },
+  {
+    "id": "bde192c1f4676d25",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "大厂搞AI的尽头，是拆家上市？",
+    "summary": "不是谷歌学不起，拆开卖更有性价比",
+    "url": "https://www.tmtpost.com/8204039.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204039.html",
+    "publishedAt": "2026-11-13T10:42:28.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "大厂搞ai的尽头是拆家上市"
+  },
+  {
+    "id": "8926abbd62b4eece",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "700Ah+再获大订单，大电芯转向交付竞争",
+    "summary": "远景700Ah+储能电芯获海内外认可，成行业主流选项。",
+    "url": "https://www.tmtpost.com/8204020.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204020.html",
+    "publishedAt": "2026-11-13T10:42:25.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "700ah再获大订单大电芯转向交付竞争"
+  },
+  {
+    "id": "a3958c3bfb591e05",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "台积电内部员工数据泄露",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85881",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85881",
+    "publishedAt": "2026-11-13T10:37:17.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "台积电内部员工数据泄露"
+  },
+  {
+    "id": "593845736a72893a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "summary": "",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "canonicalUrl": "https://status.claude.com/incidents/nn11wk485zfn",
+    "publishedAt": "2026-11-13T10:18:13.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 405,
+      "comments": 339
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "elevatederrorsonclaudeaiclaudecodeandplatformclaudecom"
+  },
+  {
     "id": "da4f44a95967dde7",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -85,6 +616,76 @@
     "titleKey": "gflow面向游戏设计的多agent协作与验证实践aicon北京"
   },
   {
+    "id": "97576407c8db6578",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "新鲜零食店，动了谁的奶酪？",
+    "summary": "任何一轮线下门店的快速复制，热闹都要落到加盟商的账本上。",
+    "url": "https://www.tmtpost.com/8203909.html",
+    "canonicalUrl": "https://www.tmtpost.com/8203909.html",
+    "publishedAt": "2026-11-13T09:56:39.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "新鲜零食店动了谁的奶酪"
+  },
+  {
+    "id": "af05ca3c7ff519d8",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "黄仁勋走了，英伟达5300亿美元的承诺谁来签字",
+    "summary": "距离倒闭最远的一天，黄仁勋离开了办公室",
+    "url": "https://www.tmtpost.com/8203934.html",
+    "canonicalUrl": "https://www.tmtpost.com/8203934.html",
+    "publishedAt": "2026-11-13T09:56:38.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "黄仁勋走了英伟达5300亿美元的承诺谁来签字"
+  },
+  {
+    "id": "b4e147897ab4cdbd",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "地球冰冻圈不再处于安全运行空间内",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85880",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85880",
+    "publishedAt": "2026-11-13T09:52:54.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "地球冰冻圈不再处于安全运行空间内"
+  },
+  {
+    "id": "29d754804caf94fa",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503572",
+    "canonicalUrl": "https://www.oschina.net/news/503572",
+    "publishedAt": "2026-11-13T09:32:32.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "通用代码生成器光船特默尔尝鲜版二人工智能设置项目会话"
+  },
+  {
     "id": "a413d0273dc3a062",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -100,6 +701,301 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "谷歌推出literttensorapi用于构建定制与优化端侧机器学习模型"
+  },
+  {
+    "id": "62b562f79e0534d6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 数据中台开源版 v1.6.7 发布：修复消息通知与时间范围增量读取问题",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503570",
+    "canonicalUrl": "https://www.oschina.net/news/503570",
+    "publishedAt": "2026-11-13T09:07:20.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata数据中台开源版v167发布修复消息通知与时间范围增量读取问题"
+  },
+  {
+    "id": "7d7a13db11244f57",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "写《Python 之禅》的那个人走了",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503569/in-memoriam-tim-peters-1952-2026",
+    "canonicalUrl": "https://www.oschina.net/news/503569/in-memoriam-tim-peters-1952-2026",
+    "publishedAt": "2026-11-13T09:02:57.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "写python之禅的那个人走了"
+  },
+  {
+    "id": "0e5db4b547f63331",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "黄仁勋辞职，英伟达33年首换帅，市值蒸发超3万亿",
+    "summary": "一个时代结束了",
+    "url": "https://www.qbitai.com/2026/11/509995.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509995.html",
+    "publishedAt": "2026-11-13T09:02:39.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "英伟达",
+      "黄仁勋"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "黄仁勋辞职英伟达33年首换帅市值蒸发超3万亿"
+  },
+  {
+    "id": "57b35a1c3c412484",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "《幻兽帕鲁》开发商给员工五天假期畅玩 GTA 6",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85879",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85879",
+    "publishedAt": "2026-11-13T08:49:01.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "幻兽帕鲁开发商给员工五天假期畅玩gta6"
+  },
+  {
+    "id": "141c7efcd9665772",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "黄仁勋辞任英伟达 CEO，CFO 接任临时掌门",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition",
+    "canonicalUrl": "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition",
+    "publishedAt": "2026-11-13T08:39:45.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "黄仁勋辞任英伟达ceocfo接任临时掌门"
+  },
+  {
+    "id": "3393ed94cc4307fd",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "英伟达员工请愿让黄仁勋复职",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85878",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85878",
+    "publishedAt": "2026-11-13T08:33:58.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "英伟达员工请愿让黄仁勋复职"
+  },
+  {
+    "id": "9f89626442af186a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+    "summary": "12.9 北京，来MEET2027现场",
+    "url": "https://www.qbitai.com/2026/11/509827.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509827.html",
+    "publishedAt": "2026-11-13T07:51:08.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "活动",
+      "资讯",
+      "MEET2027"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "meet2027含金量再加码ai4s量子计算aiinfra第二批嘉宾强势来袭"
+  },
+  {
+    "id": "af3b09cb0673fcb4",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+    "summary": "250名国内顶尖三甲医院医生联合评测",
+    "url": "https://www.qbitai.com/2026/11/509796.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509796.html",
+    "publishedAt": "2026-11-13T07:43:03.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "临床诊疗",
+      "医疗",
+      "大模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国ai突破复杂肺癌诊疗中美医疗圈集体坐不住了"
+  },
+  {
+    "id": "14f0c11948f9f6ae",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
+    "summary": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
+    "url": "https://www.qbitai.com/2026/11/509730.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509730.html",
+    "publishedAt": "2026-11-13T07:17:54.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "比亚迪"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比亚迪第1900万辆新能源汽车下线科技新奢旗舰suv方程豹钛9开启预订"
+  },
+  {
+    "id": "acb1a217d1baf5ea",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
+    "summary": "比亚迪正在把规模优势转化为技术与品牌价值",
+    "url": "https://www.qbitai.com/2026/11/509716.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509716.html",
+    "publishedAt": "2026-11-13T07:12:42.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "比亚迪"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从仰望极速新纪录和鼎曜全球发布看比亚迪的国际化与高端化之路"
+  },
+  {
+    "id": "d030f89f11ebc943",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
+    "summary": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
+    "url": "https://www.qbitai.com/2026/11/509710.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509710.html",
+    "publishedAt": "2026-11-13T07:09:05.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "比亚迪"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行战略合作落地兑现闪充中国再次提速"
+  },
+  {
+    "id": "c003c188188575d8",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+    "summary": "数据不出域、本地可部署",
+    "url": "https://www.qbitai.com/2026/11/509663.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509663.html",
+    "publishedAt": "2026-11-13T07:06:32.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "RSI",
+      "上海交大",
+      "无界前沿",
+      "生命科学",
+      "生物信息"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "高难盲测超越gpt6astra与opus5无界前沿开源fxbio1031把rsi带进生命科学"
+  },
+  {
+    "id": "77e1ac7047784794",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "openJiuwen发布RSI原生AgentOS，让Agent自由变身，持续迭代！",
+    "summary": "想要什么功能，让Agent自己开发",
+    "url": "https://www.qbitai.com/2026/11/509653.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/509653.html",
+    "publishedAt": "2026-11-13T06:54:44.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "资讯",
+      "Agent",
+      "openJiuwen"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "openjiuwen发布rsi原生agentos让agent自由变身持续迭代"
+  },
+  {
+    "id": "86a7a730365630aa",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "无印良品客户信用卡数据泄露",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85877",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85877",
+    "publishedAt": "2026-11-13T06:47:28.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "无印良品客户信用卡数据泄露"
+  },
+  {
+    "id": "f556e20b7ecd3f49",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "美国扣押了从币安盗走的逾 12 亿美元加密货币",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85876",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85876",
+    "publishedAt": "2026-11-13T06:36:46.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "美国扣押了从币安盗走的逾12亿美元加密货币"
   },
   {
     "id": "ede4cf9fa53465eb",
@@ -468,8 +1364,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 61,
-      "comments": 30
+      "points": 306,
+      "comments": 158
     },
     "lang": "en",
     "weight": 92,
@@ -552,6 +1448,27 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "没有人能穿上黄仁勋的皮夹克"
+  },
+  {
+    "id": "32944d52a1a08e37",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "强行让自己看了半个多小时的 AI 短剧",
+    "summary": "推特（ X ）上经常刷到别人提起，昨天在潘乱的播客里也听到了：《持械入宋》。",
+    "url": "https://www.v2ex.com/t/1256754",
+    "canonicalUrl": "https://www.v2ex.com/t/1256754",
+    "publishedAt": "2026-11-13T03:52:58.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 80
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "强行让自己看了半个多小时的ai短剧"
   },
   {
     "id": "6c6f96d5ed6817af",
@@ -652,21 +1569,46 @@
     "titleKey": "bravesearchapinowacceptsagenticpaymentsviathex402protocol"
   },
   {
-    "id": "59ae09384197df71",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-    "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud p…",
-    "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-    "publishedAt": "2026-11-13T02:43:26.000Z",
-    "fetchedAt": "2026-11-13T06:41:04.755Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "cerebrassurges17afterbeatingonquarterlyrevenueandannouncingmicrosoftdeal"
+    "id": "74b3a72313aa6a5a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "同事老婆昨天被诈骗了 2W+，分享下骗局",
+    "summary": "同事家是 Tesla ，车主是他老婆，昨天中午收到个图片（什么途径收到的不清楚，没细问），同事一看图片，觉得太假了，以为他老婆不可能上当，结果谁知骗子和她老婆打…",
+    "url": "https://www.v2ex.com/t/1256725",
+    "canonicalUrl": "https://www.v2ex.com/t/1256725",
+    "publishedAt": "2026-11-13T02:55:10.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 101
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "同事老婆昨天被诈骗了2w分享下骗局"
+  },
+  {
+    "id": "bb68969bd5c68262",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "九宫格输入法，感觉在一步步衰落。。",
+    "summary": "今天 00 后的女同事看到我用九宫格输入法惊呆了，打字怎么这么快。",
+    "url": "https://www.v2ex.com/t/1256717",
+    "canonicalUrl": "https://www.v2ex.com/t/1256717",
+    "publishedAt": "2026-11-13T02:31:21.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 140
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "九宫格输入法感觉在一步步衰落"
   },
   {
     "id": "6883a29a8ae11da9",
@@ -691,6 +1633,27 @@
     "titleKey": "nvidiaemployeespetitiontobringbackjensenhuang"
   },
   {
+    "id": "ed63af9221ad41a9",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "微软是不是裁到大动脉了， Outlook 故障好几个小时了，美国客户会议都开不起来了",
+    "summary": "如图，微软这一帮草台也在抗议老黄离职吗",
+    "url": "https://www.v2ex.com/t/1256701",
+    "canonicalUrl": "https://www.v2ex.com/t/1256701",
+    "publishedAt": "2026-11-13T02:05:10.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 89
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "微软是不是裁到大动脉了outlook故障好几个小时了美国客户会议都开不起来了"
+  },
+  {
     "id": "ea8c2929390e2bb7",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -705,7 +1668,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 96
+      "replies": 134
     },
     "lang": "zh",
     "weight": 55,
@@ -726,7 +1689,7 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 79
+      "replies": 97
     },
     "lang": "zh",
     "weight": 55,
@@ -747,7 +1710,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 140
+      "replies": 209
     },
     "lang": "zh",
     "weight": 55,
@@ -768,7 +1731,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 71
+      "replies": 117
     },
     "lang": "zh",
     "weight": 55,
@@ -886,21 +1849,26 @@
     "titleKey": "bondyieldsjustsawtheirbiggestsurgesince2022asexpectationsgrowformorefedratehikes"
   },
   {
-    "id": "749ee29d1109eaad",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
-    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
-    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T22:00:00.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
+    "id": "b2747170c9f0d049",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+    "summary": "",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "canonicalUrl": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
+    "publishedAt": "2026-11-12T22:03:09.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 230,
+      "comments": 55
+    },
     "lang": "en",
-    "weight": 68,
-    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantaffordour200000ayeardreamretirementithinkhescheap"
+    "weight": 92,
+    "titleKey": "reverseengineeringmycowayairpurifiertoditchthecloud"
   },
   {
     "id": "45fc8f84ae4d7e52",
@@ -954,23 +1922,6 @@
     "lang": "en",
     "weight": 78,
     "titleKey": "microsoftresearchfocusedition98"
-  },
-  {
-    "id": "5a1f3a2b3cc4eea2",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and …",
-    "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T21:30:00.000Z",
-    "fetchedAt": "2026-11-13T06:41:04.755Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "iinherited14millionfrommyfatheramiwrongtoaskmyhusbandof25yearsforapostnuptialagreement"
   },
   {
     "id": "d9aa5c75c8b559a1",
@@ -1106,8 +2057,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 587,
-      "comments": 227
+      "points": 806,
+      "comments": 295
     },
     "lang": "en",
     "weight": 92,
@@ -1513,23 +2464,6 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "国际货币基金组织imf塞内加尔官方债权人委员会仍然没有组建成功对阿根廷短期债券走势保持谨慎"
-  },
-  {
-    "id": "3b716871421235db",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
-    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T16:15:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
   },
   {
     "id": "ab3edeca9177d5dd",
