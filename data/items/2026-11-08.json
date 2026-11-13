@@ -753,8 +753,8 @@
       "news"
     ],
     "signals": {
-      "reactions": 162,
-      "comments": 112
+      "reactions": 169,
+      "comments": 119
     },
     "lang": "en",
     "weight": 60,
@@ -1231,8 +1231,8 @@
       "ipados"
     ],
     "signals": {
-      "stars": 2746,
-      "forks": 502
+      "stars": 2799,
+      "forks": 514
     },
     "lang": "en",
     "weight": 90,
@@ -2221,6 +2221,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "不复制海量数据直接查询s3csiro重构基因组分析架构"
+  },
+  {
+    "id": "3fcefb2e2196a658",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Th0rgal/satmux",
+    "summary": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT…",
+    "url": "https://github.com/Th0rgal/satmux",
+    "canonicalUrl": "https://github.com/Th0rgal/satmux",
+    "publishedAt": "2026-11-07T16:09:41.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1058,
+      "forks": 51
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "th0rgalsatmux"
   },
   {
     "id": "64582e591b3bd553",

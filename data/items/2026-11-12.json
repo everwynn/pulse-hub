@@ -51,6 +51,31 @@
     "titleKey": "whatreallyhappensduringmedicarecounseling"
   },
   {
+    "id": "47ccaf24b1007f42",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Long Live Rails",
+    "summary": "When DHH took the stage at Rails World 2026 and talked openly about going \"penci…",
+    "url": "https://dev.to/ben/long-live-rails-3p21",
+    "canonicalUrl": "https://dev.to/ben/long-live-rails-3p21",
+    "publishedAt": "2026-11-12T15:30:50.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "rails",
+      "ruby",
+      "rust",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 99,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "longliverails"
+  },
+  {
     "id": "0e85a0536defbc83",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -71,57 +96,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "showhnfable52gamesplayandinspectfable52singlefilehtmlgames"
-  },
-  {
-    "id": "7f8dbb57466ecc7a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "summary": "There is already a demographic ‘run’ on Social Security.",
-    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T15:30:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
-  },
-  {
-    "id": "ea3b6c6981fcc85e",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-    "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed b…",
-    "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-    "publishedAt": "2026-11-12T15:27:41.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "nebiusfalls16ascompanyexpectsincreased2026capexspendissuesweakoutlook"
-  },
-  {
-    "id": "749ee29d1109eaad",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford our $200,000-a-year dream retirement. I think he’s cheap.",
-    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
-    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T15:26:00.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantaffordour200000ayeardreamretirementithinkhescheap"
   },
   {
     "id": "fbddc5093ca6c688",
@@ -239,6 +213,25 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "用户抱怨难以在流媒体服务上找到想看的内容"
+  },
+  {
+    "id": "b669c7206e7631a6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "星甘（StarGantt）支持 .mpp 双向读写了：导进来能改，改完能导回去",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503549",
+    "canonicalUrl": "https://www.oschina.net/news/503549",
+    "publishedAt": "2026-11-12T14:41:15.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "星甘stargantt支持mpp双向读写了导进来能改改完能导回去"
   },
   {
     "id": "200fe51844bb6551",
@@ -401,22 +394,22 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "NVIDIA Announces CEO Transition",
+    "title": "Jensen Huang resigns",
     "summary": "",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "canonicalUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "canonicalUrl": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "publishedAt": "2026-11-12T13:52:29.000Z",
     "fetchedAt": "2026-11-12T16:47:11.344Z",
     "tags": [
       "hacker-news"
     ],
     "signals": {
-      "points": 1294,
-      "comments": 1082
+      "points": 3305,
+      "comments": 3016
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "nvidiaannouncesceotransition"
+    "titleKey": "jensenhuangresigns"
   },
   {
     "id": "05ff47168555f476",
@@ -545,6 +538,25 @@
     "titleKey": "tradedesk财报超预期华尔街乐观情绪推高股价"
   },
   {
+    "id": "a8cd0bd46b7c8aba",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead en…",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "canonicalUrl": "https://openai.com/business/customer-stories/gondola",
+    "publishedAt": "2026-11-12T12:00:00.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "gondoladoublesrevenueasitsteambuildsmorewithcodex"
+  },
+  {
     "id": "da68c734c083f11b",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -658,6 +670,27 @@
     "titleKey": "token越烧越多利润却没涨李彦宏要重新设计企业组织"
   },
   {
+    "id": "5bf18bd6d320f550",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[KeyVia 满血中转站] 原生 Claude Fable5.2、GPT-6 Astra 免费用",
+    "summary": "站点： https://keyvia.cc 完成 KeyVia 注册后，在本贴评论留 KeyVia 站内 ID ，或通过 KeyVia 页面提交工单联系客服说明…",
+    "url": "https://www.v2ex.com/t/1256560",
+    "canonicalUrl": "https://www.v2ex.com/t/1256560",
+    "publishedAt": "2026-11-12T10:35:51.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 160
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "keyvia满血中转站原生claudefable52gpt6astra免费用"
+  },
+  {
     "id": "1179360a952950e0",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -733,6 +766,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "anthropic启动ipo路演估值已缩水6000亿美元"
+  },
+  {
+    "id": "c259b955cfd4e26c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "本月起正式停止续费 codex 了",
+    "summary": "之前每个月一直续费着 100 刀的套餐 最近几个月是真难用啊，前段时间就算天天重置，那点用量也还是跟芝麻粒一样，蹬几下就没了 反应迟钝慢的要死，外加严重降智 再…",
+    "url": "https://www.v2ex.com/t/1256551",
+    "canonicalUrl": "https://www.v2ex.com/t/1256551",
+    "publishedAt": "2026-11-12T10:09:48.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "OpenAI"
+    ],
+    "signals": {
+      "replies": 79
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "本月起正式停止续费codex了"
   },
   {
     "id": "67daf8316a5babf1",
@@ -837,10 +891,10 @@
     "publishedAt": "2026-11-12T08:50:09.000Z",
     "fetchedAt": "2026-11-12T16:47:11.344Z",
     "tags": [
-      "程序员"
+      "职场话题"
     ],
     "signals": {
-      "replies": 105
+      "replies": 181
     },
     "lang": "zh",
     "weight": 55,
@@ -899,6 +953,52 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "马斯克已准备好聘请黄仁勋"
+  },
+  {
+    "id": "6ec7a081bd118aaf",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "MCP Is Dead Simple. And That's Exactly the Problem",
+    "summary": "What exactly is MCP?",
+    "url": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+    "canonicalUrl": "https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811",
+    "publishedAt": "2026-11-12T08:14:36.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "mcp",
+      "ai",
+      "agents",
+      "typescript"
+    ],
+    "signals": {
+      "reactions": 97,
+      "comments": 61
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "mcpisdeadsimpleandthatsexactlytheproblem"
+  },
+  {
+    "id": "88b0d4f07311cfc7",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？",
+    "summary": "公司几个月没招到合适的人，最近我在几个程序员交流群、小红书，包括本站发了帖子，询问的人寥寥，不到十人，并且全是非统招本科。",
+    "url": "https://www.v2ex.com/t/1256509",
+    "canonicalUrl": "https://www.v2ex.com/t/1256509",
+    "publishedAt": "2026-11-12T08:02:27.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "酷工作"
+    ],
+    "signals": {
+      "replies": 103
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "济南初级程序员几个月没招不到人不是说行情不好都不好找工作吗"
   },
   {
     "id": "06b3e68dd3336a50",

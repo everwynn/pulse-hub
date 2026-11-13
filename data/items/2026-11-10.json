@@ -515,8 +515,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1282,
-      "forks": 84
+      "stars": 1354,
+      "forks": 89
     },
     "lang": "en",
     "weight": 90,
@@ -1804,7 +1804,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Kianuni/Erosion-CN",
-    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1709",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1753",
     "url": "https://github.com/Kianuni/Erosion-CN",
     "canonicalUrl": "https://github.com/Kianuni/Erosion-CN",
     "publishedAt": "2026-11-10T02:37:31.000Z",
@@ -1813,8 +1813,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 1709,
-      "forks": 375
+      "stars": 1753,
+      "forks": 378
     },
     "lang": "en",
     "weight": 90,
@@ -2121,6 +2121,33 @@
     "titleKey": "decisionmodelsinhuggingface"
   },
   {
+    "id": "18985a1aa0ee8287",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "HolyArrs/HolyArrs",
+    "summary": "One self-hosted app for your shows, movies and music.",
+    "url": "https://github.com/HolyArrs/HolyArrs",
+    "canonicalUrl": "https://github.com/HolyArrs/HolyArrs",
+    "publishedAt": "2026-11-09T23:53:25.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "Go",
+      "docker",
+      "homelab",
+      "jellyfin",
+      "media-server",
+      "plex"
+    ],
+    "signals": {
+      "stars": 1016,
+      "forks": 56
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "holyarrsholyarrs"
+  },
+  {
     "id": "cac485b54a8f7b07",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -2189,8 +2216,8 @@
       "watercooler"
     ],
     "signals": {
-      "reactions": 139,
-      "comments": 55
+      "reactions": 145,
+      "comments": 56
     },
     "lang": "en",
     "weight": 60,
@@ -3370,8 +3397,8 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 126,
-      "comments": 33
+      "reactions": 130,
+      "comments": 35
     },
     "lang": "en",
     "weight": 60,

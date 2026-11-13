@@ -1524,6 +1524,28 @@
     "titleKey": "protectingsshkeyswithmacossecureenclave"
   },
   {
+    "id": "6172bf292534e8fc",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "apex-compute/ANR",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1092",
+    "url": "https://github.com/apex-compute/ANR",
+    "canonicalUrl": "https://github.com/apex-compute/ANR",
+    "publishedAt": "2026-11-11T04:27:17.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "C++"
+    ],
+    "signals": {
+      "stars": 1092,
+      "forks": 12
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "apexcomputeanr"
+  },
+  {
     "id": "f5f884957f7b9817",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -2118,6 +2140,33 @@
     "lang": "en",
     "weight": 78,
     "titleKey": "lazareveniforasreprogrammingdormantneuronstobackdooraiagents"
+  },
+  {
+    "id": "d460e86fb1763952",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "FrigadeHQ/yogurt",
+    "summary": "Private AI meeting notes.",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "canonicalUrl": "https://github.com/FrigadeHQ/yogurt",
+    "publishedAt": "2026-11-10T20:01:01.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "TypeScript",
+      "ai-meeting-assistant",
+      "electron",
+      "linux",
+      "llama-cpp",
+      "local-ai"
+    ],
+    "signals": {
+      "stars": 1031,
+      "forks": 39
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "frigadehqyogurt"
   },
   {
     "id": "3f84f795800bd2f1",

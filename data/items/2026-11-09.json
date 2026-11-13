@@ -78,8 +78,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 121,
-      "comments": 40
+      "reactions": 129,
+      "comments": 41
     },
     "lang": "en",
     "weight": 60,
@@ -120,8 +120,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 164,
-      "comments": 94
+      "reactions": 173,
+      "comments": 100
     },
     "lang": "en",
     "weight": 60,
@@ -1719,8 +1719,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 6866,
-      "forks": 2531
+      "stars": 7050,
+      "forks": 2571
     },
     "lang": "en",
     "weight": 90,
@@ -2079,6 +2079,33 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "希望blg抗韩成功"
+  },
+  {
+    "id": "84b8aa49d9aef94e",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "agentes-chat/agentes-chat",
+    "summary": "Open-source, self-hosted Slack alternative where your team and AI agents work to…",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "canonicalUrl": "https://github.com/agentes-chat/agentes-chat",
+    "publishedAt": "2026-11-09T00:50:28.000Z",
+    "fetchedAt": "2026-11-13T06:41:04.755Z",
+    "tags": [
+      "TypeScript",
+      "agentic-ai",
+      "ai-agents",
+      "browser-automation",
+      "chat",
+      "claude"
+    ],
+    "signals": {
+      "stars": 1240,
+      "forks": 202
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "agenteschatagenteschat"
   },
   {
     "id": "7ed03fe8350218ef",
