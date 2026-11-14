@@ -34,23 +34,6 @@
     "titleKey": "homesalesplummettolowestlevelsincegreatrecessionaspriceshitalltimehigh"
   },
   {
-    "id": "37f30cd0644f065f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "What really happens during Medicare counseling",
-    "summary": "Open enrollment can bring unexpected challenges for seniors.",
-    "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T15:40:00.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "whatreallyhappensduringmedicarecounseling"
-  },
-  {
     "id": "47ccaf24b1007f42",
     "sourceId": "devto",
     "sourceName": "DEV Community",
@@ -68,8 +51,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 118,
-      "comments": 17
+      "reactions": 120,
+      "comments": 18
     },
     "lang": "en",
     "weight": 60,
@@ -997,12 +980,34 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 125,
-      "comments": 90
+      "reactions": 145,
+      "comments": 115
     },
     "lang": "en",
     "weight": 60,
     "titleKey": "mcpisdeadsimpleandthatsexactlytheproblem"
+  },
+  {
+    "id": "fb623bbacf94b713",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "deepseek-ai/chat-demo",
+    "summary": "Chat Demo · TypeScript · ★ 1111",
+    "url": "https://github.com/deepseek-ai/chat-demo",
+    "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
+    "publishedAt": "2026-11-12T08:08:19.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "TypeScript"
+    ],
+    "signals": {
+      "stars": 1111,
+      "forks": 180
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "deepseekaichatdemo"
   },
   {
     "id": "88b0d4f07311cfc7",

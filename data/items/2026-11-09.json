@@ -78,7 +78,7 @@
       "programming"
     ],
     "signals": {
-      "reactions": 135,
+      "reactions": 147,
       "comments": 45
     },
     "lang": "en",
@@ -120,8 +120,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 185,
-      "comments": 107
+      "reactions": 193,
+      "comments": 109
     },
     "lang": "en",
     "weight": 60,
@@ -316,6 +316,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "当flutter遇上鸿蒙一次杂志级混合开发实战"
+  },
+  {
+    "id": "7b52e444da856061",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "kolbicz/WQFiles",
+    "summary": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query,…",
+    "url": "https://github.com/kolbicz/WQFiles",
+    "canonicalUrl": "https://github.com/kolbicz/WQFiles",
+    "publishedAt": "2026-11-09T13:43:40.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "Objective-C"
+    ],
+    "signals": {
+      "stars": 819,
+      "forks": 59
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "kolbiczwqfiles"
   },
   {
     "id": "2b108fef34579ea6",
@@ -1719,8 +1741,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 7220,
-      "forks": 2590
+      "stars": 7410,
+      "forks": 2608
     },
     "lang": "en",
     "weight": 90,
@@ -2100,8 +2122,8 @@
       "claude"
     ],
     "signals": {
-      "stars": 1301,
-      "forks": 215
+      "stars": 1356,
+      "forks": 236
     },
     "lang": "en",
     "weight": 90,

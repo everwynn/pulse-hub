@@ -1512,7 +1512,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1310",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1550",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1521,8 +1521,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 1310,
-      "forks": 19
+      "stars": 1550,
+      "forks": 23
     },
     "lang": "en",
     "weight": 90,
@@ -2130,7 +2130,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "FrigadeHQ/yogurt",
-    "summary": "Private AI meeting notes.",
+    "summary": "Private AI meeting notes that stay on your computer.",
     "url": "https://github.com/FrigadeHQ/yogurt",
     "canonicalUrl": "https://github.com/FrigadeHQ/yogurt",
     "publishedAt": "2026-11-10T20:01:01.000Z",
@@ -2138,14 +2138,14 @@
     "tags": [
       "TypeScript",
       "ai-meeting-assistant",
+      "ai-notetaker",
       "electron",
-      "linux",
-      "llama-cpp",
-      "local-ai"
+      "granola-alternative",
+      "linux"
     ],
     "signals": {
-      "stars": 1188,
-      "forks": 47
+      "stars": 1320,
+      "forks": 61
     },
     "lang": "en",
     "weight": 90,

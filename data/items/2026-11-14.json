@@ -1,5 +1,826 @@
 [
   {
+    "id": "b6f4e0493d246026",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D",
+    "publishedAt": "2026-11-14T10:00:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai自动写pr模型反而最简单inkitt如何应对webhook重复ci失败与合并冲突"
+  },
+  {
+    "id": "6041f0ec45d37c46",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa",
+    "publishedAt": "2026-11-14T10:00:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "从提效到扩能ai驱动小团队的能力突破与组织演进aicon北京"
+  },
+  {
+    "id": "b477403af7b190b9",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "ArrowMark Financial declares $0.15 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672756-arrowmark-financial-declares-0_15-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672756-arrowmark-financial-declares-0_15-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-14T06:01:23.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "banx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "arrowmarkfinancialdeclares015dividend"
+  },
+  {
+    "id": "70cd80efba83c331",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Seritage Growth Properties 7% CUM PFD SR A declares $0.4375 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672755-seritage-growth-properties-7-percent-cum-pfd-sr-a-declares-0_4375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672755-seritage-growth-properties-7-percent-cum-pfd-sr-a-declares-0_4375-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-14T06:00:40.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "srg.pr.a"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "seritagegrowthproperties7cumpfdsradeclares04375dividend"
+  },
+  {
+    "id": "f61da033b4e9cd3d",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Eagle Capital Growth Fund declares $0.49 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672754-eagle-capital-growth-fund-declares-0_49-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672754-eagle-capital-growth-fund-declares-0_49-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-14T05:58:56.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "grf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "eaglecapitalgrowthfunddeclares049dividend"
+  },
+  {
+    "id": "e282278ba489ef73",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "ECA Marcellus Trust I declares $0.021 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672753-eca-marcellus-trust-i-declares-0_021-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672753-eca-marcellus-trust-i-declares-0_021-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-14T05:58:39.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "ectm"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "ecamarcellustrustideclares0021dividend"
+  },
+  {
+    "id": "bfbe31100b32cf5d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据美国消费者新闻与商业频道（CNBC）13日报道，美国财政部长贝森特当天在接受该媒体采访时承认自己已从住所搬至一处军事基…",
+    "summary": "据美国消费者新闻与商业频道（CNBC）13日报道，美国财政部长贝森特当天在接受该媒体采访时承认自己已从住所搬至一处军事基地，并称搬家的原因之一是美国《华尔街日报…",
+    "url": "https://wallstreetcn.com/livenews/3200111",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200111",
+    "publishedAt": "2026-11-14T05:54:25.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据美国消费者新闻与商业频道cnbc13日报道美国财政部长贝森特当天在接受该媒体采访时承认自己已从住所搬至一处军事基"
+  },
+  {
+    "id": "622df86031870d47",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗表示，在“非常时期”不会恢复核安全保障措施。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200110",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200110",
+    "publishedAt": "2026-11-14T05:51:17.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗表示在非常时期不会恢复核安全保障措施"
+  },
+  {
+    "id": "c9a8eea8c573ef90",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月15日，北京地区将正式供暖。随着供暖季的临近，国网北京市电力公司全力落实度冬供电保障重点举措。国网北京电力调度控制…",
+    "summary": "11月15日，北京地区将正式供暖。",
+    "url": "https://wallstreetcn.com/livenews/3200109",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200109",
+    "publishedAt": "2026-11-14T05:40:29.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月15日北京地区将正式供暖随着供暖季的临近国网北京市电力公司全力落实度冬供电保障重点举措国网北京电力调度控制"
+  },
+  {
+    "id": "1a18503ee4d295bd",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "比亚迪网络举报中心今日发布声明称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：该消息无任何事实依据，属于虚假…",
+    "summary": "比亚迪网络举报中心今日发布声明称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：该消息无任何事实依据，属于虚假信息，请广大网友切勿轻信、转发。",
+    "url": "https://wallstreetcn.com/livenews/3200108",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200108",
+    "publishedAt": "2026-11-14T05:24:26.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel",
+      "a-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比亚迪网络举报中心今日发布声明称针对网络流传某数字能源出售给比亚迪相关信息经核实该消息无任何事实依据属于虚假"
+  },
+  {
+    "id": "54099a7329b1eb80",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据美联社报道，美国总统特朗普计划下周访问亚洲时带上马斯克。匿名政府官员透露，作为SpaceX和特斯拉的掌门人，马斯克在经…",
+    "summary": "据美联社报道，美国总统特朗普计划下周访问亚洲时带上马斯克。",
+    "url": "https://wallstreetcn.com/livenews/3200107",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200107",
+    "publishedAt": "2026-11-14T05:23:11.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据美联社报道美国总统特朗普计划下周访问亚洲时带上马斯克匿名政府官员透露作为spacex和特斯拉的掌门人马斯克在经"
+  },
+  {
+    "id": "5d0646f8cbbfaaa1",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200106",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200106",
+    "publishedAt": "2026-11-14T05:21:58.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗方面称一艘油轮周六凌晨在霍尔木兹海峡以东触雷"
+  },
+  {
+    "id": "30addcab69c969d3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据美国方面当地时间13日消息，美国两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，…",
+    "summary": "据美国方面当地时间13日消息，美国两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求后者保留关于限制乌克兰使用“星链”和…",
+    "url": "https://wallstreetcn.com/livenews/3200105",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200105",
+    "publishedAt": "2026-11-14T05:14:31.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据美国方面当地时间13日消息美国两名民主党籍联邦参议员已正式致信美国太空探索技术公司spacex首席执行官马斯克"
+  },
+  {
+    "id": "99bf1f6e5611dec5",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "英国央行首席经济学家Pill表示，需要进一步加息；致力于逐步将通胀率拉回2%的目标水平；加息等待的时间过长。（英国《金融…",
+    "summary": "英国央行首席经济学家Pill表示，需要进一步加息；致力于逐步将通胀率拉回2%的目标水平；加息等待的时间过长。",
+    "url": "https://wallstreetcn.com/livenews/3200104",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200104",
+    "publishedAt": "2026-11-14T05:03:41.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英国央行首席经济学家pill表示需要进一步加息致力于逐步将通胀率拉回2的目标水平加息等待的时间过长英国金融"
+  },
+  {
+    "id": "8127711c07fc4af4",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "黄仁勋创办了英伟达，英伟达为什么还能让他走？",
+    "summary": "黄仁勋的离开，留下了一个极具宿命感的商业悖论：他花了33年时间，把英伟达打造成全球人工智能基础设施中不可替代的底座；但在这个过程中，他也把自己变成了英伟达内部唯…",
+    "url": "https://www.tmtpost.com/8204790.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204790.html",
+    "publishedAt": "2026-11-14T04:57:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "黄仁勋创办了英伟达英伟达为什么还能让他走"
+  },
+  {
+    "id": "7e0310c12964b825",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间11月13日晚，由于通信故障引发安全隐患，全美各地航班一度停飞超过四小时。交通部长肖恩·达菲将故障归咎于老旧的空…",
+    "summary": "当地时间11月13日晚，由于通信故障引发安全隐患，全美各地航班一度停飞超过四小时。",
+    "url": "https://wallstreetcn.com/livenews/3200103",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200103",
+    "publishedAt": "2026-11-14T04:56:54.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间11月13日晚由于通信故障引发安全隐患全美各地航班一度停飞超过四小时交通部长肖恩达菲将故障归咎于老旧的空"
+  },
+  {
+    "id": "2f4da27038cfeb83",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时，承载一请愿活动的网站因访…",
+    "summary": "北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。",
+    "url": "https://wallstreetcn.com/livenews/3200102",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200102",
+    "publishedAt": "2026-11-14T04:55:41.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "北京时间今天清晨马斯克在社交媒体上公开确认自己正在签署一份请求黄仁勋复职的请愿书与此同时承载一请愿活动的网站因访"
+  },
+  {
+    "id": "cf611656580d046f",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Sagicor Financial declares $0.075 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672752-sagicor-financial-declares-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672752-sagicor-financial-declares-0_075-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-14T04:45:27.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "sgcff",
+      "sfc:ca"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "sagicorfinancialdeclares0075dividend"
+  },
+  {
+    "id": "4233d85b8db6ee74",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "K-Bro Linen declares CAD 0.10 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672751-k-bro-linen-declares-cad-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672751-k-bro-linen-declares-cad-0_10-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-14T04:44:31.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "kbl:ca",
+      "kbrlf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "kbrolinendeclarescad010dividend"
+  },
+  {
+    "id": "25961b9f50027d27",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "phimint v0.10.0 发布：卡在「等你输入」的命令上，agent 能自己接上",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503576",
+    "canonicalUrl": "https://www.oschina.net/news/503576",
+    "publishedAt": "2026-11-14T04:24:27.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "phimintv0100发布卡在等你输入的命令上agent能自己接上"
+  },
+  {
+    "id": "3cf6136350690a63",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "summary": "",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "canonicalUrl": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "publishedAt": "2026-11-14T02:52:59.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 283,
+      "comments": 145
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nvidiaallegedlyengineeredscarcitybyfundingaistartupstobuyitsgpus"
+  },
+  {
+    "id": "b8cbdda1b10d96d4",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+    "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cybera…",
+    "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T02:42:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "faaliftsrarenationwidegroundstoponflightsairtravelmaytakedaystorecover"
+  },
+  {
+    "id": "69307bf4e408f64d",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "宁夏“龙头酒庄”斩获近亿元融资，跨产区运作的压力给到西鸽酒庄",
+    "summary": "国产葡萄酒新玩家的野心、机遇与隐忧。",
+    "url": "https://www.tmtpost.com/8204938.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204938.html",
+    "publishedAt": "2026-11-14T02:30:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "宁夏龙头酒庄斩获近亿元融资跨产区运作的压力给到西鸽酒庄"
+  },
+  {
+    "id": "e4ad73f2e136660d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ggml v1.0.0",
+    "summary": "",
+    "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "canonicalUrl": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+    "publishedAt": "2026-11-14T02:28:29.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 138,
+      "comments": 27
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ggmlv100"
+  },
+  {
+    "id": "373e0a6b68431ea8",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？",
+    "summary": "终于来了么？",
+    "url": "https://www.tmtpost.com/8204784.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204784.html",
+    "publishedAt": "2026-11-14T02:25:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "英伟达跌倒会是平头哥和昆仑芯的窗口期吗"
+  },
+  {
+    "id": "c23724f1059a46db",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "苹果不想一直“躺赢”",
+    "summary": "新任CEO坐不住了。",
+    "url": "https://www.tmtpost.com/8204097.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204097.html",
+    "publishedAt": "2026-11-14T02:17:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "苹果不想一直躺赢"
+  },
+  {
+    "id": "581c35b9e15642a6",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "银泰到底姓什么？43亿REITs背后的招牌之争",
+    "summary": "“天下甬商是一家”的招牌不能丢。",
+    "url": "https://www.tmtpost.com/8204078.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204078.html",
+    "publishedAt": "2026-11-14T02:13:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "银泰到底姓什么43亿reits背后的招牌之争"
+  },
+  {
+    "id": "2282bfa70286fd59",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "英伟达第一次没有黄仁勋",
+    "summary": "谁来押注下一个十年？",
+    "url": "https://www.tmtpost.com/8204046.html",
+    "canonicalUrl": "https://www.tmtpost.com/8204046.html",
+    "publishedAt": "2026-11-14T02:09:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "英伟达第一次没有黄仁勋"
+  },
+  {
+    "id": "c1e29051047964e1",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "14 dividend stocks selected for long-term growth",
+    "summary": "These stocks feature attractive dividend payouts and are trading low to the comp…",
+    "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T01:58:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "14dividendstocksselectedforlongtermgrowth"
+  },
+  {
+    "id": "f26b15be1f6d1858",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+    "summary": "",
+    "url": "https://unsloth.ai/docs/models/qwen3.8",
+    "canonicalUrl": "https://unsloth.ai/docs/models/qwen3.8",
+    "publishedAt": "2026-11-14T00:06:04.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 81,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "unslothqwen3827bquantizationsdynamicv31update"
+  },
+  {
+    "id": "e1486e7ddb5c8e08",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "有小孩了,想每年给小孩存一点钱,大家推荐什么",
+    "summary": "目前给弄了个 3 年的定期存款 希望有点收益,不要太大也不要冒险吧",
+    "url": "https://www.v2ex.com/t/1256985",
+    "canonicalUrl": "https://www.v2ex.com/t/1256985",
+    "publishedAt": "2026-11-14T00:04:42.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 36
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "有小孩了想每年给小孩存一点钱大家推荐什么"
+  },
+  {
+    "id": "9d356874ebf4fe34",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What Happened to 3Com?",
+    "summary": "",
+    "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+    "canonicalUrl": "https://dfarq.homeip.net/what-happened-to-3com",
+    "publishedAt": "2026-11-13T23:48:59.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 106,
+      "comments": 58
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whathappenedto3com"
+  },
+  {
+    "id": "0482d40ba7c00323",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+    "summary": "",
+    "url": "https://grounds.top/",
+    "canonicalUrl": "https://grounds.top/",
+    "publishedAt": "2026-11-13T23:17:39.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 104,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnlivemapofusflightsduringtonightsfaanationwidegroundstop"
+  },
+  {
+    "id": "7f8dbb57466ecc7a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "summary": "There is already a demographic ‘run’ on Social Security.",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T23:12:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
+  },
+  {
+    "id": "e68839c319d0a48c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Terminal borders that don't cost a cell",
+    "summary": "",
+    "url": "https://www.joshka.net/cell-borders/",
+    "canonicalUrl": "https://www.joshka.net/cell-borders",
+    "publishedAt": "2026-11-13T23:06:40.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 175,
+      "comments": 80
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "terminalbordersthatdontcostacell"
+  },
+  {
+    "id": "37f30cd0644f065f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "4 expert tips for signing up for Medicare",
+    "summary": "A day in the life of a Medicare counselor",
+    "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T22:45:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "4experttipsforsigningupformedicare"
+  },
+  {
+    "id": "73960db8d8524f76",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+    "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth con…",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T22:21:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiasstockisonalosingstreaknotseenin14yearswhatcomesnext"
+  },
+  {
+    "id": "eb193244fe0a8b40",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "summary": "",
+    "url": "https://orcasairband.com/",
+    "canonicalUrl": "https://orcasairband.com/",
+    "publishedAt": "2026-11-13T22:04:24.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 246,
+      "comments": 56
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "liveairbandonallfrequenciesfromkorsvictoriacaalsogroundstopped"
+  },
+  {
+    "id": "12865ff30e026579",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+    "summary": "It’s official: the world is expected to soon have more oil than it needs for the…",
+    "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T22:04:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "globaloilsuppliesaresuddenlyflowingwhyacrudeglutwontmeancheaperdiesel"
+  },
+  {
+    "id": "749ee29d1109eaad",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
+    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T22:00:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantafforda200000ayearretirementishebeingcheap"
+  },
+  {
+    "id": "963839e96dcc03c5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
+    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
+    "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-13T21:32:00.000Z",
+    "fetchedAt": "2026-11-13T16:18:41.039Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shehasahistoryoffinancialmismanagementmybrothercutoursisteroutofhiswillillgeteverythingdoitellher"
+  },
+  {
+    "id": "43e70445dc7c80c4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "FAA issues national ground stop – lifted 4.5 hours later",
+    "summary": "",
+    "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "canonicalUrl": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+    "publishedAt": "2026-11-13T21:05:53.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1467,
+      "comments": 1130
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "faaissuesnationalgroundstoplifted45hourslater"
+  },
+  {
     "id": "a9a27ca4ba0c90d3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +836,72 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "从快速部署到记忆共享数据库如何支撑agent应用"
+  },
+  {
+    "id": "7e4ae85c267e495b",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Advancing science & engineering with Antigravity’s /teamwork",
+    "summary": "Education Innovation",
+    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "canonicalUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+    "publishedAt": "2026-11-13T20:47:18.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "Education Innovation",
+      "General Science",
+      "Machine Intelligence",
+      "Natural Language Process"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "advancingscienceengineeringwithantigravitysteamwork"
+  },
+  {
+    "id": "94b0f5b0cc23cc07",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Found: A protein that drives ageing without unleashing inflammation",
+    "summary": "",
+    "url": "https://www.nature.com/articles/d41586-026-03638-3",
+    "canonicalUrl": "https://www.nature.com/articles/d41586-026-03638-3",
+    "publishedAt": "2026-11-13T19:25:21.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 170,
+      "comments": 26
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "foundaproteinthatdrivesageingwithoutunleashinginflammation"
+  },
+  {
+    "id": "242ae72ce7c37e04",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "FM-1 Workbench",
+    "summary": "",
+    "url": "https://open.m-vave.com/fm1-workbench",
+    "canonicalUrl": "https://open.m-vave.com/fm1-workbench",
+    "publishedAt": "2026-11-13T19:14:02.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 212,
+      "comments": 137
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "fm1workbench"
   },
   {
     "id": "5445f09440860606",
@@ -34,6 +921,79 @@
     "titleKey": "智能互动agent在快手商业场景的落地实践"
   },
   {
+    "id": "1dcc0b1b961f2a90",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "canonicalUrl": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "publishedAt": "2026-11-13T18:00:39.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "buildarobotpickandplacesimulationwithsimreadyassets"
+  },
+  {
+    "id": "c77e4707a56db3df",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "After 600 experiments, here's what I discovered about JEPA world models",
+    "summary": "",
+    "url": "https://haddyalchaer.com/jepa",
+    "canonicalUrl": "https://haddyalchaer.com/jepa",
+    "publishedAt": "2026-11-13T17:55:28.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 240,
+      "comments": 38
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "after600experimentshereswhatidiscoveredaboutjepaworldmodels"
+  },
+  {
+    "id": "c56e482fad012138",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "旅行者 1 号距离地球的距离达到一光日",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85883",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85883",
+    "publishedAt": "2026-11-13T17:14:47.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "旅行者1号距离地球的距离达到一光日"
+  },
+  {
+    "id": "1c4d1c8b8b7c55a5",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "非洲加速发展太阳能",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85882",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85882",
+    "publishedAt": "2026-11-13T17:07:22.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "非洲加速发展太阳能"
+  },
+  {
     "id": "b476bfa87e7038cc",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -51,6 +1011,23 @@
     "titleKey": "容器隔离还不够edera从虚拟机监控器层限制ai智能体"
   },
   {
+    "id": "d0a7651fa5b8a126",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "XYBench: Helping with the problem behind the question",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/xybench",
+    "canonicalUrl": "https://huggingface.co/blog/allenai/xybench",
+    "publishedAt": "2026-11-13T17:02:35.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "xybenchhelpingwiththeproblembehindthequestion"
+  },
+  {
     "id": "59ae09384197df71",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -59,7 +1036,7 @@
     "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud p…",
     "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
     "canonicalUrl": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-    "publishedAt": "2026-11-13T16:17:18.000Z",
+    "publishedAt": "2026-11-13T16:23:43.000Z",
     "fetchedAt": "2026-11-13T06:41:04.755Z",
     "tags": [],
     "signals": {},
@@ -297,23 +1274,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
-  },
-  {
-    "id": "c1e29051047964e1",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "14 dividend stocks selected for long-term growth",
-    "summary": "These stocks feature attractive dividend payouts and are trading low to the comp…",
-    "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-13T16:01:00.000Z",
-    "fetchedAt": "2026-11-13T16:18:41.039Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "14dividendstocksselectedforlongtermgrowth"
   },
   {
     "id": "5a1f3a2b3cc4eea2",
