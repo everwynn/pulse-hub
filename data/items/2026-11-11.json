@@ -1512,7 +1512,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1550",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1703",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1521,8 +1521,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 1550,
-      "forks": 23
+      "stars": 1703,
+      "forks": 28
     },
     "lang": "en",
     "weight": 90,
@@ -2144,8 +2144,8 @@
       "linux"
     ],
     "signals": {
-      "stars": 1320,
-      "forks": 61
+      "stars": 1386,
+      "forks": 70
     },
     "lang": "en",
     "weight": 90,

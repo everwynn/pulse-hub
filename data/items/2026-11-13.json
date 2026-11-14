@@ -2103,6 +2103,33 @@
     "titleKey": "argusv050发布纯rust与gpu原生绘制的现代windows任务管理器已获14kstar"
   },
   {
+    "id": "9fa513c9861cbc74",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "DevedevT/FFmpeg-GUI-Editor-Windows",
+    "summary": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-u…",
+    "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+    "canonicalUrl": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+    "publishedAt": "2026-11-12T20:49:07.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "Visual Basic .NET",
+      "converter",
+      "ffmpeg",
+      "ffmpeg-command",
+      "ffmpeg-gui",
+      "ffmpeg-libraries"
+    ],
+    "signals": {
+      "stars": 1044,
+      "forks": 0
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "devedevtffmpegguieditorwindows"
+  },
+  {
     "id": "bebe362e67886a9a",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",

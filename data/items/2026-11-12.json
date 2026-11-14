@@ -51,8 +51,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 120,
-      "comments": 18
+      "reactions": 122,
+      "comments": 19
     },
     "lang": "en",
     "weight": 60,
@@ -320,6 +320,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "electricshipbatteriespromisecompactcoolerpower"
+  },
+  {
+    "id": "1aa8eaacc6fd52d5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Testing a Trash Can Faraday Cage",
+    "summary": "",
+    "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+    "canonicalUrl": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+    "publishedAt": "2026-11-12T14:04:27.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 12,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "testingatrashcanfaradaycage"
   },
   {
     "id": "15be79a623a62af6",
@@ -980,8 +1002,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 145,
-      "comments": 115
+      "reactions": 153,
+      "comments": 126
     },
     "lang": "en",
     "weight": 60,
@@ -993,7 +1015,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/chat-demo",
-    "summary": "Chat Demo · TypeScript · ★ 1111",
+    "summary": "Chat Demo · TypeScript · ★ 1545",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
     "publishedAt": "2026-11-12T08:08:19.000Z",
@@ -1002,8 +1024,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 1111,
-      "forks": 180
+      "stars": 1545,
+      "forks": 257
     },
     "lang": "en",
     "weight": 90,

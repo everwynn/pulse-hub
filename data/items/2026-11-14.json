@@ -1,5 +1,652 @@
 [
   {
+    "id": "7440f709cf2203b7",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc",
+    "publishedAt": "2026-11-14T15:00:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "githubactions锁文件功能正式可用保障工作流依赖安全"
+  },
+  {
+    "id": "3d11c2d88bed3fe5",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Earnings Scoreboard: All 10 reporting firms beat EPS estimates across seven sectors; 8 grow Y/Y profits",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672154-earnings-scoreboard-all-10-reporting-firms-beat-eps-estimates-across-seven-sectors-8-grow-yy-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672154-earnings-scoreboard-all-10-reporting-firms-beat-eps-estimates-across-seven-sectors-8-grow-yy-profits?feed_item_type=news",
+    "publishedAt": "2026-11-14T14:35:06.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "ceg",
+      "ferg",
+      "kkr",
+      "kkr:ca",
+      "nrg",
+      "oxy"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "earningsscoreboardall10reportingfirmsbeatepsestimatesacrosssevensectors8growyyprofits"
+  },
+  {
+    "id": "b8cbdda1b10d96d4",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
+    "summary": "Homeland Security Secretary Markwayne Mullin says “zero evidence” of cyberattack…",
+    "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T14:27:00.000Z",
+    "fetchedAt": "2026-11-14T06:17:47.953Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "usairtravelcouldtakedaystorecoverafterfaasliftingofrarenationwidegroundstop"
+  },
+  {
+    "id": "95d5b55848954129",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "How much will it cost to prevent another air traffic meltdown?",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672767-how-much-will-it-cost-to-prevent-another-air-traffic-meltdown?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672767-how-much-will-it-cost-to-prevent-another-air-traffic-meltdown?feed_item_type=news",
+    "publishedAt": "2026-11-14T14:18:32.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "aal",
+      "dal",
+      "ual",
+      "jblu",
+      "luv",
+      "ulcc"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "howmuchwillitcosttopreventanotherairtrafficmeltdown"
+  },
+  {
+    "id": "b4c22a65c8228cf2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "天问四号将尝试登陆木卫四",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85887",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85887",
+    "publishedAt": "2026-11-14T14:12:32.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "天问四号将尝试登陆木卫四"
+  },
+  {
+    "id": "3e40547fdc1c91ab",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "summary": "",
+    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "canonicalUrl": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+    "publishedAt": "2026-11-14T14:09:25.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 29,
+      "comments": 7
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "servingglm53at6078toksacrosstwonvidiadgxstationswithvllm"
+  },
+  {
+    "id": "81c361e6d253186d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "summary": "",
+    "url": "https://github.com/paul-nameless/agweb",
+    "canonicalUrl": "https://github.com/paul-nameless/agweb",
+    "publishedAt": "2026-11-14T14:08:12.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 9,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnagwebabrowserforagentsthatstaysoutofyourway"
+  },
+  {
+    "id": "a560e1e3defadd40",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+    "summary": "",
+    "url": "https://github.com/FURSOY/fursoy-cpu",
+    "canonicalUrl": "https://github.com/FURSOY/fursoy-cpu",
+    "publishedAt": "2026-11-14T14:06:34.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 6,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnfursoyoutoforderrv64imafdvcoreinsystemveriloglinux66"
+  },
+  {
+    "id": "f1848d5c30beb30a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "summary": "",
+    "url": "https://gitlab.com/snipedbywifi/terminactory",
+    "canonicalUrl": "https://gitlab.com/snipedbywifi/terminactory",
+    "publishedAt": "2026-11-14T14:05:54.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 13,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnaterminalnativeidlefactorygamewritteninrustwithratatui"
+  },
+  {
+    "id": "ca9805d89cb19053",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间11月14日，航班追踪网站FlightAware的数据显示，在13日空管系统出现通信故障、导致全美所有飞机停飞后…",
+    "summary": "当地时间11月14日，航班追踪网站FlightAware的数据显示，在13日空管系统出现通信故障、导致全美所有飞机停飞后，14日，美国境内及往返美国的航班已有超…",
+    "url": "https://wallstreetcn.com/livenews/3200138",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200138",
+    "publishedAt": "2026-11-14T14:02:25.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间11月14日航班追踪网站flightaware的数据显示在13日空管系统出现通信故障导致全美所有飞机停飞后"
+  },
+  {
+    "id": "9397bd218b7534e3",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "What’s the most tax-efficient way to donate to charity?",
+    "summary": "How to make your donations beneficial for both you and the recipient",
+    "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T14:00:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "whatsthemosttaxefficientwaytodonatetocharity"
+  },
+  {
+    "id": "9a75d65dcb9dd0b2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软云服务宕机持续逾 24 小时",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85886",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85886",
+    "publishedAt": "2026-11-14T13:55:50.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软云服务宕机持续逾24小时"
+  },
+  {
+    "id": "83d57c73de9ac345",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
+    "summary": "Americans voted against policies that drove up their costs.",
+    "url": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T13:30:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "washingtoncanstartdeliveringonaffordabilitybyrejectingtrumpstariffs"
+  },
+  {
+    "id": "40874cedd4eee765",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据中国大唐公众号消息，11月14日，大唐吕四港2×100万千瓦扩建项目6号机组并网一次成功。目前，6号机组各系统参数稳定…",
+    "summary": "据中国大唐公众号消息，11月14日，大唐吕四港2×100万千瓦扩建项目6号机组并网一次成功。",
+    "url": "https://wallstreetcn.com/livenews/3200136",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200136",
+    "publishedAt": "2026-11-14T13:24:41.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据中国大唐公众号消息11月14日大唐吕四港2100万千瓦扩建项目6号机组并网一次成功目前6号机组各系统参数稳定"
+  },
+  {
+    "id": "7fdd1a929f9e6d79",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "美国历史上第三次航班大停飞",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85884",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85884",
+    "publishedAt": "2026-11-14T13:24:23.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "美国历史上第三次航班大停飞"
+  },
+  {
+    "id": "cc0c2a4b839df7f2",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据比亚迪汽车公众号，比亚迪辅助驾驶车型保有量超419万辆，其中十月销售24.55万辆；天神之眼辅助驾驶每天生成数据超2.…",
+    "summary": "据比亚迪汽车公众号，比亚迪辅助驾驶车型保有量超419万辆，其中十月销售24.55万辆；天神之眼辅助驾驶每天生成数据超2.6亿公里。",
+    "url": "https://wallstreetcn.com/livenews/3200135",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200135",
+    "publishedAt": "2026-11-14T13:24:14.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据比亚迪汽车公众号比亚迪辅助驾驶车型保有量超419万辆其中十月销售2455万辆天神之眼辅助驾驶每天生成数据超2"
+  },
+  {
+    "id": "d9a2273c02e13d45",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Advancing science and engineering with Antigravity's /teamwork",
+    "summary": "",
+    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+    "canonicalUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+    "publishedAt": "2026-11-14T13:20:43.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 18,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "advancingscienceandengineeringwithantigravitysteamwork"
+  },
+  {
+    "id": "2b4c41dd0f01aba8",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据荷兰方面11月13日消息，荷兰皇家航空公司前首席执行官（CEO）卡米尔·厄尔林斯9月在该公司一架客机上违规使用充电宝引…",
+    "summary": "据荷兰方面11月13日消息，荷兰皇家航空公司前首席执行官（CEO）卡米尔·厄尔林斯9月在该公司一架客机上违规使用充电宝引发火情，荷航日前已就此事向检方提请指控厄…",
+    "url": "https://wallstreetcn.com/livenews/3200134",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200134",
+    "publishedAt": "2026-11-14T13:18:27.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据荷兰方面11月13日消息荷兰皇家航空公司前首席执行官ceo卡米尔厄尔林斯9月在该公司一架客机上违规使用充电宝引"
+  },
+  {
+    "id": "a4154e7448795b72",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Adobe's new agentic tools appear impressive, but BTIG seeks more evidence of growth",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672653-adobes-new-agentic-tools-appear-impressive-but-btig-seeks-more-evidence-of-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672653-adobes-new-agentic-tools-appear-impressive-but-btig-seeks-more-evidence-of-growth?feed_item_type=news",
+    "publishedAt": "2026-11-14T13:00:56.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "adbe",
+      "dis"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "adobesnewagentictoolsappearimpressivebutbtigseeksmoreevidenceofgrowth"
+  },
+  {
+    "id": "01915ae4016996fa",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "These 6 battered AI stocks could bounce back big, an analyst says",
+    "summary": "The postelection panic over data centers has led to a widespread tech selloff, b…",
+    "url": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T13:00:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "these6batteredaistockscouldbouncebackbigananalystsays"
+  },
+  {
+    "id": "73329888c9703588",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "巴基斯坦外交部今天（11月14日）发布声明称，巴基斯坦、埃及、沙特阿拉伯、土耳其、约旦、卡塔尔、阿拉伯联合酋长国、印度尼…",
+    "summary": "巴基斯坦外交部今天（11月14日）发布声明称，巴基斯坦、埃及、沙特阿拉伯、土耳其、约旦、卡塔尔、阿拉伯联合酋长国、印度尼西亚、巴勒斯坦国、阿尔及利亚、毛里塔尼亚…",
+    "url": "https://wallstreetcn.com/livenews/3200133",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200133",
+    "publishedAt": "2026-11-14T12:48:18.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "巴基斯坦外交部今天11月14日发布声明称巴基斯坦埃及沙特阿拉伯土耳其约旦卡塔尔阿拉伯联合酋长国印度尼"
+  },
+  {
+    "id": "f76ccc9c820e5e2e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "summary": "",
+    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "canonicalUrl": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "publishedAt": "2026-11-14T12:45:45.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 111,
+      "comments": 22
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "techcompaniesaretryingtoshifttheconceptofprivacyagain"
+  },
+  {
+    "id": "a38da31ad5620db3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据成都发布，11月14日，从美团获悉，在出行日期为11月14日至20日的机票订单中，成都位列热门目的地首位，成为全国亲子…",
+    "summary": "据成都发布，11月14日，从美团获悉，在出行日期为11月14日至20日的机票订单中，成都位列热门目的地首位，成为全国亲子家庭秋假出游的热门选择。",
+    "url": "https://wallstreetcn.com/livenews/3200132",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200132",
+    "publishedAt": "2026-11-14T12:43:14.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据成都发布11月14日从美团获悉在出行日期为11月14日至20日的机票订单中成都位列热门目的地首位成为全国亲子"
+  },
+  {
+    "id": "8475b65058cea1e7",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "意大利数据保护机构因Meta平台涉嫌未经同意使用安卓用户的视频和照片对其处以8.05亿欧元罚款。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200131",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200131",
+    "publishedAt": "2026-11-14T12:19:51.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "意大利数据保护机构因meta平台涉嫌未经同意使用安卓用户的视频和照片对其处以805亿欧元罚款"
+  },
+  {
+    "id": "bba02d4e03bcebde",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "The Grand Theft Auto 6 economy reaches far and wide",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4670613-the-grand-theft-auto-6-economy-reaches-far-and-wide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4670613-the-grand-theft-auto-6-economy-reaches-far-and-wide?feed_item_type=news",
+    "publishedAt": "2026-11-14T12:00:48.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "ttwo",
+      "ntdoy",
+      "gme",
+      "bby",
+      "espo",
+      "hero"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "thegrandtheftauto6economyreachesfarandwide"
+  },
+  {
+    "id": "0756921cc9633b96",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+    "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soar…",
+    "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-14T12:00:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "chinashotteststocksthesedayshaveonethingincommonnamesthatsoundlikesheep"
+  },
+  {
+    "id": "0013d98e6d6aa29a",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗伊斯兰革命卫队表示，当地时间今天（11月14日）下午，一架美国MQ-1型无人机在格什姆岛上空被伊朗伊斯兰革命卫队航空…",
+    "summary": "伊朗伊斯兰革命卫队表示，当地时间今天（11月14日）下午，一架美国MQ-1型无人机在格什姆岛上空被伊朗伊斯兰革命卫队航空航天部队的防空系统拦截并摧毁。",
+    "url": "https://wallstreetcn.com/livenews/3200130",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200130",
+    "publishedAt": "2026-11-14T11:59:16.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "a-stock-channel",
+      "xgb-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗伊斯兰革命卫队表示当地时间今天11月14日下午一架美国mq1型无人机在格什姆岛上空被伊朗伊斯兰革命卫队航空"
+  },
+  {
+    "id": "ccc3a9781d165dfb",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "知情人士透露，美国总统特朗普近日向高级顾问表示，如果美国未受到来自伊朗或也门胡塞武装的任何新挑衅，他可能会暂缓对伊朗采取…",
+    "summary": "知情人士透露，美国总统特朗普近日向高级顾问表示，如果美国未受到来自伊朗或也门胡塞武装的任何新挑衅，他可能会暂缓对伊朗采取军事打击。",
+    "url": "https://wallstreetcn.com/livenews/3200128",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200128",
+    "publishedAt": "2026-11-14T11:15:11.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "知情人士透露美国总统特朗普近日向高级顾问表示如果美国未受到来自伊朗或也门胡塞武装的任何新挑衅他可能会暂缓对伊朗采取"
+  },
+  {
+    "id": "f906240f0a1626b1",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "高盛集团预计，尽管人工智能（AI）领域的不确定性可能加剧市场波动，但企业盈利增长仍将推动MSCI日本以外亚洲指数（MSC…",
+    "summary": "高盛集团预计，尽管人工智能（AI）领域的不确定性可能加剧市场波动，但企业盈利增长仍将推动MSCI日本以外亚洲指数（MSCI Asia ex-Japan Inde…",
+    "url": "https://wallstreetcn.com/livenews/3200127",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200127",
+    "publishedAt": "2026-11-14T11:13:55.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "高盛集团预计尽管人工智能ai领域的不确定性可能加剧市场波动但企业盈利增长仍将推动msci日本以外亚洲指数msc"
+  },
+  {
+    "id": "ebcb27d2244a2ff0",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "库克接班，可能真是英伟达的最优解",
+    "summary": "再找一个黄仁勋很难，先找一个库克呢？",
+    "url": "https://www.tmtpost.com/8205427.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205427.html",
+    "publishedAt": "2026-11-14T10:37:06.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "库克接班可能真是英伟达的最优解"
+  },
+  {
+    "id": "70401407b813434e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "ADC载荷迭代迈入加速期",
+    "summary": "从分子竞争到平台比拼。",
+    "url": "https://www.tmtpost.com/8205391.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205391.html",
+    "publishedAt": "2026-11-14T10:37:01.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "adc载荷迭代迈入加速期"
+  },
+  {
+    "id": "21c1afb9b2c97819",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+    "summary": "马斯克也签名了",
+    "url": "https://www.qbitai.com/2026/11/510297.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510297.html",
+    "publishedAt": "2026-11-14T10:08:08.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "资讯",
+      "英伟达",
+      "马斯克",
+      "黄仁勋"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "英伟达上演奥特曼20员工集体请愿让老黄回家"
+  },
+  {
     "id": "b6f4e0493d246026",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +679,200 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "从提效到扩能ai驱动小团队的能力突破与组织演进aicon北京"
+  },
+  {
+    "id": "d0a4fac44dd96ab2",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "A股一级行业，PS偏离度分布与深潜分析",
+    "summary": "就结论而言，偏离度剔除了市场整体水位，使行业间的相对贵贱在横截面与时间序列上都可比；但它只衡量相对贵贱，并不回答这份贵贱是否合理——偏离度为正，未必是高估；偏离…",
+    "url": "https://www.tmtpost.com/8205459.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205459.html",
+    "publishedAt": "2026-11-14T09:58:58.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "a股一级行业ps偏离度分布与深潜分析"
+  },
+  {
+    "id": "4d12c7e95779d54b",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+    "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+    "url": "https://www.qbitai.com/2026/11/510232.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510232.html",
+    "publishedAt": "2026-11-14T09:58:22.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "基准测试",
+      "湿实验",
+      "预测"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "史上最严湿实验预测基准发布推理拉满算力翻5倍也白搭"
+  },
+  {
+    "id": "9ecf75013de8b2ab",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "营收增长与PS变化：A股一级行业五年估值位移的经济含义",
+    "summary": "PS的变化，本质是两条曲线的差。",
+    "url": "https://www.tmtpost.com/8205450.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205450.html",
+    "publishedAt": "2026-11-14T09:57:36.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "营收增长与ps变化a股一级行业五年估值位移的经济含义"
+  },
+  {
+    "id": "2be4bf566384d525",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
+    "summary": "跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封…",
+    "url": "https://www.tmtpost.com/8205442.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205442.html",
+    "publishedAt": "2026-11-14T09:57:13.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "价值判断跌停板的投资机会和风险提示11月13日上市公司观察"
+  },
+  {
+    "id": "32359ecf9023e861",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
+    "summary": "本期五只标的分两头：三只首板、收盘低于济安定价四成四至六成九，分属色纺纱、汽车橡塑与港口机械；两只连板、高于九成五至一倍二，分属汽车胶管与输水管道。",
+    "url": "https://www.tmtpost.com/8205437.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205437.html",
+    "publishedAt": "2026-11-14T09:57:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "价值判断涨停板的投资机会和风险提示11月13日上市公司观察"
+  },
+  {
+    "id": "f47670f0bc03c628",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+    "summary": "童年的纸飞机，现在终于飞回我手里～",
+    "url": "https://www.qbitai.com/2026/11/510150.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510150.html",
+    "publishedAt": "2026-11-14T09:48:34.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "资讯",
+      "纸飞机"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "程序员集体沉迷折纸飞机最长滞空312秒"
+  },
+  {
+    "id": "4d3b98e6ee1c265b",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Microsoft services fully restored after outage",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672766-microsoft-services-fully-restored-after-outage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672766-microsoft-services-fully-restored-after-outage?feed_item_type=news",
+    "publishedAt": "2026-11-14T09:47:32.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "msft"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "microsoftservicesfullyrestoredafteroutage"
+  },
+  {
+    "id": "4e832ab5848d6bad",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "绿电进Token出！联想重新定义词元工厂",
+    "summary": "年产2000万亿Token，成本狂降70%",
+    "url": "https://www.qbitai.com/2026/11/510094.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510094.html",
+    "publishedAt": "2026-11-14T09:41:02.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "token",
+      "电力",
+      "联想"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "绿电进token出联想重新定义词元工厂"
+  },
+  {
+    "id": "d31e66bf1b882fda",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Merlin Properties signals 2026 FFO guidance of €0.58 as it reshapes 704 MW data center plan amid Spain’s Royal Decree",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672758-merlin-properties-signals-2026-ffo-guidance-of-0_58-as-it-reshapes-704-mw-data-center-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672758-merlin-properties-signals-2026-ffo-guidance-of-0_58-as-it-reshapes-704-mw-data-center-plan?feed_item_type=news",
+    "publishedAt": "2026-11-14T08:20:01.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "mptyy",
+      "mrprf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "merlinpropertiessignals2026ffoguidanceof058asitreshapes704mwdatacenterplanamidspainsroyaldecree"
+  },
+  {
+    "id": "cfef112717f38599",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "iOS 原生多论坛客户端： V2EX / NGA / Linux .do / Chiphell / 4D4Y 一个 App 刷，抽 10 个半年 Pro",
+    "summary": "平时同时逛好几个论坛，一个论坛一个 App 或者一个网页，来回切有点烦。",
+    "url": "https://www.v2ex.com/t/1257030",
+    "canonicalUrl": "https://www.v2ex.com/t/1257030",
+    "publishedAt": "2026-11-14T06:05:09.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 37
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "ios原生多论坛客户端v2exngalinuxdochiphell4d4y一个app刷抽10个半年pro"
   },
   {
     "id": "b477403af7b190b9",
@@ -393,11 +1234,75 @@
     "titleKey": "phimintv0100发布卡在等你输入的命令上agent能自己接上"
   },
   {
+    "id": "8e74d511373a7be5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Monkey Island: all 13 versions side by side",
+    "summary": "",
+    "url": "https://monkeyisland.pages.dev/",
+    "canonicalUrl": "https://monkeyisland.pages.dev/",
+    "publishedAt": "2026-11-14T04:23:30.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 290,
+      "comments": 85
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "monkeyislandall13versionssidebyside"
+  },
+  {
+    "id": "51123ae746948729",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了",
+    "summary": "期待在醒来时看到项目做好上线发布的页面，结果被 Windows 登录页面迎接。",
+    "url": "https://www.v2ex.com/t/1257008",
+    "canonicalUrl": "https://www.v2ex.com/t/1257008",
+    "publishedAt": "2026-11-14T03:02:12.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "科技"
+    ],
+    "signals": {
+      "replies": 26
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "睡前安排了一整晚的agent全自动任务一觉醒来被windows自动更新重启杀了"
+  },
+  {
+    "id": "f5298ce3acbee2f4",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+    "summary": "狂揽3000万播放量",
+    "url": "https://www.qbitai.com/2026/11/510013.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510013.html",
+    "publishedAt": "2026-11-14T02:59:35.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "LibTV"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中专生拍出哈利波特爆款欧美明星好莱坞制片人集体点赞"
+  },
+  {
     "id": "3cf6136350690a63",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "summary": "",
     "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "canonicalUrl": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
@@ -407,29 +1312,32 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 283,
-      "comments": 145
+      "points": 828,
+      "comments": 496
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "nvidiaallegedlyengineeredscarcitybyfundingaistartupstobuyitsgpus"
   },
   {
-    "id": "b8cbdda1b10d96d4",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-    "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cybera…",
-    "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T02:42:00.000Z",
-    "fetchedAt": "2026-11-14T06:17:47.953Z",
-    "tags": [],
+    "id": "aa62ff3ff923a08b",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "突发！DeepSeek开放全家桶API",
+    "summary": "官方App功能均可自由组合调用",
+    "url": "https://www.qbitai.com/2026/11/510003.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510003.html",
+    "publishedAt": "2026-11-14T02:39:56.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "资讯",
+      "Deepseek"
+    ],
     "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "faaliftsrarenationwidegroundstoponflightsairtravelmaytakedaystorecover"
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "突发deepseek开放全家桶api"
   },
   {
     "id": "69307bf4e408f64d",
@@ -465,8 +1373,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 138,
-      "comments": 27
+      "points": 339,
+      "comments": 53
     },
     "lang": "en",
     "weight": 92,
@@ -549,6 +1457,48 @@
     "titleKey": "英伟达第一次没有黄仁勋"
   },
   {
+    "id": "e92e1e2db3b207ab",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "换了个新 macbook air m5 有没有推荐的软件安装",
+    "summary": "如题，之前的电脑都是旧系统，很多软件都不支持 intel 芯片了， 看看大家有没有推荐的 我主要做产品经理，写文档，画原型，搞浏览器自动化 看看有没有啥好玩的 …",
+    "url": "https://www.v2ex.com/t/1257002",
+    "canonicalUrl": "https://www.v2ex.com/t/1257002",
+    "publishedAt": "2026-11-14T02:07:06.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "MacBook Air"
+    ],
+    "signals": {
+      "replies": 23
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "换了个新macbookairm5有没有推荐的软件安装"
+  },
+  {
+    "id": "cc61d243da2fe11c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "国模真的还可以的",
+    "summary": "最近 codex 特别慢， 尝试体验以下 CodeBuddy Trae 这些。",
+    "url": "https://www.v2ex.com/t/1257001",
+    "canonicalUrl": "https://www.v2ex.com/t/1257001",
+    "publishedAt": "2026-11-14T02:05:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "🤖Vibe Coding"
+    ],
+    "signals": {
+      "replies": 31
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "国模真的还可以的"
+  },
+  {
     "id": "c1e29051047964e1",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -564,6 +1514,69 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "14dividendstocksselectedforlongtermgrowth"
+  },
+  {
+    "id": "ddb9a898696072c4",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "GPT 官 Key 免费用。蹬完即止",
+    "summary": "周末没人上班，Token 用不完。",
+    "url": "https://www.v2ex.com/t/1256998",
+    "canonicalUrl": "https://www.v2ex.com/t/1256998",
+    "publishedAt": "2026-11-14T01:54:25.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 33
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "gpt官key免费用蹬完即止"
+  },
+  {
+    "id": "fd89426c3c21505b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "很多火的东西，理解不了为什么火",
+    "summary": "是不是也表示：我自己做出来的产品就不可能火，因为我的品味有问题",
+    "url": "https://www.v2ex.com/t/1256990",
+    "canonicalUrl": "https://www.v2ex.com/t/1256990",
+    "publishedAt": "2026-11-14T00:58:37.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 27
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "很多火的东西理解不了为什么火"
+  },
+  {
+    "id": "0693400b8335a869",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "最近做了一个运行在 iPhone 的 agent",
+    "summary": "![图片]( https://i.imgur.com/oowI3Je.jpg) 核心功能如下 - 支持挂载本地 Linux ，远程 Linux 和沙箱运行环境，…",
+    "url": "https://www.v2ex.com/t/1256987",
+    "canonicalUrl": "https://www.v2ex.com/t/1256987",
+    "publishedAt": "2026-11-14T00:47:08.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 21
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "最近做了一个运行在iphone的agent"
   },
   {
     "id": "f26b15be1f6d1858",
@@ -602,7 +1615,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 36
+      "replies": 57
     },
     "lang": "zh",
     "weight": 55,
@@ -838,28 +1851,6 @@
     "titleKey": "从快速部署到记忆共享数据库如何支撑agent应用"
   },
   {
-    "id": "7e4ae85c267e495b",
-    "sourceId": "google-research",
-    "sourceName": "Google Research",
-    "channel": "ai",
-    "title": "Advancing science & engineering with Antigravity’s /teamwork",
-    "summary": "Education Innovation",
-    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-    "canonicalUrl": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
-    "publishedAt": "2026-11-13T20:47:18.000Z",
-    "fetchedAt": "2026-11-14T06:17:47.953Z",
-    "tags": [
-      "Education Innovation",
-      "General Science",
-      "Machine Intelligence",
-      "Natural Language Process"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 86,
-    "titleKey": "advancingscienceengineeringwithantigravitysteamwork"
-  },
-  {
     "id": "94b0f5b0cc23cc07",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -919,6 +1910,31 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "智能互动agent在快手商业场景的落地实践"
+  },
+  {
+    "id": "bb9a3d74c7e9798f",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
+    "summary": "TL;DR Welcome back to Dev Opportunity Radar!",
+    "url": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
+    "canonicalUrl": "https://dev.to/devengers/dev-opportunity-radar-25-120k-atlassian-hackathon-mlh-fellowship-and-insead-ai-founder-sprint-m96",
+    "publishedAt": "2026-11-13T18:28:11.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+    ],
+    "signals": {
+      "reactions": 78,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "devopportunityradar25120katlassianhackathonmlhfellowshipandinseadaifoundersprint"
   },
   {
     "id": "1dcc0b1b961f2a90",

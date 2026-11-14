@@ -78,8 +78,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 147,
-      "comments": 45
+      "reactions": 154,
+      "comments": 47
     },
     "lang": "en",
     "weight": 60,
@@ -120,8 +120,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 193,
-      "comments": 109
+      "reactions": 202,
+      "comments": 111
     },
     "lang": "en",
     "weight": 60,
@@ -1741,8 +1741,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 7410,
-      "forks": 2608
+      "stars": 7512,
+      "forks": 2627
     },
     "lang": "en",
     "weight": 90,
@@ -2122,8 +2122,8 @@
       "claude"
     ],
     "signals": {
-      "stars": 1356,
-      "forks": 236
+      "stars": 1374,
+      "forks": 240
     },
     "lang": "en",
     "weight": 90,

@@ -124,6 +124,28 @@
     "titleKey": "deepseekharness日活154万官方开始给插件作者发tokenagent生态要靠开发者了"
   },
   {
+    "id": "81e242da8a09a778",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Generative AI uses more energy on non-English text",
+    "summary": "",
+    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "canonicalUrl": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text",
+    "publishedAt": "2026-11-10T15:07:28.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 42,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "generativeaiusesmoreenergyonnonenglishtext"
+  },
+  {
     "id": "1f01c321f942fc44",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -238,6 +260,28 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "phimintv080发布模型选择跨重启生效终端贴图长输出不再消失"
+  },
+  {
+    "id": "5b5ef79b481bc466",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why get an expensive Pi when I have an old phone?",
+    "summary": "",
+    "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+    "canonicalUrl": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone",
+    "publishedAt": "2026-11-10T14:16:05.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 256,
+      "comments": 161
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whygetanexpensivepiwhenihaveanoldphone"
   },
   {
     "id": "fc11c5e2246bf0b4",
@@ -532,8 +576,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1457,
-      "forks": 96
+      "stars": 1482,
+      "forks": 99
     },
     "lang": "en",
     "weight": 90,
@@ -1821,7 +1865,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Kianuni/Erosion-CN",
-    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 1962",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 2025",
     "url": "https://github.com/Kianuni/Erosion-CN",
     "canonicalUrl": "https://github.com/Kianuni/Erosion-CN",
     "publishedAt": "2026-11-10T02:37:31.000Z",
@@ -1830,8 +1874,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 1962,
-      "forks": 410
+      "stars": 2025,
+      "forks": 420
     },
     "lang": "en",
     "weight": 90,
@@ -2157,8 +2201,8 @@
       "plex"
     ],
     "signals": {
-      "stars": 1109,
-      "forks": 57
+      "stars": 1149,
+      "forks": 58
     },
     "lang": "en",
     "weight": 90,
@@ -2233,8 +2277,8 @@
       "watercooler"
     ],
     "signals": {
-      "reactions": 150,
-      "comments": 61
+      "reactions": 159,
+      "comments": 63
     },
     "lang": "en",
     "weight": 60,
@@ -3414,8 +3458,8 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 140,
-      "comments": 38
+      "reactions": 142,
+      "comments": 39
     },
     "lang": "en",
     "weight": 60,
