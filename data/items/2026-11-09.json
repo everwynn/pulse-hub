@@ -22,6 +22,28 @@
     "titleKey": "whyiwrotethebeambook2025"
   },
   {
+    "id": "0a1ed62eef386f9b",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "adriadam10/mkw-recomp",
+    "summary": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC prog…",
+    "url": "https://github.com/adriadam10/mkw-recomp",
+    "canonicalUrl": "https://github.com/adriadam10/mkw-recomp",
+    "publishedAt": "2026-11-09T15:40:06.000Z",
+    "fetchedAt": "2026-11-15T06:24:58.882Z",
+    "tags": [
+      "C"
+    ],
+    "signals": {
+      "stars": 970,
+      "forks": 53
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "adriadam10mkwrecomp"
+  },
+  {
     "id": "392e510da0c0eafd",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1741,8 +1763,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 7512,
-      "forks": 2627
+      "stars": 7616,
+      "forks": 2645
     },
     "lang": "en",
     "weight": 90,
@@ -2122,8 +2144,8 @@
       "claude"
     ],
     "signals": {
-      "stars": 1374,
-      "forks": 240
+      "stars": 1417,
+      "forks": 250
     },
     "lang": "en",
     "weight": 90,

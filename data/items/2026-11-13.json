@@ -463,6 +463,28 @@
     "titleKey": "doomsdayfriday13novemberad20261960"
   },
   {
+    "id": "40940cebf1246574",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Evolving Story of How Chemistry Became Biology",
+    "summary": "",
+    "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+    "canonicalUrl": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112",
+    "publishedAt": "2026-11-13T11:55:19.000Z",
+    "fetchedAt": "2026-11-15T06:24:58.882Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 24,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "theevolvingstoryofhowchemistrybecamebiology"
+  },
+  {
     "id": "3ad2f649003568d3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -1505,6 +1527,28 @@
     "titleKey": "微软云服务全球宕机"
   },
   {
+    "id": "50072b17cc6d0343",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Memory Safety Bugs in Rust Standard Library",
+    "summary": "",
+    "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+    "canonicalUrl": "https://forge-blog.github.io/posts/rust-std-memory-safety",
+    "publishedAt": "2026-11-13T05:22:08.000Z",
+    "fetchedAt": "2026-11-15T06:24:58.882Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 34,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "memorysafetybugsinruststandardlibrary"
+  },
+  {
     "id": "77b4d2132efb0384",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -2122,8 +2166,8 @@
       "ffmpeg-libraries"
     ],
     "signals": {
-      "stars": 1044,
-      "forks": 0
+      "stars": 1051,
+      "forks": 1
     },
     "lang": "en",
     "weight": 90,

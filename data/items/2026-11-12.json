@@ -51,8 +51,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 122,
-      "comments": 19
+      "reactions": 126,
+      "comments": 21
     },
     "lang": "en",
     "weight": 60,
@@ -1002,8 +1002,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 153,
-      "comments": 126
+      "reactions": 161,
+      "comments": 142
     },
     "lang": "en",
     "weight": 60,
@@ -1015,7 +1015,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/chat-demo",
-    "summary": "Chat Demo · TypeScript · ★ 1545",
+    "summary": "Chat Demo · TypeScript · ★ 1886",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
     "publishedAt": "2026-11-12T08:08:19.000Z",
@@ -1024,8 +1024,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 1545,
-      "forks": 257
+      "stars": 1886,
+      "forks": 314
     },
     "lang": "en",
     "weight": 90,
@@ -1704,23 +1704,6 @@
     "titleKey": "夹缝中生存的中国程序员"
   },
   {
-    "id": "67019088b9e06193",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-    "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pa…",
-    "url": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T03:10:00.000Z",
-    "fetchedAt": "2026-11-10T07:14:07.981Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hereshowberniesanderswantstokeepsocialsecuritysolventforgenerations"
-  },
-  {
     "id": "be2d70d94ba07b15",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -1793,23 +1776,6 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "skyeye云企业级ai零代码智能制造系统消息通知v4111发布"
-  },
-  {
-    "id": "79f838b5c0f2f4b3",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extravagant?",
-    "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
-    "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-12T02:31:00.000Z",
-    "fetchedAt": "2026-11-11T16:08:54.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "im63andspending95000onaroofdeckformy500000homeamibeingextravagant"
   },
   {
     "id": "8e219db9a3e31cfb",

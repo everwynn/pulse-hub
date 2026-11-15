@@ -1512,7 +1512,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1703",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1879",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1521,8 +1521,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 1703,
-      "forks": 28
+      "stars": 1879,
+      "forks": 29
     },
     "lang": "en",
     "weight": 90,
@@ -1994,23 +1994,6 @@
     "titleKey": "tokenpoolingawaretrainingformultivectorembeddingmodels"
   },
   {
-    "id": "8e6b296716b2782f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
-    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-11T00:00:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
-  },
-  {
     "id": "b7c40e56acdb3267",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -2144,8 +2127,8 @@
       "linux"
     ],
     "signals": {
-      "stars": 1386,
-      "forks": 70
+      "stars": 1521,
+      "forks": 86
     },
     "lang": "en",
     "weight": 90,
