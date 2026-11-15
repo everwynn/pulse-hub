@@ -576,8 +576,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1512,
-      "forks": 103
+      "stars": 1535,
+      "forks": 106
     },
     "lang": "en",
     "weight": 90,
@@ -1865,7 +1865,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Kianuni/Erosion-CN",
-    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 2077",
+    "summary": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） · Swift · ★ 2114",
     "url": "https://github.com/Kianuni/Erosion-CN",
     "canonicalUrl": "https://github.com/Kianuni/Erosion-CN",
     "publishedAt": "2026-11-10T02:37:31.000Z",
@@ -1874,8 +1874,8 @@
       "Swift"
     ],
     "signals": {
-      "stars": 2077,
-      "forks": 424
+      "stars": 2114,
+      "forks": 428
     },
     "lang": "en",
     "weight": 90,
@@ -2201,8 +2201,8 @@
       "plex"
     ],
     "signals": {
-      "stars": 1200,
-      "forks": 61
+      "stars": 1229,
+      "forks": 63
     },
     "lang": "en",
     "weight": 90,
@@ -3458,7 +3458,7 @@
       "architecture"
     ],
     "signals": {
-      "reactions": 142,
+      "reactions": 143,
       "comments": 39
     },
     "lang": "en",

@@ -14,11 +14,32 @@
       "Wunder"
     ],
     "signals": {
-      "replies": 56
+      "replies": 110
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "关于设置中目前提供的6种楼中楼样式的demo"
+  },
+  {
+    "id": "cc6cfa3e21230ab5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "20261114 - 楼中楼样式、黑暗模式可以自动跟随系统设置及 Solana 买入按钮的额外铜币奖励",
+    "summary": "现在在设置中可以选择几种不同的楼中楼样式： https://edge.v2ex.com/settings#reply_thread_style 关于几种新的楼中…",
+    "url": "https://www.v2ex.com/t/1257127",
+    "canonicalUrl": "https://www.v2ex.com/t/1257127",
+    "publishedAt": "2026-11-14T15:43:57.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "站点状态"
+    ],
+    "signals": {
+      "replies": 18
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "20261114楼中楼样式黑暗模式可以自动跟随系统设置及solana买入按钮的额外铜币奖励"
   },
   {
     "id": "7440f709cf2203b7",
@@ -569,23 +590,6 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "thegrandtheftauto6economyreachesfarandwide"
-  },
-  {
-    "id": "0756921cc9633b96",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-    "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soar…",
-    "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T12:00:00.000Z",
-    "fetchedAt": "2026-11-14T15:02:15.630Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "chinashotteststocksthesedayshaveonethingincommonnamesthatsoundlikesheep"
   },
   {
     "id": "0013d98e6d6aa29a",
@@ -1835,23 +1839,6 @@
     "titleKey": "showhnlivemapofusflightsduringtonightsfaanationwidegroundstop"
   },
   {
-    "id": "7f8dbb57466ecc7a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-    "summary": "There is already a demographic ‘run’ on Social Security.",
-    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-13T23:12:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
-  },
-  {
     "id": "e68839c319d0a48c",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -2081,8 +2068,8 @@
       "resources"
     ],
     "signals": {
-      "reactions": 89,
-      "comments": 5
+      "reactions": 94,
+      "comments": 6
     },
     "lang": "en",
     "weight": 60,

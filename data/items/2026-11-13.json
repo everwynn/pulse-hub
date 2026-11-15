@@ -38,8 +38,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 76,
-      "comments": 34
+      "reactions": 93,
+      "comments": 39
     },
     "lang": "en",
     "weight": 60,
@@ -631,6 +631,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "台积电内部员工数据泄露"
+  },
+  {
+    "id": "0e29afdac520f0ca",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What thousands of conversations look like inside a language model",
+    "summary": "",
+    "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+    "canonicalUrl": "https://operator0x.com/field-notes/qwen-conversation-state-space",
+    "publishedAt": "2026-11-13T10:26:01.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 49,
+      "comments": 15
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whatthousandsofconversationslooklikeinsidealanguagemodel"
   },
   {
     "id": "4f6aadc61de13096",
@@ -2166,7 +2188,7 @@
       "ffmpeg-libraries"
     ],
     "signals": {
-      "stars": 1051,
+      "stars": 1539,
       "forks": 1
     },
     "lang": "en",

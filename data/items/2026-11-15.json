@@ -1,5 +1,752 @@
 [
   {
+    "id": "6311e43e04ecf3bc",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "UPS, Copa jets collide while taxiing at Miami airport",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672789-ups-copa-jets-collide-while-taxiing-at-miami-airport?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672789-ups-copa-jets-collide-while-taxiing-at-miami-airport?feed_item_type=news",
+    "publishedAt": "2026-11-15T15:32:26.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "ups",
+      "cpa"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "upscopajetscollidewhiletaxiingatmiamiairport"
+  },
+  {
+    "id": "0756921cc9633b96",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+    "summary": "Shares of fish processors, lighting manufacturers and appliance makers have soar…",
+    "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T15:22:00.000Z",
+    "fetchedAt": "2026-11-14T15:02:15.630Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "chinashotteststocksthesedayshaveonethingincommonnamesthatsoundlikesheep"
+  },
+  {
+    "id": "9c6b7fa31abf75ce",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "爱沙尼亚外交部长查赫克纳15日在社交媒体上宣布，爱沙尼亚自12月1日起将关闭所有和俄罗斯之间的边境口岸。（新华社）",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200216",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200216",
+    "publishedAt": "2026-11-15T15:21:47.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "global-channel",
+      "oil-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "爱沙尼亚外交部长查赫克纳15日在社交媒体上宣布爱沙尼亚自12月1日起将关闭所有和俄罗斯之间的边境口岸新华社"
+  },
+  {
+    "id": "c61cd3bd9be15d05",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部长贝森特：我们正在挤压伊朗经济，这法子正在发挥作用。 由于天然气短缺，伊朗将面临艰难的冬季。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200215",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200215",
+    "publishedAt": "2026-11-15T15:19:30.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部长贝森特我们正在挤压伊朗经济这法子正在发挥作用由于天然气短缺伊朗将面临艰难的冬季"
+  },
+  {
+    "id": "4bc621de6f6ff3ab",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部长贝森特：总统特朗普和我都相信美联储主席沃什会履行双重职责（实现充分就业+维持价格稳定）。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200214",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200214",
+    "publishedAt": "2026-11-15T15:18:37.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部长贝森特总统特朗普和我都相信美联储主席沃什会履行双重职责实现充分就业维持价格稳定"
+  },
+  {
+    "id": "7dc276c87d29bf5d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部长贝森特：预计通胀将在下个月大幅下滑。 核心通胀是温和的，接近美联储的目标。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200213",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200213",
+    "publishedAt": "2026-11-15T15:16:57.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部长贝森特预计通胀将在下个月大幅下滑核心通胀是温和的接近美联储的目标"
+  },
+  {
+    "id": "bcf41bd454630033",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Firmus pursues $3B private funding after shelving IPO",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672788-firmus-pursues-3b-private-funding-after-shelving-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672788-firmus-pursues-3b-private-funding-after-shelving-ipo?feed_item_type=news",
+    "publishedAt": "2026-11-15T15:09:35.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "nvda",
+      "meta"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "firmuspursues3bprivatefundingaftershelvingipo"
+  },
+  {
+    "id": "2f2daf9e3ccf61a7",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部长斯科特·贝森特表示，在首席执行官黄仁勋被罢免之后，英伟达的领导层需要经历一场“剧烈重组”。 贝森特暗示，英伟…",
+    "summary": "美国财政部长斯科特·贝森特表示，在首席执行官黄仁勋被罢免之后，英伟达的领导层需要经历一场“剧烈重组”。",
+    "url": "https://wallstreetcn.com/livenews/3200212",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200212",
+    "publishedAt": "2026-11-15T15:07:54.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部长斯科特贝森特表示在首席执行官黄仁勋被罢免之后英伟达的领导层需要经历一场剧烈重组贝森特暗示英伟"
+  },
+  {
+    "id": "9ccfcf78e99b7c1b",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "NANO Nuclear sees reactor sales opportunity as Air Force work advances",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672663-nano-nuclear-sees-reactor-sales-opportunity-as-air-force-work-advances?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672663-nano-nuclear-sees-reactor-sales-opportunity-as-air-force-work-advances?feed_item_type=news",
+    "publishedAt": "2026-11-15T15:03:51.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "nne",
+      "nlr",
+      "nukz",
+      "xle",
+      "uran",
+      "rctr"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nanonuclearseesreactorsalesopportunityasairforceworkadvances"
+  },
+  {
+    "id": "a620db20b6840dc6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Nvidia faces potential uninsured costs from shareholder lawsuits: FT",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672787-nvidia-faces-potential-uninsured-costs-from-shareholder-lawsuits-ft?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672787-nvidia-faces-potential-uninsured-costs-from-shareholder-lawsuits-ft?feed_item_type=news",
+    "publishedAt": "2026-11-15T15:01:50.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "nvda"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nvidiafacespotentialuninsuredcostsfromshareholderlawsuitsft"
+  },
+  {
+    "id": "0b9cb780e2ee86f9",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/1N801doFOEl2Swqey5Jy",
+    "publishedAt": "2026-11-15T15:00:00.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "yelpai助手融合原生ui与服务端驱动ui"
+  },
+  {
+    "id": "3b716871421235db",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
+    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T15:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
+  },
+  {
+    "id": "b9e284ad36a87440",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+    "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most impor…",
+    "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T15:00:00.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiaisgearingupforoneofwallstreetsmostanticipatedearningscallsinyears"
+  },
+  {
+    "id": "288eab843d51de36",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Nvidia’s Southeast Asia business faces scrutiny over Chinese AI access",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672786-nvidia-s-southeast-asia-business-faces-scrutiny-over-chinese-ai-access?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672786-nvidia-s-southeast-asia-business-faces-scrutiny-over-chinese-ai-access?feed_item_type=news",
+    "publishedAt": "2026-11-15T14:58:05.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "nvda",
+      "bdnce"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nvidiassoutheastasiabusinessfacesscrutinyoverchineseaiaccess"
+  },
+  {
+    "id": "eb800464318a25e6",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "AI infrastructure sell-off erases $4.2T from industrial, energy stocks",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4672785-ai-infrastructure-sell-off-erases-4_2t-from-industrial-energy-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4672785-ai-infrastructure-sell-off-erases-4_2t-from-industrial-energy-stocks?feed_item_type=news",
+    "publishedAt": "2026-11-15T14:52:40.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "xle",
+      "oklo",
+      "fix",
+      "glw",
+      "cat",
+      "etn"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "aiinfrastructuresellofferases42tfromindustrialenergystocks"
+  },
+  {
+    "id": "861d6aa172581f7d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "All AI-generated code should be Open Source",
+    "summary": "",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "canonicalUrl": "https://jakub.jankiewicz.org/blog/ai-code-open-source",
+    "publishedAt": "2026-11-15T14:46:58.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 74,
+      "comments": 49
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "allaigeneratedcodeshouldbeopensource"
+  },
+  {
+    "id": "66d6a83a87a43070",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "SpaceX 成功回收火箭上面级",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85893",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85893",
+    "publishedAt": "2026-11-15T14:38:30.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "spacex成功回收火箭上面级"
+  },
+  {
+    "id": "a9d418a5477a3aac",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国交通部长Duffy：期待明日能实现航班满负荷运转。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3200208",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200208",
+    "publishedAt": "2026-11-15T14:36:20.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国交通部长duffy期待明日能实现航班满负荷运转"
+  },
+  {
+    "id": "6a5e0ec607cc2896",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+    "summary": "",
+    "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+    "canonicalUrl": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer",
+    "publishedAt": "2026-11-15T14:31:52.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 26,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thehypertexttransferprotocolstatuscode483imnotafreezer"
+  },
+  {
+    "id": "72043d766d146df4",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国贸促会国际合作部部长、APEC工商咨询理事会中国候任代表吴蒙11月15日在2026年APEC工商界活动专题新闻发布会…",
+    "summary": "中国贸促会国际合作部部长、APEC工商咨询理事会中国候任代表吴蒙11月15日在2026年APEC工商界活动专题新闻发布会上表示，中国贸促会将进一步发挥联通政企、…",
+    "url": "https://wallstreetcn.com/livenews/3200205",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200205",
+    "publishedAt": "2026-11-15T14:00:33.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国贸促会国际合作部部长apec工商咨询理事会中国候任代表吴蒙11月15日在2026年apec工商界活动专题新闻发布会"
+  },
+  {
+    "id": "7f8dbb57466ecc7a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+    "summary": "There is already a demographic ‘run’ on Social Security.",
+    "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T14:00:00.000Z",
+    "fetchedAt": "2026-11-10T16:25:14.552Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thethoughtoflivingto100terrifiesmeissocialsecurityagiantponzischeme"
+  },
+  {
+    "id": "7bf347c1258b4054",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
+    "summary": "SpaceX’s offering coincided with the June peak in semiconductors.",
+    "url": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T14:00:00.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "willtheanthropicipocreateadisturbanceinthebroaderusequitymarketlikespacexdid"
+  },
+  {
+    "id": "e11d75165807b91e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85892",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85892",
+    "publishedAt": "2026-11-15T13:51:56.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "意大利因meta侵犯用户隐私对其处以805亿欧元罚款"
+  },
+  {
+    "id": "5dc4713b45a8aa4c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+    "summary": "",
+    "url": "https://prog21.dadgum.com/116.html",
+    "canonicalUrl": "https://prog21.dadgum.com/116.html",
+    "publishedAt": "2026-11-15T13:44:16.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 52,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thingsthatturbopascalissmallerthan2011"
+  },
+  {
+    "id": "5fa6eb3ee7cfd82d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "今年11月15日是“粤车南下”政策实施满一周年的日子。据港珠澳大桥边检站数据，政策落地至今，经港珠澳大桥珠海公路口岸出入…",
+    "summary": "今年11月15日是“粤车南下”政策实施满一周年的日子。",
+    "url": "https://wallstreetcn.com/livenews/3200204",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200204",
+    "publishedAt": "2026-11-15T13:43:37.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "今年11月15日是粤车南下政策实施满一周年的日子据港珠澳大桥边检站数据政策落地至今经港珠澳大桥珠海公路口岸出入"
+  },
+  {
+    "id": "8e6b296716b2782f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
+    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T13:30:00.000Z",
+    "fetchedAt": "2026-11-09T17:01:30.127Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
+  },
+  {
+    "id": "6e58c5ccffb9edab",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
+    "summary": "A handy chart shows how the U.S.",
+    "url": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T13:30:00.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "theusisturningmoresocialistundertrump20oneanalystsayswhatcouldchangewithademocraticruncongress"
+  },
+  {
+    "id": "816f36c1fde3a2a8",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗西部防空部队今天（11月15日）宣布，11月14日，其在哈马丹省击落一架“轨道飞行器-4”型号无人机。 (CCTV国…",
+    "summary": "伊朗西部防空部队今天（11月15日）宣布，11月14日，其在哈马丹省击落一架“轨道飞行器-4”型号无人机。",
+    "url": "https://wallstreetcn.com/livenews/3200203",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200203",
+    "publishedAt": "2026-11-15T13:24:08.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗西部防空部队今天11月15日宣布11月14日其在哈马丹省击落一架轨道飞行器4型号无人机cctv国"
+  },
+  {
+    "id": "f6aa5c40f28c29d2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "香港迪士尼乐园 1.7 万张电子门票被盗",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85891",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85891",
+    "publishedAt": "2026-11-15T13:15:41.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "香港迪士尼乐园17万张电子门票被盗"
+  },
+  {
+    "id": "3c634f5a8740dde6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+    "summary": "",
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "canonicalUrl": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use",
+    "publishedAt": "2026-11-15T13:15:22.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 131,
+      "comments": 71
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "themacbookprosoledpwmproblemwhenabetterdisplaybecomesworsetouse"
+  },
+  {
+    "id": "4f78ce2ed3c607ae",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "Summit Therapeutics Inc.今日宣布，美国食品药品监督管理局（FDA）已就 ivonescimab …",
+    "summary": "Summit Therapeutics Inc.今日宣布，美国食品药品监督管理局（FDA）已就 ivonescimab 联合含铂化疗用于治疗既往接受过表皮生长因…",
+    "url": "https://wallstreetcn.com/livenews/3200202",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3200202",
+    "publishedAt": "2026-11-15T13:10:42.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "summittherapeuticsinc今日宣布美国食品药品监督管理局fda已就ivonescimab"
+  },
+  {
+    "id": "b0f88f3331292801",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen…",
+    "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-15T13:00:00.000Z",
+    "fetchedAt": "2026-11-15T06:24:58.882Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itleavesmewithasourtastemyelderlymothergaveourcousin800foracarrepairshouldibeworried"
+  },
+  {
+    "id": "4a9f655b923467d6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A NES emulator written in Odin",
+    "summary": "",
+    "url": "https://lucypero.com/lucynes.html",
+    "canonicalUrl": "https://lucypero.com/lucynes.html",
+    "publishedAt": "2026-11-15T12:51:47.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 40,
+      "comments": 3
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "anesemulatorwritteninodin"
+  },
+  {
+    "id": "c9f3627321c9c404",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "summary": "",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "canonicalUrl": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "publishedAt": "2026-11-15T12:14:06.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 74,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "understandingpositionalembeddingsinmodernllms"
+  },
+  {
+    "id": "0c14b7ef6807d204",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "亚洲象种群数量减少变得更孤立",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85890",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85890",
+    "publishedAt": "2026-11-15T12:12:20.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "亚洲象种群数量减少变得更孤立"
+  },
+  {
+    "id": "f8dda489dfa5852e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "又被淘宝双 11 背刺了",
+    "summary": "因为准备玩 GTA6，双 11 期间在淘宝买了一台新电视，价格 4200+，买的时候宣传**“全网保价至 11 月 20 日”**，所以也没害怕会降价，就下单了…",
+    "url": "https://www.v2ex.com/t/1257229",
+    "canonicalUrl": "https://www.v2ex.com/t/1257229",
+    "publishedAt": "2026-11-15T11:18:06.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 20
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "又被淘宝双11背刺了"
+  },
+  {
+    "id": "5f9bf35d5b3e831f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "鱼你在一起落子海外百店，中餐出海开启“体系化时代”",
+    "summary": "企业的使命是让世界爱上中国味道，一定是要历经走出去、走进去、走上去的过程，“不止输出一道菜，更要输出中国餐饮出海范式”。",
+    "url": "https://www.tmtpost.com/8205846.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205846.html",
+    "publishedAt": "2026-11-15T10:58:04.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "鱼你在一起落子海外百店中餐出海开启体系化时代"
+  },
+  {
+    "id": "f023d9cb4638033c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "本田净利大涨66%，汽车业务却还在亏钱",
+    "summary": "净利大涨背后，本田汽车仍亏损，摩托车与北美混动撑起利润。",
+    "url": "https://www.tmtpost.com/8205754.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205754.html",
+    "publishedAt": "2026-11-15T10:05:24.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "钛度车库",
+      "汽车产业·财报",
+      "看财报"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "本田净利大涨66汽车业务却还在亏钱"
+  },
+  {
     "id": "f5f0f4a3bea581a2",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +764,28 @@
     "titleKey": "闭环ai自我进化从skillharness到模型训练与评估aicon北京"
   },
   {
+    "id": "ebecf12d338db71c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why did some Apollo missions carry a grenade launcher?",
+    "summary": "",
+    "url": "https://space.stackexchange.com/questions/37775",
+    "canonicalUrl": "https://space.stackexchange.com/questions/37775",
+    "publishedAt": "2026-11-15T09:06:43.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 130,
+      "comments": 79
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whydidsomeapollomissionscarryagrenadelauncher"
+  },
+  {
     "id": "9b2cf403bbb9f722",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +801,106 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "gitlab195发布将智能体开发纳入可治理的devops平台能力"
+  },
+  {
+    "id": "b3aca4cff86d68b6",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "deepseek harness 的实际能力远超大多数人的认知，最近深度体验总结",
+    "summary": "先说下本人的 AI Coding 经验，chatgpt 横空出世时，一款名为免费的 Cursor 在 2023 年悄然上线，我当时也算是最先一批把 cursor…",
+    "url": "https://www.v2ex.com/t/1257214",
+    "canonicalUrl": "https://www.v2ex.com/t/1257214",
+    "publishedAt": "2026-11-15T08:22:58.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 68
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "deepseekharness的实际能力远超大多数人的认知最近深度体验总结"
+  },
+  {
+    "id": "9c9b789f0c9748f5",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”",
+    "summary": "在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。",
+    "url": "https://www.tmtpost.com/8205798.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205798.html",
+    "publishedAt": "2026-11-15T08:06:47.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "当gemini被戏称为美国豆包张一鸣也活成了中国布林"
+  },
+  {
+    "id": "f911cc39e889ec54",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "T-EDGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
+    "summary": "AI改写行业，谁先交卷？",
+    "url": "https://www.tmtpost.com/8205257.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205257.html",
+    "publishedAt": "2026-11-15T07:37:00.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "主编精选文章",
+      "2026 T-EDGE 创新大会·双城记",
+      "智能大迁移",
+      "2026·大复盘",
+      "AGI",
+      "影视"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "tedge2026前瞻①ai如何重写影视业的成本资本与权力"
+  },
+  {
+    "id": "c8ab8c3cbc09db3b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "国产芯片融资潮，来势凶猛",
+    "summary": "从新架构到新产线，资本加注整条产业链。",
+    "url": "https://www.tmtpost.com/8205694.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205694.html",
+    "publishedAt": "2026-11-15T06:48:19.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "国产芯片融资潮来势凶猛"
+  },
+  {
+    "id": "e67c665ad7dcd89e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "【数智周报】黄仁勋辞任英伟达CEO ，CFO克雷斯任临时CEO；阿里拟分拆平头哥港股独立上市；Anthropic启动IPO路演，估值较峰值近腰斩……",
+    "summary": "（11月9日-14日） DeepSeek发布全家桶应用API；谷歌发布Gemini 4 Hydrogen；微软全球服务中断十小时致歉；美国人工智能建设遭遇电力瓶…",
+    "url": "https://www.tmtpost.com/8205592.html",
+    "canonicalUrl": "https://www.tmtpost.com/8205592.html",
+    "publishedAt": "2026-11-15T06:19:18.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "主编精选文章",
+      "ITValue",
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "数智周报黄仁勋辞任英伟达ceocfo克雷斯任临时ceo阿里拟分拆平头哥港股独立上市anthropic启动ipo路演估值较峰值近腰斩"
   },
   {
     "id": "9ea2290cbc7ba793",
@@ -99,6 +968,27 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "showhnturbobrowsermcpbatchformsdomdeltasandsubmitguardsformcp"
+  },
+  {
+    "id": "63d0639f329775f2",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "记录第一次相亲",
+    "summary": "## 介绍认识 前两周，一位亲戚给我推了一个女生的微信，大致介绍了一下对方的情况。",
+    "url": "https://www.v2ex.com/t/1257174",
+    "canonicalUrl": "https://www.v2ex.com/t/1257174",
+    "publishedAt": "2026-11-15T04:01:13.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 33
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "记录第一次相亲"
   },
   {
     "id": "de15679326fa545b",
@@ -242,6 +1132,27 @@
     "titleKey": "全球供应链安全优先的账单最后寄给了谁"
   },
   {
+    "id": "d904b28de046597d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "闲聊聊到了我司当前接入 AI 的年度成本",
+    "summary": "前几天蹭了一下所属大部门 VP 的饭，旁敲侧击的问了一下今年度企业接入 AI 带来的额外成本 我们公司在接入 AI 上起步算是比较晚的，今年 2 月伴随着 Op…",
+    "url": "https://www.v2ex.com/t/1257169",
+    "canonicalUrl": "https://www.v2ex.com/t/1257169",
+    "publishedAt": "2026-11-15T02:54:38.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 35
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "闲聊聊到了我司当前接入ai的年度成本"
+  },
+  {
     "id": "aa254415dc957617",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -315,6 +1226,46 @@
     "titleKey": "没续约lpl的赞助商要后悔得拍大腿了"
   },
   {
+    "id": "1b0840b0ddcb44e0",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "AI 时代，微服务不该再被\"部署复杂\"劝退 —— QuickBlue 用 3 条命令，把整套微服务装进 Docker",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503579",
+    "canonicalUrl": "https://www.oschina.net/news/503579",
+    "publishedAt": "2026-11-15T02:20:19.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ai时代微服务不该再被部署复杂劝退quickblue用3条命令把整套微服务装进docker"
+  },
+  {
+    "id": "257da5df29b7e9ce",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "打算购买 Claude Team 成品号，这种号的风险跟稳定性怎么样？",
+    "summary": "有在用的老师提供一些经验分享吗？",
+    "url": "https://www.v2ex.com/t/1257158",
+    "canonicalUrl": "https://www.v2ex.com/t/1257158",
+    "publishedAt": "2026-11-15T02:15:58.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 29
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "打算购买claudeteam成品号这种号的风险跟稳定性怎么样"
+  },
+  {
     "id": "8522ee5fa92d3463",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -371,8 +1322,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 39,
-      "comments": 3
+      "points": 342,
+      "comments": 141
     },
     "lang": "en",
     "weight": 92,
@@ -494,11 +1445,30 @@
       "计算机"
     ],
     "signals": {
-      "replies": 30
+      "replies": 41
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "如果给计算机基础教材列一个五大经典你会选哪几本"
+  },
+  {
+    "id": "a4bcfa29b23c1b12",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync 捷同 v2.2.1 发布：告警通知支持中英文，CDC 与 ETL 可靠性修复",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503578",
+    "canonicalUrl": "https://www.oschina.net/news/503578",
+    "publishedAt": "2026-11-14T23:27:47.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jync捷同v221发布告警通知支持中英文cdc与etl可靠性修复"
   },
   {
     "id": "e1722616b5276d79",
@@ -545,6 +1515,28 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "fedscollinssaysgradualpathofratehikesisbestfortheeconomy"
+  },
+  {
+    "id": "2b06a7974e50defc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Telephone Changed the World",
+    "summary": "",
+    "url": "https://lithub.com/how-the-telephone-changed-the-world/",
+    "canonicalUrl": "https://lithub.com/how-the-telephone-changed-the-world",
+    "publishedAt": "2026-11-14T22:56:09.000Z",
+    "fetchedAt": "2026-11-15T15:39:21.918Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 14,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thetelephonechangedtheworld"
   },
   {
     "id": "326bdabc887abf6a",
@@ -667,8 +1659,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1015,
-      "comments": 676
+      "points": 1434,
+      "comments": 964
     },
     "lang": "en",
     "weight": 92,
@@ -709,57 +1701,6 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "prominentnvidiainvestorscallforboardtocontemplatehuangsreturn"
-  },
-  {
-    "id": "b0f88f3331292801",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen…",
-    "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T20:00:00.000Z",
-    "fetchedAt": "2026-11-15T06:24:58.882Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itleavesmewithasourtastemyelderlymothergaveourcousin800foracarrepairshouldibeworried"
-  },
-  {
-    "id": "3b716871421235db",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-    "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it…",
-    "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T19:30:00.000Z",
-    "fetchedAt": "2026-11-10T16:25:14.552Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
-  },
-  {
-    "id": "8e6b296716b2782f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
-    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T18:30:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
   },
   {
     "id": "749ee29d1109eaad",
@@ -832,8 +1773,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 749,
-      "comments": 298
+      "points": 926,
+      "comments": 355
     },
     "lang": "en",
     "weight": 92,
