@@ -51,8 +51,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 133,
-      "comments": 23
+      "reactions": 136,
+      "comments": 24
     },
     "lang": "en",
     "weight": 60,
@@ -236,8 +236,8 @@
       "blender-automation"
     ],
     "signals": {
-      "stars": 1757,
-      "forks": 45
+      "stars": 2119,
+      "forks": 53
     },
     "lang": "en",
     "weight": 90,
@@ -419,8 +419,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1228,
-      "forks": 179
+      "stars": 1585,
+      "forks": 242
     },
     "lang": "en",
     "weight": 90,
@@ -687,8 +687,8 @@
       "devto"
     ],
     "signals": {
-      "reactions": 93,
-      "comments": 47
+      "reactions": 97,
+      "comments": 49
     },
     "lang": "en",
     "weight": 60,
@@ -942,6 +942,28 @@
     "titleKey": "holidayextrasisrethinkingwhatitcanbuildwithcodex"
   },
   {
+    "id": "1ae590991b0a16af",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "ZiChuanLan/freebie-radar",
+    "summary": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送 · TypeScr…",
+    "url": "https://github.com/ZiChuanLan/freebie-radar",
+    "canonicalUrl": "https://github.com/ZiChuanLan/freebie-radar",
+    "publishedAt": "2026-11-12T09:08:11.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "TypeScript"
+    ],
+    "signals": {
+      "stars": 1107,
+      "forks": 189
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "zichuanlanfreebieradar"
+  },
+  {
     "id": "d14bc85acfe60881",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -1051,8 +1073,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 180,
-      "comments": 161
+      "reactions": 192,
+      "comments": 173
     },
     "lang": "en",
     "weight": 60,
@@ -1064,7 +1086,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/chat-demo",
-    "summary": "Chat Demo · TypeScript · ★ 3492",
+    "summary": "Chat Demo · TypeScript · ★ 3995",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
     "publishedAt": "2026-11-12T08:08:19.000Z",
@@ -1073,8 +1095,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 3492,
-      "forks": 702
+      "stars": 3995,
+      "forks": 841
     },
     "lang": "en",
     "weight": 90,

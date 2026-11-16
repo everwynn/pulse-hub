@@ -1,5 +1,158 @@
 [
   {
+    "id": "e68c67bcef90f4d4",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
+    "summary": "SpaceX had a mostly successful Starship launch, while an Amazon partner hit a se…",
+    "url": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T15:59:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "spacexwidensitsleadinthespaceraceevenasatechselloffweighsonitsstock"
+  },
+  {
+    "id": "11d84ff450ea3361",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "AI 来了，团队究竟怎么变？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB",
+    "publishedAt": "2026-11-16T15:56:35.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai来了团队究竟怎么变"
+  },
+  {
+    "id": "09b3b92360334a1a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85904",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85904",
+    "publishedAt": "2026-11-16T15:51:27.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁"
+  },
+  {
+    "id": "c5965f41715dcd63",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "These 13 S&P 500 stocks can rise up to 70% over the next year, according to analysts",
+    "summary": "Consensus earnings estimates have continued to increase, especially for semicond…",
+    "url": "https://www.marketwatch.com/story/these-13-s-p-500-stocks-can-rise-up-to-70-over-the-next-year-according-to-analysts-21119af9?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/these-13-s-p-500-stocks-can-rise-up-to-70-over-the-next-year-according-to-analysts-21119af9?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T15:47:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "these13sp500stockscanriseupto70overthenextyearaccordingtoanalysts"
+  },
+  {
+    "id": "8c2e0b5caa38dd67",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "英伟达股价无需黄仁勋强势回归也能走强",
+    "summary": "在黄仁勋辞职引发的余波影响下，英伟达股价大幅下跌。",
+    "url": "https://www.tmtpost.com/8207692.html",
+    "canonicalUrl": "https://www.tmtpost.com/8207692.html",
+    "publishedAt": "2026-11-16T15:06:04.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "英伟达股价无需黄仁勋强势回归也能走强"
+  },
+  {
+    "id": "922c7f358ea52b7e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "美光股价：为何强劲的内存价格可能无济于事",
+    "summary": "尽管有人预测明年内存价格会上涨，但美光的股价并未因此受益。",
+    "url": "https://www.tmtpost.com/8207689.html",
+    "canonicalUrl": "https://www.tmtpost.com/8207689.html",
+    "publishedAt": "2026-11-16T15:05:35.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "美光股价为何强劲的内存价格可能无济于事"
+  },
+  {
+    "id": "9bb26fb243dad074",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85903",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85903",
+    "publishedAt": "2026-11-16T15:00:34.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软称一个隐藏的windowsbug触发了持续逾一天的宕机事故"
+  },
+  {
+    "id": "a097e03dfd1013da",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Codex、Claude Code 都卷完了，居然还能跑出黑马？整个产品，现在都可以是一个提示词",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/8TySw9wzqf0l90keJUNf",
+    "publishedAt": "2026-11-16T14:44:28.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "codexclaudecode都卷完了居然还能跑出黑马整个产品现在都可以是一个提示词"
+  },
+  {
+    "id": "086f461f712807a8",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85902",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85902",
+    "publishedAt": "2026-11-16T14:13:59.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软称下一代xbox游戏机能玩pc游戏"
+  },
+  {
     "id": "0545bc4ca0d5308f",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +168,231 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai写得快谁来接住生产责任"
+  },
+  {
+    "id": "1f713a3eca7cd47a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+    "summary": "",
+    "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+    "canonicalUrl": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w",
+    "publishedAt": "2026-11-16T13:39:07.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 563,
+      "comments": 340
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "manyofamazonsblackfridayandcybermondaydealsofferednosavings"
+  },
+  {
+    "id": "fc869bd47d3ee4a3",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503602",
+    "canonicalUrl": "https://www.oschina.net/news/503602",
+    "publishedAt": "2026-11-16T12:52:16.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "华为云行业ai梦工厂发布并开源昇腾原生具身世界模型cloudrobowm12"
+  },
+  {
+    "id": "4e05d721c3735124",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "新增51款1类新药、129万CAR-T首次纳入：医保目录的平衡与商保新变量丨行业风向标",
+    "summary": "基本医保进一步向高临床价值的创新药倾斜，同时通过商保目录承接差异化、更高端的创新需求。",
+    "url": "https://www.tmtpost.com/8207495.html",
+    "canonicalUrl": "https://www.tmtpost.com/8207495.html",
+    "publishedAt": "2026-11-16T12:34:23.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "保险",
+      "医疗健康",
+      "医疗医药行业",
+      "生物医药",
+      "大健康",
+      "焦点"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "新增51款1类新药129万cart首次纳入医保目录的平衡与商保新变量丨行业风向标"
+  },
+  {
+    "id": "85162dbf82f087fb",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "移芯通信：营收稳步增长却盈亏反复，Cat.1bis芯片售价近乎腰斩",
+    "summary": "营收增长背后，移芯通信盈利稳定性较差，三年半仅2024年实现盈利，其余时段持续亏损，累计亏损2.01亿元。",
+    "url": "https://www.tmtpost.com/8200859.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200859.html",
+    "publishedAt": "2026-11-16T12:01:42.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "IPO速递"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "移芯通信营收稳步增长却盈亏反复cat1bis芯片售价近乎腰斩"
+  },
+  {
+    "id": "17a9382ca21b5ba1",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "维眸生物：十年无产品商业化，累计亏损近11亿，现金链承压",
+    "summary": "拉长时间线看，若剔除股改影响，截至2026年6月末，维眸生物的累计亏损金额为-10.92亿元，这也意味着，公司成立近十年累计资金投入消耗接近11亿元，如何扭亏、…",
+    "url": "https://www.tmtpost.com/8200883.html",
+    "canonicalUrl": "https://www.tmtpost.com/8200883.html",
+    "publishedAt": "2026-11-16T12:00:30.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "IPO速递"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "维眸生物十年无产品商业化累计亏损近11亿现金链承压"
+  },
+  {
+    "id": "feaa48436d5247a9",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research.",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "canonicalUrl": "https://openai.com/index/science-at-the-frontier",
+    "publishedAt": "2026-11-16T12:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "scienceatthefrontierhowscientistsusechatgpt"
+  },
+  {
+    "id": "e36e708abde122c2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+    "summary": "",
+    "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+    "canonicalUrl": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life",
+    "publishedAt": "2026-11-16T11:39:31.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 241,
+      "comments": 92
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thesecretthinkpadpowerbuttoncodetobringdeadlaptopsbacktolife2007"
+  },
+  {
+    "id": "3bac5f4af7eea8cf",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AI变量下的多线博弈，面板行业迎来新卡位战",
+    "summary": "过去，企业需要思考如何生产更多、更便宜的屏幕。",
+    "url": "https://www.tmtpost.com/8206976.html",
+    "canonicalUrl": "https://www.tmtpost.com/8206976.html",
+    "publishedAt": "2026-11-16T11:30:16.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "钛极客",
+      "面板",
+      "LED",
+      "TCL",
+      "三星",
+      "大模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "ai变量下的多线博弈面板行业迎来新卡位战"
+  },
+  {
+    "id": "abf069efc867d376",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+    "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+    "url": "https://www.qbitai.com/2026/11/510542.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510542.html",
+    "publishedAt": "2026-11-16T10:57:31.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "资讯",
+      "具身智能",
+      "睿尔曼智能"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "睿尔曼智能郑随兵质量经济性稳定性是机器人落地三大标准"
+  },
+  {
+    "id": "b4a0064b6965e6d7",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "SonnetDB 5.1.1 稳定版发布：收口 CI、恢复夹具与公开交付验证",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503601",
+    "canonicalUrl": "https://www.oschina.net/news/503601",
+    "publishedAt": "2026-11-16T10:55:55.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "sonnetdb511稳定版发布收口ci恢复夹具与公开交付验证"
+  },
+  {
+    "id": "33df0db8c71eca21",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85900",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85900",
+    "publishedAt": "2026-11-16T10:33:21.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "美国ula的vulcan火箭发射失败40颗亚马逊卫星被毁"
   },
   {
     "id": "b6988afdf862c31b",
@@ -34,6 +412,157 @@
     "titleKey": "ai硬件能玩出多少新花样这场黑客松正在寻找20支开发者团队"
   },
   {
+    "id": "3549690b958b8fe3",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85899",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85899",
+    "publishedAt": "2026-11-16T09:26:54.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "部分因为aioverviewsreddit年访问量下滑13"
+  },
+  {
+    "id": "e56156d1ac513351",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism wi…",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "canonicalUrl": "https://openai.com/index/lvmh-media-division-partnership",
+    "publishedAt": "2026-11-16T09:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "lvmhsmediadivisionannouncesstrategicpartnershipwithopenai"
+  },
+  {
+    "id": "c19f02e3052307c4",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 主数据平台开源版 v1.0.0 首发上线：主数据全流程管理能力开放，构建统一可信数据底座",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503596",
+    "canonicalUrl": "https://www.oschina.net/news/503596",
+    "publishedAt": "2026-11-16T08:55:04.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata主数据平台开源版v100首发上线主数据全流程管理能力开放构建统一可信数据底座"
+  },
+  {
+    "id": "90cf1655676ec81d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+    "summary": "12月1日，细数AI的未竟之问。",
+    "url": "https://www.qbitai.com/2026/11/510526.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510526.html",
+    "publishedAt": "2026-11-16T08:45:17.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "资讯",
+      "甲子光年"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "2026甲子引力年终盛典即将启幕ai的无限游戏进入第二序章甲子引力"
+  },
+  {
+    "id": "bdb64ecc00a37281",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "互联网档案存档 Salon",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85898",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85898",
+    "publishedAt": "2026-11-16T08:24:55.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "互联网档案存档salon"
+  },
+  {
+    "id": "37c3be2c0db1d574",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+    "summary": "在华为待了快10000天。",
+    "url": "https://www.qbitai.com/2026/11/510496.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510496.html",
+    "publishedAt": "2026-11-16T08:02:07.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "何刚",
+      "华为",
+      "华为彭博"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "没搞过一天研发的他50岁以华为董事的身份退休了"
+  },
+  {
+    "id": "5acf1b6aee8f1b26",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "科学家发明电梳能促进头发生长",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85897",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85897",
+    "publishedAt": "2026-11-16T08:00:27.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "科学家发明电梳能促进头发生长"
+  },
+  {
+    "id": "51efc7d8ea808305",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Our first phase of embedded assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, an…",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "canonicalUrl": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "publishedAt": "2026-11-16T08:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Safety"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "ourfirstphaseofembeddedassessments"
+  },
+  {
     "id": "f6acfbcab9c902c1",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -49,6 +578,122 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "superagent进群今年1111多了个会主动干活的数字人队长"
+  },
+  {
+    "id": "ac547ed0c95e45b6",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+    "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+    "url": "https://www.qbitai.com/2026/11/510493.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510493.html",
+    "publishedAt": "2026-11-16T07:58:57.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "资讯",
+      "投资界"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "superlink2026开启创投行业超级链接时刻12月北京见"
+  },
+  {
+    "id": "c0b8736afa8876ba",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+    "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+    "url": "https://www.qbitai.com/2026/11/510486.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510486.html",
+    "publishedAt": "2026-11-16T07:51:57.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "资讯",
+      "阿里巴巴"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "阿里正式发布qwen4智能体及编程能力进阶迈向真实全场景"
+  },
+  {
+    "id": "2d917cd83257a654",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+    "summary": "",
+    "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+    "canonicalUrl": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean",
+    "publishedAt": "2026-11-16T07:38:19.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 231,
+      "comments": 100
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "interpretingclaimsthatatheoremiscorrectbecauseitwascheckedinlean"
+  },
+  {
+    "id": "763a30a79595e049",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+    "summary": "余承东重新明确分工",
+    "url": "https://www.qbitai.com/2026/11/510436.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510436.html",
+    "publishedAt": "2026-11-16T07:26:33.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "智能车参考",
+      "鸿蒙智行"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "余承东发布新款问界m838万元起售全系预埋l3架构"
+  },
+  {
+    "id": "8ced83b3a9244e69",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Tor 中继节点遭遇大规模 DDoS 攻击",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85896",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85896",
+    "publishedAt": "2026-11-16T07:09:17.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "tor中继节点遭遇大规模ddos攻击"
+  },
+  {
+    "id": "6eec2e917cb4589c",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85895",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85895",
+    "publishedAt": "2026-11-16T06:38:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "microsoft365宕机导致15名酒店客人氯气中毒"
   },
   {
     "id": "92c7e9a372b43662",
@@ -189,6 +834,44 @@
     "titleKey": "现货白银日内跌幅达35报4718美元盎司"
   },
   {
+    "id": "6a459de39983222d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "canonicalUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "publishedAt": "2026-11-16T06:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "advancingcomputeruseagentsforhealthcareteams"
+  },
+  {
+    "id": "a46949318a161c29",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare p…",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "canonicalUrl": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "publishedAt": "2026-11-16T06:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "morewaystomovecareforwardwithchatgptforhealthcare"
+  },
+  {
     "id": "7c90495e762136bd",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -274,14 +957,14 @@
     "sourceId": "oschina",
     "sourceName": "开源中国",
     "channel": "tech",
-    "title": "ifreeSFTP 桌面 SFTP 客户端 rust 重构版发布",
+    "title": "ifreeSFTP 桌面 SFTP 客户端 Rust 重构版发布",
     "summary": "",
     "url": "https://www.oschina.net/news/503591",
     "canonicalUrl": "https://www.oschina.net/news/503591",
     "publishedAt": "2026-11-16T05:52:04.000Z",
     "fetchedAt": "2026-11-16T06:23:53.738Z",
     "tags": [
-      "软件更新新闻"
+      "综合新闻"
     ],
     "signals": {},
     "lang": "zh",
@@ -314,7 +997,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "How to Make Almost Anything",
+    "title": "How to make almost anything",
     "summary": "",
     "url": "https://pub.cba.mit.edu/863.26/site/",
     "canonicalUrl": "https://pub.cba.mit.edu/863.26/site",
@@ -324,8 +1007,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 11,
-      "comments": 0
+      "points": 727,
+      "comments": 116
     },
     "lang": "en",
     "weight": 92,
@@ -429,6 +1112,29 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "价格已经跌穿了猪肉10年最低"
+  },
+  {
+    "id": "62edc22f3ff9c919",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+    "summary": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+    "url": "https://www.qbitai.com/2026/11/510416.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510416.html",
+    "publishedAt": "2026-11-16T05:05:22.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "资讯",
+      "AGI芯片",
+      "朱松纯",
+      "通研院",
+      "通芯智能"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "龙芯海光老兵集结通研院孵化的agi芯片公司浮出水面半年连融数亿元"
   },
   {
     "id": "963839e96dcc03c5",
@@ -617,6 +1323,27 @@
     "titleKey": "abigchunkofyour401kislikelyinvestedinnvidia"
   },
   {
+    "id": "a46bff3d80c1236f",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "让你见识下 8 年 IOS 的实力",
+    "summary": "我：http://api.***em.top 对方：这个域名能把 top 改成其他的随机字母吗",
+    "url": "https://www.v2ex.com/t/1257359",
+    "canonicalUrl": "https://www.v2ex.com/t/1257359",
+    "publishedAt": "2026-11-16T03:07:40.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 68
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "让你见识下8年ios的实力"
+  },
+  {
     "id": "6c7d7f1fb24bc0fa",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -650,7 +1377,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 99
+      "replies": 144
     },
     "lang": "zh",
     "weight": 55,
@@ -690,7 +1417,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 110
+      "replies": 159
     },
     "lang": "zh",
     "weight": 55,
@@ -733,11 +1460,32 @@
       "音乐"
     ],
     "signals": {
-      "replies": 56
+      "replies": 87
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "唉qq音乐年会员又涨价了"
+  },
+  {
+    "id": "e5c86ee9e73ff270",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[HyperAPI 中转站]的佬友们来领鸡蛋了，评论留 ID，送$10 体验额度",
+    "summary": "站点： https://hyperapi.cc 欢迎加 QQ 交流群：1095326876",
+    "url": "https://www.v2ex.com/t/1257320",
+    "canonicalUrl": "https://www.v2ex.com/t/1257320",
+    "publishedAt": "2026-11-16T02:05:18.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 66
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "hyperapi中转站的佬友们来领鸡蛋了评论留id送10体验额度"
   },
   {
     "id": "ce72bb21a011ac83",
@@ -754,8 +1502,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 240,
-      "comments": 57
+      "points": 565,
+      "comments": 163
     },
     "lang": "en",
     "weight": 92,
@@ -776,7 +1524,7 @@
       "上海"
     ],
     "signals": {
-      "replies": 57
+      "replies": 76
     },
     "lang": "zh",
     "weight": 55,
@@ -802,6 +1550,27 @@
     "titleKey": "deepin2530发布"
   },
   {
+    "id": "e6d2dd57be31020b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "微软悄悄上线了一款新的中文输入法",
+    "summary": "虽然名字叫中文输入法，但是目前仅支持拼音输入，估计后期会增加五笔输入。",
+    "url": "https://www.v2ex.com/t/1257291",
+    "canonicalUrl": "https://www.v2ex.com/t/1257291",
+    "publishedAt": "2026-11-16T01:09:31.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 69
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "微软悄悄上线了一款新的中文输入法"
+  },
+  {
     "id": "c3b9f3eae2936d43",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -822,6 +1591,42 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "torprojectissuesrapidresponsedosdefensefixamidsustainedddosattack"
+  },
+  {
+    "id": "b685221b08e826c6",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young …",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "canonicalUrl": "https://openai.com/index/the-kings-trust-and-openai",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "thekingstrustandopenailaunch1mpartnership"
+  },
+  {
+    "id": "116daedf8846bbcf",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "summary": "",
+    "url": "https://huggingface.co/blog/openrouter",
+    "canonicalUrl": "https://huggingface.co/blog/openrouter",
+    "publishedAt": "2026-11-16T00:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "huggingfaceandopenrouterjoinforcestomakeopenweightmodelseasytorun"
   },
   {
     "id": "e1eb471d72bae247",
@@ -962,23 +1767,6 @@
     "titleKey": "ournewblogforscience"
   },
   {
-    "id": "b9e284ad36a87440",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-    "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most impor…",
-    "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-15T21:32:00.000Z",
-    "fetchedAt": "2026-11-15T15:39:21.918Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiaisgearingupforoneofwallstreetsmostanticipatedearningscallsinyears"
-  },
-  {
     "id": "918b265d343a559e",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1011,23 +1799,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "iinherited14millionfrommyfatheramiwrongtoaskmyhusbandof25yearsforapostnuptialagreement"
-  },
-  {
-    "id": "749ee29d1109eaad",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
-    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-15T20:00:00.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantafforda200000ayearretirementishebeingcheap"
   },
   {
     "id": "ef901921e9d28738",
@@ -1088,7 +1859,7 @@
       "人工智能"
     ],
     "signals": {
-      "replies": 58
+      "replies": 68
     },
     "lang": "zh",
     "weight": 55,

@@ -42,6 +42,28 @@
     "titleKey": "20261114楼中楼样式黑暗模式可以自动跟随系统设置及solana买入按钮的额外铜币奖励"
   },
   {
+    "id": "971836c8652647c4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Smallest possible nopert polyhedra: the Septopert",
+    "summary": "",
+    "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+    "canonicalUrl": "https://github.com/tom7/noperts/blob/main/septopert.md",
+    "publishedAt": "2026-11-14T15:22:30.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "smallestpossiblenopertpolyhedratheseptopert"
+  },
+  {
     "id": "7440f709cf2203b7",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -269,23 +291,6 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "当地时间11月14日航班追踪网站flightaware的数据显示在13日空管系统出现通信故障导致全美所有飞机停飞后"
-  },
-  {
-    "id": "9397bd218b7534e3",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "What’s the most tax-efficient way to donate to charity?",
-    "summary": "How to make your donations beneficial for both you and the recipient",
-    "url": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T14:00:00.000Z",
-    "fetchedAt": "2026-11-14T15:02:15.630Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "whatsthemosttaxefficientwaytodonatetocharity"
   },
   {
     "id": "9a75d65dcb9dd0b2",
@@ -1715,7 +1720,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "duwqijlk/muse-protocol",
-    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1173",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1411",
     "url": "https://github.com/duwqijlk/muse-protocol",
     "canonicalUrl": "https://github.com/duwqijlk/muse-protocol",
     "publishedAt": "2026-11-14T01:24:58.000Z",
@@ -1724,8 +1729,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1173,
-      "forks": 494
+      "stars": 1411,
+      "forks": 558
     },
     "lang": "en",
     "weight": 90,
@@ -2073,7 +2078,7 @@
       "resources"
     ],
     "signals": {
-      "reactions": 97,
+      "reactions": 103,
       "comments": 9
     },
     "lang": "en",

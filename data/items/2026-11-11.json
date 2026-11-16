@@ -492,6 +492,29 @@
     "titleKey": "nissancutssalesforecastagainonchinawoesasceooutlinesplantofightback"
   },
   {
+    "id": "911f48c714ae441c",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "One Year on DEV.to, 109 Articles Later",
+    "summary": "On November 11, 2025, I registered my DEV.to account.",
+    "url": "https://dev.to/dannwaneri/one-year-on-devto-109-articles-later-p31",
+    "canonicalUrl": "https://dev.to/dannwaneri/one-year-on-devto-109-articles-later-p31",
+    "publishedAt": "2026-11-11T13:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "devto",
+      "community"
+    ],
+    "signals": {
+      "reactions": 74,
+      "comments": 46
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "oneyearondevto109articleslater"
+  },
+  {
     "id": "6b14e118d89621d6",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1092,7 +1115,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Eynnzerr/TelemetryCleaner",
-    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 · Kotlin · ★ 1143",
+    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 · Kotlin · ★ 1287",
     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
     "canonicalUrl": "https://github.com/Eynnzerr/TelemetryCleaner",
     "publishedAt": "2026-11-11T06:25:10.000Z",
@@ -1101,8 +1124,8 @@
       "Kotlin"
     ],
     "signals": {
-      "stars": 1143,
-      "forks": 98
+      "stars": 1287,
+      "forks": 110
     },
     "lang": "en",
     "weight": 90,
@@ -1534,7 +1557,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 2276",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 2428",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1543,8 +1566,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 2276,
-      "forks": 47
+      "stars": 2428,
+      "forks": 53
     },
     "lang": "en",
     "weight": 90,
@@ -2149,8 +2172,8 @@
       "linux"
     ],
     "signals": {
-      "stars": 1699,
-      "forks": 96
+      "stars": 1819,
+      "forks": 110
     },
     "lang": "en",
     "weight": 90,

@@ -961,6 +961,31 @@
     "titleKey": "记录第一次相亲"
   },
   {
+    "id": "73ee55f5b08d8b9a",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
+    "summary": "A 1969 Mission Control console for kids.",
+    "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+    "canonicalUrl": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
+    "publishedAt": "2026-11-15T04:00:28.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "hackathon",
+      "showdev"
+    ],
+    "signals": {
+      "reactions": 56,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "ghostroversicalled12machinesnasaleftbehindonepickedup"
+  },
+  {
     "id": "de15679326fa545b",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
