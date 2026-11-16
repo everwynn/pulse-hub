@@ -1710,6 +1710,28 @@
     "titleKey": "gpt官key免费用蹬完即止"
   },
   {
+    "id": "439b5a54ed3595d1",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "duwqijlk/muse-protocol",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1173",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "canonicalUrl": "https://github.com/duwqijlk/muse-protocol",
+    "publishedAt": "2026-11-14T01:24:58.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1173,
+      "forks": 494
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "duwqijlkmuseprotocol"
+  },
+  {
     "id": "fd89426c3c21505b",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1934,23 +1956,6 @@
     "titleKey": "globaloilsuppliesaresuddenlyflowingwhyacrudeglutwontmeancheaperdiesel"
   },
   {
-    "id": "963839e96dcc03c5",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-    "summary": "“I’m torn between respecting my brother’s wishes and being fair to my sister.”",
-    "url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-13T21:32:00.000Z",
-    "fetchedAt": "2026-11-13T16:18:41.039Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shehasahistoryoffinancialmismanagementmybrothercutoursisteroutofhiswillillgeteverythingdoitellher"
-  },
-  {
     "id": "43e70445dc7c80c4",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -2068,8 +2073,8 @@
       "resources"
     ],
     "signals": {
-      "reactions": 94,
-      "comments": 6
+      "reactions": 97,
+      "comments": 9
     },
     "lang": "en",
     "weight": 60,

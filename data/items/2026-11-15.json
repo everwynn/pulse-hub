@@ -238,23 +238,6 @@
     "titleKey": "imsickofflyingipaidforpriorityboardingbuttheoverheadbinswerefullwasiduped"
   },
   {
-    "id": "b9e284ad36a87440",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-    "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most impor…",
-    "url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-15T15:00:00.000Z",
-    "fetchedAt": "2026-11-15T15:39:21.918Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiaisgearingupforoneofwallstreetsmostanticipatedearningscallsinyears"
-  },
-  {
     "id": "288eab843d51de36",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -380,6 +363,27 @@
     "titleKey": "thehypertexttransferprotocolstatuscode483imnotafreezer"
   },
   {
+    "id": "2cb213f02fd6f82b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "都说 AI 大大提高了编程效率，真正失业的程序员多吗",
+    "summary": "我看身边大部分人都还苟着，有一些被裁员优化的，很多还是找到了新工作，不论好坏，有多卷，至少还有一份工作。",
+    "url": "https://www.v2ex.com/t/1257251",
+    "canonicalUrl": "https://www.v2ex.com/t/1257251",
+    "publishedAt": "2026-11-15T14:24:17.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 43
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "都说ai大大提高了编程效率真正失业的程序员多吗"
+  },
+  {
     "id": "72043d766d146df4",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -495,23 +499,6 @@
     "titleKey": "今年11月15日是粤车南下政策实施满一周年的日子据港珠澳大桥边检站数据政策落地至今经港珠澳大桥珠海公路口岸出入"
   },
   {
-    "id": "8e6b296716b2782f",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-    "summary": "“It would be a less drastic step than selling the home now and splitting the pro…",
-    "url": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-15T13:30:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "shouldawidowleaveherlatepartnershometoherstepkidsorcutoffcontactwiththem"
-  },
-  {
     "id": "6e58c5ccffb9edab",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -610,23 +597,6 @@
     "titleKey": "summittherapeuticsinc今日宣布美国食品药品监督管理局fda已就ivonescimab"
   },
   {
-    "id": "b0f88f3331292801",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-    "summary": "“I know older people can easily feel patronized, and I don’t want that to happen…",
-    "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-15T13:00:00.000Z",
-    "fetchedAt": "2026-11-15T06:24:58.882Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itleavesmewithasourtastemyelderlymothergaveourcousin800foracarrepairshouldibeworried"
-  },
-  {
     "id": "4a9f655b923467d6",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -702,7 +672,7 @@
       "分享发现"
     ],
     "signals": {
-      "replies": 20
+      "replies": 59
     },
     "lang": "zh",
     "weight": 55,
@@ -817,7 +787,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 68
+      "replies": 140
     },
     "lang": "zh",
     "weight": 55,
@@ -1667,23 +1637,6 @@
     "titleKey": "spacexcatchesthestarshiptoendflight15"
   },
   {
-    "id": "5a1f3a2b3cc4eea2",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-    "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and …",
-    "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T21:00:00.000Z",
-    "fetchedAt": "2026-11-13T06:41:04.755Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "iinherited14millionfrommyfatheramiwrongtoaskmyhusbandof25yearsforapostnuptialagreement"
-  },
-  {
     "id": "b330be68b9b1b87c",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1701,23 +1654,6 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "prominentnvidiainvestorscallforboardtocontemplatehuangsreturn"
-  },
-  {
-    "id": "749ee29d1109eaad",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
-    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-14T18:00:00.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantafforda200000ayearretirementishebeingcheap"
   },
   {
     "id": "67019088b9e06193",

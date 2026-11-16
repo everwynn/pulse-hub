@@ -1087,6 +1087,28 @@
     "titleKey": "从卖token到卖结果科技有联想沙龙激辩token经济三大议题"
   },
   {
+    "id": "0d1be74fbf1ae2fa",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Eynnzerr/TelemetryCleaner",
+    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 · Kotlin · ★ 1143",
+    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+    "canonicalUrl": "https://github.com/Eynnzerr/TelemetryCleaner",
+    "publishedAt": "2026-11-11T06:25:10.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "Kotlin"
+    ],
+    "signals": {
+      "stars": 1143,
+      "forks": 98
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "eynnzerrtelemetrycleaner"
+  },
+  {
     "id": "c130cd988b608869",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -1512,7 +1534,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 1978",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 2276",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1521,8 +1543,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 1978,
-      "forks": 30
+      "stars": 2276,
+      "forks": 47
     },
     "lang": "en",
     "weight": 90,
@@ -2127,8 +2149,8 @@
       "linux"
     ],
     "signals": {
-      "stars": 1587,
-      "forks": 90
+      "stars": 1699,
+      "forks": 96
     },
     "lang": "en",
     "weight": 90,

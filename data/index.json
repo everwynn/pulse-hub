@@ -1,48 +1,57 @@
 {
   "timeZone": "Asia/Shanghai",
-  "updatedAt": "2026-11-15T15:39:21.918Z",
+  "updatedAt": "2026-11-16T06:23:53.738Z",
   "dates": [
     {
-      "date": "2026-11-15",
-      "count": 90,
+      "date": "2026-11-16",
+      "count": 57,
       "channels": {
-        "finance": 57,
-        "tech": 33
+        "tech": 25,
+        "finance": 30,
+        "ai": 2
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "count": 86,
+      "channels": {
+        "finance": 52,
+        "tech": 34
       }
     },
     {
       "date": "2026-11-14",
       "count": 121,
       "channels": {
-        "tech": 48,
-        "finance": 65,
+        "tech": 49,
+        "finance": 64,
         "ai": 8
       }
     },
     {
       "date": "2026-11-13",
-      "count": 138,
+      "count": 140,
       "channels": {
         "finance": 60,
-        "tech": 63,
+        "tech": 65,
         "ai": 15
       }
     },
     {
       "date": "2026-11-12",
-      "count": 131,
+      "count": 133,
       "channels": {
         "finance": 47,
-        "tech": 70,
+        "tech": 72,
         "ai": 14
       }
     },
     {
       "date": "2026-11-11",
-      "count": 140,
+      "count": 141,
       "channels": {
         "finance": 63,
-        "tech": 66,
+        "tech": 67,
         "ai": 11
       }
     },

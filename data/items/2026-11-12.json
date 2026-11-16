@@ -51,8 +51,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 128,
-      "comments": 22
+      "reactions": 133,
+      "comments": 23
     },
     "lang": "en",
     "weight": 60,
@@ -217,6 +217,33 @@
     "titleKey": "星甘stargantt支持mpp双向读写了导进来能改改完能导回去"
   },
   {
+    "id": "47d1382bb2b259ec",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "hitkeeen/blender-ai-mcp-addon",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w…",
+    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "canonicalUrl": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "publishedAt": "2026-11-12T14:32:15.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "ai-agents",
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation"
+    ],
+    "signals": {
+      "stars": 1757,
+      "forks": 45
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "hitkeeenblenderaimcpaddon"
+  },
+  {
     "id": "200fe51844bb6551",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -376,6 +403,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "bmi误判数百万人肥胖"
+  },
+  {
+    "id": "8b448757b1bb7095",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Noniv/abyssal-garden",
+    "summary": "A dreamy underwater world you can swim through in your browser: swaying kelp for…",
+    "url": "https://github.com/Noniv/abyssal-garden",
+    "canonicalUrl": "https://github.com/Noniv/abyssal-garden",
+    "publishedAt": "2026-11-12T13:57:34.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "signals": {
+      "stars": 1228,
+      "forks": 179
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "nonivabyssalgarden"
   },
   {
     "id": "570a4830827c6d9c",
@@ -1002,8 +1051,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 166,
-      "comments": 147
+      "reactions": 180,
+      "comments": 161
     },
     "lang": "en",
     "weight": 60,
@@ -1015,7 +1064,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/chat-demo",
-    "summary": "Chat Demo · TypeScript · ★ 2483",
+    "summary": "Chat Demo · TypeScript · ★ 3492",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
     "publishedAt": "2026-11-12T08:08:19.000Z",
@@ -1024,8 +1073,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 2483,
-      "forks": 467
+      "stars": 3492,
+      "forks": 702
     },
     "lang": "en",
     "weight": 90,

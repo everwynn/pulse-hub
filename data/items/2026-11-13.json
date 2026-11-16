@@ -38,7 +38,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 93,
+      "reactions": 97,
       "comments": 39
     },
     "lang": "en",
@@ -203,6 +203,28 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "近期智能硬件市场迎来消费旺季在深圳华强北商圈ai陪伴玩具新品持续迭代不少档口前围满了客商商户向记者展示了今年上"
+  },
+  {
+    "id": "f328c8253326cac9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Do we still have to denormalize? Have your schema and search it too",
+    "summary": "",
+    "url": "https://www.paradedb.com/blog/joins",
+    "canonicalUrl": "https://www.paradedb.com/blog/joins",
+    "publishedAt": "2026-11-13T15:31:50.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 55,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "dowestillhavetodenormalizehaveyourschemaandsearchittoo"
   },
   {
     "id": "10024fb4d0d01799",
@@ -1141,6 +1163,28 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "高难盲测超越gpt6astra与opus5无界前沿开源fxbio1031把rsi带进生命科学"
+  },
+  {
+    "id": "e055a82f78d65e38",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
+    "summary": "",
+    "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+    "canonicalUrl": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+    "publishedAt": "2026-11-13T06:58:41.000Z",
+    "fetchedAt": "2026-11-16T06:23:53.738Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 29,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "themiraclecurein1977adrugrejectedbydoctorsbecameasensation"
   },
   {
     "id": "77e1ac7047784794",
@@ -2188,8 +2232,8 @@
       "ffmpeg-libraries"
     ],
     "signals": {
-      "stars": 1539,
-      "forks": 1
+      "stars": 1233,
+      "forks": 3
     },
     "lang": "en",
     "weight": 90,
