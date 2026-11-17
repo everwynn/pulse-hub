@@ -123,6 +123,28 @@
     "titleKey": "美光股价为何强劲的内存价格可能无济于事"
   },
   {
+    "id": "66a79b20f24bc059",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+    "summary": "",
+    "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+    "canonicalUrl": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+    "publishedAt": "2026-11-16T15:02:20.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 73,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "firstphotosofthepolesofarodshapedbacterium"
+  },
+  {
     "id": "9bb26fb243dad074",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -138,6 +160,31 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "微软称一个隐藏的windowsbug触发了持续逾一天的宕机事故"
+  },
+  {
+    "id": "c4f977ef005b69d2",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "What does DEV stand for?",
+    "summary": "This post was inspired by @mellen months ago when they made a post on MLH: What …",
+    "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
+    "canonicalUrl": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
+    "publishedAt": "2026-11-16T14:55:10.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "jokes"
+    ],
+    "signals": {
+      "reactions": 117,
+      "comments": 94
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whatdoesdevstandfor"
   },
   {
     "id": "a097e03dfd1013da",
@@ -211,6 +258,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "manyofamazonsblackfridayandcybermondaydealsofferednosavings"
+  },
+  {
+    "id": "a08dc70bef633b92",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+    "summary": "",
+    "url": "https://arxiv.org/abs/2611.18126",
+    "canonicalUrl": "https://arxiv.org/abs/2611.18126",
+    "publishedAt": "2026-11-16T13:25:17.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 11,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "exploitingreplayprotectedmonotoniccounterstobruteforcewindowshellopins"
   },
   {
     "id": "fc869bd47d3ee4a3",
@@ -1812,6 +1881,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "itleavesmewithasourtastemyelderlymothergaveourcousin800foracarrepairshouldibeworried"
+  },
+  {
+    "id": "fc524dbccae339a7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+    "summary": "",
+    "url": "https://visualbasic.world/",
+    "canonicalUrl": "https://visualbasic.world/",
+    "publishedAt": "2026-11-15T23:08:30.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 174,
+      "comments": 62
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "visualbasicworldagalleryofplanetsourcecodeprogramsfrom1997to2012"
   },
   {
     "id": "39689e0b3bc1b630",

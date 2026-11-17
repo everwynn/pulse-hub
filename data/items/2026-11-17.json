@@ -1,5 +1,78 @@
 [
   {
+    "id": "2f06338c62dd4e5d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "NSA Internal Network Down",
+    "summary": "",
+    "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+    "canonicalUrl": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17",
+    "publishedAt": "2026-11-17T15:50:48.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 115,
+      "comments": 54
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nsainternalnetworkdown"
+  },
+  {
+    "id": "c76fcfb8037965a5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Coherent and Lumentum stocks climb as potential U.S. import ban threatens Chinese rivals",
+    "summary": "The Trump administration is reportedly planning to move forward on banning impor…",
+    "url": "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-e20dfb79?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-17T15:39:00.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "coherentandlumentumstocksclimbaspotentialusimportbanthreatenschineserivals"
+  },
+  {
+    "id": "01a42215d29efca9",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘It is heartbreaking’: My brother took over our ailing mother’s life and finances. What can I do?",
+    "summary": "“It is devastating when the people you should be able to trust become the very p…",
+    "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-17T15:30:00.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itisheartbreakingmybrothertookoverourailingmotherslifeandfinanceswhatcanido"
+  },
+  {
+    "id": "ccb221666a6802a7",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+    "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
+    "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+    "publishedAt": "2026-11-17T15:27:51.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "homedepotnamesrichardmcphailasnewceobeatsearningsexpectations"
+  },
+  {
     "id": "18691e0ed3c035c3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +88,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai生成的代码必须开源开发者吵翻了被开源代码喂大的anthropic怕是第一个不同意"
+  },
+  {
+    "id": "3e74768824a07152",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+    "summary": "",
+    "url": "https://alloyhtml.com/example.html",
+    "canonicalUrl": "https://alloyhtml.com/example.html",
+    "publishedAt": "2026-11-17T15:07:09.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 84,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnalloycssdialogsmenusandtabsthatworkwithjavascriptoff"
   },
   {
     "id": "10a723084fe4fd99",
@@ -49,6 +144,49 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "leapworkplay正式发布提供面向playwright测试的治理功能"
+  },
+  {
+    "id": "74cb2a43880a85a1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What is the best harness for each model?",
+    "summary": "",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "canonicalUrl": "https://runta.com/blog/introducing-frontierharness-eval-v1-1",
+    "publishedAt": "2026-11-17T14:53:43.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 153,
+      "comments": 67
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whatisthebestharnessforeachmodel"
+  },
+  {
+    "id": "941d3237be2b20f0",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+    "summary": "82亿美元股票，46天闪电交割",
+    "url": "https://www.qbitai.com/2026/11/510695.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510695.html",
+    "publishedAt": "2026-11-17T14:15:20.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "资讯",
+      "AMD",
+      "李飞飞"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "并购完成李飞飞正式率队加入amd苏妈亲自欢迎"
   },
   {
     "id": "7b6ab33339486f7d",
@@ -119,6 +257,50 @@
     "titleKey": "vitest5通过共享vite服务器跟踪视图和更严格的测试默认设置来优先保障性能"
   },
   {
+    "id": "14a8d640788244f2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+    "summary": "",
+    "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "canonicalUrl": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+    "publishedAt": "2026-11-17T11:45:51.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 806,
+      "comments": 422
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "newevidenceshowsschoolphonebansaregraduallyimprovingtestscores"
+  },
+  {
+    "id": "43f0152c85594f9f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+    "summary": "瞄准「产业级世界模型」",
+    "url": "https://www.qbitai.com/2026/11/510688.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510688.html",
+    "publishedAt": "2026-11-17T11:40:37.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "资讯",
+      "Agent",
+      "世界模型",
+      "李沐"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "李沐加盟的aimotion是一家什么ai公司"
+  },
+  {
     "id": "7b99ef7664700c6f",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +316,192 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "filemoverexpress亚马逊云科技发布用于s3文件传输的开源工具"
+  },
+  {
+    "id": "f590dfe88cb8e551",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85914",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85914",
+    "publishedAt": "2026-11-17T10:22:40.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "加州理工数学教授不再根据作业打分因为作业很容易用ai完成"
+  },
+  {
+    "id": "7523a0ab40435044",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "gylive/google-ultra",
+    "summary": "Python · ★ 1105",
+    "url": "https://github.com/gylive/google-ultra",
+    "canonicalUrl": "https://github.com/gylive/google-ultra",
+    "publishedAt": "2026-11-17T10:21:54.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1105,
+      "forks": 571
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "gylivegoogleultra"
+  },
+  {
+    "id": "a1253f351f322da4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "How the Claude Code team thinks about verification",
+    "summary": "",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "canonicalUrl": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification",
+    "publishedAt": "2026-11-17T10:20:40.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 162,
+      "comments": 149
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "howtheclaudecodeteamthinksaboutverification"
+  },
+  {
+    "id": "1784f4c6f8658029",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "灵晟继续登顶 Top500 榜单",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85913",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85913",
+    "publishedAt": "2026-11-17T09:54:30.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "灵晟继续登顶top500榜单"
+  },
+  {
+    "id": "18c9b0c4a526fbaf",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "卡内基梅隆免费公开计算机科学课程",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85912",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85912",
+    "publishedAt": "2026-11-17T09:25:29.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "卡内基梅隆免费公开计算机科学课程"
+  },
+  {
+    "id": "4e63bf5ce6098939",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "富岳运行系统遭非法访问",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85911",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85911",
+    "publishedAt": "2026-11-17T08:35:50.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "富岳运行系统遭非法访问"
+  },
+  {
+    "id": "4d8dae0688266505",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qOntology 开源版 v1.1.3 发布：长文档抽取支持分窗重试与阶段续跑，完善候选校验",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503620",
+    "canonicalUrl": "https://www.oschina.net/news/503620",
+    "publishedAt": "2026-11-17T08:11:29.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qontology开源版v113发布长文档抽取支持分窗重试与阶段续跑完善候选校验"
+  },
+  {
+    "id": "1ca60f41eec57b92",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85910",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85910",
+    "publishedAt": "2026-11-17T08:07:03.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "fbi警告黑客利用artex能在三小时内入侵网络"
+  },
+  {
+    "id": "1ef78477816a2c22",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Canonical 向订阅用户提供可选的 AI 生成安全补丁",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85909",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85909",
+    "publishedAt": "2026-11-17T07:56:48.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "canonical向订阅用户提供可选的ai生成安全补丁"
+  },
+  {
+    "id": "e476d32c1d80f80f",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "看到老黄因为出轨被撸，我也说个自己最近的经历",
+    "summary": "我也说不清算不算出轨。 男开发+女测试，平时就工作上有些接触，下班后有可能一起去地铁站，从没直接联系过。 她是那种老实人牛马外包，闲聊时说她周末几乎不出门，在家…",
+    "url": "https://www.v2ex.com/t/1257733",
+    "canonicalUrl": "https://www.v2ex.com/t/1257733",
+    "publishedAt": "2026-11-17T07:50:40.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 146
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "看到老黄因为出轨被撸我也说个自己最近的经历"
   },
   {
     "id": "49c2eed8bee57b02",
@@ -539,7 +907,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 70
+      "replies": 395
     },
     "lang": "zh",
     "weight": 55,
@@ -565,6 +933,23 @@
     "titleKey": "phimintv0110发布不依赖nodejs和python1核1g跑起一个终端编码agent"
   },
   {
+    "id": "80fbd2c87d934927",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Windows 收集用户计算机安装的编程智能体和开发工具",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85908",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85908",
+    "publishedAt": "2026-11-17T06:50:24.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "windows收集用户计算机安装的编程智能体和开发工具"
+  },
+  {
     "id": "8d513d0144422fb2",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -580,6 +965,27 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "美国超大规模数据中心的用电量与部分州的总用电量相当"
+  },
+  {
+    "id": "a1aef7d08e94060a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+    "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
+    "url": "https://www.qbitai.com/2026/11/510652.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510652.html",
+    "publishedAt": "2026-11-17T06:09:40.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "资讯",
+      "MatOS",
+      "材料科学"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "材料科学智能体matos正式开源大幅提高材料研发任务成功率"
   },
   {
     "id": "4e7e191554ae4e84",
@@ -621,21 +1027,27 @@
     "titleKey": "雄安十周年拼多多落子民营企业参与新区建设的新样本"
   },
   {
-    "id": "e3a1ec4396041b63",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Here's what to expect when Disney reports earnings before the bell",
-    "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy foll…",
-    "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-    "publishedAt": "2026-11-17T05:01:01.000Z",
-    "fetchedAt": "2026-11-17T07:51:41.962Z",
-    "tags": [],
+    "id": "bafd135c0eefde47",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
+    "summary": "斩获80000元奖金",
+    "url": "https://www.qbitai.com/2026/11/510610.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510610.html",
+    "publishedAt": "2026-11-17T04:35:03.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "具身大模型挑战赛",
+      "具身智能",
+      "蚂蚁灵波"
+    ],
     "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "hereswhattoexpectwhendisneyreportsearningsbeforethebell"
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "真勇啊00后团队参加具身挑战赛仅48小时竟敢从零手搓数据还夺冠了"
   },
   {
     "id": "bd3d44404b6d6512",
@@ -693,6 +1105,27 @@
     "titleKey": "deepseek悄悄收紧免费额度或因算力资源紧张所致"
   },
   {
+    "id": "270f6ba4a3a3a25c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "长期出 Claude 成品号 和 KYC",
+    "summary": "1.Claude 欧美白皮 Personal KYC、Portal KYC，通过率 99% 2.成品免 KYC 号 CC Pro CC Max 5x CC Ul…",
+    "url": "https://www.v2ex.com/t/1257633",
+    "canonicalUrl": "https://www.v2ex.com/t/1257633",
+    "publishedAt": "2026-11-17T03:10:21.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 64
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "长期出claude成品号和kyc"
+  },
+  {
     "id": "6c109469c1970135",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -729,6 +1162,26 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "skyeye云企业级ai零代码智能制造系统3d仓库v4112发布"
+  },
+  {
+    "id": "284ad6d357a1e612",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
+    "summary": "奥特曼首谈黄仁勋离职",
+    "url": "https://www.qbitai.com/2026/11/510592.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510592.html",
+    "publishedAt": "2026-11-17T02:33:13.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "资讯",
+      "奥特曼"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "奥特曼共情黄仁勋英雄也有缺陷但支持他重返英伟达ceo嘛"
   },
   {
     "id": "a5211fc08696ab02",
@@ -770,6 +1223,27 @@
     "titleKey": "ifanappasksforfulldiskaccessorsystemandappprotectionoverride"
   },
   {
+    "id": "3f5a3cb736105a52",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/510561.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510561.html",
+    "publishedAt": "2026-11-17T02:03:22.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "资讯",
+      "仿真",
+      "机器人"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "物理ai的强化学习仿真环境来了光轮智能推出robofinalsrlenvs"
+  },
+  {
     "id": "22231a36a26a9adc",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -792,6 +1266,27 @@
     "titleKey": "runningcodingagentswithouthandingthemmycredentials"
   },
   {
+    "id": "7d11190d5c22c4b8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "入了掌阅 Ocean6 Pro 替换用了 11 年的 Kindle",
+    "summary": "最近刚入手了一个掌阅 Ocean6 Pro，老的 kindle 用了 11 年了，新老交接。",
+    "url": "https://www.v2ex.com/t/1257578",
+    "canonicalUrl": "https://www.v2ex.com/t/1257578",
+    "publishedAt": "2026-11-17T01:10:09.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "阅读"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "入了掌阅ocean6pro替换用了11年的kindle"
+  },
+  {
     "id": "823ccbee3c9b835a",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -806,7 +1301,7 @@
       "问与答"
     ],
     "signals": {
-      "replies": 103
+      "replies": 119
     },
     "lang": "zh",
     "weight": 55,
@@ -827,7 +1322,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 84
+      "replies": 105
     },
     "lang": "zh",
     "weight": 55,
@@ -848,7 +1343,7 @@
       "分享发现"
     ],
     "signals": {
-      "replies": 67
+      "replies": 96
     },
     "lang": "zh",
     "weight": 55,
@@ -869,7 +1364,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 145
+      "replies": 205
     },
     "lang": "zh",
     "weight": 55,
@@ -915,6 +1410,25 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "strengtheningnatoandalliedcyberdefenseswithai"
+  },
+  {
+    "id": "38effceff2809666",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing OpenAI for Chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adop…",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "canonicalUrl": "https://openai.com/index/introducing-openai-for-chile",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingopenaiforchile"
   },
   {
     "id": "62f31c9c9f9516a6",
@@ -982,8 +1496,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 287,
-      "comments": 121
+      "points": 574,
+      "comments": 230
     },
     "lang": "en",
     "weight": 92,
@@ -1138,8 +1652,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1317,
-      "comments": 181
+      "points": 2104,
+      "comments": 283
     },
     "lang": "en",
     "weight": 92,
@@ -1166,6 +1680,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "chemistryisactuallygeometry"
+  },
+  {
+    "id": "19f2bac9f1fab712",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on …",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "canonicalUrl": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "publishedAt": "2026-11-16T19:28:29.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "C++"
+    ],
+    "signals": {
+      "stars": 2040,
+      "forks": 161
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "krisgfx9wirelessdevicebatterymonitor"
   },
   {
     "id": "3dd5733626749f7a",

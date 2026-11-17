@@ -38,7 +38,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 106,
+      "reactions": 111,
       "comments": 46
     },
     "lang": "en",
@@ -2059,7 +2059,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Immortal-Protocols/lastbook",
-    "summary": "Offline knowledge library for survival and rebuilding · Python · ★ 909",
+    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding · Python · ★ 1…",
     "url": "https://github.com/Immortal-Protocols/lastbook",
     "canonicalUrl": "https://github.com/Immortal-Protocols/lastbook",
     "publishedAt": "2026-11-12T23:49:03.000Z",
@@ -2068,8 +2068,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 909,
-      "forks": 94
+      "stars": 1419,
+      "forks": 177
     },
     "lang": "en",
     "weight": 90,
@@ -2443,6 +2443,28 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "nebiusfalls16ascompanyexpectsincreased2026capexspendissuesweakoutlook"
+  },
+  {
+    "id": "d31cf8d6c815e161",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Rows vs. Columns: How different are they, really?",
+    "summary": "",
+    "url": "https://spiraldb.com/blog/rows-vs-columns",
+    "canonicalUrl": "https://spiraldb.com/blog/rows-vs-columns",
+    "publishedAt": "2026-11-12T17:04:41.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 112,
+      "comments": 41
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "rowsvscolumnshowdifferentaretheyreally"
   },
   {
     "id": "37fae70edbfb7f78",
