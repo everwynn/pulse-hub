@@ -1115,7 +1115,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Eynnzerr/TelemetryCleaner",
-    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 · Kotlin · ★ 1287",
+    "summary": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 · Kotlin · ★ 1391",
     "url": "https://github.com/Eynnzerr/TelemetryCleaner",
     "canonicalUrl": "https://github.com/Eynnzerr/TelemetryCleaner",
     "publishedAt": "2026-11-11T06:25:10.000Z",
@@ -1124,8 +1124,8 @@
       "Kotlin"
     ],
     "signals": {
-      "stars": 1287,
-      "forks": 110
+      "stars": 1391,
+      "forks": 115
     },
     "lang": "en",
     "weight": 90,
@@ -1557,7 +1557,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "apex-compute/ANR",
-    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 2428",
+    "summary": "Apex Neural Rendering (ANR) by Apex Compute · C++ · ★ 2506",
     "url": "https://github.com/apex-compute/ANR",
     "canonicalUrl": "https://github.com/apex-compute/ANR",
     "publishedAt": "2026-11-11T04:27:17.000Z",
@@ -1566,7 +1566,7 @@
       "C++"
     ],
     "signals": {
-      "stars": 2428,
+      "stars": 2506,
       "forks": 53
     },
     "lang": "en",

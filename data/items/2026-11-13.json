@@ -38,7 +38,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 103,
+      "reactions": 106,
       "comments": 46
     },
     "lang": "en",
@@ -505,6 +505,33 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "theevolvingstoryofhowchemistrybecamebiology"
+  },
+  {
+    "id": "72ef5d548a960417",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "opencoredev/islandcn",
+    "summary": "The open-source Dynamic Island for React, installed with shadcn.",
+    "url": "https://github.com/opencoredev/islandcn",
+    "canonicalUrl": "https://github.com/opencoredev/islandcn",
+    "publishedAt": "2026-11-13T11:50:50.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "TypeScript",
+      "dynamic-island",
+      "nextjs",
+      "react",
+      "shadcn",
+      "typescript"
+    ],
+    "signals": {
+      "stars": 787,
+      "forks": 64
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "opencoredevislandcn"
   },
   {
     "id": "3ad2f649003568d3",
@@ -2025,6 +2052,28 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "metaforge202600正式发布从数据库管理到可视化分析700项改进带来全面升级"
+  },
+  {
+    "id": "df7c19971d9295ed",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Immortal-Protocols/lastbook",
+    "summary": "Offline knowledge library for survival and rebuilding · Python · ★ 909",
+    "url": "https://github.com/Immortal-Protocols/lastbook",
+    "canonicalUrl": "https://github.com/Immortal-Protocols/lastbook",
+    "publishedAt": "2026-11-12T23:49:03.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 909,
+      "forks": 94
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "immortalprotocolslastbook"
   },
   {
     "id": "2b67cf3f151bd053",

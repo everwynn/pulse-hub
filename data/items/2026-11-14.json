@@ -1720,7 +1720,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "duwqijlk/muse-protocol",
-    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1411",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1516",
     "url": "https://github.com/duwqijlk/muse-protocol",
     "canonicalUrl": "https://github.com/duwqijlk/muse-protocol",
     "publishedAt": "2026-11-14T01:24:58.000Z",
@@ -1729,8 +1729,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1411,
-      "forks": 558
+      "stars": 1516,
+      "forks": 603
     },
     "lang": "en",
     "weight": 90,
@@ -2078,7 +2078,7 @@
       "resources"
     ],
     "signals": {
-      "reactions": 103,
+      "reactions": 108,
       "comments": 9
     },
     "lang": "en",

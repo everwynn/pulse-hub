@@ -68,6 +68,27 @@
     "titleKey": "these13sp500stockscanriseupto70overthenextyearaccordingtoanalysts"
   },
   {
+    "id": "792387fe25ffd6d4",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "有通勤一个半小时的老哥嘛",
+    "summary": "公共交通上下班都一个半小时，上班第一天，给我整得有点 emo 了",
+    "url": "https://www.v2ex.com/t/1257548",
+    "canonicalUrl": "https://www.v2ex.com/t/1257548",
+    "publishedAt": "2026-11-16T15:23:48.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 88
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "有通勤一个半小时的老哥嘛"
+  },
+  {
     "id": "8c2e0b5caa38dd67",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -412,6 +433,23 @@
     "titleKey": "ai硬件能玩出多少新花样这场黑客松正在寻找20支开发者团队"
   },
   {
+    "id": "d8986de235745a4f",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, …",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "canonicalUrl": "https://openai.com/business/customer-stories/revolut",
+    "publishedAt": "2026-11-16T09:30:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howrevolutraisesambitionwithoutloweringthebar"
+  },
+  {
     "id": "3549690b958b8fe3",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -467,6 +505,27 @@
     "titleKey": "qdata主数据平台开源版v100首发上线主数据全流程管理能力开放构建统一可信数据底座"
   },
   {
+    "id": "3c699e931ca3f504",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "干半天才发现：人家没读书，却比我混得好",
+    "summary": "1、老家那些没读过书的人，初中毕业。",
+    "url": "https://www.v2ex.com/t/1257459",
+    "canonicalUrl": "https://www.v2ex.com/t/1257459",
+    "publishedAt": "2026-11-16T08:45:37.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 95
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "干半天才发现人家没读书却比我混得好"
+  },
+  {
     "id": "90cf1655676ec81d",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -485,6 +544,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "2026甲子引力年终盛典即将启幕ai的无限游戏进入第二序章甲子引力"
+  },
+  {
+    "id": "e10688f27a7ed139",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "跟异性聊天总是没话题，有没有军师指点",
+    "summary": "真有那么多话可说吗？有时候套聊天公式觉得好别扭，好像第一天就把该说的说完了，有没有什么经验分享一下？",
+    "url": "https://www.v2ex.com/t/1257456",
+    "canonicalUrl": "https://www.v2ex.com/t/1257456",
+    "publishedAt": "2026-11-16T08:40:26.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 83
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "跟异性聊天总是没话题有没有军师指点"
   },
   {
     "id": "bdb64ecc00a37281",
@@ -640,6 +720,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "interpretingclaimsthatatheoremiscorrectbecauseitwascheckedinlean"
+  },
+  {
+    "id": "4e89633d4b62f2d5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Test/verification technique effectiveness with Astra",
+    "summary": "",
+    "url": "https://danluu.com/astra-testing/",
+    "canonicalUrl": "https://danluu.com/astra-testing",
+    "publishedAt": "2026-11-16T07:33:51.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 29,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "testverificationtechniqueeffectivenesswithastra"
   },
   {
     "id": "763a30a79595e049",
@@ -834,25 +936,6 @@
     "titleKey": "现货白银日内跌幅达35报4718美元盎司"
   },
   {
-    "id": "6a459de39983222d",
-    "sourceId": "openai-news",
-    "sourceName": "OpenAI News",
-    "channel": "ai",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "summary": "",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "canonicalUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-    "publishedAt": "2026-11-16T06:00:00.000Z",
-    "fetchedAt": "2026-11-16T18:30:05.763Z",
-    "tags": [
-      "Product"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 95,
-    "titleKey": "advancingcomputeruseagentsforhealthcareteams"
-  },
-  {
     "id": "a46949318a161c29",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -870,6 +953,25 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "morewaystomovecareforwardwithchatgptforhealthcare"
+  },
+  {
+    "id": "6a459de39983222d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "canonicalUrl": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "publishedAt": "2026-11-16T06:00:00.000Z",
+    "fetchedAt": "2026-11-16T18:30:05.763Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "advancingcomputeruseagentsforhealthcareteams"
   },
   {
     "id": "7c90495e762136bd",
@@ -1569,6 +1671,50 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "微软悄悄上线了一款新的中文输入法"
+  },
+  {
+    "id": "d83c18ee509e94cf",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nimony: A New Compiler for Nim",
+    "summary": "",
+    "url": "https://nimony.org/",
+    "canonicalUrl": "https://nimony.org/",
+    "publishedAt": "2026-11-16T01:05:22.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 12,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nimonyanewcompilerfornim"
+  },
+  {
+    "id": "9e9b2d14fc235a04",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Fossils That Haunted Lovecraft",
+    "summary": "",
+    "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+    "canonicalUrl": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft",
+    "publishedAt": "2026-11-16T00:38:12.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 20,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thefossilsthathauntedlovecraft"
   },
   {
     "id": "c3b9f3eae2936d43",

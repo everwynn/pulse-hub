@@ -34,6 +34,31 @@
     "titleKey": "homesalesplummettolowestlevelsincegreatrecessionaspriceshitalltimehigh"
   },
   {
+    "id": "f46dc953d4d9e3d9",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "AI is getting better. Here is my plan to stay ahead.",
+    "summary": "AI is getting better every day.",
+    "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
+    "canonicalUrl": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
+    "publishedAt": "2026-11-12T15:35:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "ai",
+      "productivity",
+      "programming",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 49,
+      "comments": 29
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "aiisgettingbetterhereismyplantostayahead"
+  },
+  {
     "id": "47ccaf24b1007f42",
     "sourceId": "devto",
     "sourceName": "DEV Community",
@@ -51,7 +76,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 136,
+      "reactions": 139,
       "comments": 24
     },
     "lang": "en",
@@ -236,8 +261,8 @@
       "blender-automation"
     ],
     "signals": {
-      "stars": 2119,
-      "forks": 53
+      "stars": 2317,
+      "forks": 57
     },
     "lang": "en",
     "weight": 90,
@@ -419,8 +444,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 1585,
-      "forks": 242
+      "stars": 1879,
+      "forks": 286
     },
     "lang": "en",
     "weight": 90,
@@ -712,6 +737,28 @@
     "titleKey": "谷歌发布首款决策模型geminidecision19项测试拿下7项第一准确率最高922"
   },
   {
+    "id": "abd5934fd6208019",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "AIRzZ90/study-materials-fork",
+    "summary": "A cross-platform Tauri 2 interface and interaction practice project · TypeScript…",
+    "url": "https://github.com/AIRzZ90/study-materials-fork",
+    "canonicalUrl": "https://github.com/AIRzZ90/study-materials-fork",
+    "publishedAt": "2026-11-12T10:52:32.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "TypeScript"
+    ],
+    "signals": {
+      "stars": 747,
+      "forks": 1224
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "airzz90studymaterialsfork"
+  },
+  {
     "id": "5f21cc990babf73a",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -956,8 +1003,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 1107,
-      "forks": 189
+      "stars": 1260,
+      "forks": 218
     },
     "lang": "en",
     "weight": 90,
@@ -1073,8 +1120,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 192,
-      "comments": 173
+      "reactions": 203,
+      "comments": 184
     },
     "lang": "en",
     "weight": 60,
@@ -1086,7 +1133,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/chat-demo",
-    "summary": "Chat Demo · TypeScript · ★ 3995",
+    "summary": "Chat Demo · TypeScript · ★ 4288",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
     "publishedAt": "2026-11-12T08:08:19.000Z",
@@ -1095,8 +1142,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 3995,
-      "forks": 841
+      "stars": 4288,
+      "forks": 916
     },
     "lang": "en",
     "weight": 90,

@@ -1,5 +1,1173 @@
 [
   {
+    "id": "18691e0ed3c035c3",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI",
+    "publishedAt": "2026-11-17T15:09:45.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai生成的代码必须开源开发者吵翻了被开源代码喂大的anthropic怕是第一个不同意"
+  },
+  {
+    "id": "10a723084fe4fd99",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9",
+    "publishedAt": "2026-11-17T15:00:05.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "agent演示惊艳一进生产就不好用sap直指企业ai落地的最大幻觉"
+  },
+  {
+    "id": "b9f0215e7db762a6",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR",
+    "publishedAt": "2026-11-17T15:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "leapworkplay正式发布提供面向playwright测试的治理功能"
+  },
+  {
+    "id": "7b6ab33339486f7d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Google Cloud API Gateway 推出面向实时 AI 应用的流式处理",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B",
+    "publishedAt": "2026-11-17T14:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "googlecloudapigateway推出面向实时ai应用的流式处理"
+  },
+  {
+    "id": "42ab64127f39d015",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss",
+    "publishedAt": "2026-11-17T13:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "azure版localstack进入公开预览阶段安全设置会存储但不生效"
+  },
+  {
+    "id": "6633573a21f26e97",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj",
+    "publishedAt": "2026-11-17T12:42:35.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "spring近期资讯bootframeworkdatasecuritymodulith和ai的首个候选版本"
+  },
+  {
+    "id": "6b236b2c983c5a2e",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH",
+    "publishedAt": "2026-11-17T12:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "vitest5通过共享vite服务器跟踪视图和更严格的测试默认设置来优先保障性能"
+  },
+  {
+    "id": "7b99ef7664700c6f",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF",
+    "publishedAt": "2026-11-17T11:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "filemoverexpress亚马逊云科技发布用于s3文件传输的开源工具"
+  },
+  {
+    "id": "49c2eed8bee57b02",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "国家金融监督管理总局上海监管局、中国人民银行上海市分行发布关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知，…",
+    "summary": "国家金融监督管理总局上海监管局、中国人民银行上海市分行发布关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知，其中提到，银行保险机构要立足国家绿色低碳…",
+    "url": "https://wallstreetcn.com/livenews/3201120",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201120",
+    "publishedAt": "2026-11-17T07:47:34.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "bond-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "国家金融监督管理总局上海监管局中国人民银行上海市分行发布关于提升上海银行业保险业服务能级促进绿色金融高质量发展的通知"
+  },
+  {
+    "id": "1843b7c6e9aac37d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "招商轮船：2026年11月16日，公司通过下属控股单船公司在韩国三星重工船厂接收了1艘17.4万立方米大型液化天然气（L…",
+    "summary": "招商轮船：2026年11月16日，公司通过下属控股单船公司在韩国三星重工船厂接收了1艘17.4万立方米大型液化天然气（LNG）运输船“LEKHRAIB”轮。",
+    "url": "https://wallstreetcn.com/livenews/3201119",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201119",
+    "publishedAt": "2026-11-17T07:46:10.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "招商轮船2026年11月16日公司通过下属控股单船公司在韩国三星重工船厂接收了1艘174万立方米大型液化天然气l"
+  },
+  {
+    "id": "2fb0d702becd6819",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "2026年APEC工商领导人峰会今日在深圳举办。下午2点半左右，雷军现身会议现场。据悉，雷军将参与主题为“探索亚太数字经…",
+    "summary": "2026年APEC工商领导人峰会今日在深圳举办。",
+    "url": "https://wallstreetcn.com/livenews/3201118",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201118",
+    "publishedAt": "2026-11-17T07:46:01.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "2026年apec工商领导人峰会今日在深圳举办下午2点半左右雷军现身会议现场据悉雷军将参与主题为探索亚太数字经"
+  },
+  {
+    "id": "b38823d63a09162f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "比亚迪股份有限公司董事长兼总裁王传福11月17日出席2026年APEC工商领导人峰会并参与“打造亚太可持续发展新范式”专…",
+    "summary": "比亚迪股份有限公司董事长兼总裁王传福11月17日出席2026年APEC工商领导人峰会并参与“打造亚太可持续发展新范式”专题研讨。",
+    "url": "https://wallstreetcn.com/livenews/3201116",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201116",
+    "publishedAt": "2026-11-17T07:45:36.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比亚迪股份有限公司董事长兼总裁王传福11月17日出席2026年apec工商领导人峰会并参与打造亚太可持续发展新范式专"
+  },
+  {
+    "id": "07317fe9d4890b58",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "云南发行10年期一般债地方债，规模138.3000亿元，发行利率1.6600%，边际倍数2.58倍，倍数预期1.66； …",
+    "summary": "云南发行10年期一般债地方债，规模138.3000亿元，发行利率1.6600%，边际倍数2.58倍，倍数预期1.66； 云南发行7年期普通专项地方债，规模54.…",
+    "url": "https://wallstreetcn.com/livenews/3201115",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201115",
+    "publishedAt": "2026-11-17T07:44:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "bond-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "云南发行10年期一般债地方债规模1383000亿元发行利率16600边际倍数258倍倍数预期166"
+  },
+  {
+    "id": "77b782d4a27d49fa",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "德国国防部长Pistorius：预计美国在欧洲的驻军部署将有所调整。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3201114",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201114",
+    "publishedAt": "2026-11-17T07:44:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "德国国防部长pistorius预计美国在欧洲的驻军部署将有所调整"
+  },
+  {
+    "id": "53f59d51faa43a2d",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Nvidia to restrict chip sales to customers renting over 50% of GPUs to Chinese firms: CNBC",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4673461-nvidia-to-restrict-chip-sales-to-customers-renting-over-50-of-gpus-to-chinese-firms-cnbc?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4673461-nvidia-to-restrict-chip-sales-to-customers-renting-over-50-of-gpus-to-chinese-firms-cnbc?feed_item_type=news",
+    "publishedAt": "2026-11-17T07:43:56.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "nvda"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nvidiatorestrictchipsalestocustomersrentingover50ofgpustochinesefirmscnbc"
+  },
+  {
+    "id": "8552a24cbf91e649",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月初，央行多次发声加力实施股票回购增持再贷款政策。政策落地半个多月以来，A股上市公司密集披露相关再贷款项目公告，热度…",
+    "summary": "11月初，央行多次发声加力实施股票回购增持再贷款政策。",
+    "url": "https://wallstreetcn.com/livenews/3201113",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201113",
+    "publishedAt": "2026-11-17T07:43:23.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月初央行多次发声加力实施股票回购增持再贷款政策政策落地半个多月以来a股上市公司密集披露相关再贷款项目公告热度"
+  },
+  {
+    "id": "89ff9c9d188d133b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "字节跳动正在招聘红果短剧OTT端产品经理，负责红果短剧OTT端（大屏/电视端）产品从0到1建设；设计OTT端变现路径，探…",
+    "summary": "字节跳动正在招聘红果短剧OTT端产品经理，负责红果短剧OTT端（大屏/电视端）产品从0到1建设；设计OTT端变现路径，探索投屏会员、会员订阅、衍生权益等变现模式…",
+    "url": "https://wallstreetcn.com/livenews/3201112",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201112",
+    "publishedAt": "2026-11-17T07:41:12.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "字节跳动正在招聘红果短剧ott端产品经理负责红果短剧ott端大屏电视端产品从0到1建设设计ott端变现路径探"
+  },
+  {
+    "id": "2668fe403162d6d9",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据《金融时报》周二报道，德意志银行曾处理与性犯罪者杰弗里·爱泼斯坦（现已身故）有关的5.82亿美元可疑款项。 这家德国银…",
+    "summary": "据《金融时报》周二报道，德意志银行曾处理与性犯罪者杰弗里·爱泼斯坦（现已身故）有关的5.82亿美元可疑款项。",
+    "url": "https://wallstreetcn.com/livenews/3201111",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201111",
+    "publishedAt": "2026-11-17T07:40:53.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据金融时报周二报道德意志银行曾处理与性犯罪者杰弗里爱泼斯坦现已身故有关的582亿美元可疑款项这家德国银"
+  },
+  {
+    "id": "d22fb96ec80a7a3d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国互联网金融协会发布通告，根据协会《移动金融客户端应用软件自律管理办法》规定，按照自律管理工作安排，2026年度协会继…",
+    "summary": "中国互联网金融协会发布通告，根据协会《移动金融客户端应用软件自律管理办法》规定，按照自律管理工作安排，2026年度协会继续开展自律检查工作。",
+    "url": "https://wallstreetcn.com/livenews/3201110",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3201110",
+    "publishedAt": "2026-11-17T07:38:10.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国互联网金融协会发布通告根据协会移动金融客户端应用软件自律管理办法规定按照自律管理工作安排2026年度协会继"
+  },
+  {
+    "id": "696cee873200912c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "地平线割席Momenta",
+    "summary": "两种焦虑，一种解药",
+    "url": "https://www.tmtpost.com/8207632.html",
+    "canonicalUrl": "https://www.tmtpost.com/8207632.html",
+    "publishedAt": "2026-11-17T07:38:08.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "地平线割席momenta"
+  },
+  {
+    "id": "c815919d67359520",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "双面黄仁勋：凶猛无情，又极度焦虑",
+    "summary": "黄仁勋闪辞始末。",
+    "url": "https://www.tmtpost.com/8207366.html",
+    "canonicalUrl": "https://www.tmtpost.com/8207366.html",
+    "publishedAt": "2026-11-17T07:38:06.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "黄仁勋婚外情风波"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "双面黄仁勋凶猛无情又极度焦虑"
+  },
+  {
+    "id": "5ca95246cded3090",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "这大概是马化腾看到的“远处的浪潮”之一",
+    "summary": "游戏行业有险可守",
+    "url": "https://www.tmtpost.com/8207510.html",
+    "canonicalUrl": "https://www.tmtpost.com/8207510.html",
+    "publishedAt": "2026-11-17T07:38:03.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "这大概是马化腾看到的远处的浪潮之一"
+  },
+  {
+    "id": "43de5c8f291f4a3b",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Insight Enterprises prices $650M convertible notes",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4673456-insight-enterprises-prices-650m-convertible-notes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4673456-insight-enterprises-prices-650m-convertible-notes?feed_item_type=news",
+    "publishedAt": "2026-11-17T07:30:15.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "nsit"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "insightenterprisesprices650mconvertiblenotes"
+  },
+  {
+    "id": "d792097416f5c1d8",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Finland’s Iceye offers to acquire Italy’s Avio in €2.05B deal",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4673457-finlands-iceye-offers-to-acquire-italys-avio-in-205b-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4673457-finlands-iceye-offers-to-acquire-italys-avio-in-205b-deal?feed_item_type=news",
+    "publishedAt": "2026-11-17T07:28:10.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "avvsy",
+      "avvof"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "finlandsiceyeofferstoacquireitalysavioin205bdeal"
+  },
+  {
+    "id": "f9826b3084f856ba",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "FitLife expects about $1.2M in annual OpEx savings starting in Q4 2026 as it targets lower costs amid Amazon and specialty retail headwinds",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4673458-fitlife-expects-about-1_2m-in-annual-opex-savings-starting-in-q4-2026-as-it-targets-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4673458-fitlife-expects-about-1_2m-in-annual-opex-savings-starting-in-q4-2026-as-it-targets-lower?feed_item_type=news",
+    "publishedAt": "2026-11-17T07:23:47.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "ftlf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "fitlifeexpectsabout12minannualopexsavingsstartinginq42026asittargetslowercostsamidamazonandspecialtyretailheadwinds"
+  },
+  {
+    "id": "ae294eac6ac419cc",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "BioNxt Solutions launches $2.5M private placement to fund R&D",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4673455-bionxt-solutions-launches-2_5m-private-placement-to-fund-r-and-d?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4673455-bionxt-solutions-launches-2_5m-private-placement-to-fund-r-and-d?feed_item_type=news",
+    "publishedAt": "2026-11-17T07:19:37.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "bnxtf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "bionxtsolutionslaunches25mprivateplacementtofundrd"
+  },
+  {
+    "id": "c110321945d1c0f8",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Expion360 GAAP EPS of -$1.43, revenue of $2.14M",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4673454-expion360-gaap-eps-of--143-revenue-of-214m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4673454-expion360-gaap-eps-of--143-revenue-of-214m?feed_item_type=news",
+    "publishedAt": "2026-11-17T07:10:22.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "xpon"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "expion360gaapepsof143revenueof214m"
+  },
+  {
+    "id": "3ffd90e2071f0af6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "ModStart 支持 PHP8.5 + Laravel13，纯净仓库发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503618",
+    "canonicalUrl": "https://www.oschina.net/news/503618",
+    "publishedAt": "2026-11-17T07:06:13.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "modstart支持php85laravel13纯净仓库发布"
+  },
+  {
+    "id": "1cbd13e1ff47453a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "今天是我的生日",
+    "summary": "11.17，我的生日，知道的人不多，没人记得，难过。",
+    "url": "https://www.v2ex.com/t/1257707",
+    "canonicalUrl": "https://www.v2ex.com/t/1257707",
+    "publishedAt": "2026-11-17T07:00:13.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 70
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "今天是我的生日"
+  },
+  {
+    "id": "b6cff0cb00d9aacb",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "phimint v0.11.0 发布：不依赖 Node.js 和 Python，1 核 1G 跑起一个终端编码 agent",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503617",
+    "canonicalUrl": "https://www.oschina.net/news/503617",
+    "publishedAt": "2026-11-17T06:55:39.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "phimintv0110发布不依赖nodejs和python1核1g跑起一个终端编码agent"
+  },
+  {
+    "id": "8d513d0144422fb2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "美国超大规模数据中心的用电量与部分州的总用电量相当",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85907",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85907",
+    "publishedAt": "2026-11-17T06:11:57.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "美国超大规模数据中心的用电量与部分州的总用电量相当"
+  },
+  {
+    "id": "4e7e191554ae4e84",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "思灵人形机器人完成 5 亿美元融资背后，真正产生收入的业务却是产线自动化？",
+    "summary": "工厂才是产品。",
+    "url": "https://www.tmtpost.com/8208200.html",
+    "canonicalUrl": "https://www.tmtpost.com/8208200.html",
+    "publishedAt": "2026-11-17T05:55:50.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "具身智能",
+      "机器人",
+      "AGI",
+      "英伟达"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "思灵人形机器人完成5亿美元融资背后真正产生收入的业务却是产线自动化"
+  },
+  {
+    "id": "4794edc8d9092d14",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "雄安十周年：拼多多落子，民营企业参与新区建设的新样本",
+    "summary": "拼多多雄安公司的意义，或许正在于它提供了一个可观察的样板：一家平台企业如何将数字能力以组织化、本地化、标准化的方式嵌入一座新城的产业肌体。",
+    "url": "https://www.tmtpost.com/8206797.html",
+    "canonicalUrl": "https://www.tmtpost.com/8206797.html",
+    "publishedAt": "2026-11-17T05:04:26.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "雄安十周年拼多多落子民营企业参与新区建设的新样本"
+  },
+  {
+    "id": "e3a1ec4396041b63",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Here's what to expect when Disney reports earnings before the bell",
+    "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy foll…",
+    "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+    "publishedAt": "2026-11-17T05:01:01.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "hereswhattoexpectwhendisneyreportsearningsbeforethebell"
+  },
+  {
+    "id": "bd3d44404b6d6512",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "“学霸”自首AI作弊，韩国高考紧急布防",
+    "summary": "地狱难度的税务师考试大翻车",
+    "url": "https://www.tmtpost.com/8208106.html",
+    "canonicalUrl": "https://www.tmtpost.com/8208106.html",
+    "publishedAt": "2026-11-17T04:03:54.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "学霸自首ai作弊韩国高考紧急布防"
+  },
+  {
+    "id": "2c98dd6623f4d077",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "六年 Rust 开发经历，他改变了自己的思考方式",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503613/how-rust-changed-me",
+    "canonicalUrl": "https://www.oschina.net/news/503613/how-rust-changed-me",
+    "publishedAt": "2026-11-17T04:00:13.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "六年rust开发经历他改变了自己的思考方式"
+  },
+  {
+    "id": "cd0fed886fd8ca8a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503610",
+    "canonicalUrl": "https://www.oschina.net/news/503610",
+    "publishedAt": "2026-11-17T03:45:14.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "deepseek悄悄收紧免费额度或因算力资源紧张所致"
+  },
+  {
+    "id": "6c109469c1970135",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Windows 11 在记录你用过哪个 AI 编程助手",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503608/windows-coding-agent-telemetry",
+    "canonicalUrl": "https://www.oschina.net/news/503608/windows-coding-agent-telemetry",
+    "publishedAt": "2026-11-17T02:54:07.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "windows11在记录你用过哪个ai编程助手"
+  },
+  {
+    "id": "3d7d4c96e7f1d212",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Skyeye 云企业级 AI + 零代码智能制造系统-3D仓库 - v4.1.12 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503607",
+    "canonicalUrl": "https://www.oschina.net/news/503607",
+    "publishedAt": "2026-11-17T02:35:20.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "skyeye云企业级ai零代码智能制造系统3d仓库v4112发布"
+  },
+  {
+    "id": "a5211fc08696ab02",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66%…",
+    "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-17T02:30:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "iminmy40sshouldiacceptalowerpensioninexchangefornamingmyhusbandorchildasabeneficiary"
+  },
+  {
+    "id": "4bc529e0d1ece8e8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+    "summary": "",
+    "url": "https://support.apple.com/en-us/149699",
+    "canonicalUrl": "https://support.apple.com/en-us/149699",
+    "publishedAt": "2026-11-17T02:17:04.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 97,
+      "comments": 53
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ifanappasksforfulldiskaccessorsystemandappprotectionoverride"
+  },
+  {
+    "id": "22231a36a26a9adc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Running coding agents without handing them my credentials",
+    "summary": "",
+    "url": "https://blog.antonio.cx/running-agents-with-lend",
+    "canonicalUrl": "https://blog.antonio.cx/running-agents-with-lend",
+    "publishedAt": "2026-11-17T01:18:56.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 100,
+      "comments": 55
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "runningcodingagentswithouthandingthemmycredentials"
+  },
+  {
+    "id": "823ccbee3c9b835a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "玩了发现恋物癖越来越严重了咋办",
+    "summary": "恋物癖越来越严重了咋办",
+    "url": "https://www.v2ex.com/t/1257575",
+    "canonicalUrl": "https://www.v2ex.com/t/1257575",
+    "publishedAt": "2026-11-17T00:59:33.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 103
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "玩了发现恋物癖越来越严重了咋办"
+  },
+  {
+    "id": "36e8267194ecb0e4",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "熊市中就开个银河免 5 定投纳指或者红利低波 ETF 吧，股票也有免 5 的。",
+    "summary": "熊市中少买股票，就开个银河免 5 的买买纳指或者红利低波 ETF 就行，胆子大的可以抄底!",
+    "url": "https://www.v2ex.com/t/1257573",
+    "canonicalUrl": "https://www.v2ex.com/t/1257573",
+    "publishedAt": "2026-11-17T00:45:24.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 84
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "熊市中就开个银河免5定投纳指或者红利低波etf吧股票也有免5的"
+  },
+  {
+    "id": "b6171e22985d4e04",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "个人感觉，对对联可能是给 LLM AI 压力最大的活之一。",
+    "summary": "之前看到上联“膀胱肿胀四个月”，人类能对出来的最完美的下联是“涂润滑油十二滴”。",
+    "url": "https://www.v2ex.com/t/1257571",
+    "canonicalUrl": "https://www.v2ex.com/t/1257571",
+    "publishedAt": "2026-11-17T00:32:58.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "个人感觉对对联可能是给llmai压力最大的活之一"
+  },
+  {
+    "id": "d065d0dd24a13e18",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[台灣站長不跑路] 不擔心封號，高穩定 Claude 中轉，評論送 5 刀（也有 Grok、GPT）",
+    "summary": "### 前字節開發的中轉 - 台灣站長 - https://shenwenai.com/ ### 適合用戶跟收費： - 穩定用 Claude, Grok 。",
+    "url": "https://www.v2ex.com/t/1257569",
+    "canonicalUrl": "https://www.v2ex.com/t/1257569",
+    "publishedAt": "2026-11-17T00:26:01.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 145
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "台灣站長不跑路不擔心封號高穩定claude中轉評論送5刀也有grokgpt"
+  },
+  {
+    "id": "b0b41a91493787dd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why 3dfx 1 cards had such a washed out color output?",
+    "summary": "",
+    "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "canonicalUrl": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+    "publishedAt": "2026-11-17T00:16:24.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 95,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "why3dfx1cardshadsuchawashedoutcoloroutput"
+  },
+  {
+    "id": "0a206f1c4398f073",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defend…",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "canonicalUrl": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "Global Affairs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "strengtheningnatoandalliedcyberdefenseswithai"
+  },
+  {
+    "id": "62f31c9c9f9516a6",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "United Airlines resolves system outage that delayed flights Monday",
+    "summary": "The outage came just days after an FAA ground stop disrupted air travel national…",
+    "url": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T23:42:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "unitedairlinesresolvessystemoutagethatdelayedflightsmonday"
+  },
+  {
+    "id": "ef9a5f313dd75aa2",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+    "summary": "Druckenmiller’s family office unloaded AMD and Sandisk shares in the third quart…",
+    "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T23:28:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "stanleydruckenmillerdumpedthesechipstockswhilebuyingintospacexandpalantir"
+  },
+  {
+    "id": "64edee27311f6fc6",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+    "summary": "Almost a third of Amazon Black Friday deals “provided no savings at all” in the …",
+    "url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T23:04:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "doamazonsblackfridaydealsreallysaveyoumoneyanewreportcastsdoubt"
+  },
+  {
+    "id": "a93724cf03e27e94",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Optimizely compromised, served malware on Zoom, GitLab",
+    "summary": "",
+    "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+    "canonicalUrl": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely",
+    "publishedAt": "2026-11-16T23:00:34.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 287,
+      "comments": 121
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "optimizelycompromisedservedmalwareonzoomgitlab"
+  },
+  {
+    "id": "eb0177997287db06",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "summary": "“I’m exhausted.",
+    "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T23:00:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "myhusbandishappilyretiredat64andthinksishouldkeepworkingishebeingfair"
+  },
+  {
+    "id": "1fd9f6fb2fe990a0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "summary": "",
+    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "canonicalUrl": "https://xusheng.dev/posts/windows-coding-agent-telemetry",
+    "publishedAt": "2026-11-16T22:58:20.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 527,
+      "comments": 363
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "windows11iscollectingdataonwhichcodingagentsanddevelopertoolsyouuse"
+  },
+  {
+    "id": "93f7735a30560480",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+    "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+    "url": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T22:46:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "usdollarsaidrivenbreakoutcouldbecomeastockmarketwreckingball"
+  },
+  {
+    "id": "23cccd36c4d7aa8b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+    "summary": "Berkshire Hathaway stepped up its investments in the U.S.",
+    "url": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T22:33:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "berkshireuppeditsbetonabeleagueredushousingmarketwhilesouringonthesebankstocks"
+  },
+  {
+    "id": "749ee29d1109eaad",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
+    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-16T22:30:00.000Z",
+    "fetchedAt": "2026-11-12T16:47:11.344Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantafforda200000ayearretirementishebeingcheap"
+  },
+  {
+    "id": "d098c934ef3603d4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "BugMeNot has closed",
+    "summary": "",
+    "url": "https://www.bugmenot.com/",
+    "canonicalUrl": "https://www.bugmenot.com/",
+    "publishedAt": "2026-11-16T21:32:17.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 488,
+      "comments": 223
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "bugmenothasclosed"
+  },
+  {
+    "id": "678ef0b5e9794c89",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "OpenCode Browse",
+    "summary": "",
+    "url": "https://opencode.ai/product/browse",
+    "canonicalUrl": "https://opencode.ai/product/browse",
+    "publishedAt": "2026-11-16T21:20:37.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 224,
+      "comments": 117
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "opencodebrowse"
+  },
+  {
+    "id": "18fb57aeb2c838ce",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+    "summary": "",
+    "url": "https://www.cs.cmu.edu/learn/",
+    "canonicalUrl": "https://www.cs.cmu.edu/learn",
+    "publishedAt": "2026-11-16T20:43:36.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1317,
+      "comments": 181
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "carnegiemellonisputtingcomputersciencecoursesonyoutubeforfree"
+  },
+  {
+    "id": "542a06753ca13b89",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Chemistry is Actually Geometry",
+    "summary": "",
+    "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "canonicalUrl": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+    "publishedAt": "2026-11-16T20:22:18.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 203,
+      "comments": 103
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "chemistryisactuallygeometry"
+  },
+  {
     "id": "3dd5733626749f7a",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -531,6 +1699,25 @@
     "titleKey": "envoygateway191强化安全性并解决棘手的升级问题"
   },
   {
+    "id": "f912708a48891695",
+    "sourceId": "microsoft-research",
+    "sourceName": "Microsoft Research",
+    "channel": "ai",
+    "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+    "summary": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+    "canonicalUrl": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+    "publishedAt": "2026-11-16T17:01:35.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "Research Blog"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 78,
+    "titleKey": "tokeneconomizerlearningfromexperiencetomakeaicodingagentsmoreefficient"
+  },
+  {
     "id": "a99dd05d47c441c5",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -567,23 +1754,6 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "strengtheningthefightagainstonlinechildsexualabusewithnewtoolsandsupport"
-  },
-  {
-    "id": "749ee29d1109eaad",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-    "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 mill…",
-    "url": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-16T17:00:00.000Z",
-    "fetchedAt": "2026-11-12T16:47:11.344Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hecallsmyplansafantasymyhusbandsayswecantafforda200000ayearretirementishebeingcheap"
   },
   {
     "id": "4d0df39a5738db92",
@@ -713,5 +1883,24 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "robertpattinson成为第七任007"
+  },
+  {
+    "id": "0c3c71dee3f7eb64",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Casdoor 开源版新增 Marketplace：自托管 IAM 也能一键安装应用、身份源和登录页主题",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503603",
+    "canonicalUrl": "https://www.oschina.net/news/503603",
+    "publishedAt": "2026-11-16T16:05:52.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "casdoor开源版新增marketplace自托管iam也能一键安装应用身份源和登录页主题"
   }
 ]
