@@ -1,5 +1,26 @@
 [
   {
+    "id": "99c4e1b2a484ef2b",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我解密了电信光猫里的 m01-b01-inner 插件：它能提取手机号、IMEI，能远程执行命令，还能扫描你家内网",
+    "summary": "## 先说结论 中国电信光猫里预装了一个叫 `m01-b01-inner` 的插件（由 `b01odmv3` 启动），很多人在 `ps` 里见过它，但它真正的业…",
+    "url": "https://www.v2ex.com/t/1257838",
+    "canonicalUrl": "https://www.v2ex.com/t/1257838",
+    "publishedAt": "2026-11-17T15:53:34.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "宽带症候群"
+    ],
+    "signals": {
+      "replies": 85
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我解密了电信光猫里的m01b01inner插件它能提取手机号imei能远程执行命令还能扫描你家内网"
+  },
+  {
     "id": "2f06338c62dd4e5d",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -39,38 +60,26 @@
     "titleKey": "coherentandlumentumstocksclimbaspotentialusimportbanthreatenschineserivals"
   },
   {
-    "id": "01a42215d29efca9",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It is heartbreaking’: My brother took over our ailing mother’s life and finances. What can I do?",
-    "summary": "“It is devastating when the people you should be able to trust become the very p…",
-    "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-17T15:30:00.000Z",
-    "fetchedAt": "2026-11-17T17:37:39.442Z",
-    "tags": [],
-    "signals": {},
+    "id": "f3b2e7c444cd741e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Highly classified US national security communications network goes down",
+    "summary": "",
+    "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "canonicalUrl": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+    "publishedAt": "2026-11-17T15:38:28.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 553,
+      "comments": 642
+    },
     "lang": "en",
-    "weight": 68,
-    "titleKey": "itisheartbreakingmybrothertookoverourailingmotherslifeandfinanceswhatcanido"
-  },
-  {
-    "id": "ccb221666a6802a7",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-    "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
-    "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-    "publishedAt": "2026-11-17T15:27:51.000Z",
-    "fetchedAt": "2026-11-17T17:37:39.442Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "homedepotnamesrichardmcphailasnewceobeatsearningsexpectations"
+    "weight": 92,
+    "titleKey": "highlyclassifiedusnationalsecuritycommunicationsnetworkgoesdown"
   },
   {
     "id": "18691e0ed3c035c3",
@@ -146,6 +155,27 @@
     "titleKey": "leapworkplay正式发布提供面向playwright测试的治理功能"
   },
   {
+    "id": "9bdc3c1e9f0121bc",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "Gemini Ultra 免费一个月？有 V 友领到了吗，想核对下条件",
+    "summary": "刷到一个帖子，说 Gemini Ultra 可以免费用一个月，链接放评论区了 原帖提到了先绑卡，但这张截图没截到实际领取入口，也没说明地区、新老用户这些限制，目…",
+    "url": "https://www.v2ex.com/t/1257824",
+    "canonicalUrl": "https://www.v2ex.com/t/1257824",
+    "publishedAt": "2026-11-17T14:55:40.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "Google"
+    ],
+    "signals": {
+      "replies": 57
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "geminiultra免费一个月有v友领到了吗想核对下条件"
+  },
+  {
     "id": "74cb2a43880a85a1",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -204,6 +234,27 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "googlecloudapigateway推出面向实时ai应用的流式处理"
+  },
+  {
+    "id": "8602c7ed3174bd66",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "如何合法合规的使用海外模型？",
+    "summary": "打算 12 月回国旅游+过年，远程工作 2-3 个月。",
+    "url": "https://www.v2ex.com/t/1257817",
+    "canonicalUrl": "https://www.v2ex.com/t/1257817",
+    "publishedAt": "2026-11-17T13:52:54.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 60
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "如何合法合规的使用海外模型"
   },
   {
     "id": "42ab64127f39d015",
@@ -340,7 +391,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "gylive/google-ultra",
-    "summary": "Python · ★ 1105",
+    "summary": "Python · ★ 2190",
     "url": "https://github.com/gylive/google-ultra",
     "canonicalUrl": "https://github.com/gylive/google-ultra",
     "publishedAt": "2026-11-17T10:21:54.000Z",
@@ -349,8 +400,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1105,
-      "forks": 571
+      "stars": 2190,
+      "forks": 824
     },
     "lang": "en",
     "weight": 90,
@@ -466,6 +517,25 @@
     "titleKey": "fbi警告黑客利用artex能在三小时内入侵网络"
   },
   {
+    "id": "b43248eca70f16e2",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Introducing ChatGPT for Sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT…",
+    "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "canonicalUrl": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "publishedAt": "2026-11-17T08:00:00.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "Product"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "introducingchatgptforsales"
+  },
+  {
     "id": "1ef78477816a2c22",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -497,7 +567,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 146
+      "replies": 225
     },
     "lang": "zh",
     "weight": 55,
@@ -1184,23 +1254,6 @@
     "titleKey": "奥特曼共情黄仁勋英雄也有缺陷但支持他重返英伟达ceo嘛"
   },
   {
-    "id": "a5211fc08696ab02",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
-    "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66%…",
-    "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-17T02:30:00.000Z",
-    "fetchedAt": "2026-11-17T07:51:41.962Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "iminmy40sshouldiacceptalowerpensioninexchangefornamingmyhusbandorchildasabeneficiary"
-  },
-  {
     "id": "4bc529e0d1ece8e8",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1412,6 +1465,25 @@
     "titleKey": "strengtheningnatoandalliedcyberdefenseswithai"
   },
   {
+    "id": "9b26dc471b53d09a",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Astra for Law leads in legal intelligence",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "canonicalUrl": "https://openai.com/index/astra-law-6-2",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "astraforlawleadsinlegalintelligence"
+  },
+  {
     "id": "38effceff2809666",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -1502,23 +1574,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "optimizelycompromisedservedmalwareonzoomgitlab"
-  },
-  {
-    "id": "eb0177997287db06",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "summary": "“I’m exhausted.",
-    "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-16T23:00:00.000Z",
-    "fetchedAt": "2026-11-17T07:51:41.962Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "myhusbandishappilyretiredat64andthinksishouldkeepworkingishebeingfair"
   },
   {
     "id": "1fd9f6fb2fe990a0",
@@ -1696,12 +1751,39 @@
       "C++"
     ],
     "signals": {
-      "stars": 2040,
-      "forks": 161
+      "stars": 3165,
+      "forks": 278
     },
     "lang": "en",
     "weight": 90,
     "titleKey": "krisgfx9wirelessdevicebatterymonitor"
+  },
+  {
+    "id": "b256691dd47e48bf",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "sybil-solutions/inference-optimisation-skill",
+    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decod…",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "canonicalUrl": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "publishedAt": "2026-11-16T18:40:04.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "Python",
+      "agent-skill",
+      "benchmarking",
+      "claude-code",
+      "inference",
+      "llm"
+    ],
+    "signals": {
+      "stars": 981,
+      "forks": 85
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "sybilsolutionsinferenceoptimisationskill"
   },
   {
     "id": "3dd5733626749f7a",

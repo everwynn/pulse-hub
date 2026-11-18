@@ -38,8 +38,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 111,
-      "comments": 46
+      "reactions": 116,
+      "comments": 50
     },
     "lang": "en",
     "weight": 60,
@@ -2068,8 +2068,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1419,
-      "forks": 177
+      "stars": 1906,
+      "forks": 248
     },
     "lang": "en",
     "weight": 90,

@@ -179,8 +179,8 @@
       "jokes"
     ],
     "signals": {
-      "reactions": 117,
-      "comments": 94
+      "reactions": 134,
+      "comments": 125
     },
     "lang": "en",
     "weight": 60,
@@ -323,6 +323,33 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "新增51款1类新药129万cart首次纳入医保目录的平衡与商保新变量丨行业风向标"
+  },
+  {
+    "id": "f1f5c8d01ba2f75c",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "erkamyaman/rust-anything",
+    "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the origina…",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "canonicalUrl": "https://github.com/erkamyaman/rust-anything",
+    "publishedAt": "2026-11-16T12:10:36.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "Rust",
+      "agent-skills",
+      "claude-code",
+      "cli",
+      "code-migration",
+      "codex"
+    ],
+    "signals": {
+      "stars": 1929,
+      "forks": 140
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "erkamyamanrustanything"
   },
   {
     "id": "85162dbf82f087fb",
