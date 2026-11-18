@@ -1465,25 +1465,6 @@
     "titleKey": "strengtheningnatoandalliedcyberdefenseswithai"
   },
   {
-    "id": "9b26dc471b53d09a",
-    "sourceId": "openai-news",
-    "sourceName": "OpenAI News",
-    "channel": "ai",
-    "title": "Astra for Law leads in legal intelligence",
-    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
-    "url": "https://openai.com/index/astra-law-6-2",
-    "canonicalUrl": "https://openai.com/index/astra-law-6-2",
-    "publishedAt": "2026-11-17T00:00:00.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [
-      "Company"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 95,
-    "titleKey": "astraforlawleadsinlegalintelligence"
-  },
-  {
     "id": "38effceff2809666",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -1501,6 +1482,25 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "introducingopenaiforchile"
+  },
+  {
+    "id": "9b26dc471b53d09a",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Astra for Law leads in legal intelligence",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law.",
+    "url": "https://openai.com/index/astra-law-6-2",
+    "canonicalUrl": "https://openai.com/index/astra-law-6-2",
+    "publishedAt": "2026-11-17T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "astraforlawleadsinlegalintelligence"
   },
   {
     "id": "62f31c9c9f9516a6",
@@ -1751,8 +1751,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 3165,
-      "forks": 278
+      "stars": 3705,
+      "forks": 316
     },
     "lang": "en",
     "weight": 90,
@@ -1778,8 +1778,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 981,
-      "forks": 85
+      "stars": 1047,
+      "forks": 91
     },
     "lang": "en",
     "weight": 90,

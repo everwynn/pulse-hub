@@ -76,7 +76,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 140,
+      "reactions": 141,
       "comments": 24
     },
     "lang": "en",
@@ -444,8 +444,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 2245,
-      "forks": 329
+      "stars": 2345,
+      "forks": 349
     },
     "lang": "en",
     "weight": 90,
@@ -713,7 +713,7 @@
     ],
     "signals": {
       "reactions": 97,
-      "comments": 49
+      "comments": 50
     },
     "lang": "en",
     "weight": 60,
@@ -1003,8 +1003,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 1494,
-      "forks": 253
+      "stars": 1598,
+      "forks": 267
     },
     "lang": "en",
     "weight": 90,
@@ -1120,8 +1120,8 @@
       "typescript"
     ],
     "signals": {
-      "reactions": 211,
-      "comments": 194
+      "reactions": 213,
+      "comments": 198
     },
     "lang": "en",
     "weight": 60,
@@ -1133,7 +1133,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "deepseek-ai/chat-demo",
-    "summary": "Chat Demo · TypeScript · ★ 4627",
+    "summary": "Chat Demo · TypeScript · ★ 4787",
     "url": "https://github.com/deepseek-ai/chat-demo",
     "canonicalUrl": "https://github.com/deepseek-ai/chat-demo",
     "publishedAt": "2026-11-12T08:08:19.000Z",
@@ -1142,8 +1142,8 @@
       "TypeScript"
     ],
     "signals": {
-      "stars": 4627,
-      "forks": 1018
+      "stars": 4787,
+      "forks": 1067
     },
     "lang": "en",
     "weight": 90,

@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-18T07:23:59.360Z",
+  "updatedAt": "2026-11-18T17:14:38.805Z",
   "timeZone": "Asia/Shanghai",
-  "from": "2026-11-18",
-  "to": "2026-12-02",
+  "from": "2026-11-19",
+  "to": "2026-12-03",
   "status": "skipped",
   "reason": "未配置 FINNHUB_KEY",
   "events": []

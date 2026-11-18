@@ -1,5 +1,346 @@
 [
   {
+    "id": "cdb9b8d5fc12cf9b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Oracle’s stock is ridiculously cheap even in the most gloomy scenarios, analyst says",
+    "summary": "Even if you assume Oracle’s AI data-center business disappears while its debt re…",
+    "url": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/oracles-stock-is-ridiculously-cheap-even-under-the-most-gloomy-scenarios-analyst-says-630d30ec?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-18T15:57:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "oraclesstockisridiculouslycheapeveninthemostgloomyscenariosanalystsays"
+  },
+  {
+    "id": "a26fc0950719289e",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+    "summary": "",
+    "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+    "canonicalUrl": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg",
+    "publishedAt": "2026-11-18T15:49:34.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "aiagentsaskbetterquestionsthankpmgaccountantsinlandmarkaudittrial"
+  },
+  {
+    "id": "df4207639d375364",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
+    "summary": "Nvidia investors face uncertainty around CEO succession, the AI ecosystem, expor…",
+    "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-18T15:42:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiasboomingdemandishardtoignorebutthesefourquestionsloomoverthestock"
+  },
+  {
+    "id": "ab5ff2b5d36d46d0",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "从快速部署到统一运营，Agent 的 AH Moment 来了！",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/video/AWswNIWpvlNvaWY8MTDd",
+    "publishedAt": "2026-11-18T15:40:10.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "从快速部署到统一运营agent的ahmoment来了"
+  },
+  {
+    "id": "fba53906972d715f",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+    "summary": "Lowe's said it saw strength in online sales during its quarter that contributed …",
+    "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+    "publishedAt": "2026-11-18T15:39:06.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "lowespostsstrongonlinesalesraisesoutlookdespiteslowhousingmarket"
+  },
+  {
+    "id": "8a9d8abe9347d272",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Inside Deutsche Bank",
+    "summary": "",
+    "url": "https://www.inside-db.com/",
+    "canonicalUrl": "https://www.inside-db.com/",
+    "publishedAt": "2026-11-18T15:38:33.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 189,
+      "comments": 63
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "insidedeutschebank"
+  },
+  {
+    "id": "a67a5ab580fe6799",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+    "summary": "",
+    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+    "canonicalUrl": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+    "publishedAt": "2026-11-18T15:35:44.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 54,
+      "comments": 23
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "usairforceislookingforoldstoragemediacforpccards"
+  },
+  {
+    "id": "071664439230f961",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+    "summary": "The late-night comedy sketch does the impossible by making female caregivers fee…",
+    "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-18T15:32:00.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ifeltsoseenwhyfamiliesacrossamericaarelaughingandcryingoversnlssistersketch"
+  },
+  {
+    "id": "b290d79115930f17",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85926",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85926",
+    "publishedAt": "2026-11-18T15:29:11.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "特斯拉以3万美元向客户出售cybercab然后每月收299美元"
+  },
+  {
+    "id": "82301bb9ccc090c3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+    "summary": "",
+    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "canonicalUrl": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+    "publishedAt": "2026-11-18T15:19:55.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 268,
+      "comments": 90
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "preauthrceinnginxhttp2handling"
+  },
+  {
+    "id": "38c6310bb2dff8ec",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "canonicalUrl": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "publishedAt": "2026-11-18T15:00:23.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "timeseriesmodelsinthestreamhouseanewfrontierandusecases"
+  },
+  {
+    "id": "b4fd1fff15a33a45",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
+    "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's c…",
+    "url": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
+    "publishedAt": "2026-11-18T15:00:01.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "nvidiascolettekresstellscrameremployeesandcustomersarenotgoinganywhere"
+  },
+  {
+    "id": "2f67d92dfaf1925b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Fed’s Waller says interest-rate hikes may be needed to ‘shock’ inflation out of the system",
+    "summary": "The central bank might need to hike interest rates by a full percentage point or…",
+    "url": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-18T15:00:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "fedswallersaysinterestratehikesmaybeneededtoshockinflationoutofthesystem"
+  },
+  {
+    "id": "c15438fcde442815",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "陆游：最早探索猫内心世界的诗人",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85925",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85925",
+    "publishedAt": "2026-11-18T14:58:22.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "陆游最早探索猫内心世界的诗人"
+  },
+  {
+    "id": "6c567ee477dd8e59",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The x86 CPU: From 4004 to 486",
+    "summary": "",
+    "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+    "canonicalUrl": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+    "publishedAt": "2026-11-18T14:47:53.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 43,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thex86cpufrom4004to486"
+  },
+  {
+    "id": "07c8d507ac0181cd",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A Primer on Fourier Series",
+    "summary": "",
+    "url": "https://arxiv.org/abs/2510.18203",
+    "canonicalUrl": "https://arxiv.org/abs/2510.18203",
+    "publishedAt": "2026-11-18T14:44:33.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 40,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "aprimeronfourierseries"
+  },
+  {
+    "id": "a2ee8e3a1c125a0d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+    "summary": "",
+    "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "canonicalUrl": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "publishedAt": "2026-11-18T14:43:52.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 112,
+      "comments": 85
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "humaniscambridgedictionaryswordoftheyear2026"
+  },
+  {
+    "id": "d3f0ab6028e251ff",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+    "summary": "Alphabet and Apple have approached artificial intelligence in ways that have res…",
+    "url": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-18T14:33:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "onlytwomagnificentsevenstockshavemanagedtobeatthesp500sincethestartof2025"
+  },
+  {
     "id": "8e7eece523460f52",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -51,6 +392,23 @@
     "titleKey": "纳德拉回应微软首次给工程师发离场费claudecode让微软措手不及二十年ide优势半年动摇"
   },
   {
+    "id": "f140857e42a14467",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "韩国严打高考作弊",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85924",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85924",
+    "publishedAt": "2026-11-18T13:53:09.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "韩国严打高考作弊"
+  },
+  {
     "id": "1ada4fbc6e7a7687",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -85,6 +443,45 @@
     "titleKey": "谷歌sre圣经被迫重写ai时代硬技能在塌陷第一性原理在升值"
   },
   {
+    "id": "1576acd4857e8ccc",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "新高危漏洞 Java4Shell 会导致远程代码执行",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85923",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85923",
+    "publishedAt": "2026-11-18T13:27:20.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "新高危漏洞java4shell会导致远程代码执行"
+  },
+  {
+    "id": "61a08b2daab15e0a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+    "summary": "",
+    "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "canonicalUrl": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking",
+    "publishedAt": "2026-11-18T13:18:02.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 329,
+      "comments": 91
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "quad9isleavingfrancewhydnsresolversarethewrongplacetofightpiracy"
+  },
+  {
     "id": "c31089bc1735c85e",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -100,6 +497,80 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "java近期资讯tornadovm80jnosqlendivejreleaserjbanglangchain4j与quarkusalmanac"
+  },
+  {
+    "id": "0c2ff490457a9c2e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局",
+    "summary": "钨价红利褪去业绩承压，产能与技术双线布局谋变。",
+    "url": "https://www.tmtpost.com/8210365.html",
+    "canonicalUrl": "https://www.tmtpost.com/8210365.html",
+    "publishedAt": "2026-11-18T12:45:31.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "股价回撤近八成后抛95亿定增欧科亿的逆周期扩张赌局"
+  },
+  {
+    "id": "2311d5324bd39e2a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Manus 成为 Godot 项目的白金赞助商",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85922",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85922",
+    "publishedAt": "2026-11-18T12:32:32.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "manus成为godot项目的白金赞助商"
+  },
+  {
+    "id": "737df10633d9b074",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Netflix 制作的《三体》第二季于 1 月 14 日上线",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85921",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85921",
+    "publishedAt": "2026-11-18T12:20:56.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "netflix制作的三体第二季于1月14日上线"
+  },
+  {
+    "id": "3e621e32679ed236",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
+    "summary": "“未名·AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大顶尖AI学科资源与海淀科创沃土，打通“原始创新—技术攻关—成果落地—产…",
+    "url": "https://www.tmtpost.com/8210345.html",
+    "canonicalUrl": "https://www.tmtpost.com/8210345.html",
+    "publishedAt": "2026-11-18T12:11:01.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "AGI",
+      "人工智能",
+      "北京",
+      "区域经济",
+      "政策"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "未名aipark正式揭牌北大海淀共建ai创新转化高地"
   },
   {
     "id": "a9957c0b4428aa20",
@@ -119,6 +590,44 @@
     "titleKey": "kubernetesconfidentialcontainers获fortanix认证与密钥管理支持"
   },
   {
+    "id": "8a53eee5ca5ab725",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "18 年铸就开源创新基础设施，开源中国「模力方舟词元养成计划」发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503647",
+    "canonicalUrl": "https://www.oschina.net/news/503647",
+    "publishedAt": "2026-11-18T11:59:15.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "18年铸就开源创新基础设施开源中国模力方舟词元养成计划发布"
+  },
+  {
+    "id": "7525905c4bcb9ef2",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Java 被曝内存损坏漏洞“Java4Shell”，藏在 Base64 解码器里",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503646/java4shell-write-once-rce-everywhere",
+    "canonicalUrl": "https://www.oschina.net/news/503646/java4shell-write-once-rce-everywhere",
+    "publishedAt": "2026-11-18T11:24:42.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "java被曝内存损坏漏洞java4shell藏在base64解码器里"
+  },
+  {
     "id": "4c373e01dbf3af50",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +643,280 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "谷歌公布已发现500多个xss漏洞的ai安全代理pagebreak"
+  },
+  {
+    "id": "91cb72389bd691e2",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Goodlink 全新传输协议，叠加 BBR 拥塞控制算法与丢包补偿",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503645",
+    "canonicalUrl": "https://www.oschina.net/news/503645",
+    "publishedAt": "2026-11-18T10:43:02.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "goodlink全新传输协议叠加bbr拥塞控制算法与丢包补偿"
+  },
+  {
+    "id": "c6e8d1253c293f89",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "黄仁勋一直在权力游戏里裸奔",
+    "summary": "如果他在公司拥有控制权，也不至于在政治暗箭袭来时，这么快地出局。",
+    "url": "https://www.tmtpost.com/8209729.html",
+    "canonicalUrl": "https://www.tmtpost.com/8209729.html",
+    "publishedAt": "2026-11-18T10:26:47.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "黄仁勋一直在权力游戏里裸奔"
+  },
+  {
+    "id": "7486ce0ca40da9a9",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "中国人为什么有钱不爱花，我们可能一直理解错了",
+    "summary": "中国长期的高储蓄，与过去几十年最成功的那套增长方式有深刻联系。",
+    "url": "https://www.tmtpost.com/8209423.html",
+    "canonicalUrl": "https://www.tmtpost.com/8209423.html",
+    "publishedAt": "2026-11-18T10:25:51.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "中国人为什么有钱不爱花我们可能一直理解错了"
+  },
+  {
+    "id": "819d81b1fa5ef1d7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "腾讯音乐Q3财报：89.4亿营收背后的“结构转换期”",
+    "summary": "音乐服务接棒收入，但利润的接力棒还没完全交出去。",
+    "url": "https://www.tmtpost.com/8209332.html",
+    "canonicalUrl": "https://www.tmtpost.com/8209332.html",
+    "publishedAt": "2026-11-18T10:24:28.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "腾讯音乐q3财报894亿营收背后的结构转换期"
+  },
+  {
+    "id": "98e8fd63b8408267",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "大厂AI对照系：李彦宏布道，马化腾预警",
+    "summary": "最早看见浪潮的人，为何没跑到最前面；后知后发的赶超者，又靠什么补课？",
+    "url": "https://www.tmtpost.com/8208862.html",
+    "canonicalUrl": "https://www.tmtpost.com/8208862.html",
+    "publishedAt": "2026-11-18T10:24:24.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "大厂ai对照系李彦宏布道马化腾预警"
+  },
+  {
+    "id": "8942f61a8be1473f",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "微软编程模型「MAI Code」上新，用 Claude Opus 5.5 百分之五的价格拿到 96% 的性能",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503644/ms-mai-code-2-and-mai-code-2-flash",
+    "canonicalUrl": "https://www.oschina.net/news/503644/ms-mai-code-2-and-mai-code-2-flash",
+    "publishedAt": "2026-11-18T09:50:27.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "微软编程模型maicode上新用claudeopus55百分之五的价格拿到96的性能"
+  },
+  {
+    "id": "7001fb4377946d73",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+    "summary": "氖人寻味！",
+    "url": "https://www.qbitai.com/2026/11/510922.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510922.html",
+    "publishedAt": "2026-11-18T09:41:55.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "资讯",
+      "Gemini 4"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "gemini新模型neon箭在弦上网友遍历元素周期表"
+  },
+  {
+    "id": "c27a79ced411a25f",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Optimizely 遭入侵 BBC CNN 等知名网站传播恶意程序",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85920",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85920",
+    "publishedAt": "2026-11-18T09:12:05.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "optimizely遭入侵bbccnn等知名网站传播恶意程序"
+  },
+  {
+    "id": "0bf8455f207702c3",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "微软将大规模服务中断归咎于 7 月份修复程序中引入的软件缺陷",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503643/ms-blames-monster-email-outage-on-software-defect",
+    "canonicalUrl": "https://www.oschina.net/news/503643/ms-blames-monster-email-outage-on-software-defect",
+    "publishedAt": "2026-11-18T08:58:48.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "微软将大规模服务中断归咎于7月份修复程序中引入的软件缺陷"
+  },
+  {
+    "id": "c62bc57644d18714",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Is Coding with AI Actually Faster and Cheaper?",
+    "summary": "How has AI actually changed the way we work?",
+    "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+    "canonicalUrl": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+    "publishedAt": "2026-11-18T08:32:45.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "ai",
+      "programming",
+      "productivity",
+      "agents"
+    ],
+    "signals": {
+      "reactions": 101,
+      "comments": 62
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "iscodingwithaiactuallyfasterandcheaper"
+  },
+  {
+    "id": "03597f13bb3563c2",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "GPT-6.2难产！OpenAI怕了",
+    "summary": "OpenAI也终于活成了2022年谷歌的样子",
+    "url": "https://www.qbitai.com/2026/11/510914.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510914.html",
+    "publishedAt": "2026-11-18T07:53:29.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "资讯",
+      "ChatGPT",
+      "OpenAI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "gpt62难产openai怕了"
+  },
+  {
+    "id": "9d71462e8fb49a6a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "文明系列游戏开发商裁员三分之一",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85919",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85919",
+    "publishedAt": "2026-11-18T07:45:31.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "文明系列游戏开发商裁员三分之一"
+  },
+  {
+    "id": "fee5568fd6935bc1",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "新 offer 我该怎么选？",
+    "summary": "最近遇到一个选择，有点纠结，想问问大家的意见。",
+    "url": "https://www.v2ex.com/t/1258010",
+    "canonicalUrl": "https://www.v2ex.com/t/1258010",
+    "publishedAt": "2026-11-18T07:39:05.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 86
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "新offer我该怎么选"
+  },
+  {
+    "id": "614f1f609293de5b",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+    "url": "https://www.qbitai.com/2026/11/510916.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/510916.html",
+    "publishedAt": "2026-11-18T07:24:50.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "资讯",
+      "InclusionMed"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "全球首个医疗健康ai独立评测与分析平台inclusionmed正式上线"
   },
   {
     "id": "dbdd90acde587a15",
@@ -174,6 +957,23 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "印尼央行利率决定符合加强印尼盾的努力此举是确保通胀维持在目标而采取的预防性措施"
+  },
+  {
+    "id": "7dd1e1b1de716a6e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "美国最近接连发生的技术故障源自为修复 AI 发现的漏洞",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85918",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85918",
+    "publishedAt": "2026-11-18T07:19:35.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "美国最近接连发生的技术故障源自为修复ai发现的漏洞"
   },
   {
     "id": "fd6a42823b273ffd",
@@ -722,23 +1522,6 @@
     "titleKey": "interviewedataycstartupfoundouttheyusedmylinkedinwithoutpermission"
   },
   {
-    "id": "b210e28115e96dde",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Target is set to report earnings before the bell. Here's what to expect",
-    "summary": "Target is expected to offer more color on the progress of its turnaround and a p…",
-    "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-    "publishedAt": "2026-11-18T05:01:01.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "targetissettoreportearningsbeforethebellhereswhattoexpect"
-  },
-  {
     "id": "86f4b08c208e4526",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -822,6 +1605,48 @@
     "titleKey": "whyisgemini4carbontakingsolong"
   },
   {
+    "id": "ebdc0753749c52cc",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "后续：偷头盔的人找到了，头盔耳机拿回，另外赔了 600 元",
+    "summary": "前情：[一年前给小电驴装的监控，终于派上用场了，成功拍到偷头盔的全过程](https://www.v2ex.com/t/1256357) 后续：**头盔和耳机都…",
+    "url": "https://www.v2ex.com/t/1257941",
+    "canonicalUrl": "https://www.v2ex.com/t/1257941",
+    "publishedAt": "2026-11-18T03:45:34.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 73
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "后续偷头盔的人找到了头盔耳机拿回另外赔了600元"
+  },
+  {
+    "id": "30cf55ee36a1bb8f",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "公司年假计算规则",
+    "summary": "有的公司是按毕业年限开始计算 | 累计社会工龄 | 法定年假天数 | 依据标准 | | :--- | :---: | :--- | | 累计工作已满 1 年不满…",
+    "url": "https://www.v2ex.com/t/1257939",
+    "canonicalUrl": "https://www.v2ex.com/t/1257939",
+    "publishedAt": "2026-11-18T03:34:23.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 64
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "公司年假计算规则"
+  },
+  {
     "id": "781755da371c3be8",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -894,7 +1719,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 76
+      "replies": 108
     },
     "lang": "zh",
     "weight": 55,
@@ -941,23 +1766,6 @@
     "titleKey": "马克思的按需分配能实现吗"
   },
   {
-    "id": "3042b426354d5e31",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
-    "summary": "Nvidia interim CEO Colette Kress said neoclouds are “increasingly important,” bu…",
-    "url": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-18T01:59:00.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "coreweavesstockpopsevenasnvidiatalksupadisciplinedapproachtofinancing"
-  },
-  {
     "id": "f599da320e954bd9",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -989,7 +1797,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 57
+      "replies": 84
     },
     "lang": "zh",
     "weight": 55,
@@ -1027,7 +1835,7 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 71
+      "replies": 112
     },
     "lang": "zh",
     "weight": 55,
@@ -1071,21 +1879,25 @@
     "titleKey": "黄仁勋不再沉默我愿重掌英伟达董事会不考虑"
   },
   {
-    "id": "b4fd1fff15a33a45",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Nvidia's Colette Kress tells Cramer: Employees and customers are not going anywhere",
-    "summary": "Interim CEO Colette Kress said exclusively on \"Mad Money\" that the chipmaker's c…",
-    "url": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html",
-    "publishedAt": "2026-11-18T01:02:38.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "nvidiascolettekresstellscrameremployeesandcustomersarenotgoinganywhere"
+    "id": "bf278d4084364e67",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "各位的 vps 还好吗？昨天批量被墙。",
+    "summary": "昨天上午突然网络不通，能 ping 通 ip，带端口就 ping 不通，用搬瓦工的自测看的出来是被 GFW 拦截了。",
+    "url": "https://www.v2ex.com/t/1257881",
+    "canonicalUrl": "https://www.v2ex.com/t/1257881",
+    "publishedAt": "2026-11-18T01:01:53.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "VPS"
+    ],
+    "signals": {
+      "replies": 69
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "各位的vps还好吗昨天批量被墙"
   },
   {
     "id": "7e7e7f266ecc121d",
@@ -1149,6 +1961,27 @@
     "titleKey": "9mb一个文件一个编程agent连tui沙箱和tls都塞进去了"
   },
   {
+    "id": "b56d7262c3f14db8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "6.2 来了，但不好用",
+    "summary": "用 6.2 Astra 问了几轮了 1、审美稍微好点了，但是不按照项目既有视觉修改 2、编程能力感觉和 6 差不多，不过内容简洁了，依然不说人话 3、整体感觉和…",
+    "url": "https://www.v2ex.com/t/1257872",
+    "canonicalUrl": "https://www.v2ex.com/t/1257872",
+    "publishedAt": "2026-11-18T00:19:27.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "OpenAI"
+    ],
+    "signals": {
+      "replies": 56
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "62来了但不好用"
+  },
+  {
     "id": "8e64fd9d44a5ccf3",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1169,6 +2002,78 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "googlesaianswersreducingsearchtrafficby40"
+  },
+  {
+    "id": "26db65f0079facad",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT t…",
+    "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "canonicalUrl": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "Company"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "legroupefigaroandopenaipartnertobringlefigarojournalismtochatgpt"
+  },
+  {
+    "id": "95e07a71c91fb9ca",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V co…",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "canonicalUrl": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "advancingchipdesignwithopenaimodels"
+  },
+  {
+    "id": "43be4625acd2cddb",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "summary": "",
+    "url": "https://huggingface.co/blog/moe-expert-streaming",
+    "canonicalUrl": "https://huggingface.co/blog/moe-expert-streaming",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "180bparameters32gboframpushingmoeinferencetothelimitwithtransformers"
+  },
+  {
+    "id": "5fe83288f08563a0",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "summary": "",
+    "url": "https://huggingface.co/blog/rumble-2-flash",
+    "canonicalUrl": "https://huggingface.co/blog/rumble-2-flash",
+    "publishedAt": "2026-11-18T00:00:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "rumble2flashanopen05bspeechmodelfor40languages"
   },
   {
     "id": "1e314b3afbc27ff8",
@@ -1788,23 +2693,6 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "谷歌gemini推出系列高级功能率先在美国上线gemini更新覆盖美国日本韩国加拿大澳大利亚及印度"
-  },
-  {
-    "id": "071664439230f961",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-    "summary": "The late-night comedy sketch does the impossible by making female caregivers fee…",
-    "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-17T17:03:00.000Z",
-    "fetchedAt": "2026-11-17T17:37:39.442Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ifeltsoseenwhyfamiliesacrossamericaarelaughingandcryingoversnlssistersketch"
   },
   {
     "id": "ffcc93fd1c5339c3",

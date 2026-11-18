@@ -679,6 +679,28 @@
     "titleKey": "又被淘宝双11背刺了"
   },
   {
+    "id": "657b434bf5af55b3",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Hut-hzf/ung220z-tool",
+    "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移…",
+    "url": "https://github.com/Hut-hzf/ung220z-tool",
+    "canonicalUrl": "https://github.com/Hut-hzf/ung220z-tool",
+    "publishedAt": "2026-11-15T11:16:46.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1061,
+      "forks": 262
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "huthzfung220ztool"
+  },
+  {
     "id": "5f9bf35d5b3e831f",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -978,7 +1000,7 @@
       "showdev"
     ],
     "signals": {
-      "reactions": 67,
+      "reactions": 71,
       "comments": 23
     },
     "lang": "en",

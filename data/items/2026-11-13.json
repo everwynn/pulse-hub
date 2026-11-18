@@ -38,8 +38,8 @@
       "ai"
     ],
     "signals": {
-      "reactions": 116,
-      "comments": 50
+      "reactions": 117,
+      "comments": 51
     },
     "lang": "en",
     "weight": 60,
@@ -2059,7 +2059,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Immortal-Protocols/lastbook",
-    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding · Python · ★ 1…",
+    "summary": "Offline knowledge AI, maps and videos for survival and rebuilding · Python · ★ 2…",
     "url": "https://github.com/Immortal-Protocols/lastbook",
     "canonicalUrl": "https://github.com/Immortal-Protocols/lastbook",
     "publishedAt": "2026-11-12T23:49:03.000Z",
@@ -2068,8 +2068,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1906,
-      "forks": 248
+      "stars": 2086,
+      "forks": 272
     },
     "lang": "en",
     "weight": 90,
