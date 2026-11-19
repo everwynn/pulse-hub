@@ -162,6 +162,28 @@
     "titleKey": "微软称一个隐藏的windowsbug触发了持续逾一天的宕机事故"
   },
   {
+    "id": "086a6bcd856ed45c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Axelera Titania Brings Native FP8 and FP4 to In-Memory Compute",
+    "summary": "",
+    "url": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute/",
+    "canonicalUrl": "https://futurumgroup.com/insights/axelera-titania-brings-native-fp8-and-fp4-to-in-memory-compute",
+    "publishedAt": "2026-11-16T14:59:54.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "axeleratitaniabringsnativefp8andfp4toinmemorycompute"
+  },
+  {
     "id": "c4f977ef005b69d2",
     "sourceId": "devto",
     "sourceName": "DEV Community",
@@ -179,8 +201,8 @@
       "jokes"
     ],
     "signals": {
-      "reactions": 154,
-      "comments": 145
+      "reactions": 164,
+      "comments": 153
     },
     "lang": "en",
     "weight": 60,
@@ -202,6 +224,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "codexclaudecode都卷完了居然还能跑出黑马整个产品现在都可以是一个提示词"
+  },
+  {
+    "id": "3cc544f00dbae437",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "chuanqisun/spaceship",
+    "summary": "Steer your ideas in realtime · HTML · ★ 880",
+    "url": "https://github.com/chuanqisun/spaceship",
+    "canonicalUrl": "https://github.com/chuanqisun/spaceship",
+    "publishedAt": "2026-11-16T14:43:45.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "HTML"
+    ],
+    "signals": {
+      "stars": 880,
+      "forks": 90
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "chuanqisunspaceship"
   },
   {
     "id": "086f461f712807a8",
@@ -344,8 +388,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 2899,
-      "forks": 239
+      "stars": 3834,
+      "forks": 320
     },
     "lang": "en",
     "weight": 90,
@@ -2150,5 +2194,27 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "ashortexplaineronhowelniñoworksvideo"
+  },
+  {
+    "id": "5abb202ec9269f2b",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "joshpuckett/allo",
+    "summary": "Allo is your friendly neighborhood typeface, free and open source · Python · ★ 1…",
+    "url": "https://github.com/joshpuckett/allo",
+    "canonicalUrl": "https://github.com/joshpuckett/allo",
+    "publishedAt": "2026-11-15T17:33:42.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1068,
+      "forks": 30
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "joshpuckettallo"
   }
 ]

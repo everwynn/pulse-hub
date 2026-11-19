@@ -352,6 +352,28 @@
     "titleKey": "李沐加盟的aimotion是一家什么ai公司"
   },
   {
+    "id": "2b796eed28fc57d4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Camera Index",
+    "summary": "",
+    "url": "https://www.cameraindex.co.uk/",
+    "canonicalUrl": "https://www.cameraindex.co.uk/",
+    "publishedAt": "2026-11-17T11:35:33.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 21,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "cameraindex"
+  },
+  {
     "id": "7b99ef7664700c6f",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -1503,6 +1525,28 @@
     "titleKey": "astraforlawleadsinlegalintelligence"
   },
   {
+    "id": "398cd434e03fd558",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+    "summary": "",
+    "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+    "canonicalUrl": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting",
+    "publishedAt": "2026-11-16T23:47:26.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 106,
+      "comments": 36
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "dumpinganaeskeyfromamyqgarageopenertostoprebootingwhenoffline"
+  },
+  {
     "id": "62f31c9c9f9516a6",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1751,8 +1795,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 3705,
-      "forks": 316
+      "stars": 4179,
+      "forks": 364
     },
     "lang": "en",
     "weight": 90,
@@ -1778,8 +1822,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 1047,
-      "forks": 91
+      "stars": 1159,
+      "forks": 108
     },
     "lang": "en",
     "weight": 90,

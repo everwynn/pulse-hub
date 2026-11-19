@@ -990,6 +990,28 @@
     "titleKey": "ai时代程序员正在慢慢转向产品经理"
   },
   {
+    "id": "ffae9c3f26e0ec03",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "haziqahmedqasmi/PeakCut",
+    "summary": "AI clipping for long videos and live streams.",
+    "url": "https://github.com/haziqahmedqasmi/PeakCut",
+    "canonicalUrl": "https://github.com/haziqahmedqasmi/PeakCut",
+    "publishedAt": "2026-11-14T07:38:20.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 1149,
+      "forks": 390
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "haziqahmedqasmipeakcut"
+  },
+  {
     "id": "102a1145ff2976ee",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1439,7 +1461,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "CzzzzzzJ/mdldm-maitian",
-    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏 · JavaScript · ★ 1279",
+    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏 · JavaScript · ★ 1441",
     "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
     "canonicalUrl": "https://github.com/CzzzzzzJ/mdldm-maitian",
     "publishedAt": "2026-11-14T03:59:22.000Z",
@@ -1453,8 +1475,8 @@
       "feishu"
     ],
     "signals": {
-      "stars": 1279,
-      "forks": 406
+      "stars": 1441,
+      "forks": 444
     },
     "lang": "en",
     "weight": 90,
@@ -1747,7 +1769,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "duwqijlk/muse-protocol",
-    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1625",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1634",
     "url": "https://github.com/duwqijlk/muse-protocol",
     "canonicalUrl": "https://github.com/duwqijlk/muse-protocol",
     "publishedAt": "2026-11-14T01:24:58.000Z",
@@ -1756,8 +1778,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1625,
-      "forks": 639
+      "stars": 1634,
+      "forks": 644
     },
     "lang": "en",
     "weight": 90,

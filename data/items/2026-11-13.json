@@ -39,7 +39,7 @@
     ],
     "signals": {
       "reactions": 117,
-      "comments": 51
+      "comments": 52
     },
     "lang": "en",
     "weight": 60,
@@ -1820,6 +1820,33 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "cheapaitracksarecrowdinghumanarrangersoutofchinasplaylisteconomy"
+  },
+  {
+    "id": "c2b2eb66cbc92f02",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "zephyr4123/snug",
+    "summary": "让远程 Mac 在任意设备上获得原生级体验。",
+    "url": "https://github.com/zephyr4123/snug",
+    "canonicalUrl": "https://github.com/zephyr4123/snug",
+    "publishedAt": "2026-11-13T03:26:21.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Swift",
+      "android",
+      "gestures",
+      "ipad",
+      "iphone",
+      "macos"
+    ],
+    "signals": {
+      "stars": 1034,
+      "forks": 79
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "zephyr4123snug"
   },
   {
     "id": "4f19b0ad15afb280",

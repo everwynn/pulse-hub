@@ -73,23 +73,6 @@
     "titleKey": "从快速部署到统一运营agent的ahmoment来了"
   },
   {
-    "id": "fba53906972d715f",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-    "summary": "Lowe's said it saw strength in online sales during its quarter that contributed …",
-    "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-    "publishedAt": "2026-11-18T15:39:06.000Z",
-    "fetchedAt": "2026-11-18T17:14:38.805Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "lowespostsstrongonlinesalesraisesoutlookdespiteslowhousingmarket"
-  },
-  {
     "id": "8a9d8abe9347d272",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -104,8 +87,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 189,
-      "comments": 63
+      "points": 645,
+      "comments": 205
     },
     "lang": "en",
     "weight": 92,
@@ -172,7 +155,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+    "title": "Unauthenticated remote code execution in Nginx",
     "summary": "",
     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
     "canonicalUrl": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
@@ -182,12 +165,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 268,
-      "comments": 90
+      "points": 1292,
+      "comments": 565
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "preauthrceinnginxhttp2handling"
+    "titleKey": "unauthenticatedremotecodeexecutioninnginx"
   },
   {
     "id": "38c6310bb2dff8ec",
@@ -609,6 +592,27 @@
     "titleKey": "18年铸就开源创新基础设施开源中国模力方舟词元养成计划发布"
   },
   {
+    "id": "20d59b66c3bab4ce",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "有没有什么办法让我忘记开梯子的时候，让 Claude 断网？",
+    "summary": "我今天重启了下电脑，重启前特意把 Claude 桌面版关了，但不知道为什么开启后 Claude 桌面版自动打开了，但这个时候我还没有开梯子，我都看到它显示“Ap…",
+    "url": "https://www.v2ex.com/t/1258094",
+    "canonicalUrl": "https://www.v2ex.com/t/1258094",
+    "publishedAt": "2026-11-18T11:37:05.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "有没有什么办法让我忘记开梯子的时候让claude断网"
+  },
+  {
     "id": "7525905c4bcb9ef2",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -740,6 +744,25 @@
     "titleKey": "大厂ai对照系李彦宏布道马化腾预警"
   },
   {
+    "id": "96c1187cc728c509",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "The Silent Consensus",
+    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI cou…",
+    "url": "https://openai.com/index/the-silent-consensus",
+    "canonicalUrl": "https://openai.com/index/the-silent-consensus",
+    "publishedAt": "2026-11-18T10:00:00.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Intelligence Age"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "thesilentconsensus"
+  },
+  {
     "id": "8942f61a8be1473f",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -832,12 +855,88 @@
       "agents"
     ],
     "signals": {
-      "reactions": 101,
-      "comments": 62
+      "reactions": 134,
+      "comments": 97
     },
     "lang": "en",
     "weight": 60,
     "titleKey": "iscodingwithaiactuallyfasterandcheaper"
+  },
+  {
+    "id": "a24eec19d4bfd399",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "用完 gpt-6.2 当场退订转 gemini",
+    "summary": "6.2-astra 给我的感觉就是拉了坨大的 完全不说人话了 直接退订了 gpt 200 刀，转了 gemini 100 刀 刚用上 agy，还在熟悉中，好像还…",
+    "url": "https://www.v2ex.com/t/1258022",
+    "canonicalUrl": "https://www.v2ex.com/t/1258022",
+    "publishedAt": "2026-11-18T08:02:04.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 75
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "用完gpt62当场退订转gemini"
+  },
+  {
+    "id": "6daa79e244daa573",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their perf…",
+    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "canonicalUrl": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "researchaccelerationthejaggedfrontier"
+  },
+  {
+    "id": "d1e91688a92207f0",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, a…",
+    "url": "https://openai.com/business/customer-stories/sumitomo-life",
+    "canonicalUrl": "https://openai.com/business/customer-stories/sumitomo-life",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howsumitomolifesleadershelpedteamsadoptchatgptenterprise"
+  },
+  {
+    "id": "a54f3e68cce4f468",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Inside the Codex sandbox",
+    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and n…",
+    "url": "https://openai.com/index/inside-the-codex-sandbox",
+    "canonicalUrl": "https://openai.com/index/inside-the-codex-sandbox",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Engineering"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "insidethecodexsandbox"
   },
   {
     "id": "03597f13bb3563c2",
@@ -878,6 +977,27 @@
     "titleKey": "文明系列游戏开发商裁员三分之一"
   },
   {
+    "id": "dcbf3aa835bb2e04",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "一次涨薪谈话，感受到了行业寒意",
+    "summary": "在这里做了两年，期间参与了平台搭建，也接手过推进困难的项目、推动过合同签订。",
+    "url": "https://www.v2ex.com/t/1258013",
+    "canonicalUrl": "https://www.v2ex.com/t/1258013",
+    "publishedAt": "2026-11-18T07:41:54.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 71
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "一次涨薪谈话感受到了行业寒意"
+  },
+  {
     "id": "fee5568fd6935bc1",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -892,7 +1012,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 86
+      "replies": 112
     },
     "lang": "zh",
     "weight": 55,
@@ -1476,6 +1596,25 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "jync捷同v230发布etl取数支持sql变量目标表支持按列交集写入"
+  },
+  {
+    "id": "3d7a5753659e9137",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Managing frontier AI risk: From training to deployment",
+    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment…",
+    "url": "https://openai.com/index/managing-frontier-ai-risk",
+    "canonicalUrl": "https://openai.com/index/managing-frontier-ai-risk",
+    "publishedAt": "2026-11-18T06:00:00.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [
+      "Safety"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "managingfrontierairiskfromtrainingtodeployment"
   },
   {
     "id": "24e950828ccb331d",
@@ -2098,23 +2237,6 @@
     "titleKey": "archiveteamisarchivingtheapplesupportcommunityclosesnovember202026"
   },
   {
-    "id": "eb0177997287db06",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-    "summary": "“I’m exhausted.",
-    "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-17T23:30:00.000Z",
-    "fetchedAt": "2026-11-17T07:51:41.962Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "myhusbandishappilyretiredat64andthinksishouldkeepworkingishebeingfair"
-  },
-  {
     "id": "2ea82698adc6cc26",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -2169,40 +2291,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "costcoisbenefitingfromapocalypticconcernsascustomersstockupongoodsanalystssay"
-  },
-  {
-    "id": "01a42215d29efca9",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
-    "summary": "“It is devastating when the people you should be able to trust become the very p…",
-    "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-17T22:30:00.000Z",
-    "fetchedAt": "2026-11-17T17:37:39.442Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "itsdownrightdirtymybrothertookoverourailingmotherslifeandfinanceswhatcanido"
-  },
-  {
-    "id": "23823bbe33308720",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-    "summary": "“Real estate here in Florida seems to be presenting some interesting opportuniti…",
-    "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-17T22:15:00.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiasturmoilhasmespookedhasthetimecometosellmystocks"
   },
   {
     "id": "e1b510ffaf4b7a13",
