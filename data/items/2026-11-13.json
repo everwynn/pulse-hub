@@ -39,7 +39,7 @@
     ],
     "signals": {
       "reactions": 117,
-      "comments": 52
+      "comments": 53
     },
     "lang": "en",
     "weight": 60,
@@ -1841,8 +1841,8 @@
       "macos"
     ],
     "signals": {
-      "stars": 1034,
-      "forks": 79
+      "stars": 1089,
+      "forks": 85
     },
     "lang": "en",
     "weight": 90,

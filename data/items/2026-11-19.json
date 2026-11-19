@@ -1,5 +1,161 @@
 [
   {
+    "id": "2ddc31e42c1f1619",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "街道办 AI 智能化白皮书",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo",
+    "publishedAt": "2026-11-19T15:41:28.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "街道办ai智能化白皮书"
+  },
+  {
+    "id": "bf413a17f39c9e8b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+    "summary": "",
+    "url": "https://thedataexchange.media/pete-warden-moonshine/",
+    "canonicalUrl": "https://thedataexchange.media/pete-warden-moonshine",
+    "publishedAt": "2026-11-19T15:38:12.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 93,
+      "comments": 66
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whyaiwantstobelocalwithpetewardencreatorofmoonshinevoice"
+  },
+  {
+    "id": "3ec6fad463678ae9",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85936",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85936",
+    "publishedAt": "2026-11-19T15:19:01.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "欧盟委员会如何向逾4万工作人员部署matrix"
+  },
+  {
+    "id": "ac22e591d84d0f7f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+    "summary": "",
+    "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+    "canonicalUrl": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth",
+    "publishedAt": "2026-11-19T15:13:23.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 26,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "howtomaketheinkusedtowritehamletandthedeclarationofindependence"
+  },
+  {
+    "id": "e241c27bf1bcfab3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+    "summary": "",
+    "url": "https://maccus.fr/en/cooling-overtaking-heating/",
+    "canonicalUrl": "https://maccus.fr/en/cooling-overtaking-heating",
+    "publishedAt": "2026-11-19T14:57:14.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 70,
+      "comments": 51
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "coolingbuildingsisovertakingheatingthemasanenergyneedieasays"
+  },
+  {
+    "id": "3756f499e44b67eb",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Everything you need to survive and rebuild society",
+    "summary": "",
+    "url": "https://lastbook.org/",
+    "canonicalUrl": "https://lastbook.org/",
+    "publishedAt": "2026-11-19T14:47:18.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 165,
+      "comments": 81
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "everythingyouneedtosurviveandrebuildsociety"
+  },
+  {
+    "id": "1bdf6631faff89a0",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "基金市场概况与资产配置观点（11.09—11.15）",
+    "summary": "腾讯济安指数上周下跌2.71%。",
+    "url": "https://www.tmtpost.com/8211721.html",
+    "canonicalUrl": "https://www.tmtpost.com/8211721.html",
+    "publishedAt": "2026-11-19T14:34:30.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "基金市场概况与资产配置观点11091115"
+  },
+  {
+    "id": "7f25517a8d643029",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85935",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85935",
+    "publishedAt": "2026-11-19T14:27:21.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量"
+  },
+  {
     "id": "4070d474e1b7942b",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +171,40 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "腾讯混元hy4flash上线首日登顶openrouter2毛钱就能跑完一个任务"
+  },
+  {
+    "id": "afa8eb09070ea4fd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？",
+    "summary": "重庆上市公司已有一批表现较突出的企业，但不同企业将产业优势转化为长期价值的能力仍有差异。",
+    "url": "https://www.tmtpost.com/8211669.html",
+    "canonicalUrl": "https://www.tmtpost.com/8211669.html",
+    "publishedAt": "2026-11-19T14:17:37.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "重庆汽车与医药制造双线并进产业升级如何转化为企业长期价值"
+  },
+  {
+    "id": "b4cc7cf1380a570e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "价值判断：跌停板的投资机会和风险提示（11月17日）｜上市公司观察",
+    "summary": "本期三只均为本轮第一根跌停，收盘对济安定价的溢价在一倍至一点四倍之间。",
+    "url": "https://www.tmtpost.com/8211651.html",
+    "canonicalUrl": "https://www.tmtpost.com/8211651.html",
+    "publishedAt": "2026-11-19T14:12:51.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "价值判断跌停板的投资机会和风险提示11月17日上市公司观察"
   },
   {
     "id": "040617046ee42684",
@@ -51,6 +241,96 @@
     "titleKey": "12类高频任务3类实践案例商汤小浣熊带着街道办ai白皮书来了"
   },
   {
+    "id": "422d97f532debada",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
+    "summary": "本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。",
+    "url": "https://www.tmtpost.com/8211631.html",
+    "canonicalUrl": "https://www.tmtpost.com/8211631.html",
+    "publishedAt": "2026-11-19T13:56:01.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "价值判断涨停板的投资机会和风险提示11月17日上市公司观察"
+  },
+  {
+    "id": "f7a2aeffc9eac4ea",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
+    "summary": "本文先讨论AI改变的四条决策前提，再借助七阶行为逻辑，观察不同领导方式可能带来的财富后果。",
+    "url": "https://www.tmtpost.com/8211622.html",
+    "canonicalUrl": "https://www.tmtpost.com/8211622.html",
+    "publishedAt": "2026-11-19T13:48:30.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "从英伟达到苹果微软同样拥抱ai为什么企业的财富命运截然不同"
+  },
+  {
+    "id": "5e5398f8cbb10397",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "过度运动紊乱多巴胺",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85934",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85934",
+    "publishedAt": "2026-11-19T13:31:27.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "过度运动紊乱多巴胺"
+  },
+  {
+    "id": "5602cf9d57767c4d",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+    "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fis…",
+    "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+    "publishedAt": "2026-11-19T13:23:50.000Z",
+    "fetchedAt": "2026-11-19T07:21:00.568Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "walmarthikesoutlookasceotellscnbcretaileraimstokeeppriceslowdespitesoaringfuelcosts"
+  },
+  {
+    "id": "ee947ffbb0bc5e02",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+    "summary": "",
+    "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+    "canonicalUrl": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app",
+    "publishedAt": "2026-11-19T13:18:11.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 114,
+      "comments": 30
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "making8pagefoldablezinesfromasinglea4sheetinthebrowser"
+  },
+  {
     "id": "9b3534b61d63f977",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -68,6 +348,23 @@
     "titleKey": "开源项目pgvectorsearch为postgresql带来了更具可扩展性的向量搜索功能"
   },
   {
+    "id": "caa27fa36794f8c1",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "全球专利申请量创新高",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85933",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85933",
+    "publishedAt": "2026-11-19T12:28:18.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "全球专利申请量创新高"
+  },
+  {
     "id": "a73e0d3fb7b3cb73",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -83,6 +380,45 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "从业者正在对anthropic没人需要claudecode心理模型的说法进行验证"
+  },
+  {
+    "id": "4a06b07baf9e2ec9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Someone reported java4shell bug in September 2026",
+    "summary": "",
+    "url": "https://github.com/openjdk/jdk/pull/32781",
+    "canonicalUrl": "https://github.com/openjdk/jdk/pull/32781",
+    "publishedAt": "2026-11-19T11:47:03.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 151,
+      "comments": 41
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "someonereportedjava4shellbuginseptember2026"
+  },
+  {
+    "id": "5f505be8f24bd061",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "大衣只卖499元，中产在山姆捡漏MaxMara平替",
+    "summary": "继续改变品类认知。",
+    "url": "https://www.tmtpost.com/8211170.html",
+    "canonicalUrl": "https://www.tmtpost.com/8211170.html",
+    "publishedAt": "2026-11-19T11:02:56.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "大衣只卖499元中产在山姆捡漏maxmara平替"
   },
   {
     "id": "08ff02d8f36b2eb6",
@@ -119,6 +455,66 @@
     "titleKey": "bug0发布qaagent利用缓存的playwright回放实现回归测试自动化"
   },
   {
+    "id": "57c2588fcf571ea9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "How the European Commission rolled out Matrix to more than 40k staff",
+    "summary": "",
+    "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+    "canonicalUrl": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff",
+    "publishedAt": "2026-11-19T10:58:29.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 522,
+      "comments": 265
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "howtheeuropeancommissionrolledoutmatrixtomorethan40kstaff"
+  },
+  {
+    "id": "fa3a7d782a380bf5",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "二十年逆向老手：LLM 给我的好奇心装上了涡轮增压",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503685/llm-assisted-reverse-engineering",
+    "canonicalUrl": "https://www.oschina.net/news/503685/llm-assisted-reverse-engineering",
+    "publishedAt": "2026-11-19T10:57:36.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "二十年逆向老手llm给我的好奇心装上了涡轮增压"
+  },
+  {
+    "id": "3613a88b447a65e6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Anthropic IPO 发行价定了：每股 83 美元",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503684/anthropic-prices-initial-public-offering",
+    "canonicalUrl": "https://www.oschina.net/news/503684/anthropic-prices-initial-public-offering",
+    "publishedAt": "2026-11-19T10:10:51.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "anthropicipo发行价定了每股83美元"
+  },
+  {
     "id": "851e6ea676b15282",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +530,196 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "微软将停用azure部署环境而且不会推出替代产品"
+  },
+  {
+    "id": "4168bc8774712956",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "wlnmp 一键安装包更新 261119（修复NGINX2Root漏洞）",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503681",
+    "canonicalUrl": "https://www.oschina.net/news/503681",
+    "publishedAt": "2026-11-19T09:45:39.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "wlnmp一键安装包更新261119修复nginx2root漏洞"
+  },
+  {
+    "id": "560bf7ed41b1310b",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "NGINX 被曝两个高危 RCE，其中一个在代码里藏了十年",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503679/nginx-http2-rce-vulnerabilities",
+    "canonicalUrl": "https://www.oschina.net/news/503679/nginx-http2-rce-vulnerabilities",
+    "publishedAt": "2026-11-19T09:15:27.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "nginx被曝两个高危rce其中一个在代码里藏了十年"
+  },
+  {
+    "id": "6fd9020ad49c3cd8",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85932",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85932",
+    "publishedAt": "2026-11-19T09:09:08.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益"
+  },
+  {
+    "id": "e04fc5d775e37be8",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "clice v1.0 正式发布，采用现代 C++ 编写的 C/C++ 语言服务器",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503678",
+    "canonicalUrl": "https://www.oschina.net/news/503678",
+    "publishedAt": "2026-11-19T08:48:06.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "clicev10正式发布采用现代c编写的cc语言服务器"
+  },
+  {
+    "id": "b027f40f69ee0a2e",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+    "summary": "「Revaluation 价值，另有答案」",
+    "url": "https://www.qbitai.com/2026/11/511258.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511258.html",
+    "publishedAt": "2026-11-19T08:43:10.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "资讯",
+      "极客公园"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "影视飓风manus影石oppo极客公园创新大会2027嘉宾阵容更新"
+  },
+  {
+    "id": "fc31da7fc241fa31",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85931",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85931",
+    "publishedAt": "2026-11-19T08:24:44.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软官方agentframework软件包被黑客劫持安装恶意程序"
+  },
+  {
+    "id": "479297766e64694a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+    "summary": "媒体均分登顶历史第一，细节多到爆炸",
+    "url": "https://www.qbitai.com/2026/11/511180.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511180.html",
+    "publishedAt": "2026-11-19T08:18:30.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "GTA6",
+      "游戏",
+      "生成式AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "gta6刷屏零ai纯手搓的3a大作玩一个少一个了"
+  },
+  {
+    "id": "3aa0d3629b3a64a6",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六",
+    "summary": "商汤科技日日新 SenseNova U1 Pro 在图片生成与图片编辑两大榜单中均登顶中国第一",
+    "url": "https://www.qbitai.com/2026/11/511179.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511179.html",
+    "publishedAt": "2026-11-19T08:10:19.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "资讯",
+      "商汤科技"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "sensenovau1pro获designarena双榜中国第一全球第六"
+  },
+  {
+    "id": "e02a79cdf9022093",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "蚊子在喜马拉雅冰川地区日益常见",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85930",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85930",
+    "publishedAt": "2026-11-19T07:55:55.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "蚊子在喜马拉雅冰川地区日益常见"
+  },
+  {
+    "id": "39f4c5e06b973e0d",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503675/google-gemini-4-neon",
+    "canonicalUrl": "https://www.oschina.net/news/503675/google-gemini-4-neon",
+    "publishedAt": "2026-11-19T07:45:47.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "gemini4neon发布google在最强和最便宜之间塞进了一个中间档"
   },
   {
     "id": "b95aef8daf060a46",
@@ -172,6 +758,23 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "11月19日外交部发言人郭嘉昆主持例行记者会法新社记者提问在亚太经合组织深圳峰会期间中日领导人是否将举行会晤或"
+  },
+  {
+    "id": "49cf2e31eba0ea41",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "中国发现新直立人化石",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85929",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85929",
+    "publishedAt": "2026-11-19T07:14:46.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "中国发现新直立人化石"
   },
   {
     "id": "a04071f213bcf021",
@@ -335,6 +938,29 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "市场全天震荡调整三大指数小幅下跌光刻机光刻胶概念逆势活跃盛剑科技3连板兴业股份格林达江化微等涨停先进封装"
+  },
+  {
+    "id": "bd26132c95169120",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊！",
+    "summary": "Kling Image 4.0",
+    "url": "https://www.qbitai.com/2026/11/511092.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511092.html",
+    "publishedAt": "2026-11-19T07:01:05.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "AI生图",
+      "Kling Image 4.0",
+      "可灵"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "好清晰最新国产ai画的8k图放这么大大大大也不糊"
   },
   {
     "id": "82a1d05aef101a9d",
@@ -560,6 +1186,23 @@
     "titleKey": "lenovogroupdeclares900hongkongcentsinterimdividend"
   },
   {
+    "id": "f0ca026b2410350c",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85928",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85928",
+    "publishedAt": "2026-11-19T06:46:48.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "美国破产法庭法官批准google以千万美元收购spiritairlines数据"
+  },
+  {
     "id": "5301e4976d904013",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -658,23 +1301,6 @@
     "titleKey": "jync捷同v240发布内置ai运维助手引入多角色权限与apache20开源协议"
   },
   {
-    "id": "5602cf9d57767c4d",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Walmart is set to report earnings before the bell. Here's what to expect",
-    "summary": "Walmart is expected to offer color on consumer spending ahead of the holiday sea…",
-    "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-    "publishedAt": "2026-11-19T05:01:01.000Z",
-    "fetchedAt": "2026-11-19T07:21:00.568Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "walmartissettoreportearningsbeforethebellhereswhattoexpect"
-  },
-  {
     "id": "baa0dd1a694333fd",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -734,6 +1360,27 @@
     "titleKey": "cyreneadmin160发布启动自动建表rbac授权边界收敛与标签页右键最大化"
   },
   {
+    "id": "21cf84c8e8521b69",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "人啊，没个释放压力的出口是真难受，大家都有什么可以释放压力的嗜好/爱好或者癖好？",
+    "summary": "# 食欲、性欲、睡欲、分享欲 之前看到的一句话，大概是：人总得靠点什么东西撑下去，食欲、性欲、睡欲、分享欲。",
+    "url": "https://www.v2ex.com/t/1258219",
+    "canonicalUrl": "https://www.v2ex.com/t/1258219",
+    "publishedAt": "2026-11-19T03:49:18.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 114
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "人啊没个释放压力的出口是真难受大家都有什么可以释放压力的嗜好爱好或者癖好"
+  },
+  {
     "id": "eb0177997287db06",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -768,23 +1415,6 @@
     "titleKey": "itsdownrightdirtymybrothertookoverourailingmotherslifeandfinanceswhatcanido"
   },
   {
-    "id": "3edede0944e40719",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-    "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-19T03:30:00.000Z",
-    "fetchedAt": "2026-11-18T17:14:38.805Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ivebeenastayathomemomim50andhaveachronicillnessmyhusbandlosthisjobshouldheraidhis401k"
-  },
-  {
     "id": "9cd502dce6c57095",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -799,7 +1429,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 78
+      "replies": 164
     },
     "lang": "zh",
     "weight": 55,
@@ -839,7 +1469,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 131
+      "replies": 175
     },
     "lang": "zh",
     "weight": 55,
@@ -901,11 +1531,32 @@
       "程序员"
     ],
     "signals": {
-      "replies": 156
+      "replies": 242
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "我司全面禁止aicoding一夜之间回到古法编程时代"
+  },
+  {
+    "id": "09ced20ff949704d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[回复抽奖] 自家种的赣南脐橙又上市了｜V 友券后 10 斤装 45 元、20 斤装 90 元",
+    "summary": "## 写在前面 V 友们好，又到赣南脐橙上市的时候了。",
+    "url": "https://www.v2ex.com/t/1258199",
+    "canonicalUrl": "https://www.v2ex.com/t/1258199",
+    "publishedAt": "2026-11-19T02:48:05.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 126
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "回复抽奖自家种的赣南脐橙又上市了v友券后10斤装45元20斤装90元"
   },
   {
     "id": "74954ed334db36d2",
@@ -976,14 +1627,35 @@
     "publishedAt": "2026-11-19T01:55:26.000Z",
     "fetchedAt": "2026-11-19T07:21:00.568Z",
     "tags": [
-      "程序员"
+      "职场话题"
     ],
     "signals": {
-      "replies": 75
+      "replies": 98
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "哎裁员了好难受"
+  },
+  {
+    "id": "6b2607ab56287aac",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "程序员的双重暴击之继就业寒冬后的投资暴雷",
+    "summary": "买了 12 年的鲸鱼宝暴雷了，一夜回到解放前😭 赚钱不容易，大家理性投资，守住本金",
+    "url": "https://www.v2ex.com/t/1258173",
+    "canonicalUrl": "https://www.v2ex.com/t/1258173",
+    "publishedAt": "2026-11-19T01:42:55.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 80
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "程序员的双重暴击之继就业寒冬后的投资暴雷"
   },
   {
     "id": "ea77f2de9688c3ba",
@@ -1118,6 +1790,27 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "anthropicpricesinitialpublicoffering"
+  },
+  {
+    "id": "aa2849dad1862e6e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "好像被女朋友催婚了",
+    "summary": "第一次发帖，先说一下我的情况。",
+    "url": "https://www.v2ex.com/t/1258145",
+    "canonicalUrl": "https://www.v2ex.com/t/1258145",
+    "publishedAt": "2026-11-18T23:25:39.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "情感"
+    ],
+    "signals": {
+      "replies": 84
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "好像被女朋友催婚了"
   },
   {
     "id": "b459e3eba1d9abd0",
@@ -1356,8 +2049,8 @@
       "vibecoding"
     ],
     "signals": {
-      "reactions": 65,
-      "comments": 4
+      "reactions": 68,
+      "comments": 10
     },
     "lang": "en",
     "weight": 60,

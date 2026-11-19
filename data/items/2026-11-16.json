@@ -201,8 +201,8 @@
       "jokes"
     ],
     "signals": {
-      "reactions": 164,
-      "comments": 153
+      "reactions": 169,
+      "comments": 161
     },
     "lang": "en",
     "weight": 60,
@@ -388,8 +388,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 3834,
-      "forks": 320
+      "stars": 4783,
+      "forks": 398
     },
     "lang": "en",
     "weight": 90,
@@ -2210,8 +2210,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1068,
-      "forks": 30
+      "stars": 1128,
+      "forks": 31
     },
     "lang": "en",
     "weight": 90,

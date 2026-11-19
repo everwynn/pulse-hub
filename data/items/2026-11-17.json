@@ -198,6 +198,31 @@
     "titleKey": "whatisthebestharnessforeachmodel"
   },
   {
+    "id": "48cf2626e5b2719e",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀",
+    "summary": "Welcome to Issue #1 of DEVengers Weekly — our community-run digest spotlighting …",
+    "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
+    "canonicalUrl": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
+    "publishedAt": "2026-11-17T14:18:20.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "devengers",
+      "newsletter",
+      "opensource",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 71,
+      "comments": 26
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "devengersweekly1themcprealitycheckcareermoatsand25weeksontheradar"
+  },
+  {
     "id": "941d3237be2b20f0",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -413,7 +438,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "gylive/google-ultra",
-    "summary": "Python · ★ 2190",
+    "summary": "Python · ★ 2429",
     "url": "https://github.com/gylive/google-ultra",
     "canonicalUrl": "https://github.com/gylive/google-ultra",
     "publishedAt": "2026-11-17T10:21:54.000Z",
@@ -422,8 +447,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2190,
-      "forks": 824
+      "stars": 2429,
+      "forks": 34
     },
     "lang": "en",
     "weight": 90,
@@ -1795,8 +1820,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 4179,
-      "forks": 364
+      "stars": 4502,
+      "forks": 382
     },
     "lang": "en",
     "weight": 90,
@@ -1822,8 +1847,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 1159,
-      "forks": 108
+      "stars": 1223,
+      "forks": 111
     },
     "lang": "en",
     "weight": 90,
@@ -2545,6 +2570,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "robertpattinson成为第七任007"
+  },
+  {
+    "id": "8da37727d934c00f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Garage Door Spam",
+    "summary": "",
+    "url": "https://blog.harrison.page/garage-door-spam/",
+    "canonicalUrl": "https://blog.harrison.page/garage-door-spam",
+    "publishedAt": "2026-11-16T16:13:36.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 454,
+      "comments": 203
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "garagedoorspam"
   },
   {
     "id": "0c3c71dee3f7eb64",
