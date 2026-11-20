@@ -215,8 +215,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 77,
-      "comments": 27
+      "reactions": 78,
+      "comments": 28
     },
     "lang": "en",
     "weight": 60,
@@ -438,7 +438,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "gylive/google-ultra",
-    "summary": "Python · ★ 2479",
+    "summary": "Python · ★ 2520",
     "url": "https://github.com/gylive/google-ultra",
     "canonicalUrl": "https://github.com/gylive/google-ultra",
     "publishedAt": "2026-11-17T10:21:54.000Z",
@@ -447,8 +447,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2479,
-      "forks": 47
+      "stars": 2520,
+      "forks": 57
     },
     "lang": "en",
     "weight": 90,
@@ -1189,6 +1189,28 @@
     "titleKey": "真勇啊00后团队参加具身挑战赛仅48小时竟敢从零手搓数据还夺冠了"
   },
   {
+    "id": "511dc7261d6f4626",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The G1 Garbage Collector",
+    "summary": "",
+    "url": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/",
+    "canonicalUrl": "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview",
+    "publishedAt": "2026-11-17T04:29:07.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 45,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "theg1garbagecollector"
+  },
+  {
     "id": "bd3d44404b6d6512",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -1407,6 +1429,28 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "入了掌阅ocean6pro替换用了11年的kindle"
+  },
+  {
+    "id": "1c94ad7b2bb385bf",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+    "summary": "",
+    "url": "https://kobi.music/research/dettato",
+    "canonicalUrl": "https://kobi.music/research/dettato",
+    "publishedAt": "2026-11-17T01:03:05.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 124,
+      "comments": 26
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnimadeanaudiotomidimodel60xmoreefficient"
   },
   {
     "id": "823ccbee3c9b835a",
@@ -1864,8 +1908,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 4781,
-      "forks": 407
+      "stars": 5134,
+      "forks": 431
     },
     "lang": "en",
     "weight": 90,
@@ -1913,8 +1957,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 1275,
-      "forks": 114
+      "stars": 1308,
+      "forks": 117
     },
     "lang": "en",
     "weight": 90,

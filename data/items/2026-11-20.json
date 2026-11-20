@@ -1,5 +1,207 @@
 [
   {
+    "id": "1ccbc6562f681625",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Investors fled to healthcare stocks for safety. Now insurance and hospital shares are plunging.",
+    "summary": "Shares of UnitedHealth, Humana and CVS Health declined this week in light of a n…",
+    "url": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/investors-fled-to-healthcare-stocks-for-safety-now-insurance-and-hospital-shares-are-plunging-9cb6a96c?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T15:53:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "investorsfledtohealthcarestocksforsafetynowinsuranceandhospitalsharesareplunging"
+  },
+  {
+    "id": "41e0beabf1084f63",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+    "summary": "Anthropic’s inability to hold its opening stock price has been seen as “bad for …",
+    "url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T15:38:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "anthropicsstockslidesclosertoipopriceanddragsdowntheaitrade"
+  },
+  {
+    "id": "c16f26b5582ac8da",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Finite-time blow-up for the Navier–Stokes equations",
+    "summary": "",
+    "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+    "canonicalUrl": "https://github.com/tristanbuckmaster/navier-stokes",
+    "publishedAt": "2026-11-20T15:34:31.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 23,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "finitetimeblowupforthenavierstokesequations"
+  },
+  {
+    "id": "4a2b909d658718b5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This proposed Social Security fix could add trillions to the national debt",
+    "summary": "A Republican senator has a new proposal called the “Stop Scaring Seniors Act.”",
+    "url": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-proposed-social-security-fix-could-add-trillions-to-the-national-debt-17197e91?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T15:28:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thisproposedsocialsecurityfixcouldaddtrillionstothenationaldebt"
+  },
+  {
+    "id": "da1170894b2cbff2",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This closely watched investing guru just sold all of his stocks",
+    "summary": "Panmure Liberum strategist and widely-followed stock-market commentator Joachim …",
+    "url": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-closely-watched-guru-just-sold-everything-474b4389?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T15:23:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thiscloselywatchedinvestinggurujustsoldallofhisstocks"
+  },
+  {
+    "id": "cb2bc6ad3b8f5060",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Anthropic 的数论学家声称证明黎曼猜想",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85949",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85949",
+    "publishedAt": "2026-11-20T15:14:05.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "anthropic的数论学家声称证明黎曼猜想"
+  },
+  {
+    "id": "c0ce604fc1844ec2",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+    "summary": "People taking Zepbound who engage in consistent resistance training can still ge…",
+    "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T15:04:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hereswhatsbeenproventohelpglp1usersfromlosingtoomuchmusclefromthedrug"
+  },
+  {
+    "id": "e518c485729c6c15",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Why there are still no non-WebKit browsers on iOS",
+    "summary": "",
+    "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+    "canonicalUrl": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules",
+    "publishedAt": "2026-11-20T15:03:31.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 120,
+      "comments": 56
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whytherearestillnononwebkitbrowsersonios"
+  },
+  {
+    "id": "c7ae0009634e883b",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "GTA 6 创游戏史上最高首日销售额",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85948",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85948",
+    "publishedAt": "2026-11-20T14:38:21.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "gta6创游戏史上最高首日销售额"
+  },
+  {
+    "id": "c66eed38e3b12bf5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+    "summary": "“We have a house worth $450,000.",
+    "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T14:30:00.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
+  },
+  {
+    "id": "218425b85e471362",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "summary": "",
+    "url": "https://alpo.ge/remark.pdf",
+    "canonicalUrl": "https://alpo.ge/remark.pdf",
+    "publishedAt": "2026-11-20T14:16:21.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1168,
+      "comments": 758
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "anthropicemployeeclaimsgeneralproofoftheriemannhypothesispdf"
+  },
+  {
     "id": "ce34f69b623cefc2",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +217,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "grab通过安全策略应对ai生成代码变更激增提升移动端app稳定性"
+  },
+  {
+    "id": "d2328e1caf009bfd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "新三板摘牌8天、连亏、负债率77%，康居人六成股权作价近亿并入可孚医疗丨并购一线",
+    "summary": "拉长周期看，行业天花板是更根本的约束。",
+    "url": "https://www.tmtpost.com/8213168.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213168.html",
+    "publishedAt": "2026-11-20T13:31:09.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "并购",
+      "医疗行业",
+      "大健康",
+      "医疗健康"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "新三板摘牌8天连亏负债率77康居人六成股权作价近亿并入可孚医疗丨并购一线"
   },
   {
     "id": "3340ba2a40ac6c0a",
@@ -34,6 +258,23 @@
     "titleKey": "openbsd80带来了更广泛的硬件支持安全性增强以及虚拟化改进"
   },
   {
+    "id": "f11d68455e39c610",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "阿里巴巴警告未来两年算力紧缺",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85947",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85947",
+    "publishedAt": "2026-11-20T12:48:17.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "阿里巴巴警告未来两年算力紧缺"
+  },
+  {
     "id": "6c4fddc3f89fca14",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -51,6 +292,28 @@
     "titleKey": "cloudflare推出面向后量子时代web安全的公共证书颁发机构"
   },
   {
+    "id": "163345fe4874d696",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "迪桑特于松花湖开启「逐雪而生」大秀；上海FILA HOUSE正式启幕；九牧全球首发可持续生态马桶｜消研所周报",
+    "summary": "狼爪欧洲首家新形象旗舰店落地慕尼黑；沃尔玛中国Q3净销售额增长28.5%。",
+    "url": "https://www.tmtpost.com/8213047.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213047.html",
+    "publishedAt": "2026-11-20T11:38:43.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "新消费",
+      "消费",
+      "消研所周报",
+      "消研所 TRENDMAKERS"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "迪桑特于松花湖开启逐雪而生大秀上海filahouse正式启幕九牧全球首发可持续生态马桶消研所周报"
+  },
+  {
     "id": "8781e15fc0748299",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -66,6 +329,158 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "谷歌发布用于机器人控制仿真和策略优化的gemini4argon"
+  },
+  {
+    "id": "0f2ecadd06448908",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "最后一周！「2026年度全球化公司榜」自荐通道即将关闭",
+    "summary": "钛媒体集团启动EDGE AWARDS 创新评选「年度全球化公司榜」，寻找并表彰那些开拓全球市场、推动技术创新、建立长期竞争优势的优秀企业。",
+    "url": "https://www.tmtpost.com/8213079.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213079.html",
+    "publishedAt": "2026-11-20T10:59:23.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "2026 T-EDGE 创新大会·双城记",
+      "出海",
+      "出海参考",
+      "全球化"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "最后一周2026年度全球化公司榜自荐通道即将关闭"
+  },
+  {
+    "id": "f02319de6c14f5ea",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
+    "summary": "一文看完本周大公司出海全全球化动态。",
+    "url": "https://www.tmtpost.com/8213045.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213045.html",
+    "publishedAt": "2026-11-20T10:58:48.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "出海参考",
+      "出海",
+      "一周出海参考"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "小鹏预计全年海外销量破10万辆涂鸦智能aienergy方案在欧洲多国部署美团索降无人机迪拜首秀一周大公司出海动态"
+  },
+  {
+    "id": "40a98af0fbfe824b",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "无限滚动自动播放有害社会",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85946",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85946",
+    "publishedAt": "2026-11-20T10:50:51.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "无限滚动自动播放有害社会"
+  },
+  {
+    "id": "85215c60e09a713d",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+    "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。",
+    "url": "https://www.tmtpost.com/8212798.html",
+    "canonicalUrl": "https://www.tmtpost.com/8212798.html",
+    "publishedAt": "2026-11-20T10:31:54.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "阿里发布2027年q2财报阿里云ai收入增长53即时零售减亏"
+  },
+  {
+    "id": "dd758cc604ae75a3",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "沃尔玛Q3财报：中国电商渗透率首破五成",
+    "summary": "沃尔玛Q3财报：中国电商渗透率首破五成",
+    "url": "https://www.tmtpost.com/8212919.html",
+    "canonicalUrl": "https://www.tmtpost.com/8212919.html",
+    "publishedAt": "2026-11-20T10:31:26.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "沃尔玛q3财报中国电商渗透率首破五成"
+  },
+  {
+    "id": "a462f32b3a788783",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85945",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85945",
+    "publishedAt": "2026-11-20T10:27:28.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展"
+  },
+  {
+    "id": "35dab05770a9684a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": ":fire: xbatis 1.10.11 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503711",
+    "canonicalUrl": "https://www.oschina.net/news/503711",
+    "publishedAt": "2026-11-20T10:02:48.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "firexbatis11011正式发版mybatis系列最好用最简单最方便的orm"
+  },
+  {
+    "id": "47c5238a74ddea36",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "summary": "",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "canonicalUrl": "https://architectlabs.com/blog/frostbite",
+    "publishedAt": "2026-11-20T10:01:41.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 449,
+      "comments": 264
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "frostbiteanewcpuarchitecturediscovereddesignedandverifiedbyai"
   },
   {
     "id": "8e691a801efaa796",
@@ -119,11 +534,225 @@
     "titleKey": "火山引擎agentnative团队的上下文管理实践aicon北京"
   },
   {
+    "id": "f025ae4a818e0012",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+    "summary": "",
+    "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+    "canonicalUrl": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+    "publishedAt": "2026-11-20T09:43:19.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 402,
+      "comments": 217
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ifyoucantexplainsomethinginsimpletermsyoudontunderstandit2017"
+  },
+  {
+    "id": "c23b04562b818727",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Signal Is Serious About Protecting Your Privacy",
+    "summary": "",
+    "url": "https://signal.org/blog/protecting-your-privacy/",
+    "canonicalUrl": "https://signal.org/blog/protecting-your-privacy",
+    "publishedAt": "2026-11-20T09:42:16.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 227,
+      "comments": 102
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "signalisseriousaboutprotectingyourprivacy"
+  },
+  {
+    "id": "835833bb5ef9162e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85944",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85944",
+    "publishedAt": "2026-11-20T09:40:06.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "vintcerf谈tcpip为何从未申请专利"
+  },
+  {
+    "id": "8e060a2a37f3c95f",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync v2.4.3 AI 助手确认执行与启动诊断",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503710",
+    "canonicalUrl": "https://www.oschina.net/news/503710",
+    "publishedAt": "2026-11-20T09:33:08.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv243ai助手确认执行与启动诊断"
+  },
+  {
+    "id": "239ac400e28a7d03",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 数据中台开源版 v1.6.8 发布：支持敏感等级关联数据资产，完善数据分类分级管理",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503708",
+    "canonicalUrl": "https://www.oschina.net/news/503708",
+    "publishedAt": "2026-11-20T09:04:13.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata数据中台开源版v168发布支持敏感等级关联数据资产完善数据分类分级管理"
+  },
+  {
+    "id": "e1aa89802361dfb9",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "【AI 智能运维平台】本周更新：内置常用智能体模版，简单配置快速启用",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503707",
+    "canonicalUrl": "https://www.oschina.net/news/503707",
+    "publishedAt": "2026-11-20T09:02:40.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ai智能运维平台本周更新内置常用智能体模版简单配置快速启用"
+  },
+  {
+    "id": "ff8588ca68f47206",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "哈佛大学研究人员：AI 编程目前的瓶颈是“Code Review”",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted",
+    "canonicalUrl": "https://www.oschina.net/news/503706/harvard-researchers-find-ai-coding-agents-shifted",
+    "publishedAt": "2026-11-20T09:00:13.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "哈佛大学研究人员ai编程目前的瓶颈是codereview"
+  },
+  {
+    "id": "a84836784f69cda9",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85943",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85943",
+    "publishedAt": "2026-11-20T08:25:03.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "韩国利用紧急短信等方法抓住了111起高考作弊"
+  },
+  {
+    "id": "68e0c214e7d5c2e7",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+    "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+    "url": "https://www.qbitai.com/2026/11/511610.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511610.html",
+    "publishedAt": "2026-11-20T08:04:58.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "资讯",
+      "SOTA",
+      "世界模型",
+      "具身智能",
+      "华为云",
+      "国产算力"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "昇腾算力训出了双榜sota的具身世界模型华为云这次想把整套底座开放出来"
+  },
+  {
+    "id": "08d343b38611a860",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "微软测试对被盗或丢失设备远程锁定",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85942",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85942",
+    "publishedAt": "2026-11-20T08:03:01.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "微软测试对被盗或丢失设备远程锁定"
+  },
+  {
+    "id": "4f12b2f56c382c8c",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "蚂蚁 OceanBase 团队开源 PowerContext，跨对话的 Agent 记忆服务",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503704/oceanbase-powercontex",
+    "canonicalUrl": "https://www.oschina.net/news/503704/oceanbase-powercontex",
+    "publishedAt": "2026-11-20T07:55:30.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "蚂蚁oceanbase团队开源powercontext跨对话的agent记忆服务"
+  },
+  {
     "id": "ef8a3baaea4a53c2",
     "sourceId": "oschina",
     "sourceName": "开源中国",
     "channel": "tech",
-    "title": "GIMP 优化图形界面 UI 测试",
+    "title": "GIMP 优化自动测试功能，会像真人一样与界面 UI 交互",
     "summary": "",
     "url": "https://www.oschina.net/news/503702/gimp-ui-tests",
     "canonicalUrl": "https://www.oschina.net/news/503702/gimp-ui-tests",
@@ -135,7 +764,7 @@
     "signals": {},
     "lang": "zh",
     "weight": 64,
-    "titleKey": "gimp优化图形界面ui测试"
+    "titleKey": "gimp优化自动测试功能会像真人一样与界面ui交互"
   },
   {
     "id": "6fbc40b3bdf108ea",
@@ -180,6 +809,23 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "ukretailsalesincrease23yyinoctobertoppingestimates"
+  },
+  {
+    "id": "efac4a1f0f5e780a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "大脑的言语感知中枢也能生成口语词汇",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85941",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85941",
+    "publishedAt": "2026-11-20T07:05:32.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "大脑的言语感知中枢也能生成口语词汇"
   },
   {
     "id": "b94fa16fe4e67e69",
@@ -477,6 +1123,44 @@
     "titleKey": "微软发布7款世界级新模型全在打同一个算盘"
   },
   {
+    "id": "f6c666c9d6f581f9",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "95 年生，今年 31，准备买辆车，想听听兄弟们的建议。",
+    "summary": "本人在深圳做程序员，来深圳 7 年了，老家河南。",
+    "url": "https://www.v2ex.com/t/1258549",
+    "canonicalUrl": "https://www.v2ex.com/t/1258549",
+    "publishedAt": "2026-11-20T06:50:26.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "汽车"
+    ],
+    "signals": {
+      "replies": 70
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "95年生今年31准备买辆车想听听兄弟们的建议"
+  },
+  {
+    "id": "c5d4fc7bfd293e36",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85940",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85940",
+    "publishedAt": "2026-11-20T06:49:01.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "google于2027年1月在全球实施android开发者身份验证"
+  },
+  {
     "id": "0abfc282643f8f12",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -492,6 +1176,26 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "受全民医保推进影响联合健康股价继续下挫"
+  },
+  {
+    "id": "a6492802e9b4c7e6",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+    "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+    "url": "https://www.qbitai.com/2026/11/511603.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511603.html",
+    "publishedAt": "2026-11-20T06:16:06.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "资讯",
+      "新浪新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "新浪新闻2026探索大会在京举行虚实交融共探智能时代共生新图景"
   },
   {
     "id": "6d0d65cd967d4c6f",
@@ -614,6 +1318,27 @@
     "titleKey": "googleispushingoemsagainstgrapheneosandbootloaderunlocking"
   },
   {
+    "id": "087e671745442da3",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "牵手、亲吻之后，第二天却被告知不想继续了",
+    "summary": "前段时间认识了一个女生，见了三次面，整体感觉都挺好的。",
+    "url": "https://www.v2ex.com/t/1258512",
+    "canonicalUrl": "https://www.v2ex.com/t/1258512",
+    "publishedAt": "2026-11-20T05:10:41.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "情感问题"
+    ],
+    "signals": {
+      "replies": 101
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "牵手亲吻之后第二天却被告知不想继续了"
+  },
+  {
     "id": "4f1327e5073a3c52",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -675,7 +1400,7 @@
     "sourceId": "oschina",
     "sourceName": "开源中国",
     "channel": "tech",
-    "title": "Ruby 公开披露 7 个漏洞，其中几个能直接 RCE",
+    "title": "Ruby 公开披露多个会触发远程代码执行的漏洞",
     "summary": "",
     "url": "https://www.oschina.net/news/503699/ruby-lang-multiple-vulnerabilities-in-regexp-and-string",
     "canonicalUrl": "https://www.oschina.net/news/503699/ruby-lang-multiple-vulnerabilities-in-regexp-and-string",
@@ -687,7 +1412,7 @@
     "signals": {},
     "lang": "zh",
     "weight": 64,
-    "titleKey": "ruby公开披露7个漏洞其中几个能直接rce"
+    "titleKey": "ruby公开披露多个会触发远程代码执行的漏洞"
   },
   {
     "id": "95d9e4afd19e873b",
@@ -863,7 +1588,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 127
+      "replies": 172
     },
     "lang": "zh",
     "weight": 55,
@@ -892,21 +1617,25 @@
     "titleKey": "opensslbufferoverflowinevpencodeblockcve2026121481cvss98"
   },
   {
-    "id": "c66eed38e3b12bf5",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "summary": "“We have a house worth $450,000.",
-    "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T01:30:00.000Z",
-    "fetchedAt": "2026-11-19T17:21:58.016Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
+    "id": "0f74a0d944ec5031",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "X 也被封了，难受",
+    "summary": "昨晚手贱填了下生日，想装嫩故意把年龄填成 20，然后被秒封，理由是注册的时候未满 13 岁。",
+    "url": "https://www.v2ex.com/t/1258429",
+    "canonicalUrl": "https://www.v2ex.com/t/1258429",
+    "publishedAt": "2026-11-20T01:24:55.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "Twitter"
+    ],
+    "signals": {
+      "replies": 73
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "x也被封了难受"
   },
   {
     "id": "f6802cfd21c1d562",
@@ -924,6 +1653,27 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "mywifeisbankrollingherfamilystripstonewyorkanditsdrainingoursavingsshouldiaskhertostop"
+  },
+  {
+    "id": "5478e51bc4965350",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "GTA6 是在 GTA 当力工的日子？",
+    "summary": "有没有买游戏的老哥，说下真伪。",
+    "url": "https://www.v2ex.com/t/1258427",
+    "canonicalUrl": "https://www.v2ex.com/t/1258427",
+    "publishedAt": "2026-11-20T01:13:15.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "Grand Theft Auto"
+    ],
+    "signals": {
+      "replies": 62
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "gta6是在gta当力工的日子"
   },
   {
     "id": "f243da83b27473bf",
@@ -959,7 +1709,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 75
+      "replies": 105
     },
     "lang": "zh",
     "weight": 55,
@@ -1011,6 +1761,27 @@
     "titleKey": "vintcerfonwhytcpipwasneverpatented"
   },
   {
+    "id": "91efd9a52e5a79ee",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "不是，鸽们，你 6",
+    "summary": "这么冷的天，你还穿短袖，搞不明白，表示尊重，不过我还是佩服你 ![](https://i.imgur.com/H8qQJfN.jpeg)",
+    "url": "https://www.v2ex.com/t/1258420",
+    "canonicalUrl": "https://www.v2ex.com/t/1258420",
+    "publishedAt": "2026-11-20T01:01:45.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 69
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "不是鸽们你6"
+  },
+  {
     "id": "7a661ca7c7c22309",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1025,11 +1796,28 @@
       "iDev"
     ],
     "signals": {
-      "replies": 170
+      "replies": 222
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "我的app火了然后苹果威胁要关闭我的开发者账号"
+  },
+  {
+    "id": "ec5c775dd88f78e6",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "summary": "",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "canonicalUrl": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "introducingharnessadaptersadaptyourfavoritemodeltoyourharnesstoimproveperformanceandcost"
   },
   {
     "id": "d79bccae364dc0ef",
@@ -1788,23 +2576,6 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "agent实干派从人人可用到全栈工程进化infoq小编探班"
-  },
-  {
-    "id": "e7beb4c58a0ef3ee",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
-    "summary": "The few buyers left in the market braving record-high home prices and 7% mortgag…",
-    "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-19T16:14:00.000Z",
-    "fetchedAt": "2026-11-19T17:21:58.016Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "buyersareoutforbloodwithhomesalesatarecordlowbuyersarecallingtheshots"
   },
   {
     "id": "1557dc03fa9883d4",

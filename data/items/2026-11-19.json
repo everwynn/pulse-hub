@@ -141,6 +141,33 @@
     "titleKey": "everythingyouneedtosurviveandrebuildsociety"
   },
   {
+    "id": "54ab3adbb337eac7",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w…",
+    "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "canonicalUrl": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+    "publishedAt": "2026-11-19T14:43:10.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "ai-agents",
+      "ai-assistant",
+      "blender",
+      "blender-addon",
+      "blender-ai",
+      "blender-automation"
+    ],
+    "signals": {
+      "stars": 1174,
+      "forks": 1
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "bookwjitchieni1986blenderaimcpaddon"
+  },
+  {
     "id": "1bdf6631faff89a0",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -156,6 +183,28 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "基金市场概况与资产配置观点11091115"
+  },
+  {
+    "id": "1f6b76fc6c02402d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+    "summary": "",
+    "url": "https://github.com/bigcrimping/floppy3.5",
+    "canonicalUrl": "https://github.com/bigcrimping/floppy3.5",
+    "publishedAt": "2026-11-19T14:29:49.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 87,
+      "comments": 31
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "floppy35aportable35inchfloppywifinas"
   },
   {
     "id": "7f25517a8d643029",
@@ -2234,7 +2283,7 @@
       "vibecoding"
     ],
     "signals": {
-      "reactions": 71,
+      "reactions": 76,
       "comments": 10
     },
     "lang": "en",

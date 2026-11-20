@@ -17,23 +17,6 @@
     "titleKey": "spacexwidensitsleadinthespaceraceevenasatechselloffweighsonitsstock"
   },
   {
-    "id": "11d84ff450ea3361",
-    "sourceId": "infoq-cn",
-    "sourceName": "InfoQ 中文",
-    "channel": "tech",
-    "title": "AI 来了，团队究竟怎么变？",
-    "summary": "点击查看原文>",
-    "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&utm_medium=article",
-    "canonicalUrl": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB",
-    "publishedAt": "2026-11-16T15:56:35.000Z",
-    "fetchedAt": "2026-11-16T18:30:05.763Z",
-    "tags": [],
-    "signals": {},
-    "lang": "zh",
-    "weight": 70,
-    "titleKey": "ai来了团队究竟怎么变"
-  },
-  {
     "id": "09b3b92360334a1a",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -201,8 +184,8 @@
       "jokes"
     ],
     "signals": {
-      "reactions": 177,
-      "comments": 167
+      "reactions": 194,
+      "comments": 172
     },
     "lang": "en",
     "weight": 60,
@@ -388,8 +371,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 5612,
-      "forks": 450
+      "stars": 6312,
+      "forks": 497
     },
     "lang": "en",
     "weight": 90,
@@ -1379,6 +1362,31 @@
     "titleKey": "龙芯海光老兵集结通研院孵化的agi芯片公司浮出水面半年连融数亿元"
   },
   {
+    "id": "90ac59993c247f83",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
+    "summary": "Intro AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all …",
+    "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
+    "canonicalUrl": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
+    "publishedAt": "2026-11-16T04:34:39.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [
+      "ai",
+      "webdev",
+      "productivity",
+      "security"
+    ],
+    "signals": {
+      "reactions": 81,
+      "comments": 28
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "aiavatarv28securitysupportvoxelavatar️"
+  },
+  {
     "id": "963839e96dcc03c5",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -2210,8 +2218,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1169,
-      "forks": 32
+      "stars": 1231,
+      "forks": 34
     },
     "lang": "en",
     "weight": 90,
