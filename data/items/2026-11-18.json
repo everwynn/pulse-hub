@@ -34,12 +34,39 @@
       "writing"
     ],
     "signals": {
-      "reactions": 128,
-      "comments": 39
+      "reactions": 130,
+      "comments": 40
     },
     "lang": "en",
     "weight": 60,
     "titleKey": "25editionsofdevopportunityradarfrommyradartoourradarama"
+  },
+  {
+    "id": "d958dd2437da472b",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "sourmitocand1987/VividFrame-GPU",
+    "summary": "Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video…",
+    "url": "https://github.com/sourmitocand1987/VividFrame-GPU",
+    "canonicalUrl": "https://github.com/sourmitocand1987/VividFrame-GPU",
+    "publishedAt": "2026-11-18T15:51:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "dolby-vision",
+      "frame-generation",
+      "frame-interpolation",
+      "game-streaming",
+      "hdr",
+      "media-player"
+    ],
+    "signals": {
+      "stars": 1199,
+      "forks": 24
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "sourmitocand1987vividframegpu"
   },
   {
     "id": "a26fc0950719289e",
@@ -902,8 +929,8 @@
       "agents"
     ],
     "signals": {
-      "reactions": 155,
-      "comments": 124
+      "reactions": 170,
+      "comments": 145
     },
     "lang": "en",
     "weight": 60,

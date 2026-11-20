@@ -215,8 +215,8 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 71,
-      "comments": 26
+      "reactions": 77,
+      "comments": 27
     },
     "lang": "en",
     "weight": 60,
@@ -438,7 +438,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "gylive/google-ultra",
-    "summary": "Python · ★ 2429",
+    "summary": "Python · ★ 2479",
     "url": "https://github.com/gylive/google-ultra",
     "canonicalUrl": "https://github.com/gylive/google-ultra",
     "publishedAt": "2026-11-17T10:21:54.000Z",
@@ -447,8 +447,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2429,
-      "forks": 34
+      "stars": 2479,
+      "forks": 47
     },
     "lang": "en",
     "weight": 90,
@@ -1065,6 +1065,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "windows收集用户计算机安装的编程智能体和开发工具"
+  },
+  {
+    "id": "841bf8c53585aece",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "How to CAD Almost Anything",
+    "summary": "",
+    "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+    "canonicalUrl": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024",
+    "publishedAt": "2026-11-17T06:29:57.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 225,
+      "comments": 69
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "howtocadalmostanything"
   },
   {
     "id": "8d513d0144422fb2",
@@ -1806,6 +1828,28 @@
     "titleKey": "chemistryisactuallygeometry"
   },
   {
+    "id": "18e81b1d120822f2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+    "summary": "",
+    "url": "https://www.frankensteinpbc.com/",
+    "canonicalUrl": "https://www.frankensteinpbc.com/",
+    "publishedAt": "2026-11-16T20:10:38.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 7,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "frankensteinpbcanimationbestoweduponlifelessmatter"
+  },
+  {
     "id": "19f2bac9f1fab712",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
@@ -1820,12 +1864,34 @@
       "C++"
     ],
     "signals": {
-      "stars": 4502,
-      "forks": 382
+      "stars": 4781,
+      "forks": 407
     },
     "lang": "en",
     "weight": 90,
     "titleKey": "krisgfx9wirelessdevicebatterymonitor"
+  },
+  {
+    "id": "1d2cd892c2a034da",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Bit Shifting in Basic",
+    "summary": "",
+    "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+    "canonicalUrl": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic",
+    "publishedAt": "2026-11-16T19:04:36.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 19,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "bitshiftinginbasic"
   },
   {
     "id": "b256691dd47e48bf",
@@ -1847,8 +1913,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 1223,
-      "forks": 111
+      "stars": 1275,
+      "forks": 114
     },
     "lang": "en",
     "weight": 90,
@@ -2586,8 +2652,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 454,
-      "comments": 203
+      "points": 830,
+      "comments": 348
     },
     "lang": "en",
     "weight": 92,

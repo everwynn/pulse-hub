@@ -1,5 +1,24 @@
 [
   {
+    "id": "f4d2b9787ffdec4a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync v2.4.1 · TDengine 轮询源与布尔 / 改列修复",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503686",
+    "canonicalUrl": "https://www.oschina.net/news/503686",
+    "publishedAt": "2026-11-19T15:50:25.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv241tdengine轮询源与布尔改列修复"
+  },
+  {
     "id": "2ddc31e42c1f1619",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -292,23 +311,6 @@
     "titleKey": "过度运动紊乱多巴胺"
   },
   {
-    "id": "5602cf9d57767c4d",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-    "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fis…",
-    "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-    "publishedAt": "2026-11-19T13:23:50.000Z",
-    "fetchedAt": "2026-11-19T07:21:00.568Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "walmarthikesoutlookasceotellscnbcretaileraimstokeeppriceslowdespitesoaringfuelcosts"
-  },
-  {
     "id": "ee947ffbb0bc5e02",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -380,6 +382,27 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "从业者正在对anthropic没人需要claudecode心理模型的说法进行验证"
+  },
+  {
+    "id": "23aa35d55eed12ed",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "小弟需要贷款，想问下各路大佬怎么找到性价比最高的途径",
+    "summary": "1. 我女朋友上学需要缴纳学费 18w，小弟没有攒钱，想贷款一下，怎么找利率最低的方式？ 2. 无法助学贷，上的是 HK，家庭条件也不符合要求。 3. 我目前工…",
+    "url": "https://www.v2ex.com/t/1258362",
+    "canonicalUrl": "https://www.v2ex.com/t/1258362",
+    "publishedAt": "2026-11-19T11:56:09.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 89
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "小弟需要贷款想问下各路大佬怎么找到性价比最高的途径"
   },
   {
     "id": "4a06b07baf9e2ec9",
@@ -551,6 +574,27 @@
     "titleKey": "wlnmp一键安装包更新261119修复nginx2root漏洞"
   },
   {
+    "id": "79eb2d48e13f2580",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我的悲哀 我父母的悲哀",
+    "summary": "要我父母去邻里亲戚问问，有没有转行的门路。",
+    "url": "https://www.v2ex.com/t/1258332",
+    "canonicalUrl": "https://www.v2ex.com/t/1258332",
+    "publishedAt": "2026-11-19T09:19:21.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 120
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我的悲哀我父母的悲哀"
+  },
+  {
     "id": "560bf7ed41b1310b",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -568,6 +612,27 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "nginx被曝两个高危rce其中一个在代码里藏了十年"
+  },
+  {
+    "id": "f2c4d844ef4290de",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "老婆就是要买，各位能想想办法吗",
+    "summary": "给小孩拍照片，老婆嫌弃人家贵，想自己奶买，以前也没玩过微单，毕竟也不便宜，怕冲动消费最后吃灰。",
+    "url": "https://www.v2ex.com/t/1258328",
+    "canonicalUrl": "https://www.v2ex.com/t/1258328",
+    "publishedAt": "2026-11-19T09:10:33.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "摄影"
+    ],
+    "signals": {
+      "replies": 70
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "老婆就是要买各位能想想办法吗"
   },
   {
     "id": "6fd9020ad49c3cd8",
@@ -624,6 +689,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "影视飓风manus影石oppo极客公园创新大会2027嘉宾阵容更新"
+  },
+  {
+    "id": "2cd89ec08314d5c3",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子",
+    "summary": "好奇这几年站里聊裁员、失业的帖子到底有多少，就用 SOV2EX 搜了一下，最近 15 年 情况从 19 年开始急转直下（疫情？",
+    "url": "https://www.v2ex.com/t/1258315",
+    "canonicalUrl": "https://www.v2ex.com/t/1258315",
+    "publishedAt": "2026-11-19T08:35:40.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 78
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "统计了v2ex近15年提到裁员或失业的帖子"
   },
   {
     "id": "fc31da7fc241fa31",
@@ -686,6 +772,25 @@
     "titleKey": "sensenovau1pro获designarena双榜中国第一全球第六"
   },
   {
+    "id": "68f0f584d9160f2e",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workfl…",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "canonicalUrl": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "publishedAt": "2026-11-19T08:00:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "Engineering"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howopenaisperformancefactorykeepschatgptfast"
+  },
+  {
     "id": "e02a79cdf9022093",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -720,6 +825,27 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "gemini4neon发布google在最强和最便宜之间塞进了一个中间档"
+  },
+  {
+    "id": "dcd9f11fc18eaab5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "没有人会不爱上 Gemini 4 Neon",
+    "summary": "没想到仅过去两三个月，我就从 Grok 吹变成了 Opus 5.5 吹，再到现在的 Gemini 吹。",
+    "url": "https://www.v2ex.com/t/1258290",
+    "canonicalUrl": "https://www.v2ex.com/t/1258290",
+    "publishedAt": "2026-11-19T07:19:08.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "🤖Vibe Coding"
+    ],
+    "signals": {
+      "replies": 87
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "没有人会不爱上gemini4neon"
   },
   {
     "id": "b95aef8daf060a46",
@@ -1692,23 +1818,6 @@
     "titleKey": "paloaltonetworksstockgetsafreshaifueledboostfromearnings"
   },
   {
-    "id": "23823bbe33308720",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "summary": "Tempted to ditch stocks for property or CDs?",
-    "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-19T00:30:00.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiasturmoilhasmespookedshouldisellmystocksandbuyrealestateorrideoutthestorm"
-  },
-  {
     "id": "d94ce1852fad4519",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -1746,6 +1855,82 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "paloaltoinks45billiondealforaistartupappliedcomputesharespop7onearnings"
+  },
+  {
+    "id": "b11d8c62dccab3ae",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Day…",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "canonicalUrl": "https://openai.com/business/learn/deploying-daybreak-red",
+    "publishedAt": "2026-11-19T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "Guides"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "deployingdaybreakred"
+  },
+  {
+    "id": "b3a2f6e3f7760b8d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "See PR scans in action",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results i…",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "canonicalUrl": "https://openai.com/business/learn/pr-scans-demo",
+    "publishedAt": "2026-11-19T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "Demos"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "seeprscansinaction"
+  },
+  {
+    "id": "612536d9a47448e5",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from g…",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "canonicalUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "publishedAt": "2026-11-19T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "Demos"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "explorethecodexsecurityplugin"
+  },
+  {
+    "id": "e35384defbc50b1a",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Get started with Daybreak Blue",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the se…",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "canonicalUrl": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "publishedAt": "2026-11-19T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "Demos"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "getstartedwithdaybreakblue"
   },
   {
     "id": "f662a22faab1ef4a",
@@ -2049,7 +2234,7 @@
       "vibecoding"
     ],
     "signals": {
-      "reactions": 68,
+      "reactions": 71,
       "comments": 10
     },
     "lang": "en",

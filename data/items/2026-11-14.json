@@ -1004,8 +1004,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1274,
-      "forks": 445
+      "stars": 1392,
+      "forks": 467
     },
     "lang": "en",
     "weight": 90,
@@ -1461,7 +1461,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "CzzzzzzJ/mdldm-maitian",
-    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏 · JavaScript · ★ 1586",
+    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏 · JavaScript · ★ 1643",
     "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
     "canonicalUrl": "https://github.com/CzzzzzzJ/mdldm-maitian",
     "publishedAt": "2026-11-14T03:59:22.000Z",
@@ -1475,8 +1475,8 @@
       "feishu"
     ],
     "signals": {
-      "stars": 1586,
-      "forks": 473
+      "stars": 1643,
+      "forks": 483
     },
     "lang": "en",
     "weight": 90,
@@ -1769,7 +1769,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "duwqijlk/muse-protocol",
-    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1651",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） · Python · ★ 1669",
     "url": "https://github.com/duwqijlk/muse-protocol",
     "canonicalUrl": "https://github.com/duwqijlk/muse-protocol",
     "publishedAt": "2026-11-14T01:24:58.000Z",
@@ -1778,8 +1778,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1651,
-      "forks": 653
+      "stars": 1669,
+      "forks": 659
     },
     "lang": "en",
     "weight": 90,
@@ -2127,7 +2127,7 @@
       "resources"
     ],
     "signals": {
-      "reactions": 114,
+      "reactions": 116,
       "comments": 17
     },
     "lang": "en",
