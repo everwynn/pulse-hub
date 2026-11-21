@@ -160,8 +160,8 @@
       "blender-automation"
     ],
     "signals": {
-      "stars": 1858,
-      "forks": 24
+      "stars": 1990,
+      "forks": 31
     },
     "lang": "en",
     "weight": 90,
@@ -599,15 +599,15 @@
     "fetchedAt": "2026-11-21T07:02:04.652Z",
     "tags": [
       "Python",
+      "ai-video-clipper",
       "clipping",
+      "faster-whisper",
       "ffmpeg",
-      "shorts",
-      "video",
-      "whisper"
+      "gameplay-clipper"
     ],
     "signals": {
-      "stars": 1365,
-      "forks": 65
+      "stars": 1627,
+      "forks": 79
     },
     "lang": "en",
     "weight": 90,
@@ -2310,8 +2310,8 @@
       "vibecoding"
     ],
     "signals": {
-      "reactions": 77,
-      "comments": 10
+      "reactions": 85,
+      "comments": 12
     },
     "lang": "en",
     "weight": 60,

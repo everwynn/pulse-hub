@@ -184,8 +184,8 @@
       "jokes"
     ],
     "signals": {
-      "reactions": 199,
-      "comments": 178
+      "reactions": 203,
+      "comments": 183
     },
     "lang": "en",
     "weight": 60,
@@ -223,8 +223,8 @@
       "HTML"
     ],
     "signals": {
-      "stars": 997,
-      "forks": 105
+      "stars": 1009,
+      "forks": 109
     },
     "lang": "en",
     "weight": 90,
@@ -371,8 +371,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 6852,
-      "forks": 544
+      "stars": 7184,
+      "forks": 574
     },
     "lang": "en",
     "weight": 90,
@@ -837,8 +837,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 890,
-      "forks": 72
+      "stars": 932,
+      "forks": 76
     },
     "lang": "en",
     "weight": 90,
@@ -1401,8 +1401,8 @@
       "security"
     ],
     "signals": {
-      "reactions": 81,
-      "comments": 28
+      "reactions": 84,
+      "comments": 29
     },
     "lang": "en",
     "weight": 60,
@@ -2240,8 +2240,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1263,
-      "forks": 36
+      "stars": 1296,
+      "forks": 38
     },
     "lang": "en",
     "weight": 90,

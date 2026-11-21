@@ -34,8 +34,8 @@
       "writing"
     ],
     "signals": {
-      "reactions": 139,
-      "comments": 49
+      "reactions": 145,
+      "comments": 51
     },
     "lang": "en",
     "weight": 60,
@@ -396,6 +396,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "onlytwomagnificentsevenstockshavemanagedtobeatthesp500sincethestartof2025"
+  },
+  {
+    "id": "b6c91d0b87ce018f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "LLMs can read and write executables byte by byte from a hex dump",
+    "summary": "",
+    "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+    "canonicalUrl": "https://sgiannopoulos.github.io/blog/machine-code-programming",
+    "publishedAt": "2026-11-18T14:15:58.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 67,
+      "comments": 45
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "llmscanreadandwriteexecutablesbytebybytefromahexdump"
   },
   {
     "id": "8e7eece523460f52",
@@ -929,8 +951,8 @@
       "agents"
     ],
     "signals": {
-      "reactions": 205,
-      "comments": 182
+      "reactions": 219,
+      "comments": 188
     },
     "lang": "en",
     "weight": 60,

@@ -107,23 +107,6 @@
     "titleKey": "anthropic的数论学家声称证明黎曼猜想"
   },
   {
-    "id": "c0ce604fc1844ec2",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-    "summary": "People taking Zepbound who engage in consistent resistance training can still ge…",
-    "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T15:04:00.000Z",
-    "fetchedAt": "2026-11-20T16:56:49.400Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hereswhatsbeenproventohelpglp1usersfromlosingtoomuchmusclefromthedrug"
-  },
-  {
     "id": "e518c485729c6c15",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -184,23 +167,6 @@
     "titleKey": "gta6创游戏史上最高首日销售额"
   },
   {
-    "id": "c66eed38e3b12bf5",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "summary": "“We have a house worth $450,000.",
-    "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T14:30:00.000Z",
-    "fetchedAt": "2026-11-19T17:21:58.016Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
-  },
-  {
     "id": "1e009a423bba09b1",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -236,8 +202,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 2524,
-      "comments": 1743
+      "points": 2786,
+      "comments": 1953
     },
     "lang": "en",
     "weight": 92,
@@ -315,6 +281,26 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "阿里巴巴警告未来两年算力紧缺"
+  },
+  {
+    "id": "c3cddaaf347072c2",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax",
+    "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals",
+    "url": "https://www.qbitai.com/2026/11/511722.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511722.html",
+    "publishedAt": "2026-11-20T12:18:01.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "MiniMax"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国ai音乐巨头进军视频生成底层模型来自中国minimax"
   },
   {
     "id": "6c4fddc3f89fca14",
@@ -770,6 +756,27 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "哈佛大学研究人员ai编程目前的瓶颈是codereview"
+  },
+  {
+    "id": "a3445948585eb326",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "给万卡国产芯装个“超级外挂”！清华团队要造最强国产Token工厂",
+    "summary": "联合华为昇腾，五年冲刺十万卡",
+    "url": "https://www.qbitai.com/2026/11/511679.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511679.html",
+    "publishedAt": "2026-11-20T08:59:15.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "清昴智能"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "给万卡国产芯装个超级外挂清华团队要造最强国产token工厂"
   },
   {
     "id": "a84836784f69cda9",
@@ -1640,23 +1647,6 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "googleaioverviews让网站的搜索流量下降四成"
-  },
-  {
-    "id": "23823bbe33308720",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Nvidia’s turmoil has me spooked’: Should I sell my stocks and buy real estate — or ride out the storm?",
-    "summary": "Tempted to ditch stocks for property or CDs?",
-    "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T03:31:00.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiasturmoilhasmespookedshouldisellmystocksandbuyrealestateorrideoutthestorm"
   },
   {
     "id": "a144249ccb4016a2",

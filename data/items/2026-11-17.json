@@ -82,6 +82,28 @@
     "titleKey": "highlyclassifiedusnationalsecuritycommunicationsnetworkgoesdown"
   },
   {
+    "id": "b1e61ac54da8cd5f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+    "summary": "",
+    "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+    "canonicalUrl": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+    "publishedAt": "2026-11-17T15:22:57.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 360,
+      "comments": 116
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "brazilstaxauthorityopensourcesitstaxcalculatorongithubundermit"
+  },
+  {
     "id": "18691e0ed3c035c3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -215,7 +237,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 81,
+      "reactions": 87,
       "comments": 28
     },
     "lang": "en",
@@ -438,7 +460,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "gylive/google-ultra",
-    "summary": "Python · ★ 2553",
+    "summary": "Python · ★ 2573",
     "url": "https://github.com/gylive/google-ultra",
     "canonicalUrl": "https://github.com/gylive/google-ultra",
     "publishedAt": "2026-11-17T10:21:54.000Z",
@@ -447,8 +469,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2553,
-      "forks": 68
+      "stars": 2573,
+      "forks": 73
     },
     "lang": "en",
     "weight": 90,
@@ -1908,8 +1930,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 5437,
-      "forks": 455
+      "stars": 5687,
+      "forks": 477
     },
     "lang": "en",
     "weight": 90,
@@ -1957,8 +1979,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 1380,
-      "forks": 125
+      "stars": 1435,
+      "forks": 130
     },
     "lang": "en",
     "weight": 90,

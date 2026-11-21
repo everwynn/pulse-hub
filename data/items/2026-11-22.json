@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6e3da8b817cb3a23",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Insider trades: Apple, Meta, Coca-Cola among notable names",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675363-insider-trades-apple-meta-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675363-insider-trades-apple-meta-coca-cola-among-notable-names?feed_item_type=news",
+    "publishedAt": "2026-11-21T16:03:59.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "ba",
+      "ko",
+      "tsm",
+      "mrk",
+      "ddd",
+      "duk"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "insidertradesapplemetacocacolaamongnotablenames"
+  }
+]

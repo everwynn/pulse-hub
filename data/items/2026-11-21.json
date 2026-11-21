@@ -1,5 +1,657 @@
 [
   {
+    "id": "3ff80dbcadc354e2",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "FBI crime database hacked: CNN",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675393-fbi-crime-database-hacked?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675393-fbi-crime-database-hacked?feed_item_type=news",
+    "publishedAt": "2026-11-21T15:48:24.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "crwd",
+      "ftnt",
+      "okta",
+      "panw",
+      "hack",
+      "zs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "fbicrimedatabasehackedcnn"
+  },
+  {
+    "id": "2dfcdcf436918d2e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "summary": "Cheap valuation multiples for memory stocks have historically been associated wi…",
+    "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T15:35:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "micronandsandiskstocksmightlooklikebargainsbutanalystssaythatsactuallyaredflag"
+  },
+  {
+    "id": "23823bbe33308720",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
+    "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath befor…",
+    "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T15:15:00.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiasturmoilhasmespookedisittimetosellmystocks"
+  },
+  {
+    "id": "c66eed38e3b12bf5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+    "summary": "“We have a house worth $450,000.",
+    "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T15:15:00.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
+  },
+  {
+    "id": "c0ce604fc1844ec2",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
+    "summary": "People taking Zepbound who engage in consistent resistance training can still ge…",
+    "url": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T15:03:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hereswhatsbeenproventohelpglp1usersfromlosingtoomuchmusclefromthedrug"
+  },
+  {
+    "id": "ae5c62aa4cf1e3eb",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
+    "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at …",
+    "url": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T15:01:00.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "onethingthanksgivingtravelerscanbethankfulforgaspricesaredown75centsfromthisyearspeak"
+  },
+  {
+    "id": "0544d29fd3123364",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "SA Asks: Should Nvidia bring back Jensen Huang?",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675366-sa-asks-should-nvidia-bring-back-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675366-sa-asks-should-nvidia-bring-back-jensen-huang?feed_item_type=news",
+    "publishedAt": "2026-11-21T15:00:28.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "nvda",
+      "goog",
+      "amd",
+      "intc",
+      "avgo",
+      "googl"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "saasksshouldnvidiabringbackjensenhuang"
+  },
+  {
+    "id": "f88140c307319bb7",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Big banks, crypto stocks, neoclouds among losers: week's financials wrap",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675265-big-banks-crypto-stocks-neoclouds-among-losers-weeks-financials-wrap?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675265-big-banks-crypto-stocks-neoclouds-among-losers-weeks-financials-wrap?feed_item_type=news",
+    "publishedAt": "2026-11-21T15:00:25.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "bkx",
+      "xlf",
+      "bac",
+      "jpm",
+      "gs",
+      "ms"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "bigbankscryptostocksneocloudsamonglosersweeksfinancialswrap"
+  },
+  {
+    "id": "10600c0acddb6d9b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+    "summary": "There are plenty of rich and influential women in the U.S.",
+    "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T15:00:00.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nevertoolatetostartpracticalinvestingadvicefromsomeofthetopwomeninfinance"
+  },
+  {
+    "id": "de2b8f71be13d0da",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Trump threatens ‘tremendous tax’ on U.S. firms building data centers abroad",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675392-trump-threatens-us-firms-building-overseas-data-centers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675392-trump-threatens-us-firms-building-overseas-data-centers?feed_item_type=news",
+    "publishedAt": "2026-11-21T14:52:18.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "meta",
+      "goog",
+      "amd",
+      "nvda",
+      "ceg",
+      "amzn"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "trumpthreatenstremendoustaxonusfirmsbuildingdatacentersabroad"
+  },
+  {
+    "id": "be02a2bdafdea340",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+    "summary": "“We have $2.9 million in retirement accounts.",
+    "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T14:42:00.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "myhusbandspent80000onaboatyetsaysmyplansfora100000potterystudioareirresponsiblewhosright"
+  },
+  {
+    "id": "a1f022a5c119921e",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "地球 28 光年外发现一个三星系统",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85955",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85955",
+    "publishedAt": "2026-11-21T14:40:48.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "地球28光年外发现一个三星系统"
+  },
+  {
+    "id": "2190862fcb19b60c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+    "summary": "",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "canonicalUrl": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+    "publishedAt": "2026-11-21T14:36:45.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 150,
+      "comments": 117
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "leanverificationoftheriemannhypothesisjointstatementby"
+  },
+  {
+    "id": "133abe21fc719933",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Earnings Scoreboard: 11 of 14 reporting firms beat EPS estimates; 12 grow Y/Y profits",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675046-earnings-scoreboard-11-of-14-reporting-firms-beat-eps-estimates-12-grow-yy-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675046-earnings-scoreboard-11-of-14-reporting-firms-beat-eps-estimates-12-grow-yy-profits?feed_item_type=news",
+    "publishedAt": "2026-11-21T14:35:42.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "nvda",
+      "hd",
+      "dis",
+      "wmt",
+      "tgt",
+      "low"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "earningsscoreboard11of14reportingfirmsbeatepsestimates12growyyprofits"
+  },
+  {
+    "id": "38f90235fd7caef3",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "人类免疫系统衰老在 40 岁和 60 岁后会加速",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85954",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85954",
+    "publishedAt": "2026-11-21T14:25:45.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "人类免疫系统衰老在40岁和60岁后会加速"
+  },
+  {
+    "id": "0d199c84024b56ee",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+    "summary": "Investors are now more focused on protecting their portfolios than looking for b…",
+    "url": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T14:17:00.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "howabrutalweekforstocksalmostwipedouttheirgainsfortheentireyear"
+  },
+  {
+    "id": "0671909634e9c6ba",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "夜空中的人造卫星轨迹",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85953",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85953",
+    "publishedAt": "2026-11-21T14:05:43.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "夜空中的人造卫星轨迹"
+  },
+  {
+    "id": "09e076ce33d0fcc9",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "俄罗斯列宁格勒州州长：遭袭货船上的情况已得到控制，目前正采取措施，力争使其恢复航行，继续前往加里宁格勒。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3203694",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203694",
+    "publishedAt": "2026-11-21T14:02:36.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "俄罗斯列宁格勒州州长遭袭货船上的情况已得到控制目前正采取措施力争使其恢复航行继续前往加里宁格勒"
+  },
+  {
+    "id": "4889a0a0ad95c556",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "芬兰称一架俄罗斯直升机疑似侵犯其领空。 周六稍早，芬兰边境警卫队称，俄罗斯货船在芬兰湾东部起火，受损船只已从国际水域漂入…",
+    "summary": "芬兰称一架俄罗斯直升机疑似侵犯其领空。",
+    "url": "https://wallstreetcn.com/livenews/3203686",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203686",
+    "publishedAt": "2026-11-21T13:42:34.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "芬兰称一架俄罗斯直升机疑似侵犯其领空周六稍早芬兰边境警卫队称俄罗斯货船在芬兰湾东部起火受损船只已从国际水域漂入"
+  },
+  {
+    "id": "d897bc9d6cd297c0",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "比特币涨穿60000美元，日内涨2.53%。 以太坊涨穿1700美元，日内涨5.24%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3203685",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203685",
+    "publishedAt": "2026-11-21T13:41:05.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比特币涨穿60000美元日内涨253以太坊涨穿1700美元日内涨524"
+  },
+  {
+    "id": "c4db7fcaf056a638",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗军方称其防空导弹在波斯湾上空击中一架美军F-16战斗机，迫使其紧急降落。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3203684",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203684",
+    "publishedAt": "2026-11-21T13:33:45.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗军方称其防空导弹在波斯湾上空击中一架美军f16战斗机迫使其紧急降落"
+  },
+  {
+    "id": "cc78ecc79a53e41a",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "欧盟领导人峰会主席周六提议进一步削减欧盟委员会提出的2028-2034年欧盟预算草案，并建议开辟新的收入来源，包括征收数…",
+    "summary": "欧盟领导人峰会主席周六提议进一步削减欧盟委员会提出的2028-2034年欧盟预算草案，并建议开辟新的收入来源，包括征收数字税，以帮助为欧盟政策提供资金。",
+    "url": "https://wallstreetcn.com/livenews/3203683",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203683",
+    "publishedAt": "2026-11-21T13:25:55.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "欧盟领导人峰会主席周六提议进一步削减欧盟委员会提出的20282034年欧盟预算草案并建议开辟新的收入来源包括征收数"
+  },
+  {
+    "id": "90edd1e39dc647da",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+    "summary": "",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "canonicalUrl": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "publishedAt": "2026-11-21T13:23:14.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 184,
+      "comments": 115
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "dereklowedetonatingapileofleadazide"
+  },
+  {
+    "id": "398ae78dc143b62b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+    "summary": "",
+    "url": "https://simple-bench.com/",
+    "canonicalUrl": "https://simple-bench.com/",
+    "publishedAt": "2026-11-21T13:16:12.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 72,
+      "comments": 60
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "astra62andsol62flopatsimplebench"
+  },
+  {
+    "id": "d1bc747696fbde42",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月21日，乌克兰总统泽连斯基在基辅会见到访的英国国防大臣斯特里廷。双方重点就乌防空能力建设、“爱国者”防空系统所用拦…",
+    "summary": "11月21日，乌克兰总统泽连斯基在基辅会见到访的英国国防大臣斯特里廷。",
+    "url": "https://wallstreetcn.com/livenews/3203681",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203681",
+    "publishedAt": "2026-11-21T13:07:51.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "oil-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月21日乌克兰总统泽连斯基在基辅会见到访的英国国防大臣斯特里廷双方重点就乌防空能力建设爱国者防空系统所用拦"
+  },
+  {
+    "id": "6f34bcdf47f8dde7",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据巴勒斯坦方面当地时间21日消息，以色列军方战机当天中午袭击了加沙地带加沙城西南部的一辆汽车，造成3名巴勒斯坦人死亡、另…",
+    "summary": "据巴勒斯坦方面当地时间21日消息，以色列军方战机当天中午袭击了加沙地带加沙城西南部的一辆汽车，造成3名巴勒斯坦人死亡、另有数人受伤。",
+    "url": "https://wallstreetcn.com/livenews/3203680",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203680",
+    "publishedAt": "2026-11-21T13:07:31.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "oil-channel",
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据巴勒斯坦方面当地时间21日消息以色列军方战机当天中午袭击了加沙地带加沙城西南部的一辆汽车造成3名巴勒斯坦人死亡另"
+  },
+  {
+    "id": "741798008f2471e8",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "乌克兰预计，连接俄罗斯本土与克里米亚半岛的大桥在本周一系列袭击中受损后，俄方清理桥梁残骸将耗时数月。乌克兰国防部长Yev…",
+    "summary": "乌克兰预计，连接俄罗斯本土与克里米亚半岛的大桥在本周一系列袭击中受损后，俄方清理桥梁残骸将耗时数月。",
+    "url": "https://wallstreetcn.com/livenews/3203679",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203679",
+    "publishedAt": "2026-11-21T13:06:45.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "oil-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "乌克兰预计连接俄罗斯本土与克里米亚半岛的大桥在本周一系列袭击中受损后俄方清理桥梁残骸将耗时数月乌克兰国防部长yev"
+  },
+  {
+    "id": "018f853716edd29c",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "21日于北京举行的2026脑机接口大会主论坛发布《脑机接口创新发展研究报告(2026)》。 报告显示，中国脑机接口产业集…",
+    "summary": "21日于北京举行的2026脑机接口大会主论坛发布《脑机接口创新发展研究报告(2026)》。",
+    "url": "https://wallstreetcn.com/livenews/3203677",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203677",
+    "publishedAt": "2026-11-21T12:43:37.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "21日于北京举行的2026脑机接口大会主论坛发布脑机接口创新发展研究报告2026报告显示中国脑机接口产业集"
+  },
+  {
+    "id": "8ba92b275b7d3d60",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "欧盟委员会主席冯德莱恩称，欧盟与印度尼西亚（印尼）签署了综合性经济合作伙伴协议与投资保护协议，以期促进贸易与投资。 欧盟…",
+    "summary": "欧盟委员会主席冯德莱恩称，欧盟与印度尼西亚（印尼）签署了综合性经济合作伙伴协议与投资保护协议，以期促进贸易与投资。",
+    "url": "https://wallstreetcn.com/livenews/3203673",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203673",
+    "publishedAt": "2026-11-21T12:06:24.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "commodity-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "欧盟委员会主席冯德莱恩称欧盟与印度尼西亚印尼签署了综合性经济合作伙伴协议与投资保护协议以期促进贸易与投资欧盟"
+  },
+  {
+    "id": "394a1fcbcc1963a9",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "2026年了，AI能有什么用？",
+    "summary": "AI能批量生成，不等于能出彩",
+    "url": "https://www.tmtpost.com/8213527.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213527.html",
+    "publishedAt": "2026-11-21T11:21:40.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "2026年了ai能有什么用"
+  },
+  {
+    "id": "271e65e12d355b2e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "并表和IP，不是腾讯音乐的长效药",
+    "summary": "腾讯音乐越来越像个消费品公司。",
+    "url": "https://www.tmtpost.com/8213524.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213524.html",
+    "publishedAt": "2026-11-21T11:20:46.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "并表和ip不是腾讯音乐的长效药"
+  },
+  {
+    "id": "7b7e78d45eb466d6",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+    "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，A…",
+    "url": "https://www.tmtpost.com/8213535.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213535.html",
+    "publishedAt": "2026-11-21T11:19:38.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "数智周报",
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "数智周报anthropic敲响纳斯达克开市钟创史上最大规模ipo纪录美国限制远程获取ai算力海外数据中心出租算力须许可deepseek第二轮融资落地"
+  },
+  {
+    "id": "5dd3dee277282b39",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "人类数学家匆忙发布广义黎曼猜想的证明手稿",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85952",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85952",
+    "publishedAt": "2026-11-21T11:09:59.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "人类数学家匆忙发布广义黎曼猜想的证明手稿"
+  },
+  {
     "id": "779fb311bb0edd1c",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +667,81 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "智能体ai架构当前挑战与未来机遇"
+  },
+  {
+    "id": "8671000697d80e4a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "GTA 6 首日销售额达到创纪录的 37.9 亿美元",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85951",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85951",
+    "publishedAt": "2026-11-21T10:48:33.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "gta6首日销售额达到创纪录的379亿美元"
+  },
+  {
+    "id": "55fe19a70c77ec3a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "My Monitor Was Cutting My Download Speed by 75%",
+    "summary": "",
+    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "canonicalUrl": "https://blog.tymscar.com/posts/studiodisplayethernet",
+    "publishedAt": "2026-11-21T10:36:32.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 194,
+      "comments": 78
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "mymonitorwascuttingmydownloadspeedby75"
+  },
+  {
+    "id": "e6d0b6b49f7f4632",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "“奶茶第一股”的翻红账本",
+    "summary": "翻红最难的一环，是让下一次被讨论的理由，从流量换成业绩。",
+    "url": "https://www.tmtpost.com/8212602.html",
+    "canonicalUrl": "https://www.tmtpost.com/8212602.html",
+    "publishedAt": "2026-11-21T10:32:15.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "奶茶第一股的翻红账本"
+  },
+  {
+    "id": "27298e00c034b40a",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85950",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85950",
+    "publishedAt": "2026-11-21T10:11:05.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "为勒索软件受害者提供解密服务的公司只是付钱给勒索软件组织"
   },
   {
     "id": "9eec15ebc1e427eb",
@@ -49,6 +776,169 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "entiregitforge面向编码智能体重构git协作方式"
+  },
+  {
+    "id": "4773dfd14d8258a3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "RCE in Gnupg",
+    "summary": "",
+    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "canonicalUrl": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "publishedAt": "2026-11-21T08:32:58.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 137,
+      "comments": 47
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "rceingnupg"
+  },
+  {
+    "id": "09057f1cb339b1c0",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "马化腾第四次改腾讯AI航道",
+    "summary": "老板得付第一责任",
+    "url": "https://www.tmtpost.com/8213477.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213477.html",
+    "publishedAt": "2026-11-21T07:55:05.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "马化腾第四次改腾讯ai航道"
+  },
+  {
+    "id": "40ee316351c9d8a7",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "Claude 被连封两个账号，不想折腾了，接下来用啥？",
+    "summary": "1. 最近听说 Gemini carbon 挺好? 不知道 Google 会不会封号，主要怕影响 Gmail 账号 2. Codex 听说现在挺拉，不太想试了 …",
+    "url": "https://www.v2ex.com/t/1258753",
+    "canonicalUrl": "https://www.v2ex.com/t/1258753",
+    "publishedAt": "2026-11-21T07:30:33.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 35
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "claude被连封两个账号不想折腾了接下来用啥"
+  },
+  {
+    "id": "398a04ee077f7007",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "具身智创·生态共融，2026人形机器人开发者大会将于11月25日举办",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503716",
+    "canonicalUrl": "https://www.oschina.net/news/503716",
+    "publishedAt": "2026-11-21T07:03:13.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "具身智创生态共融2026人形机器人开发者大会将于11月25日举办"
+  },
+  {
+    "id": "97c76cbbe8c29049",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "入了 Gemini Pro 之后，已经严肃取消 GPT plus",
+    "summary": "Neon 干活确实挺漂亮的，也没 GPT 那么多废话 但是缺点也有： 1.",
+    "url": "https://www.v2ex.com/t/1258745",
+    "canonicalUrl": "https://www.v2ex.com/t/1258745",
+    "publishedAt": "2026-11-21T06:44:16.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 29
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "入了geminipro之后已经严肃取消gptplus"
+  },
+  {
+    "id": "018f1b54a21662c9",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+    "summary": "还实现可变形物体操控全球首通",
+    "url": "https://www.qbitai.com/2026/11/511779.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511779.html",
+    "publishedAt": "2026-11-21T06:35:59.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "GPT-6.2 Astra",
+      "具身智能"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "gpt62astra再次暴击具身模型16项任务成功率较gpt6astra翻倍"
+  },
+  {
+    "id": "e1f3cf9c7bb9d43a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+    "summary": "专为本地部署而生",
+    "url": "https://www.qbitai.com/2026/11/511570.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511570.html",
+    "publishedAt": "2026-11-21T06:32:31.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "Deepseek"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "刚刚deepseekv1作者创业项目曝光开源agent"
+  },
+  {
+    "id": "442f516b9ed139b6",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+    "summary": "还透露了不少训练背后的秘诀",
+    "url": "https://www.qbitai.com/2026/11/511757.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511757.html",
+    "publishedAt": "2026-11-21T06:30:55.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "姚顺雨",
+      "腾讯混元"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "姚顺雨和混元团队上reddit答网友hy小模型已进路线图"
   },
   {
     "id": "5afb5676c5ea1b04",
@@ -303,6 +1193,48 @@
     "titleKey": "比特币跌破56000美元日内跌超5"
   },
   {
+    "id": "996c97942d1e9a51",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点",
+    "summary": "我大部分时间都不需要用自己的梯子，所以之前都是买的按量付费的，结果前两天想自己电脑看个油管，晚上梯子速度都带不动，才知道那些机场有多拉跨 自建 / 机场都可以推…",
+    "url": "https://www.v2ex.com/t/1258717",
+    "canonicalUrl": "https://www.v2ex.com/t/1258717",
+    "publishedAt": "2026-11-21T03:48:29.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "机场"
+    ],
+    "signals": {
+      "replies": 47
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "推荐个梯子吧自己买了好几个一到晚上连油管都打不开太拉了打算预算可以加一点"
+  },
+  {
+    "id": "88b39c9c778b44fd",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "gemini neon 不堪大任",
+    "summary": "前几天 Google 促销, 7.98 新币买了个 pro, 第一天试用 opus, 结果一行代码没写, 5 小时额度没了, 昨天看到有人吹 neon, 我也试…",
+    "url": "https://www.v2ex.com/t/1258716",
+    "canonicalUrl": "https://www.v2ex.com/t/1258716",
+    "publishedAt": "2026-11-21T03:48:24.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "Google"
+    ],
+    "signals": {
+      "replies": 25
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "geminineon不堪大任"
+  },
+  {
     "id": "21bca14a7cb4a4ae",
     "sourceId": "wallstreetcn-live",
     "sourceName": "华尔街见闻 · 7×24 快讯",
@@ -426,6 +1358,69 @@
     "titleKey": "clojurewillaffectthewayyouthinkaboutprogramming2017"
   },
   {
+    "id": "ff9e0909185f371c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "「黑五 7 折 + 送 10 个终身版」Enconvo：自带 Computer Use 和 Browser Use 的 AI 助手，Mac / Windows / Linux / iPhone / Android 全平台原生应用",
+    "summary": "各位 V 友好，我是 Enconvo 的开发者 Kane。",
+    "url": "https://www.v2ex.com/t/1258698",
+    "canonicalUrl": "https://www.v2ex.com/t/1258698",
+    "publishedAt": "2026-11-21T02:15:35.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 38
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "黑五7折送10个终身版enconvo自带computeruse和browseruse的ai助手macwindowslinuxiphoneandroid全平台原生应用"
+  },
+  {
+    "id": "47bd09e6e4d2194c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "黑五将至，有什么靠谱的 VPS 推荐不？",
+    "summary": "各位有稳定靠谱的 VPS 推荐不？",
+    "url": "https://www.v2ex.com/t/1258697",
+    "canonicalUrl": "https://www.v2ex.com/t/1258697",
+    "publishedAt": "2026-11-21T01:58:46.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "VPS"
+    ],
+    "signals": {
+      "replies": 30
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "黑五将至有什么靠谱的vps推荐不"
+  },
+  {
+    "id": "321722643ed75bdc",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "2019 intel 款 mac 最多再战 1 年，到时候 M 系列 mac 会降价么",
+    "summary": "把 display 分辨率调整到 1344x840 这个选项后，我的 2019 intel 款 mac 还能再战 1 年。",
+    "url": "https://www.v2ex.com/t/1258693",
+    "canonicalUrl": "https://www.v2ex.com/t/1258693",
+    "publishedAt": "2026-11-21T01:17:40.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "Apple"
+    ],
+    "signals": {
+      "replies": 29
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "2019intel款mac最多再战1年到时候m系列mac会降价么"
+  },
+  {
     "id": "1f00c0cc8036acf4",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -527,7 +1522,7 @@
       "分享发现"
     ],
     "signals": {
-      "replies": 33
+      "replies": 38
     },
     "lang": "zh",
     "weight": 55,
@@ -739,23 +1734,6 @@
     "titleKey": "thehiddencatchinanthropicsipobillionsoflockedupsharesarewaitinginthewings"
   },
   {
-    "id": "2dfcdcf436918d2e",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-    "summary": "Cheap valuation multiples for memory stocks have historically been associated wi…",
-    "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T21:36:00.000Z",
-    "fetchedAt": "2026-11-21T07:02:04.652Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "micronandsandiskstocksmightlooklikebargainsbutanalystssaythatsactuallyaredflag"
-  },
-  {
     "id": "7ed4b69b806ddc1a",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",
@@ -787,8 +1765,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 893,
-      "comments": 166
+      "points": 1177,
+      "comments": 226
     },
     "lang": "en",
     "weight": 92,
@@ -882,8 +1860,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1868,
-      "comments": 860
+      "points": 2277,
+      "comments": 1079
     },
     "lang": "en",
     "weight": 92,
@@ -963,8 +1941,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 381,
-      "comments": 219
+      "points": 517,
+      "comments": 288
     },
     "lang": "en",
     "weight": 92,
@@ -1008,6 +1986,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai漫剧不缺作品缺什么qlab直播"
+  },
+  {
+    "id": "fe31d5626c46ee10",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "I'm quite pleased by the tech architecture of my art website",
+    "summary": "",
+    "url": "https://klauria.tech/klauria-art/",
+    "canonicalUrl": "https://klauria.tech/klauria-art",
+    "publishedAt": "2026-11-20T17:03:39.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 17,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "imquitepleasedbythetecharchitectureofmyartwebsite"
   },
   {
     "id": "73d600186f96434b",
@@ -1395,7 +2395,7 @@
       "podcast"
     ],
     "signals": {
-      "reactions": 29,
+      "reactions": 31,
       "comments": 4
     },
     "lang": "en",
@@ -1421,6 +2421,49 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "卡特彼勒股价本周已经下跌将近13恐将创2020年3月以来的最大单周跌幅这家工业风向标企业的股价目前下跌22报"
+  },
+  {
+    "id": "519b89c2fd1e2387",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "米哈游发了个VLA论文",
+    "summary": "8B参数，50小时自主运行",
+    "url": "https://www.qbitai.com/2026/11/511740.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511740.html",
+    "publishedAt": "2026-11-20T16:25:26.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "VLA",
+      "米哈游"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "米哈游发了个vla论文"
+  },
+  {
+    "id": "191c2b8ace4dfdea",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/511727.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511727.html",
+    "publishedAt": "2026-11-20T16:07:39.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "Claude",
+      "黎曼猜想"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "黎曼猜想被证明claude加持34岁数学家放出lean证明"
   },
   {
     "id": "713e685dba3bce00",
