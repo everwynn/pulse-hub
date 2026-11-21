@@ -1,5 +1,822 @@
 [
   {
+    "id": "779fb311bb0edd1c",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "智能体 AI 架构：当前挑战与未来机遇",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX",
+    "publishedAt": "2026-11-21T11:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "智能体ai架构当前挑战与未来机遇"
+  },
+  {
+    "id": "9eec15ebc1e427eb",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ",
+    "publishedAt": "2026-11-21T10:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "taodesign的知识工程实践从设计资产到agent持续进化aicon北京"
+  },
+  {
+    "id": "cf3152c9c51aeb13",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc",
+    "publishedAt": "2026-11-21T10:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "entiregitforge面向编码智能体重构git协作方式"
+  },
+  {
+    "id": "5afb5676c5ea1b04",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "沙特主导的多国联军发言人表示，联军防空部队拦截并摧毁了也门胡塞武装向沙特首都利雅得发射的3枚弹道导弹。当天凌晨，沙特首都…",
+    "summary": "沙特主导的多国联军发言人表示，联军防空部队拦截并摧毁了也门胡塞武装向沙特首都利雅得发射的3枚弹道导弹。",
+    "url": "https://wallstreetcn.com/livenews/3203646",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203646",
+    "publishedAt": "2026-11-21T05:56:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "沙特主导的多国联军发言人表示联军防空部队拦截并摧毁了也门胡塞武装向沙特首都利雅得发射的3枚弹道导弹当天凌晨沙特首都"
+  },
+  {
+    "id": "90fbb3bab219cec3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3203645",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203645",
+    "publishedAt": "2026-11-21T05:38:12.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据沐曦股份消息11月20日腾讯混元正式开源hy4沐曦股份旗下曦云c系列gpu率先完成hy4的day0适配"
+  },
+  {
+    "id": "498f91b5da3b7217",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "summary": "",
+    "url": "http://ricapar.net/ClawDOS/",
+    "canonicalUrl": "http://ricapar.net/ClawDOS",
+    "publishedAt": "2026-11-21T05:38:01.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 14,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "clawdosanaicodingagentfordos"
+  },
+  {
+    "id": "1501e392c5baf724",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "中国车企在印度，工厂、股权与供应链",
+    "summary": "马恒达的电动车，装着比亚迪电芯",
+    "url": "https://www.tmtpost.com/8210571.html",
+    "canonicalUrl": "https://www.tmtpost.com/8210571.html",
+    "publishedAt": "2026-11-21T05:28:15.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "中国车企在印度工厂股权与供应链"
+  },
+  {
+    "id": "3e6e3c28d03af869",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "比特币自2025年10月升至超过126,000美元的峰值以来，已下跌超过一半，目前价格甚至低于支持加密货币的特朗普重返白…",
+    "summary": "比特币自2025年10月升至超过126,000美元的峰值以来，已下跌超过一半，目前价格甚至低于支持加密货币的特朗普重返白宫时的水平。",
+    "url": "https://wallstreetcn.com/livenews/3203644",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203644",
+    "publishedAt": "2026-11-21T05:20:27.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比特币自2025年10月升至超过126000美元的峰值以来已下跌超过一半目前价格甚至低于支持加密货币的特朗普重返白"
+  },
+  {
+    "id": "490072e0c13737c4",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "泡泡玛特和瑞幸，要分同一块蛋糕？",
+    "summary": "网红小家电的逻辑要变了？",
+    "url": "https://www.tmtpost.com/8213177.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213177.html",
+    "publishedAt": "2026-11-21T05:05:42.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "泡泡玛特和瑞幸要分同一块蛋糕"
+  },
+  {
+    "id": "04e286e45ee67664",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "利润掉队，扫地茅要过紧日子",
+    "summary": "还有领先吗？",
+    "url": "https://www.tmtpost.com/8213409.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213409.html",
+    "publishedAt": "2026-11-21T05:05:34.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "利润掉队扫地茅要过紧日子"
+  },
+  {
+    "id": "ce67ed826f0e8f19",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "生死存亡时刻，老钱腾讯也“慌”了",
+    "summary": "马化腾也坐不住了。",
+    "url": "https://www.tmtpost.com/8213296.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213296.html",
+    "publishedAt": "2026-11-21T05:05:32.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "生死存亡时刻老钱腾讯也慌了"
+  },
+  {
+    "id": "d73eae295206d9c0",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "锡价一周跌超10%，全球突然不缺锡了？",
+    "summary": "印尼矿业政策再添变数，产能恢复与AI需求预期分歧扰动锡价。",
+    "url": "https://www.tmtpost.com/8213240.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213240.html",
+    "publishedAt": "2026-11-21T05:05:30.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "锡价一周跌超10全球突然不缺锡了"
+  },
+  {
+    "id": "db809b4ac5585e27",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "东南亚AI中间商之死",
+    "summary": "算力中间商的淘金时代，结束了。",
+    "url": "https://www.tmtpost.com/8213274.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213274.html",
+    "publishedAt": "2026-11-21T05:05:28.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "东南亚ai中间商之死"
+  },
+  {
+    "id": "d7944230a126c3b5",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月21日，中信证券最新研报指出，随着沿海电价重回上涨，核电的周期性电价下降风险已经消除；火电容量电价推出后，核电面临…",
+    "summary": "11月21日，中信证券最新研报指出，随着沿海电价重回上涨，核电的周期性电价下降风险已经消除；火电容量电价推出后，核电面临结构性电价下降冲击，通过政策保障以应对该…",
+    "url": "https://wallstreetcn.com/livenews/3203643",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203643",
+    "publishedAt": "2026-11-21T04:44:58.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月21日中信证券最新研报指出随着沿海电价重回上涨核电的周期性电价下降风险已经消除火电容量电价推出后核电面临"
+  },
+  {
+    "id": "e7f8faa3df02c78f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "阿根廷政府20日宣布批准将一个液化天然气项目纳入大型投资激励计划。阿根廷经济部长路易斯·卡普托在社交媒体上说，这是该国历…",
+    "summary": "阿根廷政府20日宣布批准将一个液化天然气项目纳入大型投资激励计划。",
+    "url": "https://wallstreetcn.com/livenews/3203642",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203642",
+    "publishedAt": "2026-11-21T04:24:30.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "阿根廷政府20日宣布批准将一个液化天然气项目纳入大型投资激励计划阿根廷经济部长路易斯卡普托在社交媒体上说这是该国历"
+  },
+  {
+    "id": "0c0b00f0c0336932",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "比特币跌破56000美元，日内跌超5%。",
+    "summary": "",
+    "url": "https://wallstreetcn.com/livenews/3203641",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203641",
+    "publishedAt": "2026-11-21T04:09:33.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "比特币跌破56000美元日内跌超5"
+  },
+  {
+    "id": "21bca14a7cb4a4ae",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "2026年11月20日，国家发展改革委召开政府投资资金支付使用和项目储备工作视频会议，委党组成员、副主任岳修虎同志出席并…",
+    "summary": "2026年11月20日，国家发展改革委召开政府投资资金支付使用和项目储备工作视频会议，委党组成员、副主任岳修虎同志出席并讲话。",
+    "url": "https://wallstreetcn.com/livenews/3203640",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203640",
+    "publishedAt": "2026-11-21T03:47:18.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "2026年11月20日国家发展改革委召开政府投资资金支付使用和项目储备工作视频会议委党组成员副主任岳修虎同志出席并"
+  },
+  {
+    "id": "6ac9cb18ee0c038b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "伊朗伊斯兰革命卫队公共关系部门21日在社交媒体上说，一架美军MQ-9型“死神”无人机当天在霍尔木兹海峡上空被伊斯兰革命卫…",
+    "summary": "伊朗伊斯兰革命卫队公共关系部门21日在社交媒体上说，一架美军MQ-9型“死神”无人机当天在霍尔木兹海峡上空被伊斯兰革命卫队新型防空系统拦截并击落。",
+    "url": "https://wallstreetcn.com/livenews/3203639",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203639",
+    "publishedAt": "2026-11-21T03:28:56.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "伊朗伊斯兰革命卫队公共关系部门21日在社交媒体上说一架美军mq9型死神无人机当天在霍尔木兹海峡上空被伊斯兰革命卫"
+  },
+  {
+    "id": "d87ca6882bdf4adb",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "人民日报文章指出，今年以来，一些境外媒体和机构围绕中国经济频频发难。一会儿渲染所谓“通缩陷阱”，断言中国经济增长难以为继…",
+    "summary": "人民日报文章指出，今年以来，一些境外媒体和机构围绕中国经济频频发难。",
+    "url": "https://wallstreetcn.com/livenews/3203638",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203638",
+    "publishedAt": "2026-11-21T03:21:32.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "global-channel",
+      "forex-channel",
+      "goldc-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "人民日报文章指出今年以来一些境外媒体和机构围绕中国经济频频发难一会儿渲染所谓通缩陷阱断言中国经济增长难以为继"
+  },
+  {
+    "id": "168c7cf1ca7602e0",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+    "summary": "A lack of clarity from world leaders is prompting some people to prepare for the…",
+    "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T03:20:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "techoutagesarerattlingamericanssomuchthattheyrestockpilingcashandsupplies"
+  },
+  {
+    "id": "fb4714361a0176b0",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国财政部长贝森特20日称，他依然面临来自伊朗方面的安全“威胁”，因此目前仍居住在军事基地里。贝森特接受美国消费者新闻与…",
+    "summary": "美国财政部长贝森特20日称，他依然面临来自伊朗方面的安全“威胁”，因此目前仍居住在军事基地里。",
+    "url": "https://wallstreetcn.com/livenews/3203637",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203637",
+    "publishedAt": "2026-11-21T03:05:38.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "a-stock-channel",
+      "global-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国财政部长贝森特20日称他依然面临来自伊朗方面的安全威胁因此目前仍居住在军事基地里贝森特接受美国消费者新闻与"
+  },
+  {
+    "id": "ace122c53c17d2d2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Clojure will affect the way you think about programming (2017)",
+    "summary": "",
+    "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+    "canonicalUrl": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain",
+    "publishedAt": "2026-11-21T02:40:39.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 45,
+      "comments": 13
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "clojurewillaffectthewayyouthinkaboutprogramming2017"
+  },
+  {
+    "id": "1f00c0cc8036acf4",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?feed_item_type=news",
+    "publishedAt": "2026-11-21T00:10:24.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "uso",
+      "uco",
+      "cl1:com",
+      "co1:com",
+      "xle",
+      "xop"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "oilpriceswrapupthirdstraightweeklydeclineonstrongmiddleeastsupplyoutlook"
+  },
+  {
+    "id": "068fb86a189a2c8c",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+    "summary": "Generative AI",
+    "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+    "canonicalUrl": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
+    "publishedAt": "2026-11-20T23:30:30.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "Generative AI",
+      "Machine Intelligence",
+      "Natural Language Process",
+      "Speech Processing"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "howgoogleduplexevolvedtoalsocallbusinessesforyouingemini"
+  },
+  {
+    "id": "e0c9e8f8e86eecba",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Sir Brian May adds new dimension to Hera asteroid",
+    "summary": "",
+    "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "canonicalUrl": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+    "publishedAt": "2026-11-20T23:19:44.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 84,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "sirbrianmayaddsnewdimensiontoheraasteroid"
+  },
+  {
+    "id": "cab2272acd395849",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?feed_item_type=news",
+    "publishedAt": "2026-11-20T23:16:36.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "xom"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "exxongreenlights4bangolaoilfielddevelopmentwithnewdiscoveryanpgsays"
+  },
+  {
+    "id": "70afa1816d015d85",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "黎曼猜想证明意味着…….",
+    "summary": "搞笑版： https://i.imgur.com/0Pxz9wU.jpeg 认真版：数学界之前表示难题的价值是证明他们要开发新的数学工具，拓展数学疆界。",
+    "url": "https://www.v2ex.com/t/1258688",
+    "canonicalUrl": "https://www.v2ex.com/t/1258688",
+    "publishedAt": "2026-11-20T23:03:17.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 33
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "黎曼猜想证明意味着"
+  },
+  {
+    "id": "84155b2fb4a3ab6e",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?feed_item_type=news",
+    "publishedAt": "2026-11-20T22:50:24.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "gld",
+      "gdx",
+      "iau",
+      "nugt",
+      "slv",
+      "xauusd:cur"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "goldsilverendworstweekineightmonthsbutsomeanalystsseesignsofabottom"
+  },
+  {
+    "id": "08a787eade260415",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+    "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time …",
+    "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T22:46:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "dowsp500entercorrectionasnasdaqsuffersworstweeksince2020"
+  },
+  {
+    "id": "423c37292cb6cd03",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+    "summary": "A major semiconductor index just posted its worst weekly performance in 25 years…",
+    "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T22:44:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "chipstockssee23trillionweeklywipeoutaspanicgripstheaitrade"
+  },
+  {
+    "id": "f7747afdc3ce436b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+    "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%.",
+    "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T22:44:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thesestockswerecrushedthemostthisweekasthetechwreckaccelerated"
+  },
+  {
+    "id": "1ea36757cbb9bea0",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Orange County Bancorp raises dividend by 27.85 to $0.23",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?feed_item_type=news",
+    "publishedAt": "2026-11-20T22:40:25.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "obt"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "orangecountybancorpraisesdividendby2785to023"
+  },
+  {
+    "id": "429ad5f9298cb5af",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "United Fire declares $0.20 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675379-united-fire-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675379-united-fire-declares-0_20-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-20T22:38:17.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "ufcs"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "unitedfiredeclares020dividend"
+  },
+  {
+    "id": "815981c27bba0ea7",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Bentley Systems raises dividend by 14.3% to $0.08",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?feed_item_type=news",
+    "publishedAt": "2026-11-20T22:37:34.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "bsy"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "bentleysystemsraisesdividendby143to008"
+  },
+  {
+    "id": "807d32b0c59f91b6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "summary": "",
+    "url": "https://ninlive.com/",
+    "canonicalUrl": "https://ninlive.com/",
+    "publishedAt": "2026-11-20T22:30:47.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 211,
+      "comments": 56
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ninlivethenineinchnailslivearchive"
+  },
+  {
+    "id": "3aa326656965f00e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+    "summary": "One fund manager says the continued uncertainty makes Nvidia vulnerable to more …",
+    "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T21:58:00.000Z",
+    "fetchedAt": "2026-11-20T16:56:49.400Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiasstockclinchesastretchofweeklylossesnotseensince2008"
+  },
+  {
+    "id": "78e862e64ac68b75",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+    "summary": "‘Grand Theft Auto VI’ might be a blockbuster game, but investors are shrugging i…",
+    "url": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T21:39:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "everyonesmakingmoneyoffgta6thisweekexceptinvestorsintaketwosstock"
+  },
+  {
+    "id": "6654a577f466df7e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings",
+    "summary": "A looming oversupply problem could weigh on the stock over the next year",
+    "url": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-hidden-catch-in-anthropics-ipo-billions-of-locked-up-shares-are-waiting-in-the-wings-279d33ce?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T21:39:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thehiddencatchinanthropicsipobillionsoflockedupsharesarewaitinginthewings"
+  },
+  {
+    "id": "2dfcdcf436918d2e",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+    "summary": "Cheap valuation multiples for memory stocks have historically been associated wi…",
+    "url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-20T21:36:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "micronandsandiskstocksmightlooklikebargainsbutanalystssaythatsactuallyaredflag"
+  },
+  {
+    "id": "7ed4b69b806ddc1a",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+    "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta.",
+    "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+    "publishedAt": "2026-11-20T21:04:48.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "gapnamesnewathletaceosaysoldnavyturnaroundisseeingsignsofprogress"
+  },
+  {
+    "id": "5d8bc3267fd88fb7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Inkling 2 Mini",
+    "summary": "",
+    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+    "canonicalUrl": "https://thinkingmachines.ai/news/inkling-2-mini",
+    "publishedAt": "2026-11-20T20:12:19.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 893,
+      "comments": 166
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "inkling2mini"
+  },
+  {
+    "id": "3ed76a41c415e2ff",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+    "summary": "",
+    "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+    "canonicalUrl": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+    "publishedAt": "2026-11-20T20:03:59.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 179,
+      "comments": 45
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "dreamcodercodingharnessandidefromtheauthorofmasteringemacs"
+  },
+  {
     "id": "05d7f9e1b07c925a",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -51,6 +868,53 @@
     "titleKey": "美国大豆包又发新模型neon接入antigravity后编程解题率升至三倍多"
   },
   {
+    "id": "2495873b40f26c79",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "summary": "",
+    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "canonicalUrl": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh",
+    "publishedAt": "2026-11-20T18:33:14.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1868,
+      "comments": 860
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "hurriedannouncementalessandromasullogrh"
+  },
+  {
+    "id": "481dd159f65f35da",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Dev Opportunity Radar #26: $85K Claude Corps Fellowship, a16z FDE Fellowship, and Reddit's $35K Game Hackathon",
+    "summary": "TL;DR Welcome back to Dev Opportunity Radar!",
+    "url": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
+    "canonicalUrl": "https://dev.to/devengers/dev-opportunity-radar-26-85k-claude-corps-fellowship-a16z-fde-fellowship-and-reddits-35k-2k2",
+    "publishedAt": "2026-11-20T18:28:13.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "discuss",
+      "community",
+      "opportunities",
+      "resources"
+    ],
+    "signals": {
+      "reactions": 82,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "devopportunityradar2685kclaudecorpsfellowshipa16zfdefellowshipandreddits35kgamehackathon"
+  },
+  {
     "id": "b8ab327cd2adbd40",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -83,6 +947,50 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "华为云开源昇腾原生具身世界模型cloudrobowm12两项评测均列第一"
+  },
+  {
+    "id": "4a57882e31f9410d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "We promoted developers into architects without informing them",
+    "summary": "",
+    "url": "https://manidoraisamy.com/developer-to-architect.html",
+    "canonicalUrl": "https://manidoraisamy.com/developer-to-architect.html",
+    "publishedAt": "2026-11-20T18:17:51.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 381,
+      "comments": 219
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "wepromoteddevelopersintoarchitectswithoutinformingthem"
+  },
+  {
+    "id": "cb1f4636521ff3d2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+    "summary": "",
+    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+    "canonicalUrl": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis",
+    "publishedAt": "2026-11-20T17:21:36.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 403,
+      "comments": 170
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "unforcednavierstokessingularityandthegeneralizedriemannhypothesis"
   },
   {
     "id": "5ffe9cbfbe58a478",
@@ -462,12 +1370,37 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 18,
-      "comments": 1
+      "points": 386,
+      "comments": 117
     },
     "lang": "en",
     "weight": 92,
     "titleKey": "languagemodelscanrewritetheirownweights"
+  },
+  {
+    "id": "11911a2ca74ecc43",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+    "summary": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hea…",
+    "url": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+    "canonicalUrl": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840",
+    "publishedAt": "2026-11-20T16:28:49.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "codenewbie",
+      "ai",
+      "beginners",
+      "podcast"
+    ],
+    "signals": {
+      "reactions": 29,
+      "comments": 4
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "tellusyourstoryandwemightreaditonthecodenewbiepodcast️"
   },
   {
     "id": "4a8f5df48acbdf23",
@@ -488,23 +1421,6 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "卡特彼勒股价本周已经下跌将近13恐将创2020年3月以来的最大单周跌幅这家工业风向标企业的股价目前下跌22报"
-  },
-  {
-    "id": "3aa326656965f00e",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "Nvidia’s stock heads for a stretch of weekly losses unseen since 2008",
-    "summary": "One fund manager says the continued uncertainty makes Nvidia “vulnerable” to mor…",
-    "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T16:19:00.000Z",
-    "fetchedAt": "2026-11-20T16:56:49.400Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiasstockheadsforastretchofweeklylossesunseensince2008"
   },
   {
     "id": "713e685dba3bce00",

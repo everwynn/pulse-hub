@@ -34,7 +34,7 @@
       "writing"
     ],
     "signals": {
-      "reactions": 137,
+      "reactions": 139,
       "comments": 49
     },
     "lang": "en",
@@ -929,8 +929,8 @@
       "agents"
     ],
     "signals": {
-      "reactions": 189,
-      "comments": 165
+      "reactions": 205,
+      "comments": 182
     },
     "lang": "en",
     "weight": 60,
@@ -2872,6 +2872,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "ifyouownanasdaq100fundyoullownanthropicsharesafter15tradingdayswhetheryouwanttoornot"
+  },
+  {
+    "id": "64963bf5c53171b8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
+    "summary": "",
+    "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
+    "canonicalUrl": "https://valkey.io/blog/from-skiplist-to-b+tree",
+    "publishedAt": "2026-11-17T16:58:30.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 104,
+      "comments": 37
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "valkeykillstheskiplistcutssortedsetoverheadbyupto43"
   },
   {
     "id": "c3e6923d7155cdc1",

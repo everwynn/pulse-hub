@@ -146,6 +146,27 @@
     "titleKey": "whytherearestillnononwebkitbrowsersonios"
   },
   {
+    "id": "5452e62a2462dbcb",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "黎曼猜想被证明了？",
+    "summary": "alpo.ge/remark.pdf",
+    "url": "https://www.v2ex.com/t/1258665",
+    "canonicalUrl": "https://www.v2ex.com/t/1258665",
+    "publishedAt": "2026-11-20T14:53:55.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 47
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "黎曼猜想被证明了"
+  },
+  {
     "id": "c7ae0009634e883b",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -180,11 +201,32 @@
     "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
   },
   {
+    "id": "1e009a423bba09b1",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "想偷偷出钱，做个让爸妈锻炼打卡就能提现的 App，怎么实现？",
+    "summary": "我有一个思路：我父母年龄大了，肌肉流失比较快，为了鼓励他们做抗阻运动，我想到了一个办法。",
+    "url": "https://www.v2ex.com/t/1258661",
+    "canonicalUrl": "https://www.v2ex.com/t/1258661",
+    "publishedAt": "2026-11-20T14:27:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 37
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "想偷偷出钱做个让爸妈锻炼打卡就能提现的app怎么实现"
+  },
+  {
     "id": "218425b85e471362",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+    "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
     "summary": "",
     "url": "https://alpo.ge/remark.pdf",
     "canonicalUrl": "https://alpo.ge/remark.pdf",
@@ -194,12 +236,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1168,
-      "comments": 758
+      "points": 2524,
+      "comments": 1743
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "anthropicemployeeclaimsgeneralproofoftheriemannhypothesispdf"
+    "titleKey": "leventalpögeclaimsproofofthegeneralizedriemannhypothesispdf"
   },
   {
     "id": "ce34f69b623cefc2",
@@ -391,6 +433,27 @@
     "titleKey": "无限滚动自动播放有害社会"
   },
   {
+    "id": "cf56654ae5c1f6a6",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "许愿式编程会取代程序员吗？",
+    "summary": "在这周 [Tab 星期四](https://tabthursday.com/about)认识一个团队，他们在做一个用 app 许愿编程做 app 的 agent…",
+    "url": "https://www.v2ex.com/t/1258629",
+    "canonicalUrl": "https://www.v2ex.com/t/1258629",
+    "publishedAt": "2026-11-20T10:39:11.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 31
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "许愿式编程会取代程序员吗"
+  },
+  {
     "id": "85215c60e09a713d",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -481,6 +544,23 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "frostbiteanewcpuarchitecturediscovereddesignedandverifiedbyai"
+  },
+  {
+    "id": "3a92b83a9bd66f08",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Combatting adversarial distillation",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, s…",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "canonicalUrl": "https://openai.com/index/combatting-adversarial-distillation",
+    "publishedAt": "2026-11-20T10:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "combattingadversarialdistillation"
   },
   {
     "id": "8e691a801efaa796",
@@ -595,6 +675,27 @@
     "titleKey": "vintcerf谈tcpip为何从未申请专利"
   },
   {
+    "id": "1f826075a01ec4b5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[更新] iPhone 上远程使用 ClaudeCode 等 Coding Agent 的 UULink 重磅更新，这回征集 Windows 测试用户，另外还是长期送兑换码给真正需要的朋友",
+    "summary": "大家好 👋 一个月前我在这里发布了 UULink 的第一个版本（[写了个 iPhone 远程用 Mac 上 Claude Code / Codex 的 App，…",
+    "url": "https://www.v2ex.com/t/1258620",
+    "canonicalUrl": "https://www.v2ex.com/t/1258620",
+    "publishedAt": "2026-11-20T09:35:27.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 45
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "更新iphone上远程使用claudecode等codingagent的uulink重磅更新这回征集windows测试用户另外还是长期送兑换码给真正需要的朋友"
+  },
+  {
     "id": "8e060a2a37f3c95f",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -686,6 +787,48 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "韩国利用紧急短信等方法抓住了111起高考作弊"
+  },
+  {
+    "id": "34ec7fd55d8d2063",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "逆向了 macOS 屏幕共享的高性能模式，做了个免费的 iPhone / iPad 连 Mac 远程桌面",
+    "summary": "做了个 iPhone / iPad 连 Mac 的远程桌面，叫 Ferry。",
+    "url": "https://www.v2ex.com/t/1258592",
+    "canonicalUrl": "https://www.v2ex.com/t/1258592",
+    "publishedAt": "2026-11-20T08:10:14.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 29
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "逆向了macos屏幕共享的高性能模式做了个免费的iphoneipad连mac远程桌面"
+  },
+  {
+    "id": "513f4720d00a6684",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "在清华读了一年非全后的感受",
+    "summary": "1.世界是个巨大的草台班子，包括清华 2.在清华没有人会督促你学习，需要更多的自制力，你很自由，除了你自己没有人会为你负责 3.清华的绝大部分的学生很努力很卷，…",
+    "url": "https://www.v2ex.com/t/1258591",
+    "canonicalUrl": "https://www.v2ex.com/t/1258591",
+    "publishedAt": "2026-11-20T08:08:10.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "清华大学"
+    ],
+    "signals": {
+      "replies": 49
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "在清华读了一年非全后的感受"
   },
   {
     "id": "68e0c214e7d5c2e7",
@@ -846,6 +989,27 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "外交部发言人宣布应新加坡副总理颜金勇邀请中共中央政治局常委国务院副总理丁薛祥将于11月22日至23日访问新加坡同"
+  },
+  {
+    "id": "56bf5f5427d47d60",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[送码] 波波小红书获客助手：养号、AI 自动评论、自动发现线索（自己天天在用的小工具）",
+    "summary": "我是 gybin02，之前在这儿发过这个小工具的介绍帖，这次换个方式：直接送码。",
+    "url": "https://www.v2ex.com/t/1258559",
+    "canonicalUrl": "https://www.v2ex.com/t/1258559",
+    "publishedAt": "2026-11-20T07:04:33.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 47
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "送码波波小红书获客助手养号ai自动评论自动发现线索自己天天在用的小工具"
   },
   {
     "id": "7ac376ed48d08cf4",
@@ -1803,6 +1967,59 @@
     "titleKey": "我的app火了然后苹果威胁要关闭我的开发者账号"
   },
   {
+    "id": "347f8b599dab4af5",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "summary": "Hebbia tested GPT-6 Astra for financial research.",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "canonicalUrl": "https://openai.com/business/customer-stories/hebbia",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "hebbiaseesimprovementsinfinancialresearchwithgpt6astra"
+  },
+  {
+    "id": "883854fb910b3625",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason…",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "canonicalUrl": "https://openai.com/index/introducing-medchembench",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "Research"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "canaihelpscientistsidentifypromisingdrugcandidates"
+  },
+  {
+    "id": "4bee9f54dfd1d51f",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "summary": "",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "canonicalUrl": "https://huggingface.co/blog/inkling2mini",
+    "publishedAt": "2026-11-20T00:00:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "welcomeinkling2minicuttingedgeperformanceforyourlocalsetup"
+  },
+  {
     "id": "ec5c775dd88f78e6",
     "sourceId": "huggingface-blog",
     "sourceName": "Hugging Face Blog",
@@ -1835,23 +2052,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "afteranthropicsbittersweetipohereswhatliesahead"
-  },
-  {
-    "id": "7ed4b69b806ddc1a",
-    "sourceId": "cnbc-earnings",
-    "sourceName": "CNBC · 财报",
-    "channel": "finance",
-    "title": "Gap names new Athleta CEO, lowers full-year guidance",
-    "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta.",
-    "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-    "canonicalUrl": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-    "publishedAt": "2026-11-19T23:54:20.000Z",
-    "fetchedAt": "2026-11-20T07:10:47.307Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 82,
-    "titleKey": "gapnamesnewathletaceolowersfullyearguidance"
   },
   {
     "id": "db377907b755cdaf",

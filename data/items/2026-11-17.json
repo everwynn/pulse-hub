@@ -215,7 +215,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 78,
+      "reactions": 81,
       "comments": 28
     },
     "lang": "en",
@@ -438,7 +438,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "gylive/google-ultra",
-    "summary": "Python · ★ 2520",
+    "summary": "Python · ★ 2553",
     "url": "https://github.com/gylive/google-ultra",
     "canonicalUrl": "https://github.com/gylive/google-ultra",
     "publishedAt": "2026-11-17T10:21:54.000Z",
@@ -447,8 +447,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2520,
-      "forks": 57
+      "stars": 2553,
+      "forks": 68
     },
     "lang": "en",
     "weight": 90,
@@ -1908,8 +1908,8 @@
       "C++"
     ],
     "signals": {
-      "stars": 5134,
-      "forks": 431
+      "stars": 5437,
+      "forks": 455
     },
     "lang": "en",
     "weight": 90,
@@ -1957,8 +1957,8 @@
       "llm"
     ],
     "signals": {
-      "stars": 1308,
-      "forks": 117
+      "stars": 1380,
+      "forks": 125
     },
     "lang": "en",
     "weight": 90,

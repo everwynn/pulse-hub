@@ -184,8 +184,8 @@
       "jokes"
     ],
     "signals": {
-      "reactions": 194,
-      "comments": 172
+      "reactions": 199,
+      "comments": 178
     },
     "lang": "en",
     "weight": 60,
@@ -214,7 +214,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "chuanqisun/spaceship",
-    "summary": "Steer your ideas in realtime · HTML · ★ 880",
+    "summary": "Steer ideas like a space pilot!",
     "url": "https://github.com/chuanqisun/spaceship",
     "canonicalUrl": "https://github.com/chuanqisun/spaceship",
     "publishedAt": "2026-11-16T14:43:45.000Z",
@@ -223,8 +223,8 @@
       "HTML"
     ],
     "signals": {
-      "stars": 880,
-      "forks": 90
+      "stars": 997,
+      "forks": 105
     },
     "lang": "en",
     "weight": 90,
@@ -371,8 +371,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 6312,
-      "forks": 497
+      "stars": 6852,
+      "forks": 544
     },
     "lang": "en",
     "weight": 90,
@@ -821,6 +821,28 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "阿里正式发布qwen4智能体及编程能力进阶迈向真实全场景"
+  },
+  {
+    "id": "1a166956a304d63a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "siliconjungle/shapeshift-labs-ink-studio",
+    "summary": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats · Java…",
+    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+    "canonicalUrl": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+    "publishedAt": "2026-11-16T07:44:00.000Z",
+    "fetchedAt": "2026-11-21T07:02:04.652Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "signals": {
+      "stars": 890,
+      "forks": 72
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "siliconjungleshapeshiftlabsinkstudio"
   },
   {
     "id": "2d917cd83257a654",
@@ -2218,8 +2240,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1231,
-      "forks": 34
+      "stars": 1263,
+      "forks": 36
     },
     "lang": "en",
     "weight": 90,
