@@ -34,7 +34,7 @@
       "writing"
     ],
     "signals": {
-      "reactions": 148,
+      "reactions": 150,
       "comments": 51
     },
     "lang": "en",
@@ -951,8 +951,8 @@
       "agents"
     ],
     "signals": {
-      "reactions": 229,
-      "comments": 195
+      "reactions": 236,
+      "comments": 207
     },
     "lang": "en",
     "weight": 60,

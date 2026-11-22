@@ -181,23 +181,6 @@
     "titleKey": "trumpthreatenstremendoustaxonusfirmsbuildingdatacentersabroad"
   },
   {
-    "id": "be02a2bdafdea340",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
-    "summary": "“We have $2.9 million in retirement accounts.",
-    "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-21T14:42:00.000Z",
-    "fetchedAt": "2026-11-21T16:08:15.035Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "myhusbandspent80000onaboatyetsaysmyplansfora100000potterystudioareirresponsiblewhosright"
-  },
-  {
     "id": "a1f022a5c119921e",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -215,6 +198,33 @@
     "titleKey": "地球28光年外发现一个三星系统"
   },
   {
+    "id": "3284edade523d295",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "EL4CTEO/fast-anything",
+    "summary": "Don't rewrite it in Rust.",
+    "url": "https://github.com/EL4CTEO/fast-anything",
+    "canonicalUrl": "https://github.com/EL4CTEO/fast-anything",
+    "publishedAt": "2026-11-21T14:40:27.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "Rust",
+      "agent-skills",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "codex"
+    ],
+    "signals": {
+      "stars": 1298,
+      "forks": 83
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "el4cteofastanything"
+  },
+  {
     "id": "2190862fcb19b60c",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -229,8 +239,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 943,
-      "comments": 807
+      "points": 1147,
+      "comments": 955
     },
     "lang": "en",
     "weight": 92,
@@ -293,6 +303,44 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "howabrutalweekforstocksalmostwipedouttheirgainsfortheentireyear"
+  },
+  {
+    "id": "6d26df09bb039ac3",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/511855.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511855.html",
+    "publishedAt": "2026-11-21T14:14:09.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "ai给乐队现场搓mv这是黑客松还是音乐节啊"
+  },
+  {
+    "id": "e3c06ec1c2df6da3",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "中国计算，走出新的登峰之路",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/511849.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511849.html",
+    "publishedAt": "2026-11-21T14:09:59.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国计算走出新的登峰之路"
   },
   {
     "id": "0671909634e9c6ba",
@@ -581,6 +629,63 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "欧盟委员会主席冯德莱恩称欧盟与印度尼西亚印尼签署了综合性经济合作伙伴协议与投资保护协议以期促进贸易与投资欧盟"
+  },
+  {
+    "id": "74a3888a14bd1f9d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/511841.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511841.html",
+    "publishedAt": "2026-11-21T11:40:11.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "8万条群聊消息做成考卷腾讯元宝kcl发布首个基于群聊构建的agent记忆基准"
+  },
+  {
+    "id": "7086965187f4d409",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/511830.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511830.html",
+    "publishedAt": "2026-11-21T11:34:18.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "全网疯传grok一姐教你如何月提交3000个pr"
+  },
+  {
+    "id": "7e376b1faea8b86c",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/511791.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511791.html",
+    "publishedAt": "2026-11-21T11:24:29.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "反超gemini之后karpo新作再开源浏览器agent速效双赢"
   },
   {
     "id": "394a1fcbcc1963a9",
@@ -1755,7 +1860,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "hatsunemiku-ai/google-one-tools",
-    "summary": "Python · ★ 1142",
+    "summary": "Python · ★ 1233",
     "url": "https://github.com/hatsunemiku-ai/google-one-tools",
     "canonicalUrl": "https://github.com/hatsunemiku-ai/google-one-tools",
     "publishedAt": "2026-11-20T22:12:47.000Z",
@@ -1764,8 +1869,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 1142,
-      "forks": 536
+      "stars": 1233,
+      "forks": 570
     },
     "lang": "en",
     "weight": 90,
@@ -1876,8 +1981,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 866,
-      "comments": 201
+      "points": 1213,
+      "comments": 265
     },
     "lang": "en",
     "weight": 92,
@@ -1920,8 +2025,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 7558,
-      "forks": 595
+      "stars": 11666,
+      "forks": 915
     },
     "lang": "en",
     "weight": 90,
@@ -2123,8 +2228,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 1021,
-      "forks": 98
+      "stars": 1204,
+      "forks": 116
     },
     "lang": "en",
     "weight": 90,
@@ -2560,7 +2665,7 @@
       "podcast"
     ],
     "signals": {
-      "reactions": 39,
+      "reactions": 41,
       "comments": 7
     },
     "lang": "en",

@@ -795,7 +795,7 @@
       "ai"
     ],
     "signals": {
-      "reactions": 31,
+      "reactions": 32,
       "comments": 1
     },
     "lang": "en",
@@ -2134,6 +2134,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "anthropicsstocksurgesinitsdebutandtherestofthemarketdivesanyway"
+  },
+  {
+    "id": "0636469b4f7bfdb1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Self-hosted library branch over public web OPDS",
+    "summary": "",
+    "url": "https://joinmayberry.com/",
+    "canonicalUrl": "https://joinmayberry.com/",
+    "publishedAt": "2026-11-19T21:15:47.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 71,
+      "comments": 21
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "selfhostedlibrarybranchoverpublicwebopds"
   },
   {
     "id": "2d55e17e44545c8e",
