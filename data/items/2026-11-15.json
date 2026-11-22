@@ -1488,30 +1488,6 @@
     "titleKey": "jync捷同v221发布告警通知支持中英文cdc与etl可靠性修复"
   },
   {
-    "id": "e1722616b5276d79",
-    "sourceId": "seekingalpha-news",
-    "sourceName": "Seeking Alpha · 快讯",
-    "channel": "finance",
-    "title": "Here are the major earnings before the open Monday",
-    "summary": "",
-    "url": "https://seekingalpha.com/news/4672778-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-    "canonicalUrl": "https://seekingalpha.com/news/4672778-here-are-the-major-earnings-before-the-open-monday?feed_item_type=news",
-    "publishedAt": "2026-11-14T23:00:57.000Z",
-    "fetchedAt": "2026-11-15T06:24:58.882Z",
-    "tags": [
-      "bidu",
-      "bldp",
-      "tsn",
-      "htht",
-      "xxii",
-      "armk"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 58,
-    "titleKey": "herearethemajorearningsbeforetheopenmonday"
-  },
-  {
     "id": "7c2d6769b710232f",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",

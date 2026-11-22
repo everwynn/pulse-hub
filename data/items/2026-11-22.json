@@ -1,5 +1,838 @@
 [
   {
+    "id": "87cfdb6b1c226020",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt",
+    "publishedAt": "2026-11-22T11:00:00.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "pinterest联合英特尔将开源性能分析推向互联网级规模"
+  },
+  {
+    "id": "70f8debcae317d18",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C",
+    "publishedAt": "2026-11-22T10:00:00.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "智能体身份国际标准化体系布局与研制实践aicon北京"
+  },
+  {
+    "id": "215032d6a212c3a2",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY",
+    "publishedAt": "2026-11-22T10:00:00.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "亚马逊云科技推出torchneuron可以直接在awstrainium上运行pytorch模型无需任何修改"
+  },
+  {
+    "id": "f306ed4c97d76aba",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国地震台网正式测定：11月22日14时30分，在四川雅安市石棉县（北纬29.28度，东经102.19度）发生3.3级地…",
+    "summary": "中国地震台网正式测定：11月22日14时30分，在四川雅安市石棉县（北纬29.28度，东经102.19度）发生3.3级地震，震源深度13公里。",
+    "url": "https://wallstreetcn.com/livenews/3203717",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203717",
+    "publishedAt": "2026-11-22T06:41:08.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国地震台网正式测定11月22日14时30分在四川雅安市石棉县北纬2928度东经10219度发生33级地"
+  },
+  {
+    "id": "301d94d55392eb92",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "据伊朗官方媒体报道，由于中东地区战事导致伊朗关键基础设施受损、加剧该国能源危机，伊朗定于22日起实施轮流断电措施。伊朗国…",
+    "summary": "据伊朗官方媒体报道，由于中东地区战事导致伊朗关键基础设施受损、加剧该国能源危机，伊朗定于22日起实施轮流断电措施。",
+    "url": "https://wallstreetcn.com/livenews/3203716",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203716",
+    "publishedAt": "2026-11-22T06:19:09.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "据伊朗官方媒体报道由于中东地区战事导致伊朗关键基础设施受损加剧该国能源危机伊朗定于22日起实施轮流断电措施伊朗国"
+  },
+  {
+    "id": "9ff7ddf3b348c0dd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "大众花巨资买软件，想拿回什么？",
+    "summary": "CARIAD连亏三年，大众换了开发方式",
+    "url": "https://www.tmtpost.com/8213748.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213748.html",
+    "publishedAt": "2026-11-22T06:17:13.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "大众花巨资买软件想拿回什么"
+  },
+  {
+    "id": "d38a4afa1d788540",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "中设集团总包，7.5亿美元光伏电站项目落地非洲，央国企EPC不再只卖电站",
+    "summary": "赤几签500MWp光储框架，中资分层分担风险推进。",
+    "url": "https://www.tmtpost.com/8213796.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213796.html",
+    "publishedAt": "2026-11-22T06:17:03.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "中设集团总包75亿美元光伏电站项目落地非洲央国企epc不再只卖电站"
+  },
+  {
+    "id": "b3accfe97a0c8e48",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "将靶材卖进台积电，江丰电子布局A+H，第二增长曲线成色待考",
+    "summary": "做到全球第二，利润成色才是硬仗。",
+    "url": "https://www.tmtpost.com/8213764.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213764.html",
+    "publishedAt": "2026-11-22T06:16:53.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "将靶材卖进台积电江丰电子布局ah第二增长曲线成色待考"
+  },
+  {
+    "id": "08a959cece7255d7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "GTA6为何封神？",
+    "summary": "当地时间 11 月 20 日，Rockstar Games 公布数据：《侠盗猎车手 6》（下称《GTA6》）首发当日全球零售额高达 37.9 亿美元，一举刷新跨…",
+    "url": "https://www.tmtpost.com/8213679.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213679.html",
+    "publishedAt": "2026-11-22T06:16:49.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "gta6为何封神"
+  },
+  {
+    "id": "c9ccb26bdeaeaa72",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Anthropic万亿上市，搅动的却是半导体江湖",
+    "summary": "大买主登陆公开市场，芯片、代工与存储环节都在随之调整。",
+    "url": "https://www.tmtpost.com/8213769.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213769.html",
+    "publishedAt": "2026-11-22T06:16:44.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "anthropic万亿上市搅动的却是半导体江湖"
+  },
+  {
+    "id": "24b2467f8d89413d",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "泰国加税，最着急的可能是已经建厂的中国车企",
+    "summary": "这道税，泰国准备了半年。",
+    "url": "https://www.tmtpost.com/8213763.html",
+    "canonicalUrl": "https://www.tmtpost.com/8213763.html",
+    "publishedAt": "2026-11-22T06:09:30.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "泰国加税最着急的可能是已经建厂的中国车企"
+  },
+  {
+    "id": "f8441e7104aeaf2d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: The Riemann Proof Handbook",
+    "summary": "",
+    "url": "https://github.com/tamnd/riemann-handbook",
+    "canonicalUrl": "https://github.com/tamnd/riemann-handbook",
+    "publishedAt": "2026-11-22T05:46:30.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 4,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhntheriemannproofhandbook"
+  },
+  {
+    "id": "2a6fc6cf1c33fad6",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "近日，国家数据局党组书记、局长刘烈宏带队赴江西省南昌市，实地调研江西省数字产业集团有限公司、华润江中药业股份有限公司、江…",
+    "summary": "近日，国家数据局党组书记、局长刘烈宏带队赴江西省南昌市，实地调研江西省数字产业集团有限公司、华润江中药业股份有限公司、江西一脉阳光集团股份有限公司、江西时刻互动…",
+    "url": "https://wallstreetcn.com/livenews/3203715",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203715",
+    "publishedAt": "2026-11-22T05:43:55.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "近日国家数据局党组书记局长刘烈宏带队赴江西省南昌市实地调研江西省数字产业集团有限公司华润江中药业股份有限公司江"
+  },
+  {
+    "id": "ff8657f195376c0b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月22日，第二艘国产大型邮轮“爱达·花城号”搭载3800余名宾客，从广州南沙国际邮轮母港出发，前往中国香港、越南顺化…",
+    "summary": "11月22日，第二艘国产大型邮轮“爱达·花城号”搭载3800余名宾客，从广州南沙国际邮轮母港出发，前往中国香港、越南顺化（真美），正式开启6天5晚的商业首航，标…",
+    "url": "https://wallstreetcn.com/livenews/3203714",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203714",
+    "publishedAt": "2026-11-22T04:31:45.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月22日第二艘国产大型邮轮爱达花城号搭载3800余名宾客从广州南沙国际邮轮母港出发前往中国香港越南顺化"
+  },
+  {
+    "id": "a8d84623779125c3",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说，将寻求与伊朗达成一项永久性协议。特朗普说：“我所做的是，我要…",
+    "summary": "美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说，将寻求与伊朗达成一项永久性协议。",
+    "url": "https://wallstreetcn.com/livenews/3203713",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203713",
+    "publishedAt": "2026-11-22T04:05:48.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "美国总统特朗普在美国福克斯新闻频道21日播出的采访节目中说将寻求与伊朗达成一项永久性协议特朗普说我所做的是我要"
+  },
+  {
+    "id": "16121ccb6c962f7a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+    "summary": "",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "canonicalUrl": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs",
+    "publishedAt": "2026-11-22T04:04:56.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 253,
+      "comments": 116
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "toyotanissanandhondatostandardizepartstolowercosts"
+  },
+  {
+    "id": "8da7c595c652730d",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "从国铁青藏集团公司了解到，受昨晚（21日）青海省海西州地震影响扣停的部分青藏铁路列车，经铁路部门巡检确认线路设备完好，今…",
+    "summary": "从国铁青藏集团公司了解到，受昨晚（21日）青海省海西州地震影响扣停的部分青藏铁路列车，经铁路部门巡检确认线路设备完好，今天已限速恢复运行。",
+    "url": "https://wallstreetcn.com/livenews/3203712",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203712",
+    "publishedAt": "2026-11-22T03:49:12.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "从国铁青藏集团公司了解到受昨晚21日青海省海西州地震影响扣停的部分青藏铁路列车经铁路部门巡检确认线路设备完好今"
+  },
+  {
+    "id": "6e0ac936033e4fa2",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "今天（22日）从国家数据局了解到，作为数据流通利用的新载体，我国首批可信数据空间创新发展试点取得阶段性进展。国家数据局相…",
+    "summary": "今天（22日）从国家数据局了解到，作为数据流通利用的新载体，我国首批可信数据空间创新发展试点取得阶段性进展。",
+    "url": "https://wallstreetcn.com/livenews/3203711",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203711",
+    "publishedAt": "2026-11-22T03:38:55.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "今天22日从国家数据局了解到作为数据流通利用的新载体我国首批可信数据空间创新发展试点取得阶段性进展国家数据局相"
+  },
+  {
+    "id": "2dd154694dd10593",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "近日，美国人工智能企业Anthropic的数学家，宣称与自家研发的大模型Claude合作，证明了黎曼猜想。对此，丘成桐在…",
+    "summary": "近日，美国人工智能企业Anthropic的数学家，宣称与自家研发的大模型Claude合作，证明了黎曼猜想。",
+    "url": "https://wallstreetcn.com/livenews/3203710",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203710",
+    "publishedAt": "2026-11-22T03:29:03.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "近日美国人工智能企业anthropic的数学家宣称与自家研发的大模型claude合作证明了黎曼猜想对此丘成桐在"
+  },
+  {
+    "id": "d38b04e58d7828ba",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间22日，韩国教育部长官崔教振辞去职务，为韩国2027年度大学修学能力考试（韩国高考）期间防范高科技作弊措施不足引…",
+    "summary": "当地时间22日，韩国教育部长官崔教振辞去职务，为韩国2027年度大学修学能力考试（韩国高考）期间防范高科技作弊措施不足引发混乱而承担责任。",
+    "url": "https://wallstreetcn.com/livenews/3203709",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203709",
+    "publishedAt": "2026-11-22T03:10:07.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间22日韩国教育部长官崔教振辞去职务为韩国2027年度大学修学能力考试韩国高考期间防范高科技作弊措施不足引"
+  },
+  {
+    "id": "30e9ab1292ed558b",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "中国石油天然气集团有限公司党组成员、副总经理谢军涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。（新华社…",
+    "summary": "中国石油天然气集团有限公司党组成员、副总经理谢军涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+    "url": "https://wallstreetcn.com/livenews/3203708",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3203708",
+    "publishedAt": "2026-11-22T03:01:33.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "global-channel",
+      "a-stock-channel",
+      "xgb-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "中国石油天然气集团有限公司党组成员副总经理谢军涉嫌严重违纪违法目前正接受中央纪委国家监委纪律审查和监察调查新华社"
+  },
+  {
+    "id": "05ed2d6555d7e25c",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Most Popular Car Colors in America",
+    "summary": "",
+    "url": "https://www.iseecars.com/most-popular-car-colors-study",
+    "canonicalUrl": "https://www.iseecars.com/most-popular-car-colors-study",
+    "publishedAt": "2026-11-22T02:47:18.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 21,
+      "comments": 33
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "themostpopularcarcolorsinamerica"
+  },
+  {
+    "id": "d2d5d6bd979abece",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Senate passes bipartisan bill to cut permitting times for energy projects; House to vote next month",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675399-senate-passes-bipartisan-bill-to-cut-permitting-times-for-energy-projects-house-to-vote-next-month?feed_item_type=news",
+    "publishedAt": "2026-11-22T02:30:34.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "xle",
+      "xlu",
+      "xop"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "senatepassesbipartisanbilltocutpermittingtimesforenergyprojectshousetovotenextmonth"
+  },
+  {
+    "id": "f3eb5ae2a74b3b27",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Data Processing Incidents on Inference Providers",
+    "summary": "",
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "canonicalUrl": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+    "publishedAt": "2026-11-22T02:14:14.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 94,
+      "comments": 32
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "dataprocessingincidentsoninferenceproviders"
+  },
+  {
+    "id": "f869d83e9b949269",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "Google 黑五 1 年 100 刀的活动，和现在 APP 上 15 刀 3 个月的活动能叠加吗？",
+    "summary": "几个问题请教下有订阅经验的朋友 1.",
+    "url": "https://www.v2ex.com/t/1258850",
+    "canonicalUrl": "https://www.v2ex.com/t/1258850",
+    "publishedAt": "2026-11-22T01:49:43.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 46
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "google黑五1年100刀的活动和现在app上15刀3个月的活动能叠加吗"
+  },
+  {
+    "id": "eb0177997287db06",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "summary": "“I’m exhausted.",
+    "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T01:15:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "myhusbandishappilyretiredat64andthinksishouldkeepworkingishebeingfair"
+  },
+  {
+    "id": "1330c06bdf617099",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "为什么没有 AI 攻克医学难题的消息？是因为跨学科吗？",
+    "summary": "计算机背后都是数学，所以数学难题很容易攻克，属于专业对口吗？",
+    "url": "https://www.v2ex.com/t/1258845",
+    "canonicalUrl": "https://www.v2ex.com/t/1258845",
+    "publishedAt": "2026-11-22T00:43:29.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 39
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "为什么没有ai攻克医学难题的消息是因为跨学科吗"
+  },
+  {
+    "id": "649bb149cc94154d",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Sandwich Simulator",
+    "summary": "",
+    "url": "https://stulle.app/",
+    "canonicalUrl": "https://stulle.app/",
+    "publishedAt": "2026-11-22T00:07:59.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 137,
+      "comments": 52
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "sandwichsimulator"
+  },
+  {
+    "id": "f6802cfd21c1d562",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+    "summary": "“Hotel rooms can cost as much as $400 per night.”",
+    "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T00:03:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "mywifeisbankrollingherfamilystripstonewyorkanditsdrainingoursavingsshouldiaskhertostop"
+  },
+  {
+    "id": "a5211fc08696ab02",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66%…",
+    "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T23:05:00.000Z",
+    "fetchedAt": "2026-11-17T07:51:41.962Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "iminmy40sshouldiacceptalowerpensioninexchangefornamingmyhusbandorchildasabeneficiary"
+  },
+  {
+    "id": "22f7dc17186dbabf",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Here are the major earnings before the open Monday",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?feed_item_type=news",
+    "publishedAt": "2026-11-21T23:00:39.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "vnet",
+      "blrx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "herearethemajorearningsbeforetheopenmonday"
+  },
+  {
+    "id": "e342705523af0d02",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+    "summary": "",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "canonicalUrl": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "publishedAt": "2026-11-21T22:09:58.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 99,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "pcapanalyzerselfhostedpcapanalyzerwith27problemdetectors"
+  },
+  {
+    "id": "75053fa4881775ab",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?feed_item_type=news",
+    "publishedAt": "2026-11-21T20:15:24.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "zs",
+      "crwd",
+      "mtz",
+      "insm",
+      "sny",
+      "panw"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "keydealsthisweekpanwfangzsllyandmore"
+  },
+  {
+    "id": "01a42215d29efca9",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+    "summary": "“It is devastating when the people you should be able to trust become the very p…",
+    "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T20:15:00.000Z",
+    "fetchedAt": "2026-11-17T17:37:39.442Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "itsdownrightdirtymybrothermovedinwithourailingmotherandclosedherbankaccountwhatcanido"
+  },
+  {
+    "id": "bb34dcfefe7170f0",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Nvidia probe in California extends to potential criminal violations: Bloomberg",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675398-nvidia-probed-over-criminal-violations-california?feed_item_type=news",
+    "publishedAt": "2026-11-21T19:46:27.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "nvda"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "nvidiaprobeincaliforniaextendstopotentialcriminalviolationsbloomberg"
+  },
+  {
+    "id": "3edede0944e40719",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T19:45:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ivebeenastayathomemomim50andhaveachronicillnessmyhusbandlosthisjobshouldheraidhis401k"
+  },
+  {
+    "id": "e7beb4c58a0ef3ee",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+    "summary": "The few buyers left in the market braving record-high home prices and 7% mortgag…",
+    "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T19:45:00.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "buyersareoutforbloodwithhomesalesatarecordlowbuyersarecallingtheshots"
+  },
+  {
+    "id": "8f6ef991e92d55ef",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Trump to work with Dems to cap credit card interest rates",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675397-trump-work-with-dems-cap-credit-card-interest-rate?feed_item_type=news",
+    "publishedAt": "2026-11-21T18:34:27.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "bac",
+      "c",
+      "jpm",
+      "axp",
+      "cof",
+      "bfh"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "trumptoworkwithdemstocapcreditcardinterestrates"
+  },
+  {
+    "id": "894b0f6f3ae3d7d9",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+    "summary": "This one, simple, low-pain tax solves all the problems.",
+    "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T18:20:00.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "americaisdefinitelyrichenoughtofixsocialsecurityandmedicarehereshow"
+  },
+  {
+    "id": "10600c0acddb6d9b",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+    "summary": "There are plenty of rich and influential women in the U.S.",
+    "url": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-21T18:19:00.000Z",
+    "fetchedAt": "2026-11-21T16:08:15.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nevertoolatetostartpracticalinvestingadvicefromsomeofthetopwomeninfinance"
+  },
+  {
+    "id": "ffbbdfd44a19ff4a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Amazon nearing $7.5B deal to buy AI start-up Decart: FT",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675396-amazon-nears-75b-deal-buy-ai-start-up-decart?feed_item_type=news",
+    "publishedAt": "2026-11-21T18:04:35.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "amzn",
+      "nvda"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "amazonnearing75bdealtobuyaistartupdecartft"
+  },
+  {
+    "id": "5045d47458ab0ec8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Inkling-2-Mini in 5.4 GB Memory",
+    "summary": "",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "canonicalUrl": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "publishedAt": "2026-11-21T18:02:19.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 425,
+      "comments": 107
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "inkling2miniin54gbmemory"
+  },
+  {
     "id": "6e3da8b817cb3a23",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",

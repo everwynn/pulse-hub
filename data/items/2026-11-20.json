@@ -779,6 +779,30 @@
     "titleKey": "给万卡国产芯装个超级外挂清华团队要造最强国产token工厂"
   },
   {
+    "id": "d8a07f55f0ec36c4",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "I can't believe the podcast I learned to code with is back!",
+    "summary": "Hi friends! 👋 Okay, storytime 🎬 Felt the urge to share this here too, since DEV …",
+    "url": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+    "canonicalUrl": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5",
+    "publishedAt": "2026-11-20T08:55:01.000Z",
+    "fetchedAt": "2026-11-22T06:43:08.434Z",
+    "tags": [
+      "codenewbie",
+      "podcast",
+      "ai"
+    ],
+    "signals": {
+      "reactions": 31,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "icantbelievethepodcastilearnedtocodewithisback"
+  },
+  {
     "id": "a84836784f69cda9",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -1792,23 +1816,6 @@
     "titleKey": "x也被封了难受"
   },
   {
-    "id": "f6802cfd21c1d562",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
-    "summary": "“Hotel rooms can cost as much as $400 per night.”",
-    "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-20T01:22:00.000Z",
-    "fetchedAt": "2026-11-20T07:10:47.307Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "mywifeisbankrollingherfamilystripstonewyorkanditsdrainingoursavingsshouldiaskhertostop"
-  },
-  {
     "id": "5478e51bc4965350",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -2502,23 +2509,6 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "房地美最新数据显示美国上周30年期按揭贷款抵押贷款利率728创10月22日以来新高这是借贷成本连续第九周高"
-  },
-  {
-    "id": "3edede0944e40719",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-    "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-19T17:00:00.000Z",
-    "fetchedAt": "2026-11-18T17:14:38.805Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ivebeenastayathomemomim50andhaveachronicillnessmyhusbandlosthisjobshouldheraidhis401k"
   },
   {
     "id": "0d1b74a9064589b8",
