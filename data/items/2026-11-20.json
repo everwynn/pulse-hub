@@ -150,6 +150,28 @@
     "titleKey": "黎曼猜想被证明了"
   },
   {
+    "id": "8d04d40afc9c8174",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "leanprover-community/riemann-hypothesis",
+    "summary": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesi…",
+    "url": "https://github.com/leanprover-community/riemann-hypothesis",
+    "canonicalUrl": "https://github.com/leanprover-community/riemann-hypothesis",
+    "publishedAt": "2026-11-20T14:47:49.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "Lean"
+    ],
+    "signals": {
+      "stars": 686,
+      "forks": 176
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "leanprovercommunityriemannhypothesis"
+  },
+  {
     "id": "c7ae0009634e883b",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -796,7 +818,7 @@
     ],
     "signals": {
       "reactions": 32,
-      "comments": 1
+      "comments": 2
     },
     "lang": "en",
     "weight": 60,
@@ -1750,6 +1772,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "postgres19repackfasterbuiltintablebloatcleanup"
+  },
+  {
+    "id": "0af9b91de0f01dd6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "LittleBit: Ultra Low-Bit Quantization via Latent Factorization (2025)",
+    "summary": "",
+    "url": "https://arxiv.org/abs/2506.13771",
+    "canonicalUrl": "https://arxiv.org/abs/2506.13771",
+    "publishedAt": "2026-11-20T02:40:48.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 33,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "littlebitultralowbitquantizationvialatentfactorization2025"
   },
   {
     "id": "b0d35f959aa744f0",

@@ -160,8 +160,8 @@
       "blender-automation"
     ],
     "signals": {
-      "stars": 2743,
-      "forks": 38
+      "stars": 2758,
+      "forks": 39
     },
     "lang": "en",
     "weight": 90,
@@ -399,6 +399,26 @@
     "titleKey": "开源项目pgvectorsearch为postgresql带来了更具可扩展性的向量搜索功能"
   },
   {
+    "id": "2192b32181339baf",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "MSNightmare/FastUnlock",
+    "summary": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability · ★ 686",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "canonicalUrl": "https://github.com/MSNightmare/FastUnlock",
+    "publishedAt": "2026-11-19T12:37:51.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {
+      "stars": 686,
+      "forks": 112
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "msnightmarefastunlock"
+  },
+  {
     "id": "caa27fa36794f8c1",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -606,8 +626,8 @@
       "gameplay-clipper"
     ],
     "signals": {
-      "stars": 2015,
-      "forks": 111
+      "stars": 2172,
+      "forks": 126
     },
     "lang": "en",
     "weight": 90,
@@ -1899,23 +1919,23 @@
     "titleKey": "paloaltoinks45billiondealforaistartupappliedcomputesharespop7onearnings"
   },
   {
-    "id": "612536d9a47448e5",
+    "id": "b11d8c62dccab3ae",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
     "channel": "ai",
-    "title": "Explore the Codex Security Plugin",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from g…",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "canonicalUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Day…",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "canonicalUrl": "https://openai.com/business/learn/deploying-daybreak-red",
     "publishedAt": "2026-11-19T00:00:00.000Z",
     "fetchedAt": "2026-11-20T07:10:47.307Z",
     "tags": [
-      "Demos"
+      "Guides"
     ],
     "signals": {},
     "lang": "en",
     "weight": 95,
-    "titleKey": "explorethecodexsecurityplugin"
+    "titleKey": "deployingdaybreakred"
   },
   {
     "id": "b3a2f6e3f7760b8d",
@@ -1956,23 +1976,23 @@
     "titleKey": "getstartedwithdaybreakblue"
   },
   {
-    "id": "b11d8c62dccab3ae",
+    "id": "612536d9a47448e5",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
     "channel": "ai",
-    "title": "Deploying Daybreak Red",
-    "summary": "Explore a reference architecture for supervised security investigations with Day…",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "canonicalUrl": "https://openai.com/business/learn/deploying-daybreak-red",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from g…",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "canonicalUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
     "publishedAt": "2026-11-19T00:00:00.000Z",
     "fetchedAt": "2026-11-20T07:10:47.307Z",
     "tags": [
-      "Guides"
+      "Demos"
     ],
     "signals": {},
     "lang": "en",
     "weight": 95,
-    "titleKey": "deployingdaybreakred"
+    "titleKey": "explorethecodexsecurityplugin"
   },
   {
     "id": "f662a22faab1ef4a",
@@ -2276,7 +2296,7 @@
       "vibecoding"
     ],
     "signals": {
-      "reactions": 88,
+      "reactions": 90,
       "comments": 12
     },
     "lang": "en",
@@ -2384,6 +2404,31 @@
     "lang": "en",
     "weight": 82,
     "titleKey": "targetsharesrise7asretailerpostsbestsalesgrowthinfiveyearshikesguidance"
+  },
+  {
+    "id": "925c8206aba29560",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+    "summary": "Hoi hoi! 👋 I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, n…",
+    "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+    "canonicalUrl": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+    "publishedAt": "2026-11-18T17:27:52.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "typescript",
+      "rust",
+      "opensource",
+      "programming"
+    ],
+    "signals": {
+      "reactions": 126,
+      "comments": 31
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whyirewrotetypetunefromtypescripttorust"
   },
   {
     "id": "1300d604df550c3f",

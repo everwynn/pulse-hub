@@ -34,7 +34,7 @@
       "writing"
     ],
     "signals": {
-      "reactions": 150,
+      "reactions": 158,
       "comments": 51
     },
     "lang": "en",
@@ -89,6 +89,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "aiagentsaskbetterquestionsthankpmgaccountantsinlandmarkaudittrial"
+  },
+  {
+    "id": "b98de498d2f11377",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+    "summary": "",
+    "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+    "canonicalUrl": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+    "publishedAt": "2026-11-18T15:43:29.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 198,
+      "comments": 50
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "cathedralflooremergesinsudanrevealingoneofthebiggestmedievalchurches"
   },
   {
     "id": "df4207639d375364",
@@ -951,8 +973,8 @@
       "agents"
     ],
     "signals": {
-      "reactions": 236,
-      "comments": 207
+      "reactions": 247,
+      "comments": 225
     },
     "lang": "en",
     "weight": 60,

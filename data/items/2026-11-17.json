@@ -220,6 +220,28 @@
     "titleKey": "whatisthebestharnessforeachmodel"
   },
   {
+    "id": "236e21c4185911ee",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Lemxy/WinRust",
+    "summary": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task mana…",
+    "url": "https://github.com/Lemxy/WinRust",
+    "canonicalUrl": "https://github.com/Lemxy/WinRust",
+    "publishedAt": "2026-11-17T14:27:06.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 1274,
+      "forks": 70
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "lemxywinrust"
+  },
+  {
     "id": "48cf2626e5b2719e",
     "sourceId": "devto",
     "sourceName": "DEV Community",
@@ -237,7 +259,7 @@
       "discuss"
     ],
     "signals": {
-      "reactions": 97,
+      "reactions": 98,
       "comments": 28
     },
     "lang": "en",

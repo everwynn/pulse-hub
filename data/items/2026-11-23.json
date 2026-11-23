@@ -1,5 +1,1224 @@
 [
   {
+    "id": "b02d8464a340ebc8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "谷歌采用Pyrefly以实现更快、更准确的Python类型检查",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/4mG1MEowzSqIg2cY1XZP?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/4mG1MEowzSqIg2cY1XZP",
+    "publishedAt": "2026-11-23T15:00:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "谷歌采用pyrefly以实现更快更准确的python类型检查"
+  },
+  {
+    "id": "0438e5830bf1493d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "安谋科技发布“星辰100e” AIoT 原型平台，AI推理性能最高提升 340 倍",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/pdjVKiH3ONYjePlUDufv?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/pdjVKiH3ONYjePlUDufv",
+    "publishedAt": "2026-11-23T14:22:11.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "安谋科技发布星辰100eaiot原型平台ai推理性能最高提升340倍"
+  },
+  {
+    "id": "70169d69d1cc4fc8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "亚马逊云科技推出Well-Architected Agent预览版",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/LQuPgS5lcFDMEKhZSP5d?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/LQuPgS5lcFDMEKhZSP5d",
+    "publishedAt": "2026-11-23T14:16:59.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "亚马逊云科技推出wellarchitectedagent预览版"
+  },
+  {
+    "id": "13d1023fa3555c94",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "姚顺雨团队回应一切：下一代混元将大幅扩参，RSI 仍处早期，最难解决的是“想太多”",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/b4QKbFZaXvbK9hzcBhZV?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/b4QKbFZaXvbK9hzcBhZV",
+    "publishedAt": "2026-11-23T14:10:06.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "姚顺雨团队回应一切下一代混元将大幅扩参rsi仍处早期最难解决的是想太多"
+  },
+  {
+    "id": "3ec7b5a4c0a90ecb",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "「AI 圈有局」第 01 期｜5 场活动、12 个社区找到你的同路人",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/uEfN9kdGsIMGkOgidVG7",
+    "publishedAt": "2026-11-23T11:42:34.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai圈有局第01期5场活动12个社区找到你的同路人"
+  },
+  {
+    "id": "7668af9479eea1b6",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "广告风控为何越审越强？轻量基座与审核 Agent 的协同进化实践｜AICon北京",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/8YT8bJElVYOuK0FvKG4o",
+    "publishedAt": "2026-11-23T11:31:44.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "广告风控为何越审越强轻量基座与审核agent的协同进化实践aicon北京"
+  },
+  {
+    "id": "7b9ce1df0edd0e6d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "JDK 24之后的虚拟线程：生产环境的Java发生了哪些变化",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/JSf8dl9laEVQLb7dCROQ",
+    "publishedAt": "2026-11-23T11:00:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "jdk24之后的虚拟线程生产环境的java发生了哪些变化"
+  },
+  {
+    "id": "8468bdc4fe246f0e",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "具身智能进入大浪淘沙阶段，企业需要怎样的人才？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/a22y9GDY1yHuAJkOIF8z",
+    "publishedAt": "2026-11-23T10:48:34.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "具身智能进入大浪淘沙阶段企业需要怎样的人才"
+  },
+  {
+    "id": "74eb4c60df75fa0f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "记者获悉，智谱GLM-5.4于今日中午上线Coding Plan订阅体系，官方尚未正式发布。另据智谱官方社群消息，GLM…",
+    "summary": "记者获悉，智谱GLM-5.4于今日中午上线Coding Plan订阅体系，官方尚未正式发布。",
+    "url": "https://wallstreetcn.com/livenews/3204019",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204019",
+    "publishedAt": "2026-11-23T07:32:10.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "记者获悉智谱glm54于今日中午上线codingplan订阅体系官方尚未正式发布另据智谱官方社群消息glm"
+  },
+  {
+    "id": "0eb82989678468ff",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月23日，外交部发言人郭嘉昆主持例行记者会。针对有关国际司法的提问，郭嘉昆表示，在巴勒斯坦问题上，中方支持任何有助于…",
+    "summary": "11月23日，外交部发言人郭嘉昆主持例行记者会。",
+    "url": "https://wallstreetcn.com/livenews/3204018",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204018",
+    "publishedAt": "2026-11-23T07:31:44.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月23日外交部发言人郭嘉昆主持例行记者会针对有关国际司法的提问郭嘉昆表示在巴勒斯坦问题上中方支持任何有助于"
+  },
+  {
+    "id": "47e0dea1b02fc41f",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "外交部发言人郭嘉昆主持例行记者会。有记者提问，中方刚刚发布了荷兰外交大臣贝伦德森访华的消息，请问中方如何评价当前中荷关系…",
+    "summary": "外交部发言人郭嘉昆主持例行记者会。",
+    "url": "https://wallstreetcn.com/livenews/3204017",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204017",
+    "publishedAt": "2026-11-23T07:31:30.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "外交部发言人郭嘉昆主持例行记者会有记者提问中方刚刚发布了荷兰外交大臣贝伦德森访华的消息请问中方如何评价当前中荷关系"
+  },
+  {
+    "id": "ad8845fdbaa7fbdd",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "外交部发言人郭嘉昆主持例行记者会。有记者就乌克兰总统涉及中俄美元首会晤相关言论提问。 郭嘉昆表示，关于中俄美元首会晤的情…",
+    "summary": "外交部发言人郭嘉昆主持例行记者会。",
+    "url": "https://wallstreetcn.com/livenews/3204015",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204015",
+    "publishedAt": "2026-11-23T07:28:23.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "外交部发言人郭嘉昆主持例行记者会有记者就乌克兰总统涉及中俄美元首会晤相关言论提问郭嘉昆表示关于中俄美元首会晤的情"
+  },
+  {
+    "id": "7435e54952ab9658",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "外交部发言人郭嘉昆主持例行记者会。 路透社记者提问，美国总统特朗普称，美国只想向中国出售相对落后的芯片，并称美国政府正就…",
+    "summary": "外交部发言人郭嘉昆主持例行记者会。",
+    "url": "https://wallstreetcn.com/livenews/3204013",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204013",
+    "publishedAt": "2026-11-23T07:27:30.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "外交部发言人郭嘉昆主持例行记者会路透社记者提问美国总统特朗普称美国只想向中国出售相对落后的芯片并称美国政府正就"
+  },
+  {
+    "id": "ecbdbf076fd09ffa",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "11月23日，外交部发言人郭嘉昆主持例行记者会。波兰通讯社记者提问，波兰总理图斯克上周表示将于12月访华，请问中方能否证…",
+    "summary": "11月23日，外交部发言人郭嘉昆主持例行记者会。",
+    "url": "https://wallstreetcn.com/livenews/3204012",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204012",
+    "publishedAt": "2026-11-23T07:26:23.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "forex-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "11月23日外交部发言人郭嘉昆主持例行记者会波兰通讯社记者提问波兰总理图斯克上周表示将于12月访华请问中方能否证"
+  },
+  {
+    "id": "5fe0854a3a6dc7a4",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "当地时间11月22日晚，美国总统特朗普再次公开喊话，要求英伟达董事会重新聘用黄仁勋。这一表态迅速引发市场关注。美股夜盘交…",
+    "summary": "当地时间11月22日晚，美国总统特朗普再次公开喊话，要求英伟达董事会重新聘用黄仁勋。",
+    "url": "https://wallstreetcn.com/livenews/3204011",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204011",
+    "publishedAt": "2026-11-23T07:26:12.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当地时间11月22日晚美国总统特朗普再次公开喊话要求英伟达董事会重新聘用黄仁勋这一表态迅速引发市场关注美股夜盘交"
+  },
+  {
+    "id": "d1f4b7b0b1e00f51",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Jync v2.4.5 · 注释同步与游标优先级",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503745",
+    "canonicalUrl": "https://www.oschina.net/news/503745",
+    "publishedAt": "2026-11-23T07:22:26.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv245注释同步与游标优先级"
+  },
+  {
+    "id": "bcdc0aca9b5746df",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "阿里云宣布，阿里云Agent观测与优化AgentLoop将自北京时间2026年12月7日00:00:00起，对记忆库、经…",
+    "summary": "阿里云宣布，阿里云Agent观测与优化AgentLoop将自北京时间2026年12月7日00:00:00起，对记忆库、经验库及优化任务三项功能正式收费。",
+    "url": "https://wallstreetcn.com/livenews/3204009",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204009",
+    "publishedAt": "2026-11-23T07:20:18.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "us-stock-channel",
+      "hk-stock-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "阿里云宣布阿里云agent观测与优化agentloop将自北京时间2026年12月7日000000起对记忆库经"
+  },
+  {
+    "id": "e6e8299a3fe37cd1",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "国家疾控局、国家卫生健康委、国家中医药局今天联合发布了《关于医防协同高效推动医疗机构传染病防控工作的指导意见》。推动疾控…",
+    "summary": "国家疾控局、国家卫生健康委、国家中医药局今天联合发布了《关于医防协同高效推动医疗机构传染病防控工作的指导意见》。",
+    "url": "https://wallstreetcn.com/livenews/3204008",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204008",
+    "publishedAt": "2026-11-23T07:19:49.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "国家疾控局国家卫生健康委国家中医药局今天联合发布了关于医防协同高效推动医疗机构传染病防控工作的指导意见推动疾控"
+  },
+  {
+    "id": "17f98c55d60f78cc",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "AI 越来越便宜，AI 越来越烧钱",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503743/token-spending-at-that-jevons-moment",
+    "canonicalUrl": "https://www.oschina.net/news/503743/token-spending-at-that-jevons-moment",
+    "publishedAt": "2026-11-23T07:18:43.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ai越来越便宜ai越来越烧钱"
+  },
+  {
+    "id": "407588a05f0f687e",
+    "sourceId": "wallstreetcn-live",
+    "sourceName": "华尔街见闻 · 7×24 快讯",
+    "channel": "finance",
+    "title": "Choice数据显示，11月20日英伟达单日跌超14%，而截至三季度末，东方港湾海外基金的第二大重仓股正是英伟达，且其三…",
+    "summary": "Choice数据显示，11月20日英伟达单日跌超14%，而截至三季度末，东方港湾海外基金的第二大重仓股正是英伟达，且其三季度还大手笔加仓了该标的。",
+    "url": "https://wallstreetcn.com/livenews/3204007",
+    "canonicalUrl": "https://wallstreetcn.com/livenews/3204007",
+    "publishedAt": "2026-11-23T07:18:42.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "global-channel",
+      "financing-channel"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "choice数据显示11月20日英伟达单日跌超14而截至三季度末东方港湾海外基金的第二大重仓股正是英伟达且其三"
+  },
+  {
+    "id": "2d35220d85fde6a5",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Russell 3000 reconstitution adds Red Robin, Vera Bradley and removes SES AI, Thryv",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675429-russell-3000-reconstitution-adds-red-robin-vera-bradley-and-removes-ses-ai-thryv?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675429-russell-3000-reconstitution-adds-red-robin-vera-bradley-and-removes-ses-ai-thryv?feed_item_type=news",
+    "publishedAt": "2026-11-23T06:58:25.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "negg",
+      "up",
+      "ses",
+      "vra",
+      "lee",
+      "rrgb"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "russell3000reconstitutionaddsredrobinverabradleyandremovessesaithryv"
+  },
+  {
+    "id": "ae43c16395d2a28e",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Chegg, SES AI, and others are set to leave Russell Microcap Index",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675428-chegg-ses-ai-among-others-set-to-leave-russell-microcap-index?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675428-chegg-ses-ai-among-others-set-to-leave-russell-microcap-index?feed_item_type=news",
+    "publishedAt": "2026-11-23T06:52:55.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "lind",
+      "ses",
+      "chgg",
+      "tile",
+      "srfm"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "cheggsesaiandothersaresettoleaverussellmicrocapindex"
+  },
+  {
+    "id": "22eb6f5c14a24cd9",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "mod_wsgi 创始人用 Rust 重写了一个 Python 服务器",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503742/rust-muru",
+    "canonicalUrl": "https://www.oschina.net/news/503742/rust-muru",
+    "publishedAt": "2026-11-23T06:49:04.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "modwsgi创始人用rust重写了一个python服务器"
+  },
+  {
+    "id": "9fd49c3f0e153f59",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "ConocoPhillips to sell Norway, Teesside assets to Vår Energi for $3.9B",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675433-conocophillips-to-sell-norway-teesside-assets-to-var-energi-for-39b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675433-conocophillips-to-sell-norway-teesside-assets-to-var-energi-for-39b?feed_item_type=news",
+    "publishedAt": "2026-11-23T06:44:29.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "cop"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "conocophillipstosellnorwayteessideassetstovårenergifor39b"
+  },
+  {
+    "id": "226c06e04915f626",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Trump hosts meme coin dinner as token drops",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675432-trump-hosts-meme-coin-dinner-as-token-drops?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675432-trump-hosts-meme-coin-dinner-as-token-drops?feed_item_type=news",
+    "publishedAt": "2026-11-23T06:13:58.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "trump-usd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "trumphostsmemecoindinnerastokendrops"
+  },
+  {
+    "id": "b031643be57c4f7a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Brookfield agrees to buy PGP Glass from Blackstone for $1.7B",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675431-brookfield-agrees-to-buy-pgp-glass-from-blackstone-for-17b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675431-brookfield-agrees-to-buy-pgp-glass-from-blackstone-for-17b?feed_item_type=news",
+    "publishedAt": "2026-11-23T05:32:11.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "bn",
+      "bx"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "brookfieldagreestobuypgpglassfromblackstonefor17b"
+  },
+  {
+    "id": "3b9cdfc7753af1eb",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "China's gold imports said to have surged to record $209B through Oct.",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4675430-chinas-gold-imports-said-to-have-surged-to-record-209b-through-oct?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4675430-chinas-gold-imports-said-to-have-surged-to-record-209b-through-oct?feed_item_type=news",
+    "publishedAt": "2026-11-23T05:27:29.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "gld",
+      "xauusd:cur",
+      "slv",
+      "gdx",
+      "iau",
+      "nugt"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "chinasgoldimportssaidtohavesurgedtorecord209bthroughoct"
+  },
+  {
+    "id": "13cf9148d45024a8",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "辰星技术：营收扩张难掩亏损，多款机器人曾亏本销售",
+    "summary": "报告期内公司仅在2025年依靠大额政府补助实现短暂账面盈利，其余时段均为亏损；剔除股改因素影响后，这家成立十余载的企业经营层面累计亏损接近2.2亿元。",
+    "url": "https://www.tmtpost.com/8209841.html",
+    "canonicalUrl": "https://www.tmtpost.com/8209841.html",
+    "publishedAt": "2026-11-23T05:21:35.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "IPO速递"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "辰星技术营收扩张难掩亏损多款机器人曾亏本销售"
+  },
+  {
+    "id": "0bec84541f9afdbf",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "SJF4J - 面向JSON的Java编程",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503741",
+    "canonicalUrl": "https://www.oschina.net/news/503741",
+    "publishedAt": "2026-11-23T05:20:59.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "sjf4j面向json的java编程"
+  },
+  {
+    "id": "bdc8fca14382947b",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "立景创新：第一大客户身兼头号供应商，产能闲置仍谋扩产",
+    "summary": "报告期内，立景创新业绩高度依赖前五大客户，客户集中度逐年攀升，2025年、2026年1-5月前五大客户贡献超九成营业收入。",
+    "url": "https://www.tmtpost.com/8210963.html",
+    "canonicalUrl": "https://www.tmtpost.com/8210963.html",
+    "publishedAt": "2026-11-23T05:19:54.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "IPO速递"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "立景创新第一大客户身兼头号供应商产能闲置仍谋扩产"
+  },
+  {
+    "id": "4cd8804de2e07d6a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "The number of 401(k) millionaires drops amid stock-market swings",
+    "summary": "‘It was a rocky quarter’: 401(k) balances drop and affordability concerns persis…",
+    "url": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-23T05:01:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thenumberof401kmillionairesdropsamidstockmarketswings"
+  },
+  {
+    "id": "c63b010885128eae",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A Partial Evaluator for C",
+    "summary": "",
+    "url": "https://phoenix.labri.fr/software/tempo/",
+    "canonicalUrl": "https://phoenix.labri.fr/software/tempo",
+    "publishedAt": "2026-11-23T04:51:48.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 32,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "apartialevaluatorforc"
+  },
+  {
+    "id": "a45d214670cd7079",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "微软 CEO 纳德拉承认，VS Code 的护城河被人从终端绕过去了",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503739/nadella-admits-vs-code-faded-in-six-months",
+    "canonicalUrl": "https://www.oschina.net/news/503739/nadella-admits-vs-code-faded-in-six-months",
+    "publishedAt": "2026-11-23T03:50:52.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "微软ceo纳德拉承认vscode的护城河被人从终端绕过去了"
+  },
+  {
+    "id": "f83e40828b4b149b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+    "summary": "",
+    "url": "https://github.com/AFK-surf/xnulinux",
+    "canonicalUrl": "https://github.com/AFK-surf/xnulinux",
+    "publishedAt": "2026-11-23T03:49:24.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 175,
+      "comments": 77
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "xnulinuxfullosxguiuserspaceonlinux"
+  },
+  {
+    "id": "7aa670091fe6638e",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥MakuBoot 5.3 发布，AI 低代码开发平台，快速开发利器",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503738",
+    "canonicalUrl": "https://www.oschina.net/news/503738",
+    "publishedAt": "2026-11-23T03:48:47.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "makuboot53发布ai低代码开发平台快速开发利器"
+  },
+  {
+    "id": "fe05123ae316d512",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "迅合科技：在Excel和微信群里，给老板造一个Personal Agent",
+    "summary": "老板对决策的要求比普通人更高，对知识库和决策质量的要求也更高，过去这样的需求长期存在但没有得到很好解决。",
+    "url": "https://www.tmtpost.com/8209450.html",
+    "canonicalUrl": "https://www.tmtpost.com/8209450.html",
+    "publishedAt": "2026-11-23T03:35:20.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "AGI",
+      "AI产业观察"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "迅合科技在excel和微信群里给老板造一个personalagent"
+  },
+  {
+    "id": "fac2474c9994d05f",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "硅基员工元年，投入要向组织与流程倾斜丨ToB产业观察",
+    "summary": "AI进入企业的第一课，不是学会干活，而是学会按企业和当地法规的要求干活。",
+    "url": "https://www.tmtpost.com/8214320.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214320.html",
+    "publishedAt": "2026-11-23T03:33:13.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "ToB产业观察"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "硅基员工元年投入要向组织与流程倾斜丨tob产业观察"
+  },
+  {
+    "id": "a99795e1fe911959",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "OpenAI 首席科学家提议为 AI 开发设置“行业上限”",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+    "canonicalUrl": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+    "publishedAt": "2026-11-23T03:18:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "openai首席科学家提议为ai开发设置行业上限"
+  },
+  {
+    "id": "74f2ee9a86bd502a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 主数据平台开源版 v1.0.1 发布：聚焦使用反馈，功能细节与产品体验持续优化",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503735",
+    "canonicalUrl": "https://www.oschina.net/news/503735",
+    "publishedAt": "2026-11-23T03:15:01.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata主数据平台开源版v101发布聚焦使用反馈功能细节与产品体验持续优化"
+  },
+  {
+    "id": "bf73ffdd1bed499c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "【Fintech 周报】海南银行获批定向增资扩股；ChatGPT Wallet上线",
+    "summary": "金融监管总局两司局“一把手”对调；互金协会通报两款银行App；商业银行总资产突破500万亿元；前三季度消费贷ABS同比下降18.85%；华夏银行董事会“换血”；…",
+    "url": "https://www.tmtpost.com/8214380.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214380.html",
+    "publishedAt": "2026-11-23T03:03:56.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "主编精选文章",
+      "Fintech周报"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "fintech周报海南银行获批定向增资扩股chatgptwallet上线"
+  },
+  {
+    "id": "1360c8193f826de6",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "TCP/IP 为什么没申请专利？Vint Cerf 说因为不知道 25 年后盟友是谁",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503734/vint-cerf-on-why-tcpip-was-never",
+    "canonicalUrl": "https://www.oschina.net/news/503734/vint-cerf-on-why-tcpip-was-never",
+    "publishedAt": "2026-11-23T02:56:01.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "tcpip为什么没申请专利vintcerf说因为不知道25年后盟友是谁"
+  },
+  {
+    "id": "1a203772b9758754",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "MrDoc v1.1.2 发布，全平台多终端的私有部署AI知识库系统",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503733",
+    "canonicalUrl": "https://www.oschina.net/news/503733",
+    "publishedAt": "2026-11-23T02:55:16.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "mrdocv112发布全平台多终端的私有部署ai知识库系统"
+  },
+  {
+    "id": "0d8ae8d1907b6b94",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
+    "summary": "7 个亿植发、500 亿买钓具：男性购买力终于 \"开窍\" 了",
+    "url": "https://www.tmtpost.com/8214114.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214114.html",
+    "publishedAt": "2026-11-23T02:52:46.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "7个亿植发500亿买钓具男性购买力终于开窍了"
+  },
+  {
+    "id": "edfc647ca54e2ac2",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "恋爱六年，最近意外对别人动了真心，坦白后，现在无比痛苦",
+    "summary": "先叠个甲，我知道自己在这件事里做得非常不地道，欺骗了两个人。",
+    "url": "https://www.v2ex.com/t/1259038",
+    "canonicalUrl": "https://www.v2ex.com/t/1259038",
+    "publishedAt": "2026-11-23T02:32:31.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "情感"
+    ],
+    "signals": {
+      "replies": 104
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "恋爱六年最近意外对别人动了真心坦白后现在无比痛苦"
+  },
+  {
+    "id": "77d212d296572ce8",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "程序员转行拼豆店有搞头没？",
+    "summary": "我个铺子，可用面积大概 32 平，勉强放 20 个单人桌子，，，旁边是自助麻将、教培，楼下是火锅店。",
+    "url": "https://www.v2ex.com/t/1259034",
+    "canonicalUrl": "https://www.v2ex.com/t/1259034",
+    "publishedAt": "2026-11-23T02:24:08.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "商业模式"
+    ],
+    "signals": {
+      "replies": 101
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "程序员转行拼豆店有搞头没"
+  },
+  {
+    "id": "f3d1a444abbe472c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "三年后，还有多少程序员能靠写代码活着",
+    "summary": "",
+    "url": "https://www.v2ex.com/t/1259022",
+    "canonicalUrl": "https://www.v2ex.com/t/1259022",
+    "publishedAt": "2026-11-23T02:09:09.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 53
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "三年后还有多少程序员能靠写代码活着"
+  },
+  {
+    "id": "97bad4292114ab01",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Treemap of the Riemann Hypothesis Lean Proof",
+    "summary": "",
+    "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+    "canonicalUrl": "https://pengowray.github.io/riemann-zeta-proof-visualizer",
+    "publishedAt": "2026-11-23T01:50:23.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 51,
+      "comments": 11
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "treemapoftheriemannhypothesisleanproof"
+  },
+  {
+    "id": "ae02a0ba5c381612",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "如何体面得拒绝蹭车行为",
+    "summary": "从工作城市往返老家。 老婆的表妹，本来只有在节假日买不到票的时候才会蹭车，现在平时周末回去都要蹭车。",
+    "url": "https://www.v2ex.com/t/1259006",
+    "canonicalUrl": "https://www.v2ex.com/t/1259006",
+    "publishedAt": "2026-11-23T01:22:59.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 98
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "如何体面得拒绝蹭车行为"
+  },
+  {
+    "id": "09ac76b032c28a9e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "充值了 gemini pro，登录 Antigravity 提示地区不可用。。",
+    "summary": "刚充值 99 刀一年的 pro，登录 Antigravity，提示“Your current account is not eligible for Antig…",
+    "url": "https://www.v2ex.com/t/1259003",
+    "canonicalUrl": "https://www.v2ex.com/t/1259003",
+    "publishedAt": "2026-11-23T01:18:39.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "Google"
+    ],
+    "signals": {
+      "replies": 82
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "充值了geminipro登录antigravity提示地区不可用"
+  },
+  {
+    "id": "225c2a91a7766c1f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+    "summary": "",
+    "url": "https://spelunkr.tv",
+    "canonicalUrl": "https://spelunkr.tv/",
+    "publishedAt": "2026-11-23T01:13:51.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 414,
+      "comments": 58
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "freealternativetvnetworkbuiltfromtheinternetarchivesforgottenvideos"
+  },
+  {
+    "id": "a0df6500bbf9b919",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我的 Claude 从未被封过，感觉还是和使用习惯有关系",
+    "summary": "https://youtu.be/NHnVQnR3lBI",
+    "url": "https://www.v2ex.com/t/1258995",
+    "canonicalUrl": "https://www.v2ex.com/t/1258995",
+    "publishedAt": "2026-11-23T01:00:56.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 63
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我的claude从未被封过感觉还是和使用习惯有关系"
+  },
+  {
+    "id": "52cf15afac6134e3",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "熊市中就开个银河免 5 定投纳指或者红利低波 ETF 吧，股票也有免 5 的，等 3400 点开一个来抄底。",
+    "summary": "熊市中少买股票，就开个银河买买纳指或者红利低波 ETF 就行，胆子大的可以抄底!",
+    "url": "https://www.v2ex.com/t/1258991",
+    "canonicalUrl": "https://www.v2ex.com/t/1258991",
+    "publishedAt": "2026-11-23T00:41:52.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 70
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "熊市中就开个银河免5定投纳指或者红利低波etf吧股票也有免5的等3400点开一个来抄底"
+  },
+  {
+    "id": "8b260ec36b9a46e3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "GL.iNet Security Notice 2026-11-20",
+    "summary": "",
+    "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "canonicalUrl": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+    "publishedAt": "2026-11-22T23:06:37.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 170,
+      "comments": 80
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "glinetsecuritynotice20261120"
+  },
+  {
+    "id": "a6ffd7eba3b1c297",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+    "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on …",
+    "url": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T21:51:00.000Z",
+    "fetchedAt": "2026-11-22T16:15:29.262Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "corporateamericahuntsforgenerationalgrowthinaitradingcardsandthelaairport"
+  },
+  {
+    "id": "522aeb23f4e3da91",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Ron Johnson’s Social Security gaffe buried important news",
+    "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Se…",
+    "url": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T21:28:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ronjohnsonssocialsecuritygaffeburiedimportantnews"
+  },
+  {
+    "id": "e28d7a9d56967662",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "summary": "",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "canonicalUrl": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "publishedAt": "2026-11-22T21:01:16.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 428,
+      "comments": 174
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "abeginnersguidetolocalaiwithinklingqwenandunsloth"
+  },
+  {
+    "id": "3a34d34659e9a8ad",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "A miniature San Francisco with live buses, planes and boats",
+    "summary": "",
+    "url": "https://smallsf.com/",
+    "canonicalUrl": "https://smallsf.com/",
+    "publishedAt": "2026-11-22T20:33:23.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 239,
+      "comments": 88
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "aminiaturesanfranciscowithlivebusesplanesandboats"
+  },
+  {
+    "id": "85c375f027b969ea",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Social Security should be shut down, this Republican senator says",
+    "summary": "The program’s trust funds are forecast to run out of money in the next six years…",
+    "url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T20:26:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "socialsecurityshouldbeshutdownthisrepublicansenatorsays"
+  },
+  {
+    "id": "9e9b0919e7ec0b32",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Assume People Are Not Interested in Your Blog Post",
+    "summary": "",
+    "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+    "canonicalUrl": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post",
+    "publishedAt": "2026-11-22T19:41:30.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 159,
+      "comments": 82
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "assumepeoplearenotinterestedinyourblogpost"
+  },
+  {
+    "id": "311a6d909bbdefdb",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+    "summary": "The plan would free up hospital and nursing-home beds — and lower costs.",
+    "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T19:24:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "medicarebeneficiariescouldskipthenursinghomeforcheapercareathomeundernewbill"
+  },
+  {
+    "id": "0bd0fa9275f2b895",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+    "summary": "",
+    "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "canonicalUrl": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+    "publishedAt": "2026-11-22T19:10:34.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 453,
+      "comments": 229
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thebirdsofgta6afieldguidetovicecityandleonidaswildlife"
+  },
+  {
+    "id": "c73e746c3b339e3f",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "These little-known investments could be among the best bargains in a crash",
+    "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk in…",
+    "url": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T18:23:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "theselittleknowninvestmentscouldbeamongthebestbargainsinacrash"
+  },
+  {
     "id": "46f9d7e400a68657",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -49,6 +1268,40 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "智能体企业新前沿驱动高效智能"
+  },
+  {
+    "id": "9e82e6721fb253bc",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Private equity has been buying up hospice centers — with striking consequences",
+    "summary": "Medicare costs are higher and patients stay longer at hospice providers owned by…",
+    "url": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T17:22:00.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "privateequityhasbeenbuyinguphospicecenterswithstrikingconsequences"
+  },
+  {
+    "id": "23823bbe33308720",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+    "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath befor…",
+    "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-22T17:00:00.000Z",
+    "fetchedAt": "2026-11-18T07:23:59.360Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiasturmoilhasmespookedisittimetosellmystocksandbuyrealestate"
   },
   {
     "id": "be02a2bdafdea340",

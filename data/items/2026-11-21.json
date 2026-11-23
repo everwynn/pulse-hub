@@ -41,23 +41,6 @@
     "titleKey": "micronandsandiskstocksmightlooklikebargainsbutanalystssaythatsactuallyaredflag"
   },
   {
-    "id": "23823bbe33308720",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
-    "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath befor…",
-    "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-21T15:15:00.000Z",
-    "fetchedAt": "2026-11-18T07:23:59.360Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "nvidiasturmoilhasmespookedisittimetosellmystocks"
-  },
-  {
     "id": "c66eed38e3b12bf5",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -217,8 +200,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 1298,
-      "forks": 83
+      "stars": 2326,
+      "forks": 144
     },
     "lang": "en",
     "weight": 90,
@@ -970,6 +953,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "rceingnupg"
+  },
+  {
+    "id": "155ca98a919c17ca",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "omonkeyz/xbox-emulator",
+    "summary": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9) · Rust …",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "canonicalUrl": "https://github.com/omonkeyz/xbox-emulator",
+    "publishedAt": "2026-11-21T08:08:39.000Z",
+    "fetchedAt": "2026-11-23T07:32:29.352Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 1407,
+      "forks": 86
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "omonkeyzxboxemulator"
   },
   {
     "id": "09057f1cb339b1c0",
@@ -2025,8 +2030,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 11666,
-      "forks": 915
+      "stars": 17212,
+      "forks": 1459
     },
     "lang": "en",
     "weight": 90,
@@ -2228,8 +2233,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 1204,
-      "forks": 116
+      "stars": 1363,
+      "forks": 134
     },
     "lang": "en",
     "weight": 90,
