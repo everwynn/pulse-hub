@@ -160,8 +160,8 @@
       "blender-automation"
     ],
     "signals": {
-      "stars": 2758,
-      "forks": 39
+      "stars": 2765,
+      "forks": 40
     },
     "lang": "en",
     "weight": 90,
@@ -626,8 +626,8 @@
       "gameplay-clipper"
     ],
     "signals": {
-      "stars": 2172,
-      "forks": 126
+      "stars": 2294,
+      "forks": 144
     },
     "lang": "en",
     "weight": 90,
@@ -1919,23 +1919,23 @@
     "titleKey": "paloaltoinks45billiondealforaistartupappliedcomputesharespop7onearnings"
   },
   {
-    "id": "b11d8c62dccab3ae",
+    "id": "612536d9a47448e5",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
     "channel": "ai",
-    "title": "Deploying Daybreak Red",
-    "summary": "Explore a reference architecture for supervised security investigations with Day…",
-    "url": "https://openai.com/business/learn/deploying-daybreak-red",
-    "canonicalUrl": "https://openai.com/business/learn/deploying-daybreak-red",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from g…",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "canonicalUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
     "publishedAt": "2026-11-19T00:00:00.000Z",
     "fetchedAt": "2026-11-20T07:10:47.307Z",
     "tags": [
-      "Guides"
+      "Demos"
     ],
     "signals": {},
     "lang": "en",
     "weight": 95,
-    "titleKey": "deployingdaybreakred"
+    "titleKey": "explorethecodexsecurityplugin"
   },
   {
     "id": "b3a2f6e3f7760b8d",
@@ -1957,6 +1957,25 @@
     "titleKey": "seeprscansinaction"
   },
   {
+    "id": "b11d8c62dccab3ae",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Day…",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "canonicalUrl": "https://openai.com/business/learn/deploying-daybreak-red",
+    "publishedAt": "2026-11-19T00:00:00.000Z",
+    "fetchedAt": "2026-11-20T07:10:47.307Z",
+    "tags": [
+      "Guides"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "deployingdaybreakred"
+  },
+  {
     "id": "e35384defbc50b1a",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -1974,25 +1993,6 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "getstartedwithdaybreakblue"
-  },
-  {
-    "id": "612536d9a47448e5",
-    "sourceId": "openai-news",
-    "sourceName": "OpenAI News",
-    "channel": "ai",
-    "title": "Explore the Codex Security Plugin",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from g…",
-    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "canonicalUrl": "https://openai.com/business/learn/codex-security-plugin-demo",
-    "publishedAt": "2026-11-19T00:00:00.000Z",
-    "fetchedAt": "2026-11-20T07:10:47.307Z",
-    "tags": [
-      "Demos"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 95,
-    "titleKey": "explorethecodexsecurityplugin"
   },
   {
     "id": "f662a22faab1ef4a",
@@ -2297,7 +2297,7 @@
     ],
     "signals": {
       "reactions": 90,
-      "comments": 12
+      "comments": 13
     },
     "lang": "en",
     "weight": 60,
@@ -2423,8 +2423,8 @@
       "programming"
     ],
     "signals": {
-      "reactions": 126,
-      "comments": 31
+      "reactions": 140,
+      "comments": 41
     },
     "lang": "en",
     "weight": 60,

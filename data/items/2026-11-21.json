@@ -200,8 +200,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 2326,
-      "forks": 144
+      "stars": 3041,
+      "forks": 195
     },
     "lang": "en",
     "weight": 90,
@@ -870,6 +870,28 @@
     "titleKey": "entiregitforge面向编码智能体重构git协作方式"
   },
   {
+    "id": "5e76d77cbe4cfce6",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+    "summary": "",
+    "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+    "canonicalUrl": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+    "publishedAt": "2026-11-21T09:14:02.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 211,
+      "comments": 70
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "spacecraftreachesmercuryonsecondevermissiontoenteritsorbit"
+  },
+  {
     "id": "4b42427b74a3f1e3",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -969,8 +991,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1407,
-      "forks": 86
+      "stars": 1615,
+      "forks": 104
     },
     "lang": "en",
     "weight": 90,
@@ -2030,8 +2052,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 17212,
-      "forks": 1459
+      "stars": 29629,
+      "forks": 2692
     },
     "lang": "en",
     "weight": 90,
@@ -2058,6 +2080,32 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "dreamcodercodingharnessandidefromtheauthorofmasteringemacs"
+  },
+  {
+    "id": "c59aff56bfbab103",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "ivall/xcl",
+    "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, r…",
+    "url": "https://github.com/ivall/xcl",
+    "canonicalUrl": "https://github.com/ivall/xcl",
+    "publishedAt": "2026-11-20T20:03:21.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "Rust",
+      "d3d12",
+      "gdk",
+      "rdna2",
+      "xbox"
+    ],
+    "signals": {
+      "stars": 839,
+      "forks": 76
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "ivallxcl"
   },
   {
     "id": "05d7f9e1b07c925a",
@@ -2219,7 +2267,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "R0Y00/Xbox2Windows",
-    "summary": "GTA VI static recompilation research for x64 Windows.",
+    "summary": "Static recompilation research for Xbox Series X|S software on x64 Windows, with …",
     "url": "https://github.com/R0Y00/Xbox2Windows",
     "canonicalUrl": "https://github.com/R0Y00/Xbox2Windows",
     "publishedAt": "2026-11-20T17:43:52.000Z",
@@ -2233,8 +2281,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 1363,
-      "forks": 134
+      "stars": 1474,
+      "forks": 148
     },
     "lang": "en",
     "weight": 90,
@@ -2667,10 +2715,10 @@
       "codenewbie",
       "ai",
       "beginners",
-      "podcast"
+      "codenewbiestory"
     ],
     "signals": {
-      "reactions": 41,
+      "reactions": 43,
       "comments": 7
     },
     "lang": "en",

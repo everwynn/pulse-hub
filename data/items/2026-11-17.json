@@ -43,6 +43,31 @@
     "titleKey": "nsainternalnetworkdown"
   },
   {
+    "id": "77f733df7b5ee3e3",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
+    "summary": "AI agents now open pull requests on their own.",
+    "url": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7",
+    "canonicalUrl": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7",
+    "publishedAt": "2026-11-17T15:45:44.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "ai",
+      "aws",
+      "devops",
+      "discuss"
+    ],
+    "signals": {
+      "reactions": 87,
+      "comments": 69
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "aiagentsopen17millionpullrequestsamonthibuiltagatethatrejectstheonesthatlie"
+  },
+  {
     "id": "c76fcfb8037965a5",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -234,8 +259,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1274,
-      "forks": 70
+      "stars": 1352,
+      "forks": 79
     },
     "lang": "en",
     "weight": 90,

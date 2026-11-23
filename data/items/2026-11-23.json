@@ -1,5 +1,39 @@
 [
   {
+    "id": "4e12a4cd7a3d310d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Agent 想用但不敢用？百度智能云企业级 Agent 安全落地实践",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/dzgleaOZ3ILx5cztUtXw",
+    "publishedAt": "2026-11-23T15:55:51.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "agent想用但不敢用百度智能云企业级agent安全落地实践"
+  },
+  {
+    "id": "cb403aa058039a19",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "CachyOS 支持 Easy Anti-Cheat v2",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85971",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85971",
+    "publishedAt": "2026-11-23T15:37:55.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "cachyos支持easyanticheatv2"
+  },
+  {
     "id": "b02d8464a340ebc8",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +49,40 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "谷歌采用pyrefly以实现更快更准确的python类型检查"
+  },
+  {
+    "id": "72ee6ae6ba35ba62",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85970",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85970",
+    "publishedAt": "2026-11-23T14:50:17.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "越来越多的年轻远足者因过于依赖googlemaps迷路或遇险"
+  },
+  {
+    "id": "7558cadf9d90ee72",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "英伟达重新任命黄仁勋为 CEO",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85969",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85969",
+    "publishedAt": "2026-11-23T14:30:59.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "英伟达重新任命黄仁勋为ceo"
   },
   {
     "id": "0438e5830bf1493d",
@@ -68,6 +136,106 @@
     "titleKey": "姚顺雨团队回应一切下一代混元将大幅扩参rsi仍处早期最难解决的是想太多"
   },
   {
+    "id": "d78a37d49db6cfe0",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nvidia Reinstates Jensen Huang as CEO",
+    "summary": "",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "publishedAt": "2026-11-23T14:00:18.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1416,
+      "comments": 2554
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nvidiareinstatesjensenhuangasceo"
+  },
+  {
+    "id": "9561eb18ba6c0076",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85968",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85968",
+    "publishedAt": "2026-11-23T13:58:15.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "grapheneos指责google恐吓其合作伙伴"
+  },
+  {
+    "id": "dd2c805015c00f34",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "summary": "",
+    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "canonicalUrl": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+    "publishedAt": "2026-11-23T13:42:38.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 51,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nariqbf16levelqwen3827bina10gbfile"
+  },
+  {
+    "id": "e9918eadd2c0e042",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "GLP-1 减肥药或能对环境产生显著影响",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85967",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85967",
+    "publishedAt": "2026-11-23T12:48:26.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "glp1减肥药或能对环境产生显著影响"
+  },
+  {
+    "id": "c8944d52752ca690",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+    "summary": "",
+    "url": "https://github.com/mikuta0407/win4wine",
+    "canonicalUrl": "https://github.com/mikuta0407/win4wine",
+    "publishedAt": "2026-11-23T12:28:11.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 176,
+      "comments": 90
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "win4winerunwindowsshellasthelinuxdesktoponwine"
+  },
+  {
     "id": "3ec7b5a4c0a90ecb",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -83,6 +251,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai圈有局第01期5场活动12个社区找到你的同路人"
+  },
+  {
+    "id": "9227ca1088a94d91",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+    "summary": "",
+    "url": "https://github.com/os6/nospeaker",
+    "canonicalUrl": "https://github.com/os6/nospeaker",
+    "publishedAt": "2026-11-23T11:31:54.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 223,
+      "comments": 127
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nospeakermakeyourmacbookstrackpadtalkusingitshapticmotor"
   },
   {
     "id": "7668af9479eea1b6",
@@ -102,6 +292,28 @@
     "titleKey": "广告风控为何越审越强轻量基座与审核agent的协同进化实践aicon北京"
   },
   {
+    "id": "732f006fffa4885f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+    "summary": "零Token成本，断网也能自由Vibe Coding",
+    "url": "https://www.qbitai.com/2026/11/512195.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512195.html",
+    "publishedAt": "2026-11-23T11:01:15.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "大模型",
+      "无界方舟",
+      "端侧"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "实测1450亿参数塞进笔记本每秒狂飙80token国产端侧大模型杀疯了"
+  },
+  {
     "id": "7b9ce1df0edd0e6d",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -119,6 +331,25 @@
     "titleKey": "jdk24之后的虚拟线程生产环境的java发生了哪些变化"
   },
   {
+    "id": "753eab18e5de591d",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "特斯拉新版 FSD 的炫酷画面，由车机上的 1B 模型实时生成",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503757",
+    "canonicalUrl": "https://www.oschina.net/news/503757",
+    "publishedAt": "2026-11-23T10:56:06.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "特斯拉新版fsd的炫酷画面由车机上的1b模型实时生成"
+  },
+  {
     "id": "8468bdc4fe246f0e",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +365,378 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "具身智能进入大浪淘沙阶段企业需要怎样的人才"
+  },
+  {
+    "id": "e7e46c0b5107887a",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "Alo中国首批线下体验店开业，想踩着Lululemon的流量上位",
+    "summary": "卖万元手袋、贴奢侈品开业，Alo想做奢侈品生意。",
+    "url": "https://www.tmtpost.com/8214477.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214477.html",
+    "publishedAt": "2026-11-23T10:36:15.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "alo中国首批线下体验店开业想踩着lululemon的流量上位"
+  },
+  {
+    "id": "bd8b8aad9604e466",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "800万对1000万，腾讯字节又在AI办公杠上了",
+    "summary": "不是产品的胜负，而是存量生态的比拼",
+    "url": "https://www.tmtpost.com/8214502.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214502.html",
+    "publishedAt": "2026-11-23T10:36:11.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "800万对1000万腾讯字节又在ai办公杠上了"
+  },
+  {
+    "id": "36327b569c0cb57c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "禾赛的第二增长曲线，瞄准的不仅仅是机器人",
+    "summary": "Kosmo 的商业化空间，不可小觑。",
+    "url": "https://www.tmtpost.com/8214576.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214576.html",
+    "publishedAt": "2026-11-23T10:36:08.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "禾赛的第二增长曲线瞄准的不仅仅是机器人"
+  },
+  {
+    "id": "1657673925af32fa",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "当AI开始自己上班",
+    "summary": "商业化推倒的第一块多米诺骨牌",
+    "url": "https://www.tmtpost.com/8214386.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214386.html",
+    "publishedAt": "2026-11-23T10:36:07.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "当ai开始自己上班"
+  },
+  {
+    "id": "dda7af02af909275",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "当AI接管网购，年轻人迷上外包砍价",
+    "summary": "未来的购物入口藏在对话框里",
+    "url": "https://www.tmtpost.com/8214748.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214748.html",
+    "publishedAt": "2026-11-23T10:36:05.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "当ai接管网购年轻人迷上外包砍价"
+  },
+  {
+    "id": "c8f7f824c09d909e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "年薪百万，硅谷大厂急招反内鬼专家",
+    "summary": "硅谷现在最抢手的不是工程师，是会抓内鬼的前特工",
+    "url": "https://www.tmtpost.com/8214813.html",
+    "canonicalUrl": "https://www.tmtpost.com/8214813.html",
+    "publishedAt": "2026-11-23T10:36:02.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "年薪百万硅谷大厂急招反内鬼专家"
+  },
+  {
+    "id": "866bb9c735240297",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "智谱官宣 GLM-5.4：采用 Loop Transformer 架构、开启“泛 Coding”能力",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503756",
+    "canonicalUrl": "https://www.oschina.net/news/503756",
+    "publishedAt": "2026-11-23T10:30:11.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "智谱官宣glm54采用looptransformer架构开启泛coding能力"
+  },
+  {
+    "id": "285279fc192e3cd9",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "PostgreSQL 19 正式发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503754/postgresql-19-released",
+    "canonicalUrl": "https://www.oschina.net/news/503754/postgresql-19-released",
+    "publishedAt": "2026-11-23T10:15:05.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "postgresql19正式发布"
+  },
+  {
+    "id": "1f113b6245b3e684",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "天文学家首次观察到恒星吞噬伴星并爆炸的过程",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85966",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85966",
+    "publishedAt": "2026-11-23T10:10:43.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "天文学家首次观察到恒星吞噬伴星并爆炸的过程"
+  },
+  {
+    "id": "1c255b313121e831",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "summary": "",
+    "url": "https://z.ai/blog/glm-5.4",
+    "canonicalUrl": "https://z.ai/blog/glm-5.4",
+    "publishedAt": "2026-11-23T10:06:43.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 914,
+      "comments": 312
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "glm54towardgeneralizedcodingwithourfirstlooptransformer"
+  },
+  {
+    "id": "751d8d681c23a7e1",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "BepiColombo 探测器进入水星轨道",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85965",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85965",
+    "publishedAt": "2026-11-23T09:42:47.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "bepicolombo探测器进入水星轨道"
+  },
+  {
+    "id": "259eed2e1078609f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+    "summary": "企业核心需求不是交付设备，而是能持续上岗的劳动力",
+    "url": "https://www.qbitai.com/2026/11/512179.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512179.html",
+    "publishedAt": "2026-11-23T09:10:08.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "XROBO",
+      "具身智能",
+      "机器人"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "xrogo郑随兵机器人不能只在视频里终究要进入工厂真干活"
+  },
+  {
+    "id": "e4fd73c7050230e9",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "谷歌世界模型 Genie 4 更新，支持“实时”更改世界",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503750/google-deepmind-genie-4",
+    "canonicalUrl": "https://www.oschina.net/news/503750/google-deepmind-genie-4",
+    "publishedAt": "2026-11-23T08:59:18.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "谷歌世界模型genie4更新支持实时更改世界"
+  },
+  {
+    "id": "7113cd72bc270333",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "日本人口年龄中位数首次超过 50 岁",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85964",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85964",
+    "publishedAt": "2026-11-23T08:41:39.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "日本人口年龄中位数首次超过50岁"
+  },
+  {
+    "id": "e83bd9025e42afcf",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": ":fire: xbatis 1.10.12 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503748",
+    "canonicalUrl": "https://www.oschina.net/news/503748",
+    "publishedAt": "2026-11-23T08:39:01.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "firexbatis11012正式发版mybatis系列最好用最简单最方便的orm"
+  },
+  {
+    "id": "6925de0e0869fa9c",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "微语 5.3.0 发布 - 支持远程协助",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503747",
+    "canonicalUrl": "https://www.oschina.net/news/503747",
+    "publishedAt": "2026-11-23T08:27:26.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "微语530发布支持远程协助"
+  },
+  {
+    "id": "06b57bba14661228",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "COP31 气候谈判未达成任何共识",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85963",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85963",
+    "publishedAt": "2026-11-23T08:01:23.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "cop31气候谈判未达成任何共识"
+  },
+  {
+    "id": "7207478fd51254da",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Connected intelligence for in-house legal",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’…",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "canonicalUrl": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "publishedAt": "2026-11-23T08:00:00.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "Webinars"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "connectedintelligenceforinhouselegal"
+  },
+  {
+    "id": "3d99645d631ce8b8",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "一条命令就能让 Mac 用本地模型跑编程 Agent",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503746",
+    "canonicalUrl": "https://www.oschina.net/news/503746",
+    "publishedAt": "2026-11-23T07:58:34.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "一条命令就能让mac用本地模型跑编程agent"
+  },
+  {
+    "id": "aad0021438676123",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+    "summary": "阿福大升级：让模型像医生一样思考",
+    "url": "https://www.qbitai.com/2026/11/512017.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512017.html",
+    "publishedAt": "2026-11-23T07:42:01.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "AI",
+      "医疗",
+      "百灵"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "蚂蚁医疗健康ai五连发开源本地部署望闻问切全安排上了"
   },
   {
     "id": "74eb4c60df75fa0f",
@@ -375,6 +978,44 @@
     "titleKey": "choice数据显示11月20日英伟达单日跌超14而截至三季度末东方港湾海外基金的第二大重仓股正是英伟达且其三"
   },
   {
+    "id": "d9c3344b4bb661d5",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "GTA 6 如何在游戏中刻画电动汽车？",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85961",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85961",
+    "publishedAt": "2026-11-23T07:09:41.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "gta6如何在游戏中刻画电动汽车"
+  },
+  {
+    "id": "0e4b2ca55e2add3d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+    "summary": "一个完全由AI组成的科学家社会，是什么样？",
+    "url": "https://www.qbitai.com/2026/11/512004.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512004.html",
+    "publishedAt": "2026-11-23T06:59:38.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "AI",
+      "数学"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "agent版arxiv来了936个智能体12个星期狂发近千篇论文连同行评议都整上了"
+  },
+  {
     "id": "2d35220d85fde6a5",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -499,6 +1140,27 @@
     "titleKey": "brookfieldagreestobuypgpglassfromblackstonefor17b"
   },
   {
+    "id": "8e553a152c39d27e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "劝大家不要再开发了，你需要找到内心需要的东西",
+    "summary": "写代码太辛苦了。 研究发现，程序员想获得快乐并不需要真的写代码： 反正做出来的产品多半也没有用户，还白白浪费掉大量金钱和时间。只要让你\"感受到写代码的乐趣\"，效…",
+    "url": "https://www.v2ex.com/t/1259101",
+    "canonicalUrl": "https://www.v2ex.com/t/1259101",
+    "publishedAt": "2026-11-23T05:28:50.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 128
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "劝大家不要再开发了你需要找到内心需要的东西"
+  },
+  {
     "id": "3b9cdfc7753af1eb",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -619,6 +1281,26 @@
     "titleKey": "apartialevaluatorforc"
   },
   {
+    "id": "b931e454b4ea19f6",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+    "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领",
+    "url": "https://www.qbitai.com/2026/11/511998.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511998.html",
+    "publishedAt": "2026-11-23T03:56:34.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "蚂蚁"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "蚂蚁阿福同款大模型宣布开源全球医生一台电脑就能解锁专业医疗ai能力"
+  },
+  {
     "id": "a45d214670cd7079",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -677,6 +1359,26 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "makuboot53发布ai低代码开发平台快速开发利器"
+  },
+  {
+    "id": "d75676ada02eea47",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+    "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。",
+    "url": "https://www.qbitai.com/2026/11/511989.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511989.html",
+    "publishedAt": "2026-11-23T03:47:46.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "西部数据"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "算力周期更迭数据复合增长为何存储经济性对中国规模化ai至关重要"
   },
   {
     "id": "fe05123ae316d512",
@@ -754,6 +1456,26 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "qdata主数据平台开源版v101发布聚焦使用反馈功能细节与产品体验持续优化"
+  },
+  {
+    "id": "e5e87080e305dc1e",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+    "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero",
+    "url": "https://www.qbitai.com/2026/11/511978.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511978.html",
+    "publishedAt": "2026-11-23T03:13:06.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "RoboChallenge Zero"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "当大模型接上真实机器人robochallengezero首期评测发布"
   },
   {
     "id": "bf73ffdd1bed499c",
@@ -847,11 +1569,31 @@
       "情感"
     ],
     "signals": {
-      "replies": 104
+      "replies": 133
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "恋爱六年最近意外对别人动了真心坦白后现在无比痛苦"
+  },
+  {
+    "id": "112f066553a532ff",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+    "summary": "豆包工作是目前字节优先级最高的产品",
+    "url": "https://www.qbitai.com/2026/11/511933.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/511933.html",
+    "publishedAt": "2026-11-23T02:29:24.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [
+      "资讯",
+      "AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "豆姐威武豆包工作上新21个专业工作台ai直接替你上班"
   },
   {
     "id": "77d212d296572ce8",
@@ -868,7 +1610,7 @@
       "商业模式"
     ],
     "signals": {
-      "replies": 101
+      "replies": 122
     },
     "lang": "zh",
     "weight": 55,
@@ -889,7 +1631,7 @@
       "职场话题"
     ],
     "signals": {
-      "replies": 53
+      "replies": 71
     },
     "lang": "zh",
     "weight": 55,
@@ -932,7 +1674,7 @@
       "生活"
     ],
     "signals": {
-      "replies": 98
+      "replies": 113
     },
     "lang": "zh",
     "weight": 55,
@@ -953,7 +1695,7 @@
       "Google"
     ],
     "signals": {
-      "replies": 82
+      "replies": 109
     },
     "lang": "zh",
     "weight": 55,
@@ -993,10 +1735,10 @@
     "publishedAt": "2026-11-23T01:00:56.000Z",
     "fetchedAt": "2026-11-23T07:32:29.352Z",
     "tags": [
-      "Claude"
+      "推广"
     ],
     "signals": {
-      "replies": 63
+      "replies": 70
     },
     "lang": "zh",
     "weight": 55,
@@ -1017,11 +1759,28 @@
       "推广"
     ],
     "signals": {
-      "replies": 70
+      "replies": 88
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "熊市中就开个银河免5定投纳指或者红利低波etf吧股票也有免5的等3400点开一个来抄底"
+  },
+  {
+    "id": "594af63ef1b6d14b",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "How to build and maintain an agentic evaluation",
+    "summary": "",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "canonicalUrl": "https://huggingface.co/blog/agentic-evals",
+    "publishedAt": "2026-11-23T00:00:00.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "howtobuildandmaintainanagenticevaluation"
   },
   {
     "id": "8b260ec36b9a46e3",

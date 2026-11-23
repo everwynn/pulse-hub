@@ -618,32 +618,6 @@
     "titleKey": "canstocksbouncebackafterabrutalweekthistimingmodelsayshistoryisonthemarketsside"
   },
   {
-    "id": "dd28d7fc42a5b683",
-    "sourceId": "github-trending",
-    "sourceName": "GitHub 新晋热门",
-    "channel": "tech",
-    "title": "os6/nospeaker",
-    "summary": "make your macbook's trackpad talk using its haptic motor · Swift · ★ 656",
-    "url": "https://github.com/os6/nospeaker",
-    "canonicalUrl": "https://github.com/os6/nospeaker",
-    "publishedAt": "2026-11-22T12:05:54.000Z",
-    "fetchedAt": "2026-11-23T07:32:29.352Z",
-    "tags": [
-      "Swift",
-      "haptics",
-      "macos",
-      "swift",
-      "trackpad"
-    ],
-    "signals": {
-      "stars": 656,
-      "forks": 37
-    },
-    "lang": "en",
-    "weight": 90,
-    "titleKey": "os6nospeaker"
-  },
-  {
     "id": "355adacf1758212e",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
