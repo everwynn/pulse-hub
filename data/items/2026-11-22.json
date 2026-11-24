@@ -1480,6 +1480,28 @@
     "titleKey": "perplexityandintelligence"
   },
   {
+    "id": "b33583591ce655f6",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "4lwayz/portwatch-vi",
+    "summary": "Does GTA VI run on PC yet?",
+    "url": "https://github.com/4lwayz/portwatch-vi",
+    "canonicalUrl": "https://github.com/4lwayz/portwatch-vi",
+    "publishedAt": "2026-11-21T23:16:41.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "signals": {
+      "stars": 1440,
+      "forks": 32
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "4lwayzportwatchvi"
+  },
+  {
     "id": "a5211fc08696ab02",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1602,6 +1624,28 @@
     "titleKey": "itsdownrightdirtymybrothermovedinwithourailingmotherandclosedherbankaccountwhatcanido"
   },
   {
+    "id": "bbfb21f376e8d9a8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ride the SQL curve from basics to mastery",
+    "summary": "",
+    "url": "https://sqlride.com/",
+    "canonicalUrl": "https://sqlride.com/",
+    "publishedAt": "2026-11-21T19:56:36.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 34,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ridethesqlcurvefrombasicstomastery"
+  },
+  {
     "id": "bb34dcfefe7170f0",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -1653,6 +1697,28 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "buyersareoutforbloodwithhomesalesatarecordlowbuyersarecallingtheshots"
+  },
+  {
+    "id": "ff70e46e268b7da7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+    "summary": "",
+    "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
+    "canonicalUrl": "https://www.usenix.org/conference/osdi26/presentation/ni",
+    "publishedAt": "2026-11-21T18:49:45.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 32,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "arcticapracticallockfreeadaptiveradixtree"
   },
   {
     "id": "8f6ef991e92d55ef",

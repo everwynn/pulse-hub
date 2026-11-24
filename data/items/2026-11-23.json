@@ -68,6 +68,31 @@
     "titleKey": "越来越多的年轻远足者因过于依赖googlemaps迷路或遇险"
   },
   {
+    "id": "93be8364cefa4c8a",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "What are you Grateful for this Thanksgiving?",
+    "summary": "Thanksgiving is almost here (Just days away)..and I have no plans yet.",
+    "url": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
+    "canonicalUrl": "https://dev.to/francistrdev/what-are-you-grateful-for-this-thanksgiving-4570",
+    "publishedAt": "2026-11-23T14:42:00.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "discuss",
+      "community",
+      "watercooler",
+      "gratitude"
+    ],
+    "signals": {
+      "reactions": 113,
+      "comments": 47
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whatareyougratefulforthisthanksgiving"
+  },
+  {
     "id": "7558cadf9d90ee72",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -83,6 +108,27 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "英伟达重新任命黄仁勋为ceo"
+  },
+  {
+    "id": "5ef2ebc576490f90",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "黄仁勋又重新回到了他的英伟达，服了，把全世界当猴耍",
+    "summary": "![](https://i.imgur.com/hJVrX3i.png)",
+    "url": "https://www.v2ex.com/t/1259265",
+    "canonicalUrl": "https://www.v2ex.com/t/1259265",
+    "publishedAt": "2026-11-23T14:30:44.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "NVIDIA"
+    ],
+    "signals": {
+      "replies": 94
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "黄仁勋又重新回到了他的英伟达服了把全世界当猴耍"
   },
   {
     "id": "0438e5830bf1493d",
@@ -150,8 +196,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 1416,
-      "comments": 2554
+      "points": 2554,
+      "comments": 3473
     },
     "lang": "en",
     "weight": 92,
@@ -697,6 +743,25 @@
     "titleKey": "connectedintelligenceforinhouselegal"
   },
   {
+    "id": "09a46968943a238d",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with t…",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "canonicalUrl": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "publishedAt": "2026-11-23T08:00:00.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "Startup"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "richpanelhelpscompaniesautomate50ofsupportin30days"
+  },
+  {
     "id": "3d99645d631ce8b8",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -995,6 +1060,31 @@
     "titleKey": "gta6如何在游戏中刻画电动汽车"
   },
   {
+    "id": "a52182cf3f75a699",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "The Third Cup: Change Never Sleeps",
+    "summary": "An Ancient Idea in a Digital World It's 1:30 a.m.",
+    "url": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
+    "canonicalUrl": "https://dev.to/thethirdcup/the-third-cup-change-never-sleeps-2ldf",
+    "publishedAt": "2026-11-23T07:09:21.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "discuss",
+      "career",
+      "programming",
+      "management"
+    ],
+    "signals": {
+      "reactions": 110,
+      "comments": 51
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thethirdcupchangeneversleeps"
+  },
+  {
     "id": "0e4b2ca55e2add3d",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -1279,6 +1369,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "apartialevaluatorforc"
+  },
+  {
+    "id": "1d459d175e35e6d3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Lowering Perplexity Without Scaling",
+    "summary": "",
+    "url": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+    "canonicalUrl": "https://micjm.com/blog/lowering-perplexity-without-scaling",
+    "publishedAt": "2026-11-23T04:33:50.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 47,
+      "comments": 13
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "loweringperplexitywithoutscaling"
   },
   {
     "id": "b931e454b4ea19f6",
@@ -1803,6 +1915,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "glinetsecuritynotice20261120"
+  },
+  {
+    "id": "475994810a80f1b3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Modernizing iperf/iperf3 and introducing fireperf",
+    "summary": "",
+    "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+    "canonicalUrl": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+    "publishedAt": "2026-11-22T22:37:51.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 97,
+      "comments": 8
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "modernizingiperfiperf3andintroducingfireperf"
   },
   {
     "id": "a6ffd7eba3b1c297",
