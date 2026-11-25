@@ -1,5 +1,1026 @@
 [
   {
+    "id": "25c4db5c65770313",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "具身智能没有“速胜论”：从 70% 到 99.999%，机器人走出实验室还有多远",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/pcisT9ByOG238U0WZEGD?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/pcisT9ByOG238U0WZEGD",
+    "publishedAt": "2026-11-25T15:54:18.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "具身智能没有速胜论从70到99999机器人走出实验室还有多远"
+  },
+  {
+    "id": "9c9d480fcac0019e",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/ad1ILH2yFyN1HighXoFF?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/ad1ILH2yFyN1HighXoFF",
+    "publishedAt": "2026-11-25T15:44:25.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "2026年idea大会ai时代编程语言将深刻影响软件能力交付上限"
+  },
+  {
+    "id": "91426d20a430ff3f",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Netflix 基于运维数据打造知识图谱，实现 AI 可观测性",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O",
+    "publishedAt": "2026-11-25T14:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "netflix基于运维数据打造知识图谱实现ai可观测性"
+  },
+  {
+    "id": "2b1e68b3f0e8afc4",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "“Windows该淘汰了！”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/ApVrOK0hv1rmmoz2mfGM?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/ApVrOK0hv1rmmoz2mfGM",
+    "publishedAt": "2026-11-25T13:30:16.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "windows该淘汰了rails之父dhh开炮微软上万工程师干不过一个人带着ai干活"
+  },
+  {
+    "id": "2dc83b2e9f95ef11",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "GLM-5.4 编程能力暴涨、3D惊艳，但推理变久了？智谱押注双路线：首发Loop架构，下一代继续 Scaling",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/gXU31yBa9HMEe19PxHVB?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/gXU31yBa9HMEe19PxHVB",
+    "publishedAt": "2026-11-25T13:27:15.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "glm54编程能力暴涨3d惊艳但推理变久了智谱押注双路线首发loop架构下一代继续scaling"
+  },
+  {
+    "id": "e82c6a5e1940df36",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "GTM 领导者 AI 转型蓝图",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi",
+    "publishedAt": "2026-11-25T13:19:34.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "gtm领导者ai转型蓝图"
+  },
+  {
+    "id": "1463200df107e436",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS",
+    "publishedAt": "2026-11-25T13:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "谷歌开源环境质量智能体aqua用于诊断生产环境ai智能体故障"
+  },
+  {
+    "id": "dae29b3fd6e398d0",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "领英自研 GitOps 引擎替代 Argo CD，用于 Kubernetes 部署",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/bRlUV5HDDY68ocVwWKOk",
+    "publishedAt": "2026-11-25T12:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "领英自研gitops引擎替代argocd用于kubernetes部署"
+  },
+  {
+    "id": "229d94f064a35da1",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Citi in talks with U.S. officials on possible return to Venezuela - report",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676465-citi-eyes-possible-return-to-venezuela?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676465-citi-eyes-possible-return-to-venezuela?feed_item_type=news",
+    "publishedAt": "2026-11-25T08:24:34.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "c"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "citiintalkswithusofficialsonpossiblereturntovenezuelareport"
+  },
+  {
+    "id": "84f8daf4508598d1",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Cognizant in talks for S&P Global's India-based Capital IQ operations - report",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676463-cognizant-in-talks-for-sp-globals-india-based-capital-iq-operations---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676463-cognizant-in-talks-for-sp-globals-india-based-capital-iq-operations---report?feed_item_type=news",
+    "publishedAt": "2026-11-25T08:10:06.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "ctsh",
+      "spgi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "cognizantintalksforspglobalsindiabasedcapitaliqoperationsreport"
+  },
+  {
+    "id": "b91b176627ce6c8b",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Records show $270M China AI servers tied to Alice Huang's circle: Reuters",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676464-records-show-270m-china-ai-servers-tied-to-alice-huangs-circle-reuters?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676464-records-show-270m-china-ai-servers-tied-to-alice-huangs-circle-reuters?feed_item_type=news",
+    "publishedAt": "2026-11-25T07:53:01.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "nvda",
+      "tcehy"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "recordsshow270mchinaaiserverstiedtoalicehuangscirclereuters"
+  },
+  {
+    "id": "e1a65249f27ab163",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Chinese fast-fashion giant Shein to pay $100M to settle FTC allegations",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676431-chinese-fast-fashion-giant-shein-to-pay-100m-to-settle-ftc-allegations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676431-chinese-fast-fashion-giant-shein-to-pay-100m-to-settle-ftc-allegations?feed_item_type=news",
+    "publishedAt": "2026-11-25T07:41:02.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "shein",
+      "amzn",
+      "pdd"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "chinesefastfashiongiantsheintopay100mtosettleftcallegations"
+  },
+  {
+    "id": "9218720a59af0794",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "开源 AI 编程工具 T3 Code 被扒出“偷数据”",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503805",
+    "canonicalUrl": "https://www.oschina.net/news/503805",
+    "publishedAt": "2026-11-25T07:40:59.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "开源ai编程工具t3code被扒出偷数据"
+  },
+  {
+    "id": "751d8caf81855957",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "不炒股不梭哈，这届年轻人如何攒「后路」？",
+    "summary": "攒股息、囤金豆、存保险，年轻人理财主打“心脏友好”",
+    "url": "https://www.tmtpost.com/8216481.html",
+    "canonicalUrl": "https://www.tmtpost.com/8216481.html",
+    "publishedAt": "2026-11-25T07:33:35.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "不炒股不梭哈这届年轻人如何攒后路"
+  },
+  {
+    "id": "6b4119fc7ecef0bb",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "“转人工”、“转人工”、“给我转人工！”",
+    "summary": "“转人工”、“转人工”、“给我转人工！",
+    "url": "https://www.tmtpost.com/8217135.html",
+    "canonicalUrl": "https://www.tmtpost.com/8217135.html",
+    "publishedAt": "2026-11-25T07:33:34.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "转人工转人工给我转人工"
+  },
+  {
+    "id": "2a8e407eaf0bc328",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Germany's Q3 GDP growth cut to 0.1% on weaker exports and investment",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676462-germanys-q3-gdp-growth-cut-to-01-on-weaker-exports-and-investment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676462-germanys-q3-gdp-growth-cut-to-01-on-weaker-exports-and-investment?feed_item_type=news",
+    "publishedAt": "2026-11-25T07:31:10.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "ewg",
+      "fez",
+      "fgm",
+      "eufn",
+      "flgr",
+      "feuz"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "germanysq3gdpgrowthcutto01onweakerexportsandinvestment"
+  },
+  {
+    "id": "c3f21740c88c6411",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Google cancels ABC’s $15M deal as it turns off publisher funding: AFR",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676461-google-cancels-abcs-15m-deal-as-it-turns-off-publisher-funding-afr?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676461-google-cancels-abcs-15m-deal-as-it-turns-off-publisher-funding-afr?feed_item_type=news",
+    "publishedAt": "2026-11-25T07:28:54.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "goog",
+      "googl",
+      "meta"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "googlecancelsabcs15mdealasitturnsoffpublisherfundingafr"
+  },
+  {
+    "id": "0f8680183ff34e2d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "梅奥诊所向每天用自己的时间启动电脑的员工补发工资",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85985",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85985",
+    "publishedAt": "2026-11-25T06:54:30.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "梅奥诊所向每天用自己的时间启动电脑的员工补发工资"
+  },
+  {
+    "id": "c997c4027d6aebf7",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "DBErp 3.0.9 正式发布：订单管理更完善，系统运行更稳定",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503804",
+    "canonicalUrl": "https://www.oschina.net/news/503804",
+    "publishedAt": "2026-11-25T06:51:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "dberp309正式发布订单管理更完善系统运行更稳定"
+  },
+  {
+    "id": "8390783c9be76e2b",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+    "summary": "复杂场景三维建模成本降至10美元以内",
+    "url": "https://www.qbitai.com/2026/11/512498.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512498.html",
+    "publishedAt": "2026-11-25T06:49:27.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "Envision AI",
+      "权龙",
+      "空间与物理AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "华人计算机视觉泰斗二次创业离开苹果下场专注下一代空间与物理ai"
+  },
+  {
+    "id": "d35ce052809734a3",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "珑大面板 DBPanel 1.1.6 正式发布，支持 PHP 8.5 和 8.6",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503803",
+    "canonicalUrl": "https://www.oschina.net/news/503803",
+    "publishedAt": "2026-11-25T06:49:20.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "珑大面板dbpanel116正式发布支持php85和86"
+  },
+  {
+    "id": "70ee3acd6d0542a5",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Kagi 推出邮件服务",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85984",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85984",
+    "publishedAt": "2026-11-25T06:37:41.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "kagi推出邮件服务"
+  },
+  {
+    "id": "92e8b5a7f41a1a67",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥 Jync v2.4.6 · AI 运维助手与大表同步增强",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503802",
+    "canonicalUrl": "https://www.oschina.net/news/503802",
+    "publishedAt": "2026-11-25T06:27:40.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv246ai运维助手与大表同步增强"
+  },
+  {
+    "id": "66199976bcc8fc10",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "phimint：Rust 写的终端 AI 编程 agent — 获旋武社区「Rust 开源项目推荐」栏目刊文推荐",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503801",
+    "canonicalUrl": "https://www.oschina.net/news/503801",
+    "publishedAt": "2026-11-25T06:09:16.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "phimintrust写的终端ai编程agent获旋武社区rust开源项目推荐栏目刊文推荐"
+  },
+  {
+    "id": "8ba328d5e2670065",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "默认 pagefind 静态检索 | gpress v1.2.7 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503800",
+    "canonicalUrl": "https://www.oschina.net/news/503800",
+    "publishedAt": "2026-11-25T06:02:41.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "默认pagefind静态检索gpressv127发布"
+  },
+  {
+    "id": "a93f9f6d88517851",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "多样性影响鸟类对天敌的反应",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85983",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85983",
+    "publishedAt": "2026-11-25T06:01:54.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "多样性影响鸟类对天敌的反应"
+  },
+  {
+    "id": "931fc672f53f548c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "剧星传媒：净利率1%徘徊，毛利率不到5%，过半资产为“账”",
+    "summary": "报告期内剧星传媒营收保持增长，2025年营收同比增幅达25.01%，但营收增长之下盈利空间十分单薄，净利率长期徘徊在1%上下，整体毛利率不足5%，核心业务之一的…",
+    "url": "https://www.tmtpost.com/8215850.html",
+    "canonicalUrl": "https://www.tmtpost.com/8215850.html",
+    "publishedAt": "2026-11-25T05:55:43.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "IPO速递"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "剧星传媒净利率1徘徊毛利率不到5过半资产为账"
+  },
+  {
+    "id": "af6d2c8261ca7dd7",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "泰励生物：七年半累计亏损超6亿元，流动比率持续低于1",
+    "summary": "泰励生物能成功港股IPO吗？",
+    "url": "https://www.tmtpost.com/8215862.html",
+    "canonicalUrl": "https://www.tmtpost.com/8215862.html",
+    "publishedAt": "2026-11-25T05:53:37.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "IPO速递"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "泰励生物七年半累计亏损超6亿元流动比率持续低于1"
+  },
+  {
+    "id": "c07a522ad6931f9d",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "CHAM开源进销存 2026 版发布：经营总览报告与手机端 PWA 上线",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503799",
+    "canonicalUrl": "https://www.oschina.net/news/503799",
+    "publishedAt": "2026-11-25T05:16:12.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "cham开源进销存2026版发布经营总览报告与手机端pwa上线"
+  },
+  {
+    "id": "20029d9dec2cb1aa",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "summary": "",
+    "url": "https://gpu-demo-gallery.pages.dev/",
+    "canonicalUrl": "https://gpu-demo-gallery.pages.dev/",
+    "publishedAt": "2026-11-25T04:31:48.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 79,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnoldnvidiaandatitechdemosrunningagaininthebrowser"
+  },
+  {
+    "id": "80126a394c36e717",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "summary": "",
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "canonicalUrl": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "publishedAt": "2026-11-25T04:27:55.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 63,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "takingoverustreasurysubdomainsfor3each"
+  },
+  {
+    "id": "75aeabd6b096686b",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥🔥开源接口平台 v6.5.2 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503798",
+    "canonicalUrl": "https://www.oschina.net/news/503798",
+    "publishedAt": "2026-11-25T04:27:41.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "开源接口平台v652发布"
+  },
+  {
+    "id": "05c4fa310702acca",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "世界模型变天了",
+    "summary": "争抢定义“什么是好的世界模型”。",
+    "url": "https://www.tmtpost.com/8216357.html",
+    "canonicalUrl": "https://www.tmtpost.com/8216357.html",
+    "publishedAt": "2026-11-25T03:49:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "主编精选文章",
+      "AGI",
+      "大模型",
+      "具身智能",
+      "世界模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "世界模型变天了"
+  },
+  {
+    "id": "b9e885f2ec7a7e3b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "summary": "",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "canonicalUrl": "https://www.marginalia.nu/log/a_141_marginalia_update",
+    "publishedAt": "2026-11-25T03:47:42.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 90,
+      "comments": 35
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "marginaliasearchmoneycrustaistuff"
+  },
+  {
+    "id": "778f806f120b4016",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "AI 时代，技术大会是否还需要门槛？",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503797",
+    "canonicalUrl": "https://www.oschina.net/news/503797",
+    "publishedAt": "2026-11-25T03:41:50.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ai时代技术大会是否还需要门槛"
+  },
+  {
+    "id": "3c7e0c29c9b3b0be",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "手机、汽车、AI，小米需要一场新的增长接力",
+    "summary": "从手机到汽车再到AI，小米在寻找下一个增长点，但恰巧碰到了消费电子的下行周期。",
+    "url": "https://www.tmtpost.com/8216871.html",
+    "canonicalUrl": "https://www.tmtpost.com/8216871.html",
+    "publishedAt": "2026-11-25T03:32:28.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "主编精选文章",
+      "钛极客",
+      "看财报",
+      "小米",
+      "汽车行业",
+      "智能手机"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "手机汽车ai小米需要一场新的增长接力"
+  },
+  {
+    "id": "0003edba45841dcc",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+    "summary": "",
+    "url": "https://buttons.joshwcomeau.com/",
+    "canonicalUrl": "https://buttons.joshwcomeau.com/",
+    "publishedAt": "2026-11-25T03:23:07.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 296,
+      "comments": 31
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "buttonsoundscollectionofprofessionallyrecordedbuttonclicksandpresses"
+  },
+  {
+    "id": "06f35a70402292f9",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "请问大家追求的是什么样的生活呢？",
+    "summary": "我今天在网上看到一篇纪念数学家、哲学家王浩的文章，里头提到哲学家何兆武。",
+    "url": "https://www.v2ex.com/t/1259652",
+    "canonicalUrl": "https://www.v2ex.com/t/1259652",
+    "publishedAt": "2026-11-25T03:09:19.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "随想"
+    ],
+    "signals": {
+      "replies": 60
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "请问大家追求的是什么样的生活呢"
+  },
+  {
+    "id": "094ef1ed7a99c554",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+    "summary": "",
+    "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "canonicalUrl": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+    "publishedAt": "2026-11-25T03:04:37.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 139,
+      "comments": 49
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "bypassingiossafaris60fpslimittobuildwebapplicationsthatfeelnative"
+  },
+  {
+    "id": "c06a319e0d251beb",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "summary": "",
+    "url": "https://www.proofatlas.ai/open-problems/",
+    "canonicalUrl": "https://www.proofatlas.ai/open-problems",
+    "publishedAt": "2026-11-25T03:01:36.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 46,
+      "comments": 12
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "topopenproblemsinmathematicsrankedbyllmassessedimportance"
+  },
+  {
+    "id": "5bab38ded8e9dace",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "SmartCall v2.0.0发布 全新LiveKit实时语音架构",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503794",
+    "canonicalUrl": "https://www.oschina.net/news/503794",
+    "publishedAt": "2026-11-25T03:01:05.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "smartcallv200发布全新livekit实时语音架构"
+  },
+  {
+    "id": "6ad4240284ce2710",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "Claude Opus 5.6灰测效果来了",
+    "summary": "整体效率大约是此前Opus版本的2到3倍。",
+    "url": "https://www.qbitai.com/2026/11/512478.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512478.html",
+    "publishedAt": "2026-11-25T02:43:07.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "claudeopus56灰测效果来了"
+  },
+  {
+    "id": "4bb27ea4650fdd80",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "summary": "",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "canonicalUrl": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "publishedAt": "2026-11-25T02:34:21.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 196,
+      "comments": 74
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "modelscancommunicateviainferenceserversdespitebeingsandboxed"
+  },
+  {
+    "id": "633f1008513f51df",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我知道你几岁",
+    "summary": "简介：根据流行记忆猜猜你的年龄，哈哈哈，来看看准不准 游戏地址： https://ae4d4ba0.pinme.dev/#/",
+    "url": "https://www.v2ex.com/t/1259639",
+    "canonicalUrl": "https://www.v2ex.com/t/1259639",
+    "publishedAt": "2026-11-25T02:25:18.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 149
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我知道你几岁"
+  },
+  {
+    "id": "62e8d2bdc8893f81",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "凌晨 2 点起来改 bug，有点崩溃",
+    "summary": "事情起因是写的代码质量不高出现告警，凌晨 2 点被拉起来改代码 可能后续还会复盘什么，搞得压力有点大 想问大家都是这样的吗，想考公了",
+    "url": "https://www.v2ex.com/t/1259637",
+    "canonicalUrl": "https://www.v2ex.com/t/1259637",
+    "publishedAt": "2026-11-25T02:23:40.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 46
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "凌晨2点起来改bug有点崩溃"
+  },
+  {
+    "id": "042f14aeab080a20",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "summary": "“Given my age, I never make a major new purchase without thinking about the futu…",
+    "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T02:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "iminmy70sandbuyinganewbmwx1shouldiputmyonlysononthetitle"
+  },
+  {
+    "id": "e6a70b258fbe55e5",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "大家怎么第一次面对亲人的离去？",
+    "summary": "- 昨天下午下班，我妈妈给我打电话，说我外公脑溢血+心梗住院了，已经病危，让我赶紧和家人们去医院探望 - 我们到了医院以后，我第一次看见我外公昏迷不醒的样子，他…",
+    "url": "https://www.v2ex.com/t/1259613",
+    "canonicalUrl": "https://www.v2ex.com/t/1259613",
+    "publishedAt": "2026-11-25T01:27:40.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 114
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "大家怎么第一次面对亲人的离去"
+  },
+  {
+    "id": "782f099f9b664b30",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "理发怎么能那么贵！",
+    "summary": "**坐标：** 青岛下面非主城区 小区楼下有家理发店，之前原价 38，可以办 100 块钱三次的卡，已经觉得挺贵的了 最近这家店房租到期换到了原位置隔一个门面的…",
+    "url": "https://www.v2ex.com/t/1259612",
+    "canonicalUrl": "https://www.v2ex.com/t/1259612",
+    "publishedAt": "2026-11-25T01:27:33.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 151
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "理发怎么能那么贵"
+  },
+  {
+    "id": "3eada6f9c1657db7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+    "summary": "",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "canonicalUrl": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "publishedAt": "2026-11-25T01:19:26.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 552,
+      "comments": 275
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "matrixmultiplicationisθn225pdf"
+  },
+  {
+    "id": "2087e93d4c4539e4",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Dell’s stock rises as the AI boom helps sales more than double",
+    "summary": "Dell says its backlog is “rigorously vetted for customer quality and access to c…",
+    "url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T01:11:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "dellsstockrisesastheaiboomhelpssalesmorethandouble"
+  },
+  {
+    "id": "13829634b1b9c9bd",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "密码管理很少见到大家用苹果自带的 passwords",
+    "summary": "为什么呢？有什么不足吗？ 按我理解国内 apple id 应该是最稳最不会被封的一个账号了，如果全家桶都是苹果产品，用自带的密码管理器是不是更理想？",
+    "url": "https://www.v2ex.com/t/1259605",
+    "canonicalUrl": "https://www.v2ex.com/t/1259605",
+    "publishedAt": "2026-11-25T01:09:51.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 62
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "密码管理很少见到大家用苹果自带的passwords"
+  },
+  {
+    "id": "3257b4d434c2c250",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "summary": "",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "canonicalUrl": "https://greydanus.github.io/2026/11/12/pengpt",
+    "publishedAt": "2026-11-25T00:54:49.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 221,
+      "comments": 39
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "pengptagenerativetransformerforhandwritingandsketches"
+  },
+  {
     "id": "abea355a25687e81",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -22,5 +1043,244 @@
     "lang": "zh",
     "weight": 66,
     "titleKey": "新鲜感之后陪伴机器人如何被用起来"
+  },
+  {
+    "id": "0bec25898f138962",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "都说前端完了，但是招个人也太难了",
+    "summary": "按理说现在这环境人好招了，但是一周能看的也没几个简历，是因为年底了吗？",
+    "url": "https://www.v2ex.com/t/1259596",
+    "canonicalUrl": "https://www.v2ex.com/t/1259596",
+    "publishedAt": "2026-11-25T00:14:54.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "酷工作"
+    ],
+    "signals": {
+      "replies": 61
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "都说前端完了但是招个人也太难了"
+  },
+  {
+    "id": "fc493d79cb3e6add",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+    "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife los…",
+    "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T00:05:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "myhusbandsecretlysendshisexwife1500amonthaftershelostherjobwehave24millionsavedhasheliedbyomission"
+  },
+  {
+    "id": "e93ab66edbfc30fe",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
+    "summary": "Steeply higher security expenses of $764,748 for Mehrotra were part of a $39.7 m…",
+    "url": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-24T23:11:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "micronboostedceosanjaymehrotrassecuritybudgetby2000newfilingshows"
+  },
+  {
+    "id": "80422bc1889e49f3",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "有没有佬给孩子指条明路",
+    "summary": "大家好，虽说 23 年就注册了，但是也一直在潜水，第一条发帖就是索取求助，实在有些惭愧 🙏🏻，如果有说的不对的地方请多包涵。",
+    "url": "https://www.v2ex.com/t/1259591",
+    "canonicalUrl": "https://www.v2ex.com/t/1259591",
+    "publishedAt": "2026-11-24T22:29:53.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 51
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "有没有佬给孩子指条明路"
+  },
+  {
+    "id": "425e382bd137811d",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+    "summary": "The company's overall sales more than doubled on an annual basis during the thir…",
+    "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+    "publishedAt": "2026-11-24T22:07:45.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "dellearningsbeatonaistrengthcompanyauthorizes25billionbuyback"
+  },
+  {
+    "id": "3b35e0bba1417591",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+    "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have…",
+    "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-24T21:53:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "12daysofsardinesandcroccharmsareadventcalendarsgettingoutofcontrol"
+  },
+  {
+    "id": "4a1f1e6cf3007516",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Anthropic’s stock just broke below its IPO price for the first time",
+    "summary": "Shares are trading below their IPO price of $83, less than a week after their de…",
+    "url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-24T21:46:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "anthropicsstockjustbrokebelowitsipopriceforthefirsttime"
+  },
+  {
+    "id": "6eec5ae53cbc9f29",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+    "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+    "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-24T21:45:00.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "hpejustposteditsstrongestgrowtheverbutitsstockissinking"
+  },
+  {
+    "id": "271de30376941964",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "How much more are richest Americans spending on the holidays compared to everyone else?",
+    "summary": "Most households are getting “squeezed by rising costs of everyday goods,” accord…",
+    "url": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-24T21:31:00.000Z",
+    "fetchedAt": "2026-11-23T20:11:47.640Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "howmuchmorearerichestamericansspendingontheholidayscomparedtoeveryoneelse"
+  },
+  {
+    "id": "93987b7e91dbff26",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ternary Bonsai 2.5 27B",
+    "summary": "",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "canonicalUrl": "https://prismml.com/news/bonsai-2-5-27b",
+    "publishedAt": "2026-11-24T20:08:03.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 436,
+      "comments": 137
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ternarybonsai2527b"
+  },
+  {
+    "id": "5c3953f7ad3639f3",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Retail turnarounds are taking hold just in time for the holiday season",
+    "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong…",
+    "url": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+    "publishedAt": "2026-11-24T19:26:39.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "retailturnaroundsaretakingholdjustintimefortheholidayseason"
+  },
+  {
+    "id": "58a68b78b0bb85f1",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "fxceless/victory-fork",
+    "summary": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run…",
+    "url": "https://github.com/fxceless/victory-fork",
+    "canonicalUrl": "https://github.com/fxceless/victory-fork",
+    "publishedAt": "2026-11-24T18:02:37.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 2444,
+      "forks": 644
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "fxcelessvictoryfork"
+  },
+  {
+    "id": "842dd9f1d23b7636",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "canonicalUrl": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "publishedAt": "2026-11-24T16:34:13.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "microduckobstacleavoidanceasim2realworkflowwithisaaclabandnewton"
   }
 ]

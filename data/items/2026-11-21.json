@@ -200,8 +200,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 3375,
-      "forks": 226
+      "stars": 3746,
+      "forks": 269
     },
     "lang": "en",
     "weight": 90,
@@ -991,8 +991,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1732,
-      "forks": 112
+      "stars": 1829,
+      "forks": 121
     },
     "lang": "en",
     "weight": 90,
@@ -2082,6 +2082,32 @@
     "titleKey": "dreamcodercodingharnessandidefromtheauthorofmasteringemacs"
   },
   {
+    "id": "3846a38134578f60",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "xcl-dev/xcl",
+    "summary": "Xbox Series compatibility layer for Windows - runs console game code natively, r…",
+    "url": "https://github.com/xcl-dev/xcl",
+    "canonicalUrl": "https://github.com/xcl-dev/xcl",
+    "publishedAt": "2026-11-20T20:03:21.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "Rust",
+      "d3d12",
+      "gdk",
+      "rdna2",
+      "xbox"
+    ],
+    "signals": {
+      "stars": 8031,
+      "forks": 1085
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "xcldevxcl"
+  },
+  {
     "id": "c59aff56bfbab103",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
@@ -2281,8 +2307,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 1730,
-      "forks": 189
+      "stars": 1930,
+      "forks": 221
     },
     "lang": "en",
     "weight": 90,
@@ -2718,8 +2744,8 @@
       "codenewbiestory"
     ],
     "signals": {
-      "reactions": 50,
-      "comments": 7
+      "reactions": 54,
+      "comments": 17
     },
     "lang": "en",
     "weight": 60,

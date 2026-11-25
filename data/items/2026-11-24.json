@@ -1,5 +1,90 @@
 [
   {
+    "id": "bd7cfa11df5152df",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "东北积雪天数预计将会显著减少",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85982",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85982",
+    "publishedAt": "2026-11-24T15:57:38.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "东北积雪天数预计将会显著减少"
+  },
+  {
+    "id": "29ea85a5829eff37",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "基因工程烟草能用于高效合成抗癌药",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85981",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85981",
+    "publishedAt": "2026-11-24T14:53:56.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "基因工程烟草能用于高效合成抗癌药"
+  },
+  {
+    "id": "55e35cdd6d3eccd3",
+    "sourceId": "cnbc-earnings",
+    "sourceName": "CNBC · 财报",
+    "channel": "finance",
+    "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+    "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings resul…",
+    "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+    "canonicalUrl": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+    "publishedAt": "2026-11-24T14:51:58.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 82,
+    "titleKey": "bestbuyreportscomparablesalesgrowthof61highestinfiveyears"
+  },
+  {
+    "id": "79af763d809e34aa",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "空气污染是痴呆症的一个诱因",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85980",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85980",
+    "publishedAt": "2026-11-24T14:40:37.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "空气污染是痴呆症的一个诱因"
+  },
+  {
+    "id": "a082988ceb08b7ee",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Firefox 161 释出",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85979",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85979",
+    "publishedAt": "2026-11-24T14:22:21.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "firefox161释出"
+  },
+  {
     "id": "f8703e2eb6381454",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +102,23 @@
     "titleKey": "当ai改变一切下一步如何构建"
   },
   {
+    "id": "4e52f02df13bc696",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Windows Server 移除对 32 位应用的支持",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85978",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85978",
+    "publishedAt": "2026-11-24T14:04:48.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "windowsserver移除对32位应用的支持"
+  },
+  {
     "id": "4e4dc8e461cea3dd",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +134,25 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "技术债务具有社会性它是边做边学的代价"
+  },
+  {
+    "id": "a6f72c2384fb2905",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code.",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "canonicalUrl": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "publishedAt": "2026-11-24T13:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "Science"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "gpt6modelsdemonstrateintrinsicproteindesigncapabilities"
   },
   {
     "id": "806b5fd36c2474e4",
@@ -119,6 +240,25 @@
     "titleKey": "把rust表达式直接翻译成javascripttopcoat走了一条反wasm路线"
   },
   {
+    "id": "c8eae9d0f80f9871",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Searching for distant planets with Astra",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanet…",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "canonicalUrl": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "publishedAt": "2026-11-24T11:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "Science"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "searchingfordistantplanetswithastra"
+  },
+  {
     "id": "b0a19c5767efe828",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +274,63 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "pinterest让大模型取代多阶段聚类但最大的提速来自少推理"
+  },
+  {
+    "id": "9592f943d0896202",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+    "summary": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+    "url": "https://www.qbitai.com/2026/11/512454.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512454.html",
+    "publishedAt": "2026-11-24T10:30:42.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "高德"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "高德发布世界模型abotworld05支持构建音画同步可实时重塑的ai物理世界"
+  },
+  {
+    "id": "67e9d0f295f1f403",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "神舟二十四号计划 25 日 8 时发射",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85977",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85977",
+    "publishedAt": "2026-11-24T10:24:21.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "神舟二十四号计划25日8时发射"
+  },
+  {
+    "id": "2b0448ca91a42a36",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+    "summary": "蚂蚁刚刚发布医疗健康模型全家桶",
+    "url": "https://www.qbitai.com/2026/11/512451.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512451.html",
+    "publishedAt": "2026-11-24T10:15:57.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "蚂蚁"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "蚂蚁开源医疗健康预测模型根据睡眠数据可预测未来六年150种疾病风险"
   },
   {
     "id": "136a71a731e78141",
@@ -238,6 +435,29 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "stockfuturesslideafternvidialedwallstreetrally"
+  },
+  {
+    "id": "65acfea6e454ded4",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+    "summary": "纯代码手搓了一个MV！",
+    "url": "https://www.qbitai.com/2026/11/512423.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512423.html",
+    "publishedAt": "2026-11-24T09:21:55.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "GLM-5.4",
+      "智谱",
+      "智谱AI"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "智谱刚刚发了glm54全新架构的那种网友直呼超过预期"
   },
   {
     "id": "0e1759ab1322763f",
@@ -372,6 +592,23 @@
     "titleKey": "bingexgaapepsof001revenueof1386m"
   },
   {
+    "id": "1068364f5da36b9d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "索尼称逾 3900 万玩家玩过了 GTA6",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85976",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85976",
+    "publishedAt": "2026-11-24T09:04:43.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "索尼称逾3900万玩家玩过了gta6"
+  },
+  {
     "id": "eb7931726e9e02a2",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -415,6 +652,26 @@
     "titleKey": "accsystechnologiesplcnongaapepsof001revenueof746m"
   },
   {
+    "id": "cacee032e94322cc",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见",
+    "summary": "2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行",
+    "url": "https://www.qbitai.com/2026/11/512411.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512411.html",
+    "publishedAt": "2026-11-24T08:44:32.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "智次方"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "最新议程与嘉宾阵容公布2027中国aiot产业年会11月27日深圳见"
+  },
+  {
     "id": "54eef723358adc47",
     "sourceId": "oschina",
     "sourceName": "开源中国",
@@ -432,6 +689,46 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "rnoisepromptforgev52发布零llm确定性ai音乐prompt编译器与mcp20协议引擎"
+  },
+  {
+    "id": "cd1eff7e3cc9ea9d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办",
+    "summary": "探讨未来产业布局与结构性新周期下的资产配置机遇。",
+    "url": "https://www.qbitai.com/2026/11/512387.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512387.html",
+    "publishedAt": "2026-11-24T08:34:03.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "投中网"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "叙事时代丨第20届中国投资年会有限合伙人峰会在沪成功举办"
+  },
+  {
+    "id": "28438309ff882747",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，CTO杨传辉解读三大能力",
+    "summary": "11月24日，蚂蚁OceanBase AI数据大会在北京召开。",
+    "url": "https://www.qbitai.com/2026/11/512383.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512383.html",
+    "publishedAt": "2026-11-24T08:10:43.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "资讯",
+      "蚂蚁"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "蚂蚁oceanbase发布湖库一体ai数据平台oceanlakecto杨传辉解读三大能力"
   },
   {
     "id": "a7ee68a111193696",
@@ -670,6 +967,28 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "amdepyczen6vszen1performance121xgeomeaninlessthan10years"
+  },
+  {
+    "id": "49c638e1a5bd31f4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The algebra of dependent types (2025)",
+    "summary": "",
+    "url": "https://dotat.at/@/2025-05-28-types.html",
+    "canonicalUrl": "https://dotat.at/@/2025-05-28-types.html",
+    "publishedAt": "2026-11-24T04:49:58.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 14,
+      "comments": 0
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thealgebraofdependenttypes2025"
   },
   {
     "id": "46cba3232068269e",
@@ -971,23 +1290,6 @@
     "titleKey": "ivebeenmarriedfor58yearsitsourmoneynothisandherswhydosomanycoupleskeeptheirfinancesseparate"
   },
   {
-    "id": "6eec5ae53cbc9f29",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-    "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-    "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-24T01:01:00.000Z",
-    "fetchedAt": "2026-11-24T09:50:52.947Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "hpejustposteditsstrongestgrowtheverbutitsstockissinking"
-  },
-  {
     "id": "3e3c80a332519e36",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1049,6 +1351,79 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "仁勋这招叫做以退为进吗"
+  },
+  {
+    "id": "ce2b015cf5f5932e",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How Intentful uses dots to make more time for growth",
+    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while pro…",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "canonicalUrl": "https://openai.com/business/customer-stories/intentful-dots",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howintentfulusesdotstomakemoretimeforgrowth"
+  },
+  {
+    "id": "7517a6b50036f9e6",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "summary": "",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "canonicalUrl": "https://openai.com/business/customer-stories/ifood",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "howifoodscalescodingagentsacross15000repositories"
+  },
+  {
+    "id": "ac2febd3ccca61c5",
+    "sourceId": "openai-news",
+    "sourceName": "OpenAI News",
+    "channel": "ai",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data in…",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "canonicalUrl": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "publishedAt": "2026-11-24T00:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 95,
+    "titleKey": "clayhelpssalesteamswinwithcodexandchatgpt"
+  },
+  {
+    "id": "35551fc3864516b0",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "ubiquitarianism/leonida",
+    "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI · Python · ★ …",
+    "url": "https://github.com/ubiquitarianism/leonida",
+    "canonicalUrl": "https://github.com/ubiquitarianism/leonida",
+    "publishedAt": "2026-11-23T23:54:39.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 2043,
+      "forks": 448
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "ubiquitarianismleonida"
   },
   {
     "id": "a38b65e670b58ee4",
@@ -1129,7 +1504,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Marvisak/VIctory",
-    "summary": "An attempt at running GTA VI on PC · Rust · ★ 7054",
+    "summary": "An attempt at running GTA VI on PC · Rust · ★ 11794",
     "url": "https://github.com/Marvisak/VIctory",
     "canonicalUrl": "https://github.com/Marvisak/VIctory",
     "publishedAt": "2026-11-23T21:47:25.000Z",
@@ -1138,8 +1513,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 7054,
-      "forks": 915
+      "stars": 11794,
+      "forks": 1760
     },
     "lang": "en",
     "weight": 90,
@@ -1771,23 +2146,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "amazonmayhavejustfoundacheapwaytogetalotmoreoutofitschips"
-  },
-  {
-    "id": "271de30376941964",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "See how much more money the richest Americans are spending on the holidays compared to everyone else",
-    "summary": "Most households are getting “squeezed by rising costs of everyday goods,” accord…",
-    "url": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/see-how-much-more-money-the-richest-americans-are-spending-on-the-holidays-compared-to-everyone-else-f0ff3f4b?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-23T18:14:00.000Z",
-    "fetchedAt": "2026-11-23T20:11:47.640Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "seehowmuchmoremoneytherichestamericansarespendingontheholidayscomparedtoeveryoneelse"
   },
   {
     "id": "b393d79483b8f9fc",
