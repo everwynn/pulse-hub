@@ -200,8 +200,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 3746,
-      "forks": 269
+      "stars": 4060,
+      "forks": 292
     },
     "lang": "en",
     "weight": 90,
@@ -671,6 +671,31 @@
     "titleKey": "反超gemini之后karpo新作再开源浏览器agent速效双赢"
   },
   {
+    "id": "e2dfdc7a8a99e172",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "The Chairs Are Back. The Coffee Is On. ☕",
+    "summary": "Welcome to The Third Cup.",
+    "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+    "canonicalUrl": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+    "publishedAt": "2026-11-21T11:24:29.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "community",
+      "discuss",
+      "ai",
+      "writing"
+    ],
+    "signals": {
+      "reactions": 123,
+      "comments": 64
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thechairsarebackthecoffeeison"
+  },
+  {
     "id": "394a1fcbcc1963a9",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -991,8 +1016,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1829,
-      "forks": 121
+      "stars": 1849,
+      "forks": 122
     },
     "lang": "en",
     "weight": 90,
@@ -2100,8 +2125,8 @@
       "xbox"
     ],
     "signals": {
-      "stars": 8031,
-      "forks": 1085
+      "stars": 8389,
+      "forks": 1161
     },
     "lang": "en",
     "weight": 90,
@@ -2307,8 +2332,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 1930,
-      "forks": 221
+      "stars": 1959,
+      "forks": 232
     },
     "lang": "en",
     "weight": 90,
@@ -2744,8 +2769,8 @@
       "codenewbiestory"
     ],
     "signals": {
-      "reactions": 54,
-      "comments": 17
+      "reactions": 58,
+      "comments": 42
     },
     "lang": "en",
     "weight": 60,
@@ -2791,6 +2816,31 @@
     "lang": "zh",
     "weight": 74,
     "titleKey": "米哈游发了个vla论文"
+  },
+  {
+    "id": "97424228d15c87c5",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Cozy Bytes 🍺 | Rust::Who Owns the Cat? 🐈🦀",
+    "summary": "Hoi hoi! 😸 Happy Friday! Let's learn a tiny bit of Rust! 😸🍻 No complicated archi…",
+    "url": "https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch",
+    "canonicalUrl": "https://dev.to/_yourbrainbuffer_/cozy-bytes-rustwho-owns-the-cat-13ch",
+    "publishedAt": "2026-11-20T16:21:37.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "rust",
+      "learning",
+      "beginners",
+      "programming"
+    ],
+    "signals": {
+      "reactions": 108,
+      "comments": 38
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "cozybytesrustwhoownsthecat"
   },
   {
     "id": "191c2b8ace4dfdea",

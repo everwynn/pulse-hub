@@ -564,25 +564,6 @@
     "titleKey": "everymaccomeswithanundocumentedfamilymemberclassifier"
   },
   {
-    "id": "6ce492bfdd1abc5b",
-    "sourceId": "oschina",
-    "sourceName": "开源中国",
-    "channel": "tech",
-    "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
-    "summary": "",
-    "url": "https://www.oschina.net/news/503464",
-    "canonicalUrl": "https://www.oschina.net/news/503464",
-    "publishedAt": "2026-11-07T09:40:05.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [
-      "软件更新新闻"
-    ],
-    "signals": {},
-    "lang": "zh",
-    "weight": 64,
-    "titleKey": "firexbatis11015正式发版mybatis系列最好用最简单最方便的orm"
-  },
-  {
     "id": "fe779a4d0053310e",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",

@@ -136,6 +136,23 @@
     "titleKey": "技术债务具有社会性它是边做边学的代价"
   },
   {
+    "id": "1a82f32f9bd9fcfc",
+    "sourceId": "deepmind-blog",
+    "sourceName": "Google DeepMind",
+    "channel": "ai",
+    "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+    "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tande…",
+    "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+    "canonicalUrl": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+    "publishedAt": "2026-11-24T13:07:53.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "fromspectrumtostructureidentifyingmoleculeswithmassspecskillsforgoogleantigravity"
+  },
+  {
     "id": "a6f72c2384fb2905",
     "sourceId": "openai-news",
     "sourceName": "OpenAI News",
@@ -274,6 +291,28 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "pinterest让大模型取代多阶段聚类但最大的提速来自少推理"
+  },
+  {
+    "id": "dee721e5954e044b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "What VP ≠ VNP Means (In 3 Minutes)",
+    "summary": "",
+    "url": "https://www.friedgil.com/vpvnp",
+    "canonicalUrl": "https://www.friedgil.com/vpvnp",
+    "publishedAt": "2026-11-24T10:56:56.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 113,
+      "comments": 29
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "whatvpvnpmeansin3minutes"
   },
   {
     "id": "9592f943d0896202",
@@ -1094,6 +1133,28 @@
     "titleKey": "ladybird发布alpha版本从零开发的开源浏览器引擎"
   },
   {
+    "id": "5685daeba372d2fa",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Synth Patch Hero",
+    "summary": "",
+    "url": "https://swarkentin.github.io/synth-patch-hero/",
+    "canonicalUrl": "https://swarkentin.github.io/synth-patch-hero",
+    "publishedAt": "2026-11-24T03:24:22.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 20,
+      "comments": 6
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnsynthpatchhero"
+  },
+  {
     "id": "cc26d2d8b2927547",
     "sourceId": "qbitai",
     "sourceName": "量子位",
@@ -1273,23 +1334,6 @@
     "titleKey": "qmodel算法模型平台开源版v144发布参数默认值入参修复与计算结果可视化扩展"
   },
   {
-    "id": "3c8e6c8ac5bdefe6",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-    "summary": "“My wife stopped working outside the home in 1970.”",
-    "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-24T01:01:00.000Z",
-    "fetchedAt": "2026-11-24T09:50:52.947Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ivebeenmarriedfor58yearsitsourmoneynothisandherswhydosomanycoupleskeeptheirfinancesseparate"
-  },
-  {
     "id": "3e3c80a332519e36",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1418,8 +1462,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2043,
-      "forks": 448
+      "stars": 2391,
+      "forks": 543
     },
     "lang": "en",
     "weight": 90,
@@ -1504,7 +1548,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Marvisak/VIctory",
-    "summary": "An attempt at running GTA VI on PC · Rust · ★ 11794",
+    "summary": "An attempt at running GTA VI on PC · Rust · ★ 12815",
     "url": "https://github.com/Marvisak/VIctory",
     "canonicalUrl": "https://github.com/Marvisak/VIctory",
     "publishedAt": "2026-11-23T21:47:25.000Z",
@@ -1513,8 +1557,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 11794,
-      "forks": 1760
+      "stars": 12815,
+      "forks": 2102
     },
     "lang": "en",
     "weight": 90,

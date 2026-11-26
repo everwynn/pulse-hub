@@ -1,5 +1,22 @@
 [
   {
+    "id": "fb4ede42e3fa8537",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85993",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85993",
+    "publishedAt": "2026-11-25T15:54:33.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "easportsfc利用ai数字重现已故解说员johnmotson的声音"
+  },
+  {
     "id": "25c4db5c65770313",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +49,138 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "2026年idea大会ai时代编程语言将深刻影响软件能力交付上限"
+  },
+  {
+    "id": "8c06acc27a286ea0",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85992",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85992",
+    "publishedAt": "2026-11-25T15:26:31.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "claude和chatgpt在蛋白质结构预测和设计上挑战alphafold"
+  },
+  {
+    "id": "99ec4e75f9ea9846",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85991",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85991",
+    "publishedAt": "2026-11-25T14:51:37.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "nasa计划2028年发射验证核电推进技术的探测器"
+  },
+  {
+    "id": "00f49145e497b9c9",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/512727.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512727.html",
+    "publishedAt": "2026-11-25T14:51:06.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯",
+      "秘塔"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "丢个故事就行直出15分钟ai短片家里二舅也能上手"
+  },
+  {
+    "id": "69630a22d08d2955",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+    "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+    "url": "https://www.qbitai.com/2026/11/512715.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512715.html",
+    "publishedAt": "2026-11-25T14:32:57.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯",
+      "智元灵心"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "零基础也能做开发智元灵心平台一年孵化超3万个机器人智能体"
+  },
+  {
+    "id": "cc7d77837277867c",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "研究显示不是所有地区的男性精子数量都大幅下降",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85990",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85990",
+    "publishedAt": "2026-11-25T14:27:27.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "研究显示不是所有地区的男性精子数量都大幅下降"
+  },
+  {
+    "id": "b3fee6a16c6a5f3b",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "如何维护超算",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85989",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85989",
+    "publishedAt": "2026-11-25T14:18:03.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "如何维护超算"
+  },
+  {
+    "id": "72ef6cbabecd237b",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "The mental toll of working in tech",
+    "summary": "Hi folks! 👋 It's been a while since I last wrote here. As some of you may rememb…",
+    "url": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
+    "canonicalUrl": "https://dev.to/klaudiagrz/the-mental-toll-of-working-in-tech-2m6k",
+    "publishedAt": "2026-11-25T14:05:36.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "mentalhealth",
+      "discuss",
+      "career"
+    ],
+    "signals": {
+      "reactions": 53,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thementaltollofworkingintech"
   },
   {
     "id": "91426d20a430ff3f",
@@ -136,6 +285,122 @@
     "titleKey": "领英自研gitops引擎替代argocd用于kubernetes部署"
   },
   {
+    "id": "6f135a7947b334bc",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "An Indic Voice Agent with CUGA",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "canonicalUrl": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "publishedAt": "2026-11-25T10:22:09.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "anindicvoiceagentwithcuga"
+  },
+  {
+    "id": "7dc452f82402c4c5",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "日本政府开发智能体打击盗版动漫",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85988",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85988",
+    "publishedAt": "2026-11-25T09:49:29.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "日本政府开发智能体打击盗版动漫"
+  },
+  {
+    "id": "578237e504c19ddf",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "回帖 + 加群送 $18 额度，Claude Code / Codex 改个地址就能用，GPT 低至官方 1.35 折 | 林易 API",
+    "summary": "各位 V 友好，我们是林易 API（[linyiapi.ai](https://linyiapi.ai)）团队，做 AI 大模型 API 中转。",
+    "url": "https://www.v2ex.com/t/1259773",
+    "canonicalUrl": "https://www.v2ex.com/t/1259773",
+    "publishedAt": "2026-11-25T09:12:11.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 62
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "回帖加群送18额度claudecodecodex改个地址就能用gpt低至官方135折林易api"
+  },
+  {
+    "id": "3f161ecfe4dc98b0",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "2240 亿参数的 Hy4 flash 模型，现在能跑在 64GB 的 Mac mini 上",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503813",
+    "canonicalUrl": "https://www.oschina.net/news/503813",
+    "publishedAt": "2026-11-25T09:03:51.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "2240亿参数的hy4flash模型现在能跑在64gb的macmini上"
+  },
+  {
+    "id": "1021404f8db284db",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "LibreOffice 收紧 AI 辅助代码贡献政策",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503810/libreoffice-restricts-llm-use-development",
+    "canonicalUrl": "https://www.oschina.net/news/503810/libreoffice-restricts-llm-use-development",
+    "publishedAt": "2026-11-25T08:33:26.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "libreoffice收紧ai辅助代码贡献政策"
+  },
+  {
+    "id": "5135d4eb80770031",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "The Price You Pay for Passion",
+    "summary": "Over the past three weeks, I've written three rather demanding articles.",
+    "url": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
+    "canonicalUrl": "https://dev.to/thethirdcup/the-price-you-pay-for-passion-3h5l",
+    "publishedAt": "2026-11-25T08:29:06.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "discuss",
+      "mentalhealth"
+    ],
+    "signals": {
+      "reactions": 103,
+      "comments": 55
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "thepriceyoupayforpassion"
+  },
+  {
     "id": "229d94f064a35da1",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -153,6 +418,25 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "citiintalkswithusofficialsonpossiblereturntovenezuelareport"
+  },
+  {
+    "id": "f410282b2962ec01",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": ":fire: xbatis 1.10.15 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503808",
+    "canonicalUrl": "https://www.oschina.net/news/503808",
+    "publishedAt": "2026-11-25T08:15:12.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "firexbatis11015正式发版mybatis系列最好用最简单最方便的orm"
   },
   {
     "id": "84f8daf4508598d1",
@@ -173,6 +457,23 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "cognizantintalksforspglobalsindiabasedcapitaliqoperationsreport"
+  },
+  {
+    "id": "b484697fddb98f6d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "男性肥胖者服用 GLP-1 药物后改善了精子质量",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85987",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85987",
+    "publishedAt": "2026-11-25T08:05:18.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "男性肥胖者服用glp1药物后改善了精子质量"
   },
   {
     "id": "b91b176627ce6c8b",
@@ -233,6 +534,23 @@
     "lang": "zh",
     "weight": 64,
     "titleKey": "开源ai编程工具t3code被扒出偷数据"
+  },
+  {
+    "id": "4fbebbba7781180f",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "CIA 部分非机密信息泄漏",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85986",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85986",
+    "publishedAt": "2026-11-25T07:33:54.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "cia部分非机密信息泄漏"
   },
   {
     "id": "751d8caf81855957",
@@ -880,23 +1198,6 @@
     "titleKey": "凌晨2点起来改bug有点崩溃"
   },
   {
-    "id": "042f14aeab080a20",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "summary": "“Given my age, I never make a major new purchase without thinking about the futu…",
-    "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-25T02:00:00.000Z",
-    "fetchedAt": "2026-11-25T08:28:38.679Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "iminmy70sandbuyinganewbmwx1shouldiputmyonlysononthetitle"
-  },
-  {
     "id": "e6a70b258fbe55e5",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1083,6 +1384,23 @@
     "titleKey": "myhusbandsecretlysendshisexwife1500amonthaftershelostherjobwehave24millionsavedhasheliedbyomission"
   },
   {
+    "id": "f13fd89d1429f58c",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "summary": "",
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "canonicalUrl": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "publishedAt": "2026-11-25T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "hillclimbinginkling2miniinferenceononertxpro6000"
+  },
+  {
     "id": "e93ab66edbfc30fe",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1259,8 +1577,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 2444,
-      "forks": 644
+      "stars": 3161,
+      "forks": 930
     },
     "lang": "en",
     "weight": 90,

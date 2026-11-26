@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "fe86201091962dc3",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6",
+    "publishedAt": "2026-11-26T15:35:51.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "破发不算最疼claudecode核心班底被openai疯狂收割才是anthropic的编程王座悬了"
+  },
+  {
+    "id": "cccd325993038cb3",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6",
+    "publishedAt": "2026-11-26T14:56:46.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "snowflakecoco再进化让数据开发进入agent自主执行时代技术趋势"
+  },
+  {
+    "id": "c7216af29fe32fd3",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Snowflake CoWork ：从受治理业务洞察到主动式业务作业 ｜ 技术趋势",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb",
+    "publishedAt": "2026-11-26T14:45:20.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "snowflakecowork从受治理业务洞察到主动式业务作业技术趋势"
+  },
+  {
+    "id": "57ab151f9853028e",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY",
+    "publishedAt": "2026-11-26T14:00:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "uber推出安全ai框架对ai智能体进行全生命周期治理"
+  },
+  {
+    "id": "48a1b22f82e35c1e",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/WXXMTPHLTH0bKV3rc35g?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/WXXMTPHLTH0bKV3rc35g",
+    "publishedAt": "2026-11-26T13:46:49.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "不用自建后端前端页面也能接入云端数据了pagesdatasdk正式上线"
+  },
+  {
+    "id": "ff1228bb5e35d228",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ",
+    "publishedAt": "2026-11-26T13:00:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "cohere的研究结果表明自托管开放权重模型仍然需出站控制"
+  },
+  {
+    "id": "5f6b0bcb7b351234",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ",
+    "publishedAt": "2026-11-26T12:00:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "siriai开发者预览版让iosipados和macos应用能够与siri集成"
+  },
+  {
+    "id": "1b5339ae84bb0836",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "AI写代码，谁来交付？",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW",
+    "publishedAt": "2026-11-26T11:28:47.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "ai写代码谁来交付"
+  },
+  {
+    "id": "98615739d615237e",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "U.S. House Committee clears Bitcoin Reserve Bill; can Congress act in time?",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676776-us-house-committee-clears-bitcoin-reserve-bill-can-congress-act-in-time?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676776-us-house-committee-clears-bitcoin-reserve-bill-can-congress-act-in-time?feed_item_type=news",
+    "publishedAt": "2026-11-26T07:44:49.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "btc-usd",
+      "btc",
+      "eth-usd",
+      "eth"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "ushousecommitteeclearsbitcoinreservebillcancongressactintime"
+  },
+  {
+    "id": "525ddec1fad8b66d",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Libreboot 撤掉了自己上个月立的 AI 禁令",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503832/libreboot-drops-anti-ai-policy-slop-reduction",
+    "canonicalUrl": "https://www.oschina.net/news/503832/libreboot-drops-anti-ai-policy-slop-reduction",
+    "publishedAt": "2026-11-26T07:26:56.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "libreboot撤掉了自己上个月立的ai禁令"
+  },
+  {
+    "id": "343b7158996eb849",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Gold’n Futures proposes private placement of up to $1.8M",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676778-goldn-futures-proposes-private-placement-of-up-to-18m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676778-goldn-futures-proposes-private-placement-of-up-to-18m?feed_item_type=news",
+    "publishedAt": "2026-11-26T07:26:42.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "gftrf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "goldnfuturesproposesprivateplacementofupto18m"
+  },
+  {
+    "id": "3b4a02b73f10aee8",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Hartford AAA CLO ETF declares $0.1385 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676777-hartford-aaa-clo-etf-declares-01385-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676777-hartford-aaa-clo-etf-declares-01385-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T07:16:54.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "trpa"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "hartfordaaacloetfdeclares01385dividend"
+  },
+  {
+    "id": "78e82130ec17f675",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+    "summary": "The answer to the question of whether the stock market is open on Thanksgiving i…",
+    "url": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T07:16:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "isthestockmarketopenforthanksgivingtheanswermightsurpriseyou"
+  },
+  {
+    "id": "54b44a401a4245e8",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Hartford Strategic Income ETF declares $0.163568 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676775-hartford-strategic-income-etf-declares-01636-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676775-hartford-strategic-income-etf-declares-01636-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T07:14:30.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hfsi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "hartfordstrategicincomeetfdeclares0163568dividend"
+  },
+  {
+    "id": "8782bede4bf867ca",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Hartford Equity Premium Income ETF declares $0.3047 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676774-hartford-equity-premium-income-etf-declares-03047-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676774-hartford-equity-premium-income-etf-declares-03047-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T07:14:03.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hemi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "hartfordequitypremiumincomeetfdeclares03047dividend"
+  },
+  {
+    "id": "55e568458ecdf1d5",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Hartford Core Bond ETF declares $0.1243 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676773-hartford-core-bond-etf-declares-01243-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676773-hartford-core-bond-etf-declares-01243-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T07:13:34.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hcrb"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "hartfordcorebondetfdeclares01243dividend"
+  },
+  {
+    "id": "97b886ceeac33464",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "手握千亿美元资产，稳定币巨头Tether狂投金融公司",
+    "summary": "对于Tether而言，真正的挑战或许已经不只是维持USDT的稳定，而是如何让庞大的投资版图形成持续运转的商业体系。",
+    "url": "https://www.tmtpost.com/8218733.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218733.html",
+    "publishedAt": "2026-11-26T07:08:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "手握千亿美元资产稳定币巨头tether狂投金融公司"
+  },
+  {
+    "id": "1ae1b8cb1f3a8717",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+    "summary": "",
+    "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+    "canonicalUrl": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+    "publishedAt": "2026-11-26T07:05:59.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 35,
+      "comments": 33
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "mirrorlifeisdangerousregulatorsmustactbeforeitbecomesreal"
+  },
+  {
+    "id": "bba4fa98399e3bea",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "从“堆数据”到“边干边学”，具身智能正在寻找自己的Scaling Law",
+    "summary": "从人类示范、仿真对练，到人工接管、真实场景数据回流，具身智能一直在探索自己的成长路径，这期间，机器人积累的每一次经验，都是它走向物理世界的起点。",
+    "url": "https://www.tmtpost.com/8218859.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218859.html",
+    "publishedAt": "2026-11-26T07:02:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "从堆数据到边干边学具身智能正在寻找自己的scalinglaw"
+  },
+  {
+    "id": "7a9bcf8ecfc92568",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "蔡磊，生命的最后一次创业",
+    "summary": "他还在用眼睛工作。",
+    "url": "https://www.tmtpost.com/8218772.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218772.html",
+    "publishedAt": "2026-11-26T06:58:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "蔡磊生命的最后一次创业"
+  },
+  {
+    "id": "5c75d894f69bf342",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "三位战友，把公司最赚钱的业务卖了500亿",
+    "summary": "约500亿元人民币，只买了这家公司的一块业务。",
+    "url": "https://www.tmtpost.com/8218763.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218763.html",
+    "publishedAt": "2026-11-26T06:53:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "三位战友把公司最赚钱的业务卖了500亿"
+  },
+  {
+    "id": "0187a2cbb07053f8",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "5.68亿美元，波科收购新光维，拟收购霆升科技",
+    "summary": "中国医械BD的新趋势。",
+    "url": "https://www.tmtpost.com/8218759.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218759.html",
+    "publishedAt": "2026-11-26T06:49:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "568亿美元波科收购新光维拟收购霆升科技"
+  },
+  {
+    "id": "bd93b59636aca6b6",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "又一家机器人独角兽爆雷",
+    "summary": "200亿估值的机器人独角兽发不出工资了。",
+    "url": "https://www.tmtpost.com/8218746.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218746.html",
+    "publishedAt": "2026-11-26T06:45:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "又一家机器人独角兽爆雷"
+  },
+  {
+    "id": "e3399c53ec8aba00",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+    "summary": "30秒一镜到底，可自动编排镜头",
+    "url": "https://www.qbitai.com/2026/11/512916.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512916.html",
+    "publishedAt": "2026-11-26T06:41:23.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "Sand.ai",
+      "开源",
+      "视频模型"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "顶尖商用级ai视频每秒只要5毛中国开源新势力拿下全球第一"
+  },
+  {
+    "id": "fcd1754bdf3c4227",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Moat: Your OpenRouter Replacement",
+    "summary": "",
+    "url": "https://commandcode.ai/moat",
+    "canonicalUrl": "https://commandcode.ai/moat",
+    "publishedAt": "2026-11-26T06:32:48.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 14,
+      "comments": 10
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "moatyouropenrouterreplacement"
+  },
+  {
+    "id": "70be627fb6e7f1d0",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85994",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85994",
+    "publishedAt": "2026-11-26T06:32:38.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "纽约时报警告摄影师不要升级到内置ai功能的photoshop"
+  },
+  {
+    "id": "78fd1756a48e01b2",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "美股同学看过来，需要老雷交易笔记的可以留下联系方式，私信",
+    "summary": "有在油管关注老雷（雷公）- 交易筆記 · TheMarketMemo，希望看他分享的交易笔记的同学可以留言或私信，留下 email，我会逐个回复",
+    "url": "https://www.v2ex.com/t/1259982",
+    "canonicalUrl": "https://www.v2ex.com/t/1259982",
+    "publishedAt": "2026-11-26T05:24:32.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "股票"
+    ],
+    "signals": {
+      "replies": 67
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "美股同学看过来需要老雷交易笔记的可以留下联系方式私信"
+  },
+  {
+    "id": "6bef09c43dfd92c9",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+    "summary": "",
+    "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+    "canonicalUrl": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix",
+    "publishedAt": "2026-11-26T05:12:59.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 60,
+      "comments": 9
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "lionscommentaryonunixwhyitwassecretlycopiedfor20years"
+  },
+  {
+    "id": "88bb61b9a9cd7917",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "summary": "",
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "canonicalUrl": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "publishedAt": "2026-11-26T05:05:36.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "buildingonnemotron35parseopendatafinetuningandfasterinference"
+  },
+  {
+    "id": "881dfcf16785e83e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "我开始受 AI 毒害了。。。",
+    "summary": "我负责测 APP，以前 IOS 同事古法编程，开发完有 BUG 开完就改完了。",
+    "url": "https://www.v2ex.com/t/1259968",
+    "canonicalUrl": "https://www.v2ex.com/t/1259968",
+    "publishedAt": "2026-11-26T04:10:53.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 52
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "我开始受ai毒害了"
+  },
+  {
+    "id": "21da02ec846bb930",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "污染 0.1% 的预训练数据，就能给 AI 智能体埋下洗不掉的后门",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503823",
+    "canonicalUrl": "https://www.oschina.net/news/503823",
+    "publishedAt": "2026-11-26T03:58:54.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "污染01的预训练数据就能给ai智能体埋下洗不掉的后门"
+  },
+  {
+    "id": "394f4ab83d4c8cf1",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "微软 Copilot 负责人：很多软件的主要客户以后不再是人类",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503822/agents-are-very-harsh-customers",
+    "canonicalUrl": "https://www.oschina.net/news/503822/agents-are-very-harsh-customers",
+    "publishedAt": "2026-11-26T03:28:47.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "微软copilot负责人很多软件的主要客户以后不再是人类"
+  },
+  {
+    "id": "be295eb5e7c77f61",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+    "summary": "李斌坦言：不做AI变革可能活不下去",
+    "url": "https://www.qbitai.com/2026/11/512897.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512897.html",
+    "publishedAt": "2026-11-26T03:23:35.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "智能车参考",
+      "资讯",
+      "蔚来"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "任少卿带着世界模型30来了蔚来智驾训练提效5倍座舱也用上强化学习"
+  },
+  {
+    "id": "d422a846dfaf0375",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "沈向洋刚讲了好多AI非共识啊",
+    "summary": "“灵巧手是人类最后的尊严”",
+    "url": "https://www.qbitai.com/2026/11/512840.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512840.html",
+    "publishedAt": "2026-11-26T03:13:16.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯",
+      "IDEA",
+      "具身智能"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "沈向洋刚讲了好多ai非共识啊"
+  },
+  {
+    "id": "f5e7164ff3c82b94",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "最近买冬装，淘宝首页已经被各种“杂牌”占领了",
+    "summary": "罗蒙，jeep，中低端的骆驼，真维斯，dickies，班尼路，wassup。",
+    "url": "https://www.v2ex.com/t/1259943",
+    "canonicalUrl": "https://www.v2ex.com/t/1259943",
+    "publishedAt": "2026-11-26T03:09:39.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "分享发现"
+    ],
+    "signals": {
+      "replies": 59
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "最近买冬装淘宝首页已经被各种杂牌占领了"
+  },
+  {
+    "id": "b7396e5b12b42155",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Minipg: PostgreSQL as a Single Executable",
+    "summary": "",
+    "url": "https://progrium.github.io/minipg/",
+    "canonicalUrl": "https://progrium.github.io/minipg",
+    "publishedAt": "2026-11-26T03:00:48.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 97,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "minipgpostgresqlasasingleexecutable"
+  },
+  {
+    "id": "91cf86d818ea3642",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "AICon 北京 2026 全日程揭晓｜探索 AI 应用边界，构建持续创造价值的生产体系",
+    "summary": "",
+    "url": "https://www.oschina.net/event/8598428",
+    "canonicalUrl": "https://www.oschina.net/event/8598428",
+    "publishedAt": "2026-11-26T02:59:37.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "aicon北京2026全日程揭晓探索ai应用边界构建持续创造价值的生产体系"
+  },
+  {
+    "id": "4e00d2eebbc29fd0",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "480B 参数、每秒 0.5 元，MAGI-2 把 AI 视频价格压了一个数量级",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503820/sand-ai-magi-2",
+    "canonicalUrl": "https://www.oschina.net/news/503820/sand-ai-magi-2",
+    "publishedAt": "2026-11-26T02:54:20.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "480b参数每秒05元magi2把ai视频价格压了一个数量级"
+  },
+  {
+    "id": "31b7ac2db2e1e6ea",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+    "summary": "叠满海淀最强AI Buff。",
+    "url": "https://www.qbitai.com/2026/11/512828.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512828.html",
+    "publishedAt": "2026-11-26T02:53:14.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯",
+      "AI影视",
+      "AI短剧",
+      "海淀"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "ai影视高地正在北影海淀一带崛起一人制片厂基建搭好了"
+  },
+  {
+    "id": "786b9abdc33d1992",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "想换一台 MacBook，纠结 14 寸和 16 寸，求有实际使用经验的朋友聊聊",
+    "summary": "目前手里用的是一台 MacBook Air M2，24GB 内存、1TB 硬盘，平时主要就是办公、浏览网页、看看视频之类的。",
+    "url": "https://www.v2ex.com/t/1259893",
+    "canonicalUrl": "https://www.v2ex.com/t/1259893",
+    "publishedAt": "2026-11-26T01:50:05.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "MacBook Pro"
+    ],
+    "signals": {
+      "replies": 66
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "想换一台macbook纠结14寸和16寸求有实际使用经验的朋友聊聊"
+  },
+  {
+    "id": "3ba7f50ee370726e",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "个人知识库怎么搞比较好？",
+    "summary": "各种倒腾，最好做点笔记，用什么工具比较好？",
+    "url": "https://www.v2ex.com/t/1259889",
+    "canonicalUrl": "https://www.v2ex.com/t/1259889",
+    "publishedAt": "2026-11-26T01:45:55.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 94
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "个人知识库怎么搞比较好"
+  },
+  {
+    "id": "9f081c28241b9461",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "彩票预测分析",
+    "summary": "彩票分析预测网站，自动抓取历史数据分析（遗漏值、冷热号、奇偶比、跨度、和值、012 路等全方位分析），预测最新的号码方案，支持双色球，大乐透，排列 3，排列 5…",
+    "url": "https://www.v2ex.com/t/1259875",
+    "canonicalUrl": "https://www.v2ex.com/t/1259875",
+    "publishedAt": "2026-11-26T01:23:04.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 70
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "彩票预测分析"
+  },
+  {
+    "id": "6e8c08d59bd72d86",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads…",
+    "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T01:15:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "wearelivinginperiloustimesifnvidiasjensenhuangdictatesyour401kbalance"
+  },
+  {
+    "id": "a2f760f5bbb529d2",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 数据中台专业版 v3.0.2发布：离线同步、实时同步、整库同步及运行实例管理全面升级",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503817",
+    "canonicalUrl": "https://www.oschina.net/news/503817",
+    "publishedAt": "2026-11-26T00:56:18.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata数据中台专业版v302发布离线同步实时同步整库同步及运行实例管理全面升级"
+  },
+  {
+    "id": "bf849ef52f1f9426",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "认真问，现在是不是可以抄底了？",
+    "summary": "本人不是专家，之前炒股小亏过，仅发帖请教。",
+    "url": "https://www.v2ex.com/t/1259867",
+    "canonicalUrl": "https://www.v2ex.com/t/1259867",
+    "publishedAt": "2026-11-26T00:48:11.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "投资"
+    ],
+    "signals": {
+      "replies": 149
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "认真问现在是不是可以抄底了"
+  },
+  {
+    "id": "25394b5802a1b755",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tell HN: Lots of Ask HNs again",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50649864",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50649864",
+    "publishedAt": "2026-11-26T00:43:34.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 245,
+      "comments": 90
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "tellhnlotsofaskhnsagain"
+  },
+  {
+    "id": "e38f658aa3e64e92",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+    "summary": "合着全让A➗揽了",
+    "url": "https://www.qbitai.com/2026/11/512819.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512819.html",
+    "publishedAt": "2026-11-26T00:40:37.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "刚刚黎曼猜想证明代码暴砍了995只剩76万行"
+  },
+  {
+    "id": "3ae9cf8b2aad99c3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Collection of preserved UI style guides",
+    "summary": "",
+    "url": "https://aresluna.org/ui-style-guides/",
+    "canonicalUrl": "https://aresluna.org/ui-style-guides",
+    "publishedAt": "2026-11-26T00:40:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 143,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "collectionofpreserveduistyleguides"
+  },
+  {
+    "id": "bbdc7e47a2b9bcfa",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+    "summary": "Monday’s rally helped to paper over deeper issues that must be resolved before a…",
+    "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T00:33:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "whythisstockmarketselloffisprobablygoingtogetworsebeforeitgetsbetter"
+  },
+  {
+    "id": "a7042f9f1bcddf3a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+    "summary": "“Retirement is a financial status, not an age.”",
+    "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T23:30:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "a66yearoldnurseisfacingdownretirementwithjust500savedwhostoblame"
+  },
+  {
+    "id": "042f14aeab080a20",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "summary": "“Given my age, I never make a major new purchase without thinking about the futu…",
+    "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T23:30:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "iminmy70sandbuyinganewbmwx1shouldiputmyonlysononthetitle"
+  },
+  {
+    "id": "3c8e6c8ac5bdefe6",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+    "summary": "“My wife stopped working outside the home in 1970.”",
+    "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T23:00:00.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ivebeenmarriedfor58yearsitsourmoneynothisandherswhydosomanycoupleskeeptheirfinancesseparate"
+  },
+  {
+    "id": "626e09af5b55086c",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T22:45:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ihatethatjensenhuangisbackatnvidiabutilovewhatitsdoneformy401kamiahypocrite"
+  },
+  {
+    "id": "8c64940c7c1cbaa9",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+    "summary": "Oracle, CoreWeave and other technology stocks bounced back from early losses on …",
+    "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-25T22:16:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "oraclecoreweaveandothertechstocksbouncebackafterselloff"
+  },
+  {
+    "id": "82039f4d7b6df6e8",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
+    "summary": "",
+    "url": "https://github.com/lsernau/grh-lean",
+    "canonicalUrl": "https://github.com/lsernau/grh-lean",
+    "publishedAt": "2026-11-25T21:48:10.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 429,
+      "comments": 220
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "muchshorterversionofgrhleanverificationfromanthropic"
+  },
+  {
+    "id": "836916902298ff9a",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "summary": "",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "canonicalUrl": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "publishedAt": "2026-11-25T21:18:02.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 341,
+      "comments": 291
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thenewyorktimeswarnsphotographersnottoupdatephotoshopoveraifeatures"
+  },
+  {
+    "id": "3d084de18b4ccfa2",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+    "summary": "",
+    "url": "https://scottaaronson.blog/?p=10379",
+    "canonicalUrl": "https://scottaaronson.blog/?p=10379",
+    "publishedAt": "2026-11-25T19:11:27.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1402,
+      "comments": 1232
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "holyshitholyshitholyshitholyshitthemagnitudeofwhatsnowhappening"
+  },
+  {
+    "id": "e2a90337af0694a3",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "canonicalUrl": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "publishedAt": "2026-11-25T18:52:55.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "wherescientistsdrawthelineonaiagents"
+  },
+  {
+    "id": "6e1424d2c1f71f88",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "1Password Security Incident",
+    "summary": "",
+    "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "canonicalUrl": "https://1password.com/blog/update-on-nov-2026-security-incident",
+    "publishedAt": "2026-11-25T17:18:26.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 1379,
+      "comments": 578
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "1passwordsecurityincident"
+  },
+  {
+    "id": "4d07a2fa3510d76f",
+    "sourceId": "google-research",
+    "sourceName": "Google Research",
+    "channel": "ai",
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "summary": "Generative AI",
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "canonicalUrl": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+    "publishedAt": "2026-11-25T17:10:27.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "Generative AI",
+      "Human-Computer Interacti",
+      "Machine Intelligence",
+      "Natural Language Process"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 86,
+    "titleKey": "verifiablesocialreasoningforllmassistants"
+  },
+  {
+    "id": "216a38ef4462aa85",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+    "summary": "商汤SenseNova U1.6",
+    "url": "https://www.qbitai.com/2026/11/512748.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512748.html",
+    "publishedAt": "2026-11-25T16:34:09.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [
+      "资讯",
+      "AI生成图片",
+      "SenseNova U1.6",
+      "商汤"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "我以为这是摄影作品你告诉我这是最新的国产ai"
+  }
+]
