@@ -1,0 +1,263 @@
+[
+  {
+    "id": "8937aedff9735006",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Midday Need to Know: Altria eyes Imperial Brands, Enbridge pipeline deal and more",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676906-midday-need-to-know-altria-eyes-imperial-brands-enbridge-pipeline-deal-and-more?feed_item_type=news",
+    "publishedAt": "2026-11-26T18:06:09.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "spy",
+      "nvda",
+      "mo",
+      "enb"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "middayneedtoknowaltriaeyesimperialbrandsenbridgepipelinedealandmore"
+  },
+  {
+    "id": "315107cb895e8535",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Innovator Premium Income 15 Buffer ETF - January declares $0.10 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676905-innovator-premium-income-15-buffer-etf-january-declares-0_10-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T17:49:34.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "ljan"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "innovatorpremiumincome15bufferetfjanuarydeclares010dividend"
+  },
+  {
+    "id": "e25e6833a83c9692",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Innovator S&P Investment Grade Preferred ETF declares $0.085 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676904-innovator-s-and-p-investment-grade-preferred-etf-declares-0_085-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T17:49:16.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "eprf"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "innovatorspinvestmentgradepreferredetfdeclares0085dividend"
+  },
+  {
+    "id": "c6c4397f111979df",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Innovator Premium Income 15 Buffer ETF - April declares $0.1412 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676903-innovator-premium-income-15-buffer-etf-april-declares-0_1412-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676903-innovator-premium-income-15-buffer-etf-april-declares-0_1412-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T17:48:46.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "lapr"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "innovatorpremiumincome15bufferetfaprildeclares01412dividend"
+  },
+  {
+    "id": "648ed5e7038e36db",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Innovator Premium Income 15 Buffer ETF - October declares $0.1143 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676902-innovator-premium-income-15-buffer-etf-october-declares-0_1143-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676902-innovator-premium-income-15-buffer-etf-october-declares-0_1143-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T17:48:18.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "loct"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "innovatorpremiumincome15bufferetfoctoberdeclares01143dividend"
+  },
+  {
+    "id": "e8981f2e94ff074f",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "summary": "",
+    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+    "canonicalUrl": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud",
+    "publishedAt": "2026-11-26T17:47:45.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 18,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ctoofransomwarehelpindictedforwirefraud"
+  },
+  {
+    "id": "e93797bc65b82beb",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Innovator Premium Income 15 Buffer ETF - July declares $0.1059 dividend",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676901-innovator-premium-income-15-buffer-etf-july-declares-0_1059-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676901-innovator-premium-income-15-buffer-etf-july-declares-0_1059-dividend?feed_item_type=news",
+    "publishedAt": "2026-11-26T17:47:43.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "ljul"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "innovatorpremiumincome15bufferetfjulydeclares01059dividend"
+  },
+  {
+    "id": "56c80174199fe8e1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "YouTube Ad Punisher – Bypass anti-adblock",
+    "summary": "",
+    "url": "https://github.com/antonpictures/youtube-punisher",
+    "canonicalUrl": "https://github.com/antonpictures/youtube-punisher",
+    "publishedAt": "2026-11-26T17:36:47.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 31,
+      "comments": 33
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "youtubeadpunisherbypassantiadblock"
+  },
+  {
+    "id": "5761c59649383fc3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tracking Diseases Cured by AI",
+    "summary": "",
+    "url": "https://diseasescuredbyai.com/",
+    "canonicalUrl": "https://diseasescuredbyai.com/",
+    "publishedAt": "2026-11-26T17:16:41.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 117,
+      "comments": 49
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "trackingdiseasescuredbyai"
+  },
+  {
+    "id": "c288ba200f4fecf7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "AMD Specific Patches for Llama.cpp",
+    "summary": "",
+    "url": "https://devnull.land/amd-specific-llama-cpp",
+    "canonicalUrl": "https://devnull.land/amd-specific-llama-cpp",
+    "publishedAt": "2026-11-26T17:11:29.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 68,
+      "comments": 17
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "amdspecificpatchesforllamacpp"
+  },
+  {
+    "id": "24923c3a9e3dfde4",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "NP_R ≠ PAR_R",
+    "summary": "",
+    "url": "https://github.com/samueleverett01/bss-permanent-separations",
+    "canonicalUrl": "https://github.com/samueleverett01/bss-permanent-separations",
+    "publishedAt": "2026-11-26T16:50:55.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 79,
+      "comments": 71
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nprparr"
+  },
+  {
+    "id": "626e09af5b55086c",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T16:30:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ihatethatjensenhuangisbackatnvidiabutilovewhatitsdoneformy401kamiahypocrite"
+  },
+  {
+    "id": "042f14aeab080a20",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+    "summary": "“Given my age, I never make a major new purchase without thinking about the futu…",
+    "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T16:00:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "iminmy70sandbuyinganewbmwx1shouldiputmyonlysononthetitle"
+  }
+]

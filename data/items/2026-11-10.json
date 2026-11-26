@@ -2209,23 +2209,6 @@
     "titleKey": "holyarrsholyarrs"
   },
   {
-    "id": "cac485b54a8f7b07",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
-    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-09T23:52:00.000Z",
-    "fetchedAt": "2026-11-07T14:53:57.504Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
-  },
-  {
     "id": "84b9d3a5c60415ed",
     "sourceId": "cnbc-earnings",
     "sourceName": "CNBC · 财报",

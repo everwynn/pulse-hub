@@ -1494,8 +1494,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 4604,
-      "forks": 142
+      "stars": 5365,
+      "forks": 159
     },
     "lang": "en",
     "weight": 90,
@@ -1743,6 +1743,31 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "trumptoworkwithdemstocapcreditcardinterestrates"
+  },
+  {
+    "id": "0e681ba2a02328c7",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
+    "summary": "The keys you miss become the lesson.",
+    "url": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
+    "canonicalUrl": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2",
+    "publishedAt": "2026-11-21T18:23:38.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "ai",
+      "kiro",
+      "gamedev",
+      "buildinpublic"
+    ],
+    "signals": {
+      "reactions": 104,
+      "comments": 65
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "deadkeysibroughtbackthetypinggameskirodidtheheavylifting"
   },
   {
     "id": "10600c0acddb6d9b",

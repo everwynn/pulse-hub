@@ -200,8 +200,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 4060,
-      "forks": 292
+      "stars": 4194,
+      "forks": 304
     },
     "lang": "en",
     "weight": 90,
@@ -1016,8 +1016,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1849,
-      "forks": 122
+      "stars": 1852,
+      "forks": 125
     },
     "lang": "en",
     "weight": 90,
@@ -2125,8 +2125,8 @@
       "xbox"
     ],
     "signals": {
-      "stars": 8389,
-      "forks": 1161
+      "stars": 8550,
+      "forks": 1189
     },
     "lang": "en",
     "weight": 90,
@@ -2332,8 +2332,8 @@
       "windows"
     ],
     "signals": {
-      "stars": 1959,
-      "forks": 232
+      "stars": 1960,
+      "forks": 233
     },
     "lang": "en",
     "weight": 90,
@@ -2835,7 +2835,7 @@
       "programming"
     ],
     "signals": {
-      "reactions": 108,
+      "reactions": 109,
       "comments": 38
     },
     "lang": "en",

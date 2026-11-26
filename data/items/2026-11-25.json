@@ -175,8 +175,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 53,
-      "comments": 17
+      "reactions": 76,
+      "comments": 23
     },
     "lang": "en",
     "weight": 60,
@@ -393,8 +393,8 @@
       "mentalhealth"
     ],
     "signals": {
-      "reactions": 103,
-      "comments": 55
+      "reactions": 124,
+      "comments": 74
     },
     "lang": "en",
     "weight": 60,
@@ -1346,6 +1346,28 @@
     "titleKey": "新鲜感之后陪伴机器人如何被用起来"
   },
   {
+    "id": "ab6cb5147eacbc21",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Curiosity Is No Solo Act",
+    "summary": "",
+    "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+    "canonicalUrl": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act",
+    "publishedAt": "2026-11-25T00:37:07.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 73,
+      "comments": 19
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "curiosityisnosoloact"
+  },
+  {
     "id": "0bec25898f138962",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1365,23 +1387,6 @@
     "lang": "zh",
     "weight": 55,
     "titleKey": "都说前端完了但是招个人也太难了"
-  },
-  {
-    "id": "fc493d79cb3e6add",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-    "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife los…",
-    "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-25T00:05:00.000Z",
-    "fetchedAt": "2026-11-25T08:28:38.679Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "myhusbandsecretlysendshisexwife1500amonthaftershelostherjobwehave24millionsavedhasheliedbyomission"
   },
   {
     "id": "f13fd89d1429f58c",
@@ -1577,8 +1582,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 3161,
-      "forks": 930
+      "stars": 3250,
+      "forks": 967
     },
     "lang": "en",
     "weight": 90,

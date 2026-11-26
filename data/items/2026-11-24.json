@@ -1462,8 +1462,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2391,
-      "forks": 543
+      "stars": 2487,
+      "forks": 568
     },
     "lang": "en",
     "weight": 90,
@@ -1548,7 +1548,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Marvisak/VIctory",
-    "summary": "An attempt at running GTA VI on PC · Rust · ★ 12815",
+    "summary": "An attempt at running GTA VI on PC · Rust · ★ 13169",
     "url": "https://github.com/Marvisak/VIctory",
     "canonicalUrl": "https://github.com/Marvisak/VIctory",
     "publishedAt": "2026-11-23T21:47:25.000Z",
@@ -1557,8 +1557,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 12815,
-      "forks": 2102
+      "stars": 13169,
+      "forks": 2196
     },
     "lang": "en",
     "weight": 90,
@@ -1616,6 +1616,28 @@
     "lang": "en",
     "weight": 95,
     "titleKey": "openaiandciscointroduceshirudo"
+  },
+  {
+    "id": "100cc6265c1c6a64",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+    "summary": "",
+    "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+    "canonicalUrl": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+    "publishedAt": "2026-11-23T21:18:49.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 66,
+      "comments": 44
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "discoveryofcurseritualintrashdumpsurprisesegyptologist"
   },
   {
     "id": "03dbe108df5ccaa8",

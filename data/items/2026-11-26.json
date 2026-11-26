@@ -1,5 +1,39 @@
 [
   {
+    "id": "39aace94bc28b771",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "今天的老年人相比上一代人记忆力衰退放缓",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86006",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86006",
+    "publishedAt": "2026-11-26T15:58:59.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "今天的老年人相比上一代人记忆力衰退放缓"
+  },
+  {
+    "id": "470704175970ab56",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "英国人性生活频率大幅下降",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86005",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86005",
+    "publishedAt": "2026-11-26T15:41:40.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "英国人性生活频率大幅下降"
+  },
+  {
     "id": "fe86201091962dc3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -15,6 +49,79 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "破发不算最疼claudecode核心班底被openai疯狂收割才是anthropic的编程王座悬了"
+  },
+  {
+    "id": "6e8c08d59bd72d86",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads…",
+    "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T15:30:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "wearelivinginperiloustimesifnvidiaceojensenhuangdictatesyour401kbalance"
+  },
+  {
+    "id": "aa4144aeca3aab84",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "已故网络工程师 Dave Täht 获得 Jonathan B. Postel 服务奖",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86004",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86004",
+    "publishedAt": "2026-11-26T15:24:13.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "已故网络工程师davetäht获得jonathanbpostel服务奖"
+  },
+  {
+    "id": "fc493d79cb3e6add",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
+    "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife los…",
+    "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T15:13:00.000Z",
+    "fetchedAt": "2026-11-25T08:28:38.679Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "myhusbandsecretlysendshisexwife1500amonthaftershelostherjobwehave24millionsavedhasheliedbyomission"
+  },
+  {
+    "id": "92f98c4ee5546203",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+    "summary": "",
+    "url": "https://michidk.github.io/sidebyside/",
+    "canonicalUrl": "https://michidk.github.io/sidebyside",
+    "publishedAt": "2026-11-26T15:00:06.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 53,
+      "comments": 14
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnthreelinuxvmsinabrowsertabeachrunningadifferentbrowser"
   },
   {
     "id": "cccd325993038cb3",
@@ -34,6 +141,23 @@
     "titleKey": "snowflakecoco再进化让数据开发进入agent自主执行时代技术趋势"
   },
   {
+    "id": "da19db0ecbc388d6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "基因编辑猪肾在人体内正常工作一年",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86003",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86003",
+    "publishedAt": "2026-11-26T14:49:24.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "基因编辑猪肾在人体内正常工作一年"
+  },
+  {
     "id": "c7216af29fe32fd3",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -49,6 +173,101 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "snowflakecowork从受治理业务洞察到主动式业务作业技术趋势"
+  },
+  {
+    "id": "e20f459d89c8f518",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "纯电销量过半，理想汽车的生意变了",
+    "summary": "纯电销量占比过半，理想汽车经营逐步修复，但盈利模式仍面临重构。",
+    "url": "https://www.tmtpost.com/8218517.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218517.html",
+    "publishedAt": "2026-11-26T14:40:43.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "理想",
+      "汽车产业·财报",
+      "看财报",
+      "财报"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "纯电销量过半理想汽车的生意变了"
+  },
+  {
+    "id": "cac485b54a8f7b07",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+    "summary": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics.",
+    "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T14:35:00.000Z",
+    "fetchedAt": "2026-11-07T14:53:57.504Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "thisretiredprofessorhasreinventedhimselfasataylorswiftscholar"
+  },
+  {
+    "id": "80a5759dd041721b",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "中国发现新古人类支系",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86002",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86002",
+    "publishedAt": "2026-11-26T14:28:12.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "中国发现新古人类支系"
+  },
+  {
+    "id": "58589b2260ba6fa3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Tell HN: Happy Thanksgiving",
+    "summary": "",
+    "url": "https://news.ycombinator.com/item?id=50655664",
+    "canonicalUrl": "https://news.ycombinator.com/item?id=50655664",
+    "publishedAt": "2026-11-26T14:26:54.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 407,
+      "comments": 110
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "tellhnhappythanksgiving"
+  },
+  {
+    "id": "65fff50e40bb8bd2",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "地球连续六天气温比工业化前水平高 2C",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86001",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86001",
+    "publishedAt": "2026-11-26T14:06:07.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "地球连续六天气温比工业化前水平高2c"
   },
   {
     "id": "57ab151f9853028e",
@@ -68,6 +287,43 @@
     "titleKey": "uber推出安全ai框架对ai智能体进行全生命周期治理"
   },
   {
+    "id": "ee79d9be67d3e1ea",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot",
+    "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
+    "url": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/nvidia-and-the-whole-ai-trade-arent-out-of-the-woods-not-by-a-long-shot-bccc0025?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T14:00:00.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "nvidiaandthewholeaitradearentoutofthewoodsnotbyalongshot"
+  },
+  {
+    "id": "b7bbc1c38319c508",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+    "summary": "已跑了超过一万次会话，在Lean4里验证通过了2400多条引理",
+    "url": "https://www.qbitai.com/2026/11/513021.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513021.html",
+    "publishedAt": "2026-11-26T13:56:01.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "资讯",
+      "数学"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "381个ai直播冲刺证明pnp把github干崩了"
+  },
+  {
     "id": "48a1b22f82e35c1e",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -83,6 +339,40 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "不用自建后端前端页面也能接入云端数据了pagesdatasdk正式上线"
+  },
+  {
+    "id": "2249b9c37a1cac33",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+    "summary": "A rebound off lows for the S&P 500 on Wednesday calms bourses after the tech was…",
+    "url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T13:41:00.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "futurespointtoblackfridaygainsonwallstreetasglobalmarketswelcomeusresilience"
+  },
+  {
+    "id": "62d88db987a047a5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Roth IRA conversions aren’t free money. Watch out for these 5 costly mistakes.",
+    "summary": "Do it poorly, and you trigger taxes you didn’t even know existed.",
+    "url": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/roth-ira-conversions-arent-free-money-watch-out-for-these-5-costly-mistakes-39b182d3?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T13:24:00.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "rothiraconversionsarentfreemoneywatchoutforthese5costlymistakes"
   },
   {
     "id": "ff1228bb5e35d228",
@@ -102,6 +392,45 @@
     "titleKey": "cohere的研究结果表明自托管开放权重模型仍然需出站控制"
   },
   {
+    "id": "61c0a7c94d8c19df",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+    "summary": "还得是科班尖子生",
+    "url": "https://www.qbitai.com/2026/11/512981.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512981.html",
+    "publishedAt": "2026-11-26T12:39:08.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "Tripo H3.5",
+      "VAST"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "ai3d界的x光来了一图直出巴洛克雕塑3d打印开箱即用"
+  },
+  {
+    "id": "81948283416471bd",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "信邦智能拟斥28.56亿“蛇吞象”，英迪芯微第一大股东退出套现9.61亿",
+    "summary": "一场各取所需的双向奔赴。",
+    "url": "https://www.tmtpost.com/8219524.html",
+    "canonicalUrl": "https://www.tmtpost.com/8219524.html",
+    "publishedAt": "2026-11-26T12:29:58.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "信邦智能拟斥2856亿蛇吞象英迪芯微第一大股东退出套现961亿"
+  },
+  {
     "id": "5f6b0bcb7b351234",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -119,6 +448,45 @@
     "titleKey": "siriai开发者预览版让iosipados和macos应用能够与siri集成"
   },
   {
+    "id": "f1e7b0b689c7f494",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Nextcloud Office Desktop app",
+    "summary": "",
+    "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+    "canonicalUrl": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app",
+    "publishedAt": "2026-11-26T11:50:49.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 348,
+      "comments": 150
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "nextcloudofficedesktopapp"
+  },
+  {
+    "id": "3f5824c3f7968db3",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "summary": "",
+    "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "canonicalUrl": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "publishedAt": "2026-11-26T11:37:17.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "introducingthellamacppbenchmarkdashboardforamdryzenandradeon"
+  },
+  {
     "id": "1b5339ae84bb0836",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -134,6 +502,252 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "ai写代码谁来交付"
+  },
+  {
+    "id": "05c2f1f3e22a141e",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "祖名股份实控人阵营拟转让17%股份套现近4.8亿，扣非连亏下“豆制品第一股”遇信心考题",
+    "summary": "年内二度大手笔减持合计，一致行动人平台近乎清仓式退出。",
+    "url": "https://www.tmtpost.com/8219473.html",
+    "canonicalUrl": "https://www.tmtpost.com/8219473.html",
+    "publishedAt": "2026-11-26T11:03:13.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "祖名股份实控人阵营拟转让17股份套现近48亿扣非连亏下豆制品第一股遇信心考题"
+  },
+  {
+    "id": "135cf8bf46a5d6e6",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "阿莫迪自明本志：我本无意让AI掌权",
+    "summary": "天地可鉴啊！",
+    "url": "https://www.tmtpost.com/8219202.html",
+    "canonicalUrl": "https://www.tmtpost.com/8219202.html",
+    "publishedAt": "2026-11-26T10:39:05.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "阿莫迪自明本志我本无意让ai掌权"
+  },
+  {
+    "id": "2c4871986e8e6459",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "美国众议院发布《美国处方》，对中国创新药意味着什么",
+    "summary": "对中国创新药来说，与其花时间反驳一份国会报告，不如把它当成一份竞争指南，对手已经把考题写在上面了。",
+    "url": "https://www.tmtpost.com/8218787.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218787.html",
+    "publishedAt": "2026-11-26T10:39:00.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "美国众议院发布美国处方对中国创新药意味着什么"
+  },
+  {
+    "id": "50cbc24c4cb64bae",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "捅了秋游的窝，乐高乐园挤满了鸡娃的家长",
+    "summary": "最紧要是父母满意。",
+    "url": "https://www.tmtpost.com/8219201.html",
+    "canonicalUrl": "https://www.tmtpost.com/8219201.html",
+    "publishedAt": "2026-11-26T10:38:54.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "捅了秋游的窝乐高乐园挤满了鸡娃的家长"
+  },
+  {
+    "id": "02200680e9d313da",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qOntology 本体工程平台开源版 V1.1.4 发布：AI 辅助建模与图谱可视化升级",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503836",
+    "canonicalUrl": "https://www.oschina.net/news/503836",
+    "publishedAt": "2026-11-26T10:21:29.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qontology本体工程平台开源版v114发布ai辅助建模与图谱可视化升级"
+  },
+  {
+    "id": "626bb6c44144c737",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Intel One Mono font",
+    "summary": "",
+    "url": "https://github.com/intel/intel-one-mono",
+    "canonicalUrl": "https://github.com/intel/intel-one-mono",
+    "publishedAt": "2026-11-26T10:11:01.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 367,
+      "comments": 204
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "intelonemonofont"
+  },
+  {
+    "id": "d7ab1f8a0037b606",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+    "summary": "全栈方案破解工业机器人连续作业难题",
+    "url": "https://www.qbitai.com/2026/11/512972.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512972.html",
+    "publishedAt": "2026-11-26T10:07:55.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "资讯",
+      "具微科技",
+      "具身智能",
+      "工业机器人"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "90秒自动换装补能具微科技潘多拉支撑机器人无人化值守"
+  },
+  {
+    "id": "d3666f50b97c1ee7",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "艾滋病疫苗终于触手可及",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86000",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86000",
+    "publishedAt": "2026-11-26T09:41:58.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "艾滋病疫苗终于触手可及"
+  },
+  {
+    "id": "5655a58f35dc5d8a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "2026 赣南脐橙给 v 友抽几箱",
+    "summary": "各位 V 友大家好，感谢大家的支持,自家种的橙子(产地为赣州全南县，华家兄弟同县）又熟了。",
+    "url": "https://www.v2ex.com/t/1260059",
+    "canonicalUrl": "https://www.v2ex.com/t/1260059",
+    "publishedAt": "2026-11-26T08:51:07.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 137
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "2026赣南脐橙给v友抽几箱"
+  },
+  {
+    "id": "c7c21fd6338544d9",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "图库平台充斥着生成式 AI 图像",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85999",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85999",
+    "publishedAt": "2026-11-26T08:50:12.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "图库平台充斥着生成式ai图像"
+  },
+  {
+    "id": "d02ef16741527e32",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "FCC 批准 SpaceX 发射 100 万颗轨道数据中心卫星",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85998",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85998",
+    "publishedAt": "2026-11-26T08:31:47.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "fcc批准spacex发射100万颗轨道数据中心卫星"
+  },
+  {
+    "id": "8240c665f9158d9b",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "极客公园创新大会 2027 全议程公布！",
+    "summary": "今天，IF 2027 全议程揭晓。",
+    "url": "https://www.qbitai.com/2026/11/512952.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512952.html",
+    "publishedAt": "2026-11-26T08:19:20.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "资讯",
+      "极客公园"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "极客公园创新大会2027全议程公布"
+  },
+  {
+    "id": "9b6a981a508efb23",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "System76 释出 Pop!_OS 26.04 LTS",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=85997",
+    "canonicalUrl": "https://www.solidot.org/story?sid=85997",
+    "publishedAt": "2026-11-26T08:02:22.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "system76释出popos2604lts"
   },
   {
     "id": "98615739d615237e",
@@ -156,6 +770,26 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "ushousecommitteeclearsbitcoinreservebillcancongressactintime"
+  },
+  {
+    "id": "d33b3b8c09d30703",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+    "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。",
+    "url": "https://www.qbitai.com/2026/11/512942.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/512942.html",
+    "publishedAt": "2026-11-26T07:36:04.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "资讯",
+      "WAIC"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "报名最后2天ai浪潮之中来认识创造未来的人"
   },
   {
     "id": "525ddec1fad8b66d",
@@ -501,7 +1135,7 @@
       "股票"
     ],
     "signals": {
-      "replies": 67
+      "replies": 217
     },
     "lang": "zh",
     "weight": 55,
@@ -545,6 +1179,27 @@
     "lang": "en",
     "weight": 85,
     "titleKey": "buildingonnemotron35parseopendatafinetuningandfasterinference"
+  },
+  {
+    "id": "f62e7b4d46243906",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "30 岁，专科，10 年前端，有几个 offer，请各位帮忙参考下。",
+    "summary": "坐标：西安 学历：本科 （网络教育）；专科（全日制）； 1.",
+    "url": "https://www.v2ex.com/t/1259974",
+    "canonicalUrl": "https://www.v2ex.com/t/1259974",
+    "publishedAt": "2026-11-26T04:38:57.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 87
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "30岁专科10年前端有几个offer请各位帮忙参考下"
   },
   {
     "id": "881dfcf16785e83e",
@@ -662,7 +1317,7 @@
       "分享发现"
     ],
     "signals": {
-      "replies": 59
+      "replies": 79
     },
     "lang": "zh",
     "weight": 55,
@@ -765,7 +1420,7 @@
       "MacBook Pro"
     ],
     "signals": {
-      "replies": 66
+      "replies": 85
     },
     "lang": "zh",
     "weight": 55,
@@ -786,7 +1441,7 @@
       "程序员"
     ],
     "signals": {
-      "replies": 94
+      "replies": 117
     },
     "lang": "zh",
     "weight": 55,
@@ -807,28 +1462,11 @@
       "分享创造"
     ],
     "signals": {
-      "replies": 70
+      "replies": 81
     },
     "lang": "zh",
     "weight": 55,
     "titleKey": "彩票预测分析"
-  },
-  {
-    "id": "6e8c08d59bd72d86",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
-    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads…",
-    "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-26T01:15:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "wearelivinginperiloustimesifnvidiasjensenhuangdictatesyour401kbalance"
   },
   {
     "id": "a2f760f5bbb529d2",
@@ -864,7 +1502,7 @@
       "投资"
     ],
     "signals": {
-      "replies": 149
+      "replies": 164
     },
     "lang": "zh",
     "weight": 55,
@@ -951,6 +1589,23 @@
     "titleKey": "whythisstockmarketselloffisprobablygoingtogetworsebeforeitgetsbetter"
   },
   {
+    "id": "6be094820449d32f",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "summary": "",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "canonicalUrl": "https://huggingface.co/blog/training-swarms",
+    "publishedAt": "2026-11-26T00:00:00.000Z",
+    "fetchedAt": "2026-11-26T18:24:48.035Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "swarmsflocksgangshowtobuildtrainandevaluatemultiagentsystems"
+  },
+  {
     "id": "a7042f9f1bcddf3a",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -968,23 +1623,6 @@
     "titleKey": "a66yearoldnurseisfacingdownretirementwithjust500savedwhostoblame"
   },
   {
-    "id": "042f14aeab080a20",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "summary": "“Given my age, I never make a major new purchase without thinking about the futu…",
-    "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-25T23:30:00.000Z",
-    "fetchedAt": "2026-11-25T08:28:38.679Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "iminmy70sandbuyinganewbmwx1shouldiputmyonlysononthetitle"
-  },
-  {
     "id": "3c8e6c8ac5bdefe6",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1000,23 +1638,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "ivebeenmarriedfor58yearsitsourmoneynothisandherswhydosomanycoupleskeeptheirfinancesseparate"
-  },
-  {
-    "id": "626e09af5b55086c",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-25T22:45:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ihatethatjensenhuangisbackatnvidiabutilovewhatitsdoneformy401kamiahypocrite"
   },
   {
     "id": "8c64940c7c1cbaa9",
@@ -1072,8 +1693,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 341,
-      "comments": 291
+      "points": 574,
+      "comments": 474
     },
     "lang": "en",
     "weight": 92,
