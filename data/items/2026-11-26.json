@@ -51,23 +51,6 @@
     "titleKey": "破发不算最疼claudecode核心班底被openai疯狂收割才是anthropic的编程王座悬了"
   },
   {
-    "id": "6e8c08d59bd72d86",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads…",
-    "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-26T15:30:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "wearelivinginperiloustimesifnvidiaceojensenhuangdictatesyour401kbalance"
-  },
-  {
     "id": "aa4144aeca3aab84",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -431,6 +414,27 @@
     "titleKey": "信邦智能拟斥2856亿蛇吞象英迪芯微第一大股东退出套现961亿"
   },
   {
+    "id": "9c30e28b16e05f99",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "感觉网易 uu 也可以下课了...",
+    "summary": "tailscale,只要有一个机器有公网 ip,就可以直接打洞或者自中转...连起来之后,比 uu p2p 模式快多了...",
+    "url": "https://www.v2ex.com/t/1260114",
+    "canonicalUrl": "https://www.v2ex.com/t/1260114",
+    "publishedAt": "2026-11-26T12:12:54.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 57
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "感觉网易uu也可以下课了"
+  },
+  {
     "id": "5f6b0bcb7b351234",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -601,7 +605,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "Intel One Mono font",
+    "title": "Intel One Mono font (2023)",
     "summary": "",
     "url": "https://github.com/intel/intel-one-mono",
     "canonicalUrl": "https://github.com/intel/intel-one-mono",
@@ -611,12 +615,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 367,
-      "comments": 204
+      "points": 514,
+      "comments": 249
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "intelonemonofont"
+    "titleKey": "intelonemonofont2023"
   },
   {
     "id": "d7ab1f8a0037b606",
@@ -672,7 +676,7 @@
       "推广"
     ],
     "signals": {
-      "replies": 137
+      "replies": 279
     },
     "lang": "zh",
     "weight": 55,
@@ -1606,38 +1610,26 @@
     "titleKey": "swarmsflocksgangshowtobuildtrainandevaluatemultiagentsystems"
   },
   {
-    "id": "a7042f9f1bcddf3a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-    "summary": "“Retirement is a financial status, not an age.”",
-    "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-25T23:30:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
+    "id": "f449671c56677773",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "avatarmanz/VIctory-7900XTX",
+    "summary": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K w…",
+    "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+    "canonicalUrl": "https://github.com/avatarmanz/VIctory-7900XTX",
+    "publishedAt": "2026-11-25T22:18:14.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 1883,
+      "forks": 616
+    },
     "lang": "en",
-    "weight": 68,
-    "titleKey": "a66yearoldnurseisfacingdownretirementwithjust500savedwhostoblame"
-  },
-  {
-    "id": "3c8e6c8ac5bdefe6",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-    "summary": "“My wife stopped working outside the home in 1970.”",
-    "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-25T23:00:00.000Z",
-    "fetchedAt": "2026-11-24T09:50:52.947Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ivebeenmarriedfor58yearsitsourmoneynothisandherswhydosomanycoupleskeeptheirfinancesseparate"
+    "weight": 90,
+    "titleKey": "avatarmanzvictory7900xtx"
   },
   {
     "id": "8c64940c7c1cbaa9",

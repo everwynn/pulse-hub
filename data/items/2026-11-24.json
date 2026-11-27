@@ -1462,8 +1462,8 @@
       "Python"
     ],
     "signals": {
-      "stars": 2487,
-      "forks": 568
+      "stars": 2565,
+      "forks": 588
     },
     "lang": "en",
     "weight": 90,
@@ -1548,7 +1548,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Marvisak/VIctory",
-    "summary": "An attempt at running GTA VI on PC · Rust · ★ 13169",
+    "summary": "An attempt at running GTA VI on PC · Rust · ★ 13533",
     "url": "https://github.com/Marvisak/VIctory",
     "canonicalUrl": "https://github.com/Marvisak/VIctory",
     "publishedAt": "2026-11-23T21:47:25.000Z",
@@ -1557,8 +1557,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 13169,
-      "forks": 2196
+      "stars": 13533,
+      "forks": 2290
     },
     "lang": "en",
     "weight": 90,

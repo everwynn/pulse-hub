@@ -41,23 +41,6 @@
     "titleKey": "micronandsandiskstocksmightlooklikebargainsbutanalystssaythatsactuallyaredflag"
   },
   {
-    "id": "c66eed38e3b12bf5",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-    "summary": "“We have a house worth $450,000.",
-    "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-21T15:15:00.000Z",
-    "fetchedAt": "2026-11-19T17:21:58.016Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
-  },
-  {
     "id": "c0ce604fc1844ec2",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -200,8 +183,8 @@
       "codex"
     ],
     "signals": {
-      "stars": 4194,
-      "forks": 304
+      "stars": 4332,
+      "forks": 311
     },
     "lang": "en",
     "weight": 90,
@@ -1016,8 +999,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 1852,
-      "forks": 125
+      "stars": 1853,
+      "forks": 126
     },
     "lang": "en",
     "weight": 90,
@@ -2769,8 +2752,8 @@
       "codenewbiestory"
     ],
     "signals": {
-      "reactions": 58,
-      "comments": 42
+      "reactions": 59,
+      "comments": 44
     },
     "lang": "en",
     "weight": 60,

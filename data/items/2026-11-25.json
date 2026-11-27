@@ -175,8 +175,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 76,
-      "comments": 23
+      "reactions": 89,
+      "comments": 26
     },
     "lang": "en",
     "weight": 60,
@@ -319,6 +319,28 @@
     "titleKey": "日本政府开发智能体打击盗版动漫"
   },
   {
+    "id": "7b428a7369e21f4c",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Belobug/VIctory-Belobug-AMD",
+    "summary": "Rust · ★ 3574",
+    "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+    "canonicalUrl": "https://github.com/Belobug/VIctory-Belobug-AMD",
+    "publishedAt": "2026-11-25T09:41:37.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "Rust"
+    ],
+    "signals": {
+      "stars": 3574,
+      "forks": 1034
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "belobugvictorybelobugamd"
+  },
+  {
     "id": "578237e504c19ddf",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -393,8 +415,8 @@
       "mentalhealth"
     ],
     "signals": {
-      "reactions": 124,
-      "comments": 74
+      "reactions": 131,
+      "comments": 87
     },
     "lang": "en",
     "weight": 60,
@@ -630,6 +652,33 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "googlecancelsabcs15mdealasitturnsoffpublisherfundingafr"
+  },
+  {
+    "id": "2561a09a72137441",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "alesha-pro/llm.asm",
+    "summary": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch M…",
+    "url": "https://github.com/alesha-pro/llm.asm",
+    "canonicalUrl": "https://github.com/alesha-pro/llm.asm",
+    "publishedAt": "2026-11-25T07:28:51.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "Assembly",
+      "assembly",
+      "avx2",
+      "bare-metal",
+      "llm",
+      "machine-learning"
+    ],
+    "signals": {
+      "stars": 1762,
+      "forks": 268
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "aleshaprollmasm"
   },
   {
     "id": "0f8680183ff34e2d",
@@ -1582,8 +1631,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 3250,
-      "forks": 967
+      "stars": 3308,
+      "forks": 996
     },
     "lang": "en",
     "weight": 90,

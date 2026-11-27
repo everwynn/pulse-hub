@@ -1,5 +1,1150 @@
 [
   {
+    "id": "ad60cba695193ca1",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h",
+    "publishedAt": "2026-11-27T15:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "给ai编码智能体装上知识库反而更费tokenjiohotstar测完六种方案文件搜索依然能打"
+  },
+  {
+    "id": "1afa0b5397ec7f25",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "Netflix Titus为容器增加单租户VM隔离",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "netflixtitus为容器增加单租户vm隔离"
+  },
+  {
+    "id": "44f84d88e6d1d422",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu",
+    "publishedAt": "2026-11-27T13:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "doordash利用ai智能体将生鲜杂货复购延迟从16秒降至2秒"
+  },
+  {
+    "id": "c4749ef6fe24718d",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "PingCAP数据泄露事件暴露客户记录与源代码",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW",
+    "publishedAt": "2026-11-27T12:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "pingcap数据泄露事件暴露客户记录与源代码"
+  },
+  {
+    "id": "a08922e9a234e5fe",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe",
+    "publishedAt": "2026-11-27T11:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "jep543在jdk28中结束七轮预览正式定稿结构化并发功能"
+  },
+  {
+    "id": "a040ca9d3fb1d6f7",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "如何在Postgres上实现无需外部编排器的持久化工作流",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3",
+    "publishedAt": "2026-11-27T10:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "如何在postgres上实现无需外部编排器的持久化工作流"
+  },
+  {
+    "id": "c604e70af5ba5ea8",
+    "sourceId": "infoq-cn",
+    "sourceName": "InfoQ 中文",
+    "channel": "tech",
+    "title": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+    "summary": "点击查看原文>",
+    "url": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm?utm_source=rss&utm_medium=article",
+    "canonicalUrl": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm",
+    "publishedAt": "2026-11-27T10:00:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 70,
+    "titleKey": "淘天集团ai研发负责人吕承飞吕行已确认出席aicon北京分享淘宝ai原生研发系统实战"
+  },
+  {
+    "id": "c865716b0991999d",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "英伟达暂停向东南亚四国交付AI服务器，全球供给缺口或将扩大？",
+    "summary": "上游供给瓶颈，客观上拉长了服务器厂商的收入确认周期和毛利规模。",
+    "url": "https://www.tmtpost.com/8216813.html",
+    "canonicalUrl": "https://www.tmtpost.com/8216813.html",
+    "publishedAt": "2026-11-27T08:12:04.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "Agent",
+      "大公司财报",
+      "聚焦大公司动态"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "英伟达暂停向东南亚四国交付ai服务器全球供给缺口或将扩大"
+  },
+  {
+    "id": "d8a653779930242c",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Carl Icahn's wealth takes a hit as debt pressures mount, CVR Energy slumps",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676943-carl-icahn-wealth-icahn-enterprises-debt-cvr-energy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676943-carl-icahn-wealth-icahn-enterprises-debt-cvr-energy?feed_item_type=news",
+    "publishedAt": "2026-11-27T08:08:35.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "iep",
+      "cvi"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "carlicahnswealthtakesahitasdebtpressuresmountcvrenergyslumps"
+  },
+  {
+    "id": "af284c3736368854",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Spain prelim November CPI eases to 4.1% YoY; retail sales fall 1% YoY",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676921-spain-prelim-november-cpi-eases-to-41-yoy-retail-sales-fall-1-yoy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676921-spain-prelim-november-cpi-eases-to-41-yoy-retail-sales-fall-1-yoy?feed_item_type=news",
+    "publishedAt": "2026-11-27T08:03:58.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "ewp",
+      "eufn"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "spainprelimnovembercpieasesto41yoyretailsalesfall1yoy"
+  },
+  {
+    "id": "13cda4d7ed62e325",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "GTA 6 的 PC 移植刚跑起来，主创宣布退出了",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503861/gta-6-pc-port-shutdown-rockstar-leonida-recomp",
+    "canonicalUrl": "https://www.oschina.net/news/503861/gta-6-pc-port-shutdown-rockstar-leonida-recomp",
+    "publishedAt": "2026-11-27T07:58:15.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "gta6的pc移植刚跑起来主创宣布退出了"
+  },
+  {
+    "id": "28e373d747f9ce52",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "France November preliminary inflation cools to 2.9% YoY",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676920-france-november-preliminary-inflation-cools-to-29-yoy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676920-france-november-preliminary-inflation-cools-to-29-yoy?feed_item_type=news",
+    "publishedAt": "2026-11-27T07:50:46.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "ewq"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "francenovemberpreliminaryinflationcoolsto29yoy"
+  },
+  {
+    "id": "a244584cccc0f7d2",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "Puma, Adidas downgraded by JPMorgan amid slower sportswear growth",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676939-puma-adidas-downgraded-by-jpmorgan-amid-slower-sportswear-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676939-puma-adidas-downgraded-by-jpmorgan-amid-slower-sportswear-growth?feed_item_type=news",
+    "publishedAt": "2026-11-27T07:26:22.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "pmmaf",
+      "addyy",
+      "adddf",
+      "pumsy"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "pumaadidasdowngradedbyjpmorganamidslowersportsweargrowth"
+  },
+  {
+    "id": "746e19da7a053c84",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "DeepSeek 正在灰度测试“对话消耗额度”",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503859",
+    "canonicalUrl": "https://www.oschina.net/news/503859",
+    "publishedAt": "2026-11-27T07:19:22.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "deepseek正在灰度测试对话消耗额度"
+  },
+  {
+    "id": "f43474695f3985e8",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "THS Maple Holdings reports Q1 results",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676945-ths-maple-holdings-reports-q1-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676945-ths-maple-holdings-reports-q1-results?feed_item_type=news",
+    "publishedAt": "2026-11-27T07:10:34.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "yay:ca"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "thsmapleholdingsreportsq1results"
+  },
+  {
+    "id": "37f543a46488289a",
+    "sourceId": "seekingalpha-news",
+    "sourceName": "Seeking Alpha · 快讯",
+    "channel": "finance",
+    "title": "CF Energy reports Q3 results",
+    "summary": "",
+    "url": "https://seekingalpha.com/news/4676942-cf-energy-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+    "canonicalUrl": "https://seekingalpha.com/news/4676942-cf-energy-reports-q3-results?feed_item_type=news",
+    "publishedAt": "2026-11-27T07:07:23.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "cfy:ca",
+      "cgfef"
+    ],
+    "signals": {},
+    "lang": "en",
+    "weight": 58,
+    "titleKey": "cfenergyreportsq3results"
+  },
+  {
+    "id": "e8c3798316a44cad",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+    "summary": "地图能随时修，记忆能跨任务用",
+    "url": "https://www.qbitai.com/2026/11/513227.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513227.html",
+    "publishedAt": "2026-11-27T07:01:20.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "首页轮播",
+      "具身智能",
+      "机器人",
+      "空间记忆"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "刚刚首个带跨任务空间记忆的原生基模开源机器人端侧就能跑"
+  },
+  {
+    "id": "a26ce73b71564a69",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "天元重工募投项目加码智能制造，提质增效与新业务机会打开未来成长空间",
+    "summary": "从依赖进口到国产替代，再到参与国际竞争，天元重工的发展是中国桥梁核心受力部件自主化的缩影。",
+    "url": "https://www.tmtpost.com/8220163.html",
+    "canonicalUrl": "https://www.tmtpost.com/8220163.html",
+    "publishedAt": "2026-11-27T06:56:31.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "IPO"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "天元重工募投项目加码智能制造提质增效与新业务机会打开未来成长空间"
+  },
+  {
+    "id": "b277f7975fda93e5",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+    "summary": "",
+    "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+    "canonicalUrl": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium",
+    "publishedAt": "2026-11-27T06:53:52.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 34,
+      "comments": 18
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "ladybirdbrowsersfirstdownloadablealphaissurprisinglycapable"
+  },
+  {
+    "id": "d861d1646c2d1e58",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The group chat where your AI talks behind your back",
+    "summary": "",
+    "url": "https://construct22.com/",
+    "canonicalUrl": "https://construct22.com/",
+    "publishedAt": "2026-11-27T06:44:34.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 114,
+      "comments": 33
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thegroupchatwhereyouraitalksbehindyourback"
+  },
+  {
+    "id": "5e45ef4b4d867def",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "极端高温引发地表淡水急剧下降",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86007",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86007",
+    "publishedAt": "2026-11-27T06:32:42.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "极端高温引发地表淡水急剧下降"
+  },
+  {
+    "id": "8cb843e177a2ba8c",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "人人都想当“老铺黄金”",
+    "summary": "驱动这一轮高端化的底层力量上消费代际更替、悦己需求崛起、渠道模式失灵，这一趋势很难因金价波动而逆转。",
+    "url": "https://www.tmtpost.com/8220040.html",
+    "canonicalUrl": "https://www.tmtpost.com/8220040.html",
+    "publishedAt": "2026-11-27T06:01:16.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "人人都想当老铺黄金"
+  },
+  {
+    "id": "a302295b48204c0a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "GPUWorks 26.12.0 发布：接入 K8s 与 Slurm，解锁更多 GPU 资源接入",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503855",
+    "canonicalUrl": "https://www.oschina.net/news/503855",
+    "publishedAt": "2026-11-27T05:58:30.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "gpuworks26120发布接入k8s与slurm解锁更多gpu资源接入"
+  },
+  {
+    "id": "9a22985614422760",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "茅台回归茅台",
+    "summary": "持续收回分散在外的茅台酒销售配额",
+    "url": "https://www.tmtpost.com/8219741.html",
+    "canonicalUrl": "https://www.tmtpost.com/8219741.html",
+    "publishedAt": "2026-11-27T05:45:42.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "投稿"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "茅台回归茅台"
+  },
+  {
+    "id": "58c9ef8943b63170",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "AIDC进入GW时代，数据中心正在换一种活法",
+    "summary": "柔性不是妥协，而是在负载、技术与环境的不确定中，找到更高层次的确定性。",
+    "url": "https://www.tmtpost.com/8218918.html",
+    "canonicalUrl": "https://www.tmtpost.com/8218918.html",
+    "publishedAt": "2026-11-27T05:36:13.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "aidc进入gw时代数据中心正在换一种活法"
+  },
+  {
+    "id": "233a8eae0128b830",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥 Jync v2.4.8 · AI 助手增强、会话超时与元数据库容错",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503853",
+    "canonicalUrl": "https://www.oschina.net/news/503853",
+    "publishedAt": "2026-11-27T05:32:19.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv248ai助手增强会话超时与元数据库容错"
+  },
+  {
+    "id": "a6cf67a9bb4f5e61",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The need for a formally verifiable mainstream programming language",
+    "summary": "",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "canonicalUrl": "https://blainehansen.me/post/mainstream-verifiable-language",
+    "publishedAt": "2026-11-27T05:22:06.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 117,
+      "comments": 84
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "theneedforaformallyverifiablemainstreamprogramminglanguage"
+  },
+  {
+    "id": "46a3913789a4d8b6",
+    "sourceId": "tmtpost",
+    "sourceName": "钛媒体",
+    "channel": "finance",
+    "title": "市值蒸发千亿，影石为“上天”买单",
+    "summary": "全景无人机叫好难速成",
+    "url": "https://www.tmtpost.com/8219614.html",
+    "canonicalUrl": "https://www.tmtpost.com/8219614.html",
+    "publishedAt": "2026-11-27T05:20:30.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 66,
+    "titleKey": "市值蒸发千亿影石为上天买单"
+  },
+  {
+    "id": "639d6e711841b3f9",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "Is the stock market open on Black Friday?",
+    "summary": "Here’s how the day after Thanksgiving will affect trading on Wall Street",
+    "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-27T05:01:00.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "isthestockmarketopenonblackfriday"
+  },
+  {
+    "id": "4822106ee661357d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "求推荐: 怎么解决家庭超轻量的看电影/动画片需求",
+    "summary": "想付费(小钱)找一个永久(直到关站跑路)的看视频的方式, 两月看不了一次 看 v 站一上午, 也没找到什么方案, 邀请码, 捐助之类的 **我的设备** - 安…",
+    "url": "https://www.v2ex.com/t/1260279",
+    "canonicalUrl": "https://www.v2ex.com/t/1260279",
+    "publishedAt": "2026-11-27T04:07:35.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "问与答"
+    ],
+    "signals": {
+      "replies": 74
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "求推荐怎么解决家庭超轻量的看电影动画片需求"
+  },
+  {
+    "id": "d94c3379b7245b7f",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+    "summary": "企业需要有用的 AI",
+    "url": "https://www.qbitai.com/2026/11/513194.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513194.html",
+    "publishedAt": "2026-11-27T04:05:56.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "腾讯云",
+      "钛动科技"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "钛动科技腾讯云达成战略合作用ai打开企业全球增长新空间"
+  },
+  {
+    "id": "1a3e0cb6ae810622",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+    "summary": "11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0",
+    "url": "https://www.qbitai.com/2026/11/513211.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513211.html",
+    "publishedAt": "2026-11-27T04:05:18.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "蚂蚁灵波"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "蚂蚁灵波发布lingbotmap20模型自己修正空间记忆把地图画更准"
+  },
+  {
+    "id": "b6a94e3687213a84",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+    "summary": "Quickwit查询总耗时降31%，最高降87%",
+    "url": "https://www.qbitai.com/2026/11/513163.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513163.html",
+    "publishedAt": "2026-11-27T03:53:49.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "AI Engineering",
+      "ClickBench",
+      "TabbyML"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "20个aiagents组队4天狂跑350次实验超越clickbench最佳公开成绩"
+  },
+  {
+    "id": "56d818f038ed277a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+    "summary": "3D生成的竞争重点正在从“能看”转向“能用”",
+    "url": "https://www.qbitai.com/2026/11/513155.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513155.html",
+    "publishedAt": "2026-11-27T03:45:19.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "3D",
+      "腾讯混元"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "腾讯混元发布hy3d36高模表面更整洁结构更清晰刻画更细腻"
+  },
+  {
+    "id": "f1f33646bd1f0c8a",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/513125.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513125.html",
+    "publishedAt": "2026-11-27T03:33:11.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "具身智能"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "具身公司抱团回应通用大模型跨维打击没那么简单"
+  },
+  {
+    "id": "e3f6b7e1ad9af087",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+    "summary": "",
+    "url": "https://www.qbitai.com/2026/11/513101.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513101.html",
+    "publishedAt": "2026-11-27T03:23:25.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "具身智能",
+      "触觉"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "百亿具身独角兽破壁玩家集体涌向它的牌桌"
+  },
+  {
+    "id": "c96a7a3da76d3b5c",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "有人从 codex 弃坑转到 Antigravity 的没",
+    "summary": "真的要被 6.2Astra 的前端能力和防御性语言气哭了 听说 Google 的 neon 非常好用平替 Opus5.5 了，是不是真的就是 agent 有点拉…",
+    "url": "https://www.v2ex.com/t/1260241",
+    "canonicalUrl": "https://www.v2ex.com/t/1260241",
+    "publishedAt": "2026-11-27T03:02:46.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "OpenAI"
+    ],
+    "signals": {
+      "replies": 71
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "有人从codex弃坑转到antigravity的没"
+  },
+  {
+    "id": "10b662714ae4632d",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+    "summary": "倒计时两周，报名从速！",
+    "url": "https://www.qbitai.com/2026/11/513091.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513091.html",
+    "publishedAt": "2026-11-27T02:56:03.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "资讯",
+      "MEET2027"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "第三批嘉宾来袭速戳报名meet2027驭见ai新共识"
+  },
+  {
+    "id": "0b22aa1b304f3a87",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "蚂蚁百灵 Ling-3.2-air 开源发布，提升编程、智能体与多模态能力",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503847",
+    "canonicalUrl": "https://www.oschina.net/news/503847",
+    "publishedAt": "2026-11-27T02:54:52.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "蚂蚁百灵ling32air开源发布提升编程智能体与多模态能力"
+  },
+  {
+    "id": "95aa15a9341fd862",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "一键工具狗（mini-tools）v1.0.0 正式发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503845",
+    "canonicalUrl": "https://www.oschina.net/news/503845",
+    "publishedAt": "2026-11-27T02:52:29.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "一键工具狗minitoolsv100正式发布"
+  },
+  {
+    "id": "c02184b57004935a",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "其他模型真的好用，我又何必折腾 Claude 呢",
+    "summary": "最近老是看到 “不理解为什么非要用 Claude” 的言论 ，甚至还有说 “用 Claude 是为了体现高人一等”。",
+    "url": "https://www.v2ex.com/t/1260233",
+    "canonicalUrl": "https://www.v2ex.com/t/1260233",
+    "publishedAt": "2026-11-27T02:50:05.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "Claude"
+    ],
+    "signals": {
+      "replies": 76
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "其他模型真的好用我又何必折腾claude呢"
+  },
+  {
+    "id": "64fad50127b04ab5",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "Quarkus 4.0 发布：Java 21 起步，网络层升级到 Vert.x 5，新增 HTTP/3 与 Quarkus Data",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503844/quarkus-4-0-released",
+    "canonicalUrl": "https://www.oschina.net/news/503844/quarkus-4-0-released",
+    "publishedAt": "2026-11-27T02:43:35.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "quarkus40发布java21起步网络层升级到vertx5新增http3与quarkusdata"
+  },
+  {
+    "id": "7bc7d7e3decfb9b5",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "全新如意玲珑Linyaps Agents V3：自调试、自修复、构建负责到底！",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503841",
+    "canonicalUrl": "https://www.oschina.net/news/503841",
+    "publishedAt": "2026-11-27T01:53:04.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "全新如意玲珑linyapsagentsv3自调试自修复构建负责到底"
+  },
+  {
+    "id": "e60fdbfead0aec91",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "周五好，大家周末打算干啥",
+    "summary": "人总是接近幸福的时候最快乐，周五应该是一周最开心的了； 好好想想周末去干啥吧； 周六跟前同事一起聚餐； 然后就是准备看红果短剧《持械入宋》，看了第一季，感觉质量…",
+    "url": "https://www.v2ex.com/t/1260212",
+    "canonicalUrl": "https://www.v2ex.com/t/1260212",
+    "publishedAt": "2026-11-27T01:48:45.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "生活"
+    ],
+    "signals": {
+      "replies": 124
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "周五好大家周末打算干啥"
+  },
+  {
+    "id": "967baacfca9174ed",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "novel-plus v6.5.0 发布，原创小说系统",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503840",
+    "canonicalUrl": "https://www.oschina.net/news/503840",
+    "publishedAt": "2026-11-27T01:40:14.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "novelplusv650发布原创小说系统"
+  },
+  {
+    "id": "626e09af5b55086c",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
+    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-27T01:15:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ihatethatjensenhuangisbackatnvidiabutilovewhatitsdoneformy401kamiahypocrite"
+  },
+  {
+    "id": "70ec5e971b1366b3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Hard Drive pricing has gotten bad",
+    "summary": "",
+    "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+    "canonicalUrl": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up",
+    "publishedAt": "2026-11-27T01:13:49.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 311,
+      "comments": 210
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "harddrivepricinghasgottenbad"
+  },
+  {
+    "id": "100e6a8e1032de13",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "网传 Hysteria 的多名代码贡献者已经被抓",
+    "summary": "写代码只为让同胞能看个 YouTube，结果自己先进了看守所。",
+    "url": "https://www.v2ex.com/t/1260196",
+    "canonicalUrl": "https://www.v2ex.com/t/1260196",
+    "publishedAt": "2026-11-27T01:03:52.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "信息安全"
+    ],
+    "signals": {
+      "replies": 124
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "网传hysteria的多名代码贡献者已经被抓"
+  },
+  {
+    "id": "3c8e6c8ac5bdefe6",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+    "summary": "“My wife stopped working outside the home in 1970.”",
+    "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-27T01:00:00.000Z",
+    "fetchedAt": "2026-11-24T09:50:52.947Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ivebeenmarriedfor58yearsitsourmoneynothisandherswhydosomanycoupleskeeptheirfinancesseparate"
+  },
+  {
+    "id": "a155c71432eda09d",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "最近 Antigravity 重置太频繁了，于是我上线了一个 Agy Reset 重置信号监测站，让你不错过每一次重置，且本贴随楼抽 50 位评论者每位赠送 50$V2EX",
+    "summary": "现在 Google 找到了属于他们自己的\"Tibo\" - Varun Mohan，而 OpenAI 的 Tibo 却不再是真正的\"Tibo\"。",
+    "url": "https://www.v2ex.com/t/1260187",
+    "canonicalUrl": "https://www.v2ex.com/t/1260187",
+    "publishedAt": "2026-11-27T00:44:21.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "分享创造"
+    ],
+    "signals": {
+      "replies": 56
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "最近antigravity重置太频繁了于是我上线了一个agyreset重置信号监测站让你不错过每一次重置且本贴随楼抽50位评论者每位赠送50v2ex"
+  },
+  {
+    "id": "6e8c08d59bd72d86",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+    "summary": "Why did a futurist with Huang’s prescient vision build a company where all roads…",
+    "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-27T00:31:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "wearelivinginperiloustimesifnvidiaceojensenhuangdictatesyour401kbalance"
+  },
+  {
+    "id": "1e394bc8e62d6cef",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥 Jync v2.4.7 · 目标标识符大小写、达梦原生自增与实时同步加固",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503837",
+    "canonicalUrl": "https://www.oschina.net/news/503837",
+    "publishedAt": "2026-11-26T23:24:05.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "jyncv247目标标识符大小写达梦原生自增与实时同步加固"
+  },
+  {
+    "id": "3edede0944e40719",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
+    "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T22:00:00.000Z",
+    "fetchedAt": "2026-11-18T17:14:38.805Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "ivebeenastayathomemomim50andhaveachronicillnessmyhusbandlosthisjobshouldheraidhis401k"
+  },
+  {
+    "id": "f0db3ccc15d6c964",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "AI made self-hosting fun again",
+    "summary": "",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "canonicalUrl": "https://janlukas.blog/posts/ai-self-hosting",
+    "publishedAt": "2026-11-26T21:47:45.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 610,
+      "comments": 312
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "aimadeselfhostingfunagain"
+  },
+  {
+    "id": "c66eed38e3b12bf5",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+    "summary": "“We have a house worth $450,000.",
+    "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T21:45:00.000Z",
+    "fetchedAt": "2026-11-19T17:21:58.016Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "imterrifiedofamarketcrashshouldiput400000ofmy1millionretirementsavingsintoanannuity"
+  },
+  {
+    "id": "64e4d85dfca78a98",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "summary": "",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "canonicalUrl": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan",
+    "publishedAt": "2026-11-26T21:08:05.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 350,
+      "comments": 82
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "kamilkhanmumtazpakistaniarchitectadmiredathomealmostinvisibleabroad"
+  },
+  {
+    "id": "c1189e47861a1bb3",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Company Culture = Slack Emoji ÷ √Headcount",
+    "summary": "",
+    "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+    "canonicalUrl": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji",
+    "publishedAt": "2026-11-26T20:49:49.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 300,
+      "comments": 129
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "companycultureslackemojiheadcount"
+  },
+  {
+    "id": "a177aba28e6d5ad1",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "An introduction to uncertainty in machine learning",
+    "summary": "",
+    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "canonicalUrl": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+    "publishedAt": "2026-11-26T19:04:50.000Z",
+    "fetchedAt": "2026-11-27T08:24:17.909Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 69,
+      "comments": 1
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "anintroductiontouncertaintyinmachinelearning"
+  },
+  {
+    "id": "a7042f9f1bcddf3a",
+    "sourceId": "marketwatch-top",
+    "sourceName": "MarketWatch · 头条",
+    "channel": "finance",
+    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+    "summary": "“Retirement is a financial status, not an age.”",
+    "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+    "canonicalUrl": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
+    "publishedAt": "2026-11-26T19:00:00.000Z",
+    "fetchedAt": "2026-11-26T08:12:44.201Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 68,
+    "titleKey": "a66yearoldnurseisfacingdownretirementwithjust500savedwhostoblame"
+  },
+  {
     "id": "8937aedff9735006",
     "sourceId": "seekingalpha-news",
     "sourceName": "Seeking Alpha · 快讯",
@@ -102,7 +1247,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+    "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
     "summary": "",
     "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
     "canonicalUrl": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud",
@@ -112,8 +1257,8 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 18,
-      "comments": 2
+      "points": 255,
+      "comments": 130
     },
     "lang": "en",
     "weight": 92,
@@ -143,7 +1288,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "YouTube Ad Punisher – Bypass anti-adblock",
+    "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
     "summary": "",
     "url": "https://github.com/antonpictures/youtube-punisher",
     "canonicalUrl": "https://github.com/antonpictures/youtube-punisher",
@@ -153,12 +1298,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 31,
-      "comments": 33
+      "points": 370,
+      "comments": 442
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "youtubeadpunisherbypassantiadblock"
+    "titleKey": "youtubeadpunisherautoreloadsyoutubepageswhenanadplays"
   },
   {
     "id": "5761c59649383fc3",
@@ -187,7 +1332,7 @@
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
     "channel": "tech",
-    "title": "AMD Specific Patches for Llama.cpp",
+    "title": "AMD-specific fork of llama.cpp",
     "summary": "",
     "url": "https://devnull.land/amd-specific-llama-cpp",
     "canonicalUrl": "https://devnull.land/amd-specific-llama-cpp",
@@ -197,12 +1342,12 @@
       "hacker-news"
     ],
     "signals": {
-      "points": 68,
-      "comments": 17
+      "points": 339,
+      "comments": 82
     },
     "lang": "en",
     "weight": 92,
-    "titleKey": "amdspecificpatchesforllamacpp"
+    "titleKey": "amdspecificforkofllamacpp"
   },
   {
     "id": "24923c3a9e3dfde4",
@@ -225,23 +1370,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "nprparr"
-  },
-  {
-    "id": "626e09af5b55086c",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-26T16:30:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ihatethatjensenhuangisbackatnvidiabutilovewhatitsdoneformy401kamiahypocrite"
   },
   {
     "id": "042f14aeab080a20",

@@ -1494,8 +1494,8 @@
       "JavaScript"
     ],
     "signals": {
-      "stars": 5365,
-      "forks": 159
+      "stars": 6120,
+      "forks": 175
     },
     "lang": "en",
     "weight": 90,
@@ -1665,23 +1665,6 @@
     "titleKey": "nvidiaprobeincaliforniaextendstopotentialcriminalviolationsbloomberg"
   },
   {
-    "id": "3edede0944e40719",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-    "summary": "“Our financial and healthcare situation has become increasingly concerning.”",
-    "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-21T19:45:00.000Z",
-    "fetchedAt": "2026-11-18T17:14:38.805Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ivebeenastayathomemomim50andhaveachronicillnessmyhusbandlosthisjobshouldheraidhis401k"
-  },
-  {
     "id": "e7beb4c58a0ef3ee",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1763,7 +1746,7 @@
     ],
     "signals": {
       "reactions": 104,
-      "comments": 65
+      "comments": 67
     },
     "lang": "en",
     "weight": 60,
