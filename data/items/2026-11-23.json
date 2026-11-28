@@ -85,8 +85,8 @@
       "gratitude"
     ],
     "signals": {
-      "reactions": 178,
-      "comments": 88
+      "reactions": 187,
+      "comments": 94
     },
     "lang": "en",
     "weight": 60,
@@ -1077,7 +1077,7 @@
       "management"
     ],
     "signals": {
-      "reactions": 119,
+      "reactions": 123,
       "comments": 58
     },
     "lang": "en",
@@ -2093,6 +2093,33 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "thebirdsofgta6afieldguidetovicecityandleonidaswildlife"
+  },
+  {
+    "id": "109d75bdc99abb8a",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "summary": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return…",
+    "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "canonicalUrl": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+    "publishedAt": "2026-11-22T18:50:17.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "Rust",
+      "dearrow",
+      "desktop-app",
+      "gpui",
+      "mpv",
+      "rust"
+    ],
+    "signals": {
+      "stars": 1692,
+      "forks": 155
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "avaneeshinamdarstreamtubedesktop"
   },
   {
     "id": "c73e746c3b339e3f",

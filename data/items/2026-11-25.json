@@ -51,6 +51,31 @@
     "titleKey": "2026年idea大会ai时代编程语言将深刻影响软件能力交付上限"
   },
   {
+    "id": "61652f8290e06db4",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "I Built My First Multi-Agent System on AWS, and It Was Easier Than I Expected",
+    "summary": "TL;DR I recently completed the final project of Udacity's Future AWS Agent Engin…",
+    "url": "https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2",
+    "canonicalUrl": "https://dev.to/hemapriya_kanagala/i-built-my-first-multi-agent-system-on-aws-and-it-was-easier-than-i-expected-58c2",
+    "publishedAt": "2026-11-25T15:26:38.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "discuss",
+      "aws",
+      "beginners",
+      "agents"
+    ],
+    "signals": {
+      "reactions": 110,
+      "comments": 63
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "ibuiltmyfirstmultiagentsystemonawsanditwaseasierthaniexpected"
+  },
+  {
     "id": "8c06acc27a286ea0",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -66,6 +91,28 @@
     "lang": "zh",
     "weight": 72,
     "titleKey": "claude和chatgpt在蛋白质结构预测和设计上挑战alphafold"
+  },
+  {
+    "id": "5abb47acbf45d4e7",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "summary": "",
+    "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "canonicalUrl": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "publishedAt": "2026-11-25T15:16:53.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 420,
+      "comments": 260
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "gpt62astrasolvesahistoricalmystery"
   },
   {
     "id": "99ec4e75f9ea9846",
@@ -175,8 +222,8 @@
       "career"
     ],
     "signals": {
-      "reactions": 89,
-      "comments": 26
+      "reactions": 105,
+      "comments": 43
     },
     "lang": "en",
     "weight": 60,
@@ -283,6 +330,33 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "领英自研gitops引擎替代argocd用于kubernetes部署"
+  },
+  {
+    "id": "8f892419bbe22210",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "nexu-io/opengame",
+    "summary": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games t…",
+    "url": "https://github.com/nexu-io/opengame",
+    "canonicalUrl": "https://github.com/nexu-io/opengame",
+    "publishedAt": "2026-11-25T10:35:45.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "TypeScript",
+      "agent-skills",
+      "ai-agents",
+      "ai-game-generator",
+      "claude-code",
+      "codex"
+    ],
+    "signals": {
+      "stars": 2495,
+      "forks": 395
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "nexuioopengame"
   },
   {
     "id": "6f135a7947b334bc",
@@ -415,8 +489,8 @@
       "mentalhealth"
     ],
     "signals": {
-      "reactions": 131,
-      "comments": 87
+      "reactions": 155,
+      "comments": 99
     },
     "lang": "en",
     "weight": 60,
@@ -673,8 +747,8 @@
       "machine-learning"
     ],
     "signals": {
-      "stars": 1762,
-      "forks": 268
+      "stars": 2381,
+      "forks": 364
     },
     "lang": "en",
     "weight": 90,
@@ -1510,23 +1584,6 @@
     "titleKey": "dellearningsbeatonaistrengthcompanyauthorizes25billionbuyback"
   },
   {
-    "id": "3b35e0bba1417591",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-    "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have…",
-    "url": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-24T21:53:00.000Z",
-    "fetchedAt": "2026-11-25T08:28:38.679Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "12daysofsardinesandcroccharmsareadventcalendarsgettingoutofcontrol"
-  },
-  {
     "id": "4a1f1e6cf3007516",
     "sourceId": "marketwatch-top",
     "sourceName": "MarketWatch · 头条",
@@ -1617,6 +1674,28 @@
     "titleKey": "retailturnaroundsaretakingholdjustintimefortheholidayseason"
   },
   {
+    "id": "efe120901a2adc20",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Loom seamlessly combines weaving, knitting and braiding",
+    "summary": "",
+    "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+    "canonicalUrl": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+    "publishedAt": "2026-11-24T18:10:45.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 42,
+      "comments": 2
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "loomseamlesslycombinesweavingknittingandbraiding"
+  },
+  {
     "id": "58a68b78b0bb85f1",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
@@ -1631,12 +1710,34 @@
       "Rust"
     ],
     "signals": {
-      "stars": 3308,
-      "forks": 996
+      "stars": 3366,
+      "forks": 1015
     },
     "lang": "en",
     "weight": 90,
     "titleKey": "fxcelessvictoryfork"
+  },
+  {
+    "id": "57497ca1d1912128",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+    "summary": "",
+    "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+    "canonicalUrl": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+    "publishedAt": "2026-11-24T17:55:27.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 80,
+      "comments": 18
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "buildyourownampmodeler78diypedalkitfromtone3000"
   },
   {
     "id": "842dd9f1d23b7636",

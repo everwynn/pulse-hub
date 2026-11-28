@@ -1452,6 +1452,28 @@
     "titleKey": "个人知识库怎么搞比较好"
   },
   {
+    "id": "c7d9a998e170fa63",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Sydney Fire Ant Infestation",
+    "summary": "",
+    "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+    "canonicalUrl": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+    "publishedAt": "2026-11-26T01:33:02.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 42,
+      "comments": 16
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "sydneyfireantinfestation"
+  },
+  {
     "id": "9f081c28241b9461",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -1610,6 +1632,33 @@
     "titleKey": "swarmsflocksgangshowtobuildtrainandevaluatemultiagentsystems"
   },
   {
+    "id": "41036c3af485157e",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "trustno1-coder/VIctory-NVIDIA",
+    "summary": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X a…",
+    "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+    "canonicalUrl": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+    "publishedAt": "2026-11-25T23:35:29.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "Rust",
+      "compatibility-layer",
+      "directx-12",
+      "dlss",
+      "frame-generation",
+      "nvidia"
+    ],
+    "signals": {
+      "stars": 4395,
+      "forks": 1565
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "trustno1codervictorynvidia"
+  },
+  {
     "id": "f449671c56677773",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
@@ -1730,6 +1779,28 @@
     "lang": "en",
     "weight": 85,
     "titleKey": "wherescientistsdrawthelineonaiagents"
+  },
+  {
+    "id": "4a7afb8263ca2230",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "Reukix/Reloc",
+    "summary": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA…",
+    "url": "https://github.com/Reukix/Reloc",
+    "canonicalUrl": "https://github.com/Reukix/Reloc",
+    "publishedAt": "2026-11-25T17:29:48.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "Swift"
+    ],
+    "signals": {
+      "stars": 1911,
+      "forks": 395
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "reukixreloc"
   },
   {
     "id": "6e1424d2c1f71f88",

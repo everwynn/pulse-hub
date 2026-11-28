@@ -674,6 +674,28 @@
     "titleKey": "masulloontheriemannhypothesis"
   },
   {
+    "id": "5a153a0ac0cecc0e",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "crhywun/g1-acq",
+    "summary": "JavaScript · ★ 1821",
+    "url": "https://github.com/crhywun/g1-acq",
+    "canonicalUrl": "https://github.com/crhywun/g1-acq",
+    "publishedAt": "2026-11-22T10:53:17.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "JavaScript"
+    ],
+    "signals": {
+      "stars": 1821,
+      "forks": 417
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "crhywung1acq"
+  },
+  {
     "id": "66ae05678ad17034",
     "sourceId": "solidot",
     "sourceName": "Solidot 奇客",
@@ -1745,8 +1767,8 @@
       "buildinpublic"
     ],
     "signals": {
-      "reactions": 104,
-      "comments": 67
+      "reactions": 105,
+      "comments": 69
     },
     "lang": "en",
     "weight": 60,

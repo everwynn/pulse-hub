@@ -586,28 +586,6 @@
     "titleKey": "toyblocksacontrolledworldforrobotlearningandevaluation"
   },
   {
-    "id": "9c9e2550dcdccc12",
-    "sourceId": "devto",
-    "sourceName": "DEV Community",
-    "channel": "tech",
-    "title": "What was your win this week?",
-    "summary": "👋👋👋👋 Looking back on your week -- what was something you're proud of?",
-    "url": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
-    "canonicalUrl": "https://dev.to/devteam/what-was-your-win-this-week-28dh",
-    "publishedAt": "2026-11-06T14:00:00.000Z",
-    "fetchedAt": "2026-11-09T17:01:30.127Z",
-    "tags": [
-      "weeklyretro"
-    ],
-    "signals": {
-      "reactions": 121,
-      "comments": 87
-    },
-    "lang": "en",
-    "weight": 60,
-    "titleKey": "whatwasyourwinthisweek"
-  },
-  {
     "id": "8145516f4d89a865",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",

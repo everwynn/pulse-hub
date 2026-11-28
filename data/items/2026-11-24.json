@@ -1448,6 +1448,28 @@
     "titleKey": "clayhelpssalesteamswinwithcodexandchatgpt"
   },
   {
+    "id": "ecec69c018fea92b",
+    "sourceId": "github-trending",
+    "sourceName": "GitHub 新晋热门",
+    "channel": "tech",
+    "title": "ProjectLeonida/mandy",
+    "summary": "A continuation of Leonida, the Xbox > PC port interface for GTA VI · Python · ★ …",
+    "url": "https://github.com/ProjectLeonida/mandy",
+    "canonicalUrl": "https://github.com/ProjectLeonida/mandy",
+    "publishedAt": "2026-11-23T23:54:39.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "Python"
+    ],
+    "signals": {
+      "stars": 3017,
+      "forks": 657
+    },
+    "lang": "en",
+    "weight": 90,
+    "titleKey": "projectleonidamandy"
+  },
+  {
     "id": "35551fc3864516b0",
     "sourceId": "github-trending",
     "sourceName": "GitHub 新晋热门",
@@ -1548,7 +1570,7 @@
     "sourceName": "GitHub 新晋热门",
     "channel": "tech",
     "title": "Marvisak/VIctory",
-    "summary": "An attempt at running GTA VI on PC · Rust · ★ 13533",
+    "summary": "An attempt at running GTA VI on PC · Rust · ★ 13893",
     "url": "https://github.com/Marvisak/VIctory",
     "canonicalUrl": "https://github.com/Marvisak/VIctory",
     "publishedAt": "2026-11-23T21:47:25.000Z",
@@ -1557,8 +1579,8 @@
       "Rust"
     ],
     "signals": {
-      "stars": 13533,
-      "forks": 2290
+      "stars": 13893,
+      "forks": 2415
     },
     "lang": "en",
     "weight": 90,
@@ -2212,25 +2234,6 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "amazonmayhavejustfoundacheapwaytogetalotmoreoutofitschips"
-  },
-  {
-    "id": "b393d79483b8f9fc",
-    "sourceId": "google-research",
-    "sourceName": "Google Research",
-    "channel": "ai",
-    "title": "Supercharging transformer residual connections",
-    "summary": "Algorithms & Theory",
-    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-    "canonicalUrl": "https://research.google/blog/supercharging-transformer-residual-connections",
-    "publishedAt": "2026-11-23T17:21:12.000Z",
-    "fetchedAt": "2026-11-23T20:11:47.640Z",
-    "tags": [
-      "Algorithms & Theory"
-    ],
-    "signals": {},
-    "lang": "en",
-    "weight": 86,
-    "titleKey": "superchargingtransformerresidualconnections"
   },
   {
     "id": "c21f3b1f6fa46557",

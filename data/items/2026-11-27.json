@@ -1,5 +1,104 @@
 [
   {
+    "id": "88aab6c68a30d6aa",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86014",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86014",
+    "publishedAt": "2026-11-27T15:59:17.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "taketwo无法阻止用户利用ai将gta6移植到pc上"
+  },
+  {
+    "id": "0c8b2aada7c7f12b",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "summary": "",
+    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "canonicalUrl": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "publishedAt": "2026-11-27T15:40:31.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 502,
+      "comments": 260
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "creditcardskimmingscriptsusingwebrtcfoundonpopularshoppingsites"
+  },
+  {
+    "id": "36121d84e3996b20",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "文明的历史是小麦的历史",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86013",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86013",
+    "publishedAt": "2026-11-27T15:37:23.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "文明的历史是小麦的历史"
+  },
+  {
+    "id": "a1806ed6c7002f53",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "[推广] [发码] 做了个 AI 阅读器 ，我们想将 AI 和阅读器做深度结合，而不仅仅是简单问答",
+    "summary": "下面是我们已经做的 AI 功能，采用 BYOK 形式。",
+    "url": "https://www.v2ex.com/t/1260464",
+    "canonicalUrl": "https://www.v2ex.com/t/1260464",
+    "publishedAt": "2026-11-27T15:36:37.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "推广"
+    ],
+    "signals": {
+      "replies": 37
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "推广发码做了个ai阅读器我们想将ai和阅读器做深度结合而不仅仅是简单问答"
+  },
+  {
+    "id": "a5f7ebcd556be656",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "summary": "",
+    "url": "https://bouncemarket.minhanhday.com/",
+    "canonicalUrl": "https://bouncemarket.minhanhday.com/",
+    "publishedAt": "2026-11-27T15:01:50.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 365,
+      "comments": 123
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "showhnbouncemarketalivepredictionmarketgameforabouncingball"
+  },
+  {
     "id": "ad60cba695193ca1",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -17,6 +116,49 @@
     "titleKey": "给ai编码智能体装上知识库反而更费tokenjiohotstar测完六种方案文件搜索依然能打"
   },
   {
+    "id": "0589cf8b7ab0c881",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "觉得 vibe coding 半天还不如直接花钱订阅成熟的软件",
+    "summary": "就算开发者也在用 ai，不就相当于用户花一份钱买了未来一年作者的 token 用量么，比个人看 agent 吭哧吭哧跑既省钱又省时间",
+    "url": "https://www.v2ex.com/t/1260459",
+    "canonicalUrl": "https://www.v2ex.com/t/1260459",
+    "publishedAt": "2026-11-27T14:56:22.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 30
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "觉得vibecoding半天还不如直接花钱订阅成熟的软件"
+  },
+  {
+    "id": "25cd4276d2e4be84",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
+    "summary": "一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点。",
+    "url": "https://www.qbitai.com/2026/11/513352.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513352.html",
+    "publishedAt": "2026-11-27T14:07:33.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "资讯",
+      "众擎机器人",
+      "具身生态",
+      "算法"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "人形机器人开发者集合众擎开放大小脑10亿产业级生态支持计划也来了"
+  },
+  {
     "id": "1afa0b5397ec7f25",
     "sourceId": "infoq-cn",
     "sourceName": "InfoQ 中文",
@@ -32,6 +174,50 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "netflixtitus为容器增加单租户vm隔离"
+  },
+  {
+    "id": "c25e3020e3adc8a7",
+    "sourceId": "devto",
+    "sourceName": "DEV Community",
+    "channel": "tech",
+    "title": "What was your win this week!?",
+    "summary": "👋👋👋👋 Looking back on your week -- what was something you're proud of?",
+    "url": "https://dev.to/devteam/what-was-your-win-this-week-h3d",
+    "canonicalUrl": "https://dev.to/devteam/what-was-your-win-this-week-h3d",
+    "publishedAt": "2026-11-27T14:00:00.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "weeklyretro"
+    ],
+    "signals": {
+      "reactions": 86,
+      "comments": 43
+    },
+    "lang": "en",
+    "weight": 60,
+    "titleKey": "whatwasyourwinthisweek"
+  },
+  {
+    "id": "35865fa50c2abe67",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+    "summary": "",
+    "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+    "canonicalUrl": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+    "publishedAt": "2026-11-27T13:30:20.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 34,
+      "comments": 5
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "paolosoleribuiltautopianecocityinthearizonadesert"
   },
   {
     "id": "44f84d88e6d1d422",
@@ -66,6 +252,81 @@
     "lang": "zh",
     "weight": 70,
     "titleKey": "pingcap数据泄露事件暴露客户记录与源代码"
+  },
+  {
+    "id": "ddd21a76122a1503",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "AI 让“自托管”又变得好玩了",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503872/ai-made-self-hosting-fun-again",
+    "canonicalUrl": "https://www.oschina.net/news/503872/ai-made-self-hosting-fun-again",
+    "publishedAt": "2026-11-27T11:30:07.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ai让自托管又变得好玩了"
+  },
+  {
+    "id": "885275fd71e4fe56",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "微信开源 WeMM-Ecom：多模态基础模型家族、基于真实电商需求驱动",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503871",
+    "canonicalUrl": "https://www.oschina.net/news/503871",
+    "publishedAt": "2026-11-27T11:20:47.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "微信开源wemmecom多模态基础模型家族基于真实电商需求驱动"
+  },
+  {
+    "id": "13dce91c83cd5091",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+    "summary": "商汤大装置Token工厂获得中国信通院Token工厂智算能力评估“全栈服务型·领先级”评级认证",
+    "url": "https://www.qbitai.com/2026/11/513346.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513346.html",
+    "publishedAt": "2026-11-27T11:18:24.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "资讯",
+      "商汤"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "全国首批首家商汤大装置获token工厂智算能力最高评级"
+  },
+  {
+    "id": "b1624db72eaed7f9",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86012",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86012",
+    "publishedAt": "2026-11-27T11:09:57.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "欧盟委员会称浏览器竞争是dma优先事项"
   },
   {
     "id": "a08922e9a234e5fe",
@@ -119,6 +380,251 @@
     "titleKey": "淘天集团ai研发负责人吕承飞吕行已确认出席aicon北京分享淘宝ai原生研发系统实战"
   },
   {
+    "id": "9a39f77a754699a7",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "一人户二人户占全国家庭构成的近六成",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86011",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86011",
+    "publishedAt": "2026-11-27T09:54:31.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "一人户二人户占全国家庭构成的近六成"
+  },
+  {
+    "id": "d2e666a285bddddb",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥🔥开源接口平台 v6.5.3 发布",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503870",
+    "canonicalUrl": "https://www.oschina.net/news/503870",
+    "publishedAt": "2026-11-27T09:48:28.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "开源接口平台v653发布"
+  },
+  {
+    "id": "356f0f620acf57d3",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "🔥 拾趣 Magpie v0.2.1 发布：多项功能细节优化",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503869",
+    "canonicalUrl": "https://www.oschina.net/news/503869",
+    "publishedAt": "2026-11-27T09:45:53.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "拾趣magpiev021发布多项功能细节优化"
+  },
+  {
+    "id": "5294e15fb3fb4b05",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "【AI 智能运维平台】本周更新：编排中心支持将智能体生成的文件发送IM群webhook",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503868",
+    "canonicalUrl": "https://www.oschina.net/news/503868",
+    "publishedAt": "2026-11-27T09:41:59.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "ai智能运维平台本周更新编排中心支持将智能体生成的文件发送im群webhook"
+  },
+  {
+    "id": "58cec5c035c7692b",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "mybatis之:fire: xbatis 1.10.15发版，最好用最简单最方便的ORM !",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503866",
+    "canonicalUrl": "https://www.oschina.net/news/503866",
+    "publishedAt": "2026-11-27T09:29:12.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "mybatis之firexbatis11015发版最好用最简单最方便的orm"
+  },
+  {
+    "id": "7208c259d81bcf4a",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "VS Code 1.148 加了个功能：agent 干活时别让电脑睡着",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503865/visual-studio-code-v1-148",
+    "canonicalUrl": "https://www.oschina.net/news/503865/visual-studio-code-v1-148",
+    "publishedAt": "2026-11-27T09:28:29.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "综合新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "vscode1148加了个功能agent干活时别让电脑睡着"
+  },
+  {
+    "id": "4d3978677f31e117",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 主数据平台开源版 v1.0.2 发布：聚焦功能细节，完善数据展示与服务授权体验",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503864",
+    "canonicalUrl": "https://www.oschina.net/news/503864",
+    "publishedAt": "2026-11-27T09:24:01.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata主数据平台开源版v102发布聚焦功能细节完善数据展示与服务授权体验"
+  },
+  {
+    "id": "48c50661346cea59",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "qData 数据中台开源版 v1.6.9 发布：修复数据集成任务克隆问题，优化数据查询提示保护",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503863",
+    "canonicalUrl": "https://www.oschina.net/news/503863",
+    "publishedAt": "2026-11-27T09:17:30.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "qdata数据中台开源版v169发布修复数据集成任务克隆问题优化数据查询提示保护"
+  },
+  {
+    "id": "dbb8275af7f8f19d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86010",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86010",
+    "publishedAt": "2026-11-27T08:55:50.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "ibm停止签证担保让h1b持有者选择离职或离开美国"
+  },
+  {
+    "id": "eff6794a2a66c138",
+    "sourceId": "oschina",
+    "sourceName": "开源中国",
+    "channel": "tech",
+    "title": "国产数据迁移同步工具 CloudCanal 新版本，支持自定义消息解析，优化 Binlog 同步性能",
+    "summary": "",
+    "url": "https://www.oschina.net/news/503862",
+    "canonicalUrl": "https://www.oschina.net/news/503862",
+    "publishedAt": "2026-11-27T08:50:10.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "软件更新新闻"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 64,
+    "titleKey": "国产数据迁移同步工具cloudcanal新版本支持自定义消息解析优化binlog同步性能"
+  },
+  {
+    "id": "5d390a9354bdf395",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "建议大家理性上车年付的 AI 订阅",
+    "summary": "年付前可以想想一年前自己在用什么模型，现在模型迭代速度非常快，上个月 GPT 还是香饽饽，现在就快 out 了，还不说还会存在那种过两个月就降智的情况",
+    "url": "https://www.v2ex.com/t/1260372",
+    "canonicalUrl": "https://www.v2ex.com/t/1260372",
+    "publishedAt": "2026-11-27T08:38:13.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "程序员"
+    ],
+    "signals": {
+      "replies": 42
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "建议大家理性上车年付的ai订阅"
+  },
+  {
+    "id": "a2d215d9aceccca6",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "旅行者 1 号发回无法解读的信息",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86009",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86009",
+    "publishedAt": "2026-11-27T08:34:43.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "旅行者1号发回无法解读的信息"
+  },
+  {
+    "id": "d582c30be5545384",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "新用户黑五 Google AI Pro 优惠",
+    "summary": "https://i.imgur.com/VyZdMDd.png 这下死心了，新用户 120$ 比前几天的老用户优惠贵了 20$。",
+    "url": "https://www.v2ex.com/t/1260358",
+    "canonicalUrl": "https://www.v2ex.com/t/1260358",
+    "publishedAt": "2026-11-27T08:13:54.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "Google"
+    ],
+    "signals": {
+      "replies": 55
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "新用户黑五googleaipro优惠"
+  },
+  {
     "id": "c865716b0991999d",
     "sourceId": "tmtpost",
     "sourceName": "钛媒体",
@@ -158,6 +664,27 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "carlicahnswealthtakesahitasdebtpressuresmountcvrenergyslumps"
+  },
+  {
+    "id": "a29275a7f60a4206",
+    "sourceId": "v2ex-hot",
+    "sourceName": "V2EX 热门",
+    "channel": "tech",
+    "title": "公司每个月只交 299 元公积金，剩下的都是我自己补的，一审法院却说这事不归法院管？",
+    "summary": "说一个最近遇到的事情，想看看 V 站有没有懂劳动法的朋友，或者有类似经历的。",
+    "url": "https://www.v2ex.com/t/1260356",
+    "canonicalUrl": "https://www.v2ex.com/t/1260356",
+    "publishedAt": "2026-11-27T08:07:30.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "职场话题"
+    ],
+    "signals": {
+      "replies": 53
+    },
+    "lang": "zh",
+    "weight": 55,
+    "titleKey": "公司每个月只交299元公积金剩下的都是我自己补的一审法院却说这事不归法院管"
   },
   {
     "id": "af284c3736368854",
@@ -216,6 +743,65 @@
     "lang": "en",
     "weight": 58,
     "titleKey": "francenovemberpreliminaryinflationcoolsto29yoy"
+  },
+  {
+    "id": "e35c197e1d180010",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+    "summary": "淡泊名利，实至名归🎉",
+    "url": "https://www.qbitai.com/2026/11/513320.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513320.html",
+    "publishedAt": "2026-11-27T07:39:18.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "资讯",
+      "北大数学",
+      "韦东奕"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "韦东奕再获大奖攻克近140年数学难题获两位院士共同提名"
+  },
+  {
+    "id": "a97db5c43f64942d",
+    "sourceId": "solidot",
+    "sourceName": "Solidot 奇客",
+    "channel": "tech",
+    "title": "物理学家使用重力发送无法屏蔽的信息",
+    "summary": "",
+    "url": "https://www.solidot.org/story?sid=86008",
+    "canonicalUrl": "https://www.solidot.org/story?sid=86008",
+    "publishedAt": "2026-11-27T07:37:46.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "zh",
+    "weight": 72,
+    "titleKey": "物理学家使用重力发送无法屏蔽的信息"
+  },
+  {
+    "id": "1e5e3699e4778551",
+    "sourceId": "qbitai",
+    "sourceName": "量子位",
+    "channel": "ai",
+    "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+    "summary": "网页App双端亮出聊天账单",
+    "url": "https://www.qbitai.com/2026/11/513305.html",
+    "canonicalUrl": "https://www.qbitai.com/2026/11/513305.html",
+    "publishedAt": "2026-11-27T07:29:10.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "资讯",
+      "API",
+      "Deepseek"
+    ],
+    "signals": {},
+    "lang": "zh",
+    "weight": 74,
+    "titleKey": "deepseekapp突然更新账单网友要收费了"
   },
   {
     "id": "a244584cccc0f7d2",
@@ -694,6 +1280,28 @@
     "titleKey": "百亿具身独角兽破壁玩家集体涌向它的牌桌"
   },
   {
+    "id": "70e49fd8c8e99d07",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "Citroën Hydraulic System",
+    "summary": "",
+    "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+    "canonicalUrl": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+    "publishedAt": "2026-11-27T03:10:19.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 177,
+      "comments": 57
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "citroënhydraulicsystem"
+  },
+  {
     "id": "c96a7a3da76d3b5c",
     "sourceId": "v2ex-hot",
     "sourceName": "V2EX 热门",
@@ -872,23 +1480,6 @@
     "titleKey": "novelplusv650发布原创小说系统"
   },
   {
-    "id": "626e09af5b55086c",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-    "summary": "Doing nothing and maintaining an even temperament is often the work of gods.",
-    "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-27T01:15:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "ihatethatjensenhuangisbackatnvidiabutilovewhatitsdoneformy401kamiahypocrite"
-  },
-  {
     "id": "70ec5e971b1366b3",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -985,6 +1576,23 @@
     "lang": "en",
     "weight": 68,
     "titleKey": "wearelivinginperiloustimesifnvidiaceojensenhuangdictatesyour401kbalance"
+  },
+  {
+    "id": "36484b134c778b9e",
+    "sourceId": "huggingface-blog",
+    "sourceName": "Hugging Face Blog",
+    "channel": "ai",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary": "",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "canonicalUrl": "https://huggingface.co/blog/video-trainium3",
+    "publishedAt": "2026-11-27T00:00:00.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [],
+    "signals": {},
+    "lang": "en",
+    "weight": 85,
+    "titleKey": "takingtrainium3tothetrackgeneratingvideoswithltx25"
   },
   {
     "id": "1e394bc8e62d6cef",
@@ -1126,23 +1734,6 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "anintroductiontouncertaintyinmachinelearning"
-  },
-  {
-    "id": "a7042f9f1bcddf3a",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-    "summary": "“Retirement is a financial status, not an age.”",
-    "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-26T19:00:00.000Z",
-    "fetchedAt": "2026-11-26T08:12:44.201Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "a66yearoldnurseisfacingdownretirementwithjust500savedwhostoblame"
   },
   {
     "id": "8937aedff9735006",
@@ -1306,6 +1897,28 @@
     "titleKey": "youtubeadpunisherautoreloadsyoutubepageswhenanadplays"
   },
   {
+    "id": "8a1ec107ed740a37",
+    "sourceId": "hn-front",
+    "sourceName": "Hacker News",
+    "channel": "tech",
+    "title": "The Balatro Timeline",
+    "summary": "",
+    "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+    "canonicalUrl": "https://localthunk.com/blog/balatro-timeline-3aarh",
+    "publishedAt": "2026-11-26T17:20:27.000Z",
+    "fetchedAt": "2026-11-28T07:44:28.948Z",
+    "tags": [
+      "hacker-news"
+    ],
+    "signals": {
+      "points": 276,
+      "comments": 63
+    },
+    "lang": "en",
+    "weight": 92,
+    "titleKey": "thebalatrotimeline"
+  },
+  {
     "id": "5761c59649383fc3",
     "sourceId": "hn-front",
     "sourceName": "Hacker News",
@@ -1370,22 +1983,5 @@
     "lang": "en",
     "weight": 92,
     "titleKey": "nprparr"
-  },
-  {
-    "id": "042f14aeab080a20",
-    "sourceId": "marketwatch-top",
-    "sourceName": "MarketWatch · 头条",
-    "channel": "finance",
-    "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-    "summary": "“Given my age, I never make a major new purchase without thinking about the futu…",
-    "url": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "canonicalUrl": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-    "publishedAt": "2026-11-26T16:00:00.000Z",
-    "fetchedAt": "2026-11-25T08:28:38.679Z",
-    "tags": [],
-    "signals": {},
-    "lang": "en",
-    "weight": 68,
-    "titleKey": "iminmy70sandbuyinganewbmwx1shouldiputmyonlysononthetitle"
   }
 ]
